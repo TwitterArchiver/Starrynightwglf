@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030291195730268160"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2030291203338731564",
+    "created_at": "2026-03-07T14:35:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T15:35:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030291203338731564"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/geaHETA6GB",
+          "end": 32,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2030291203338731564/photo/1",
+          "media_key": "3_2030291195730268160",
+          "start": 9,
+          "url": "https://t.co/geaHETA6GB"
+        },
+        {
+          "display_url": "x.com/Starrynightwgl…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/Starrynightwglf/status/2028749955503198370",
+          "start": 33,
+          "url": "https://t.co/s34Q6H6TUk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030291203338731564",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028749955503198370",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "8t玉米8t普瑞 https://t.co/geaHETA6GB https://t.co/s34Q6H6TUk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2030291203338731564].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2030291203338731564",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2030291203338731564"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2670,
+        "media_key": "3_2030291195730268160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0LFegbEAAIl63.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1187,
+        "media_key": "3_2028749951577243648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCeRVQnaQAAHeJN.jpg",
+        "width": 890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028749951577243648"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2028749955503198370",
+        "created_at": "2026-03-03T08:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T09:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028749955503198370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q5VM96m4nY",
+              "end": 52,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2028749955503198370/photo/1",
+              "media_key": "3_2028749951577243648",
+              "start": 29,
+              "url": "https://t.co/Q5VM96m4nY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028749955503198370",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 512,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "西柚汁送服12t玉米片洗完澡前锁后插玩到前高真是惬意啊😇 https://t.co/Q5VM96m4nY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1862,
+          "following_count": 4307,
+          "like_count": 140879,
+          "listed_count": 3,
+          "media_count": 1125,
+          "tweet_count": 5285
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

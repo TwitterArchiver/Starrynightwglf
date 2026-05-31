@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001381201563791360",
+        "3_2001381201911910401",
+        "7_2001381205510623236"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2001381216176750880",
+    "created_at": "2025-12-17T19:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T20:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001381216176750880"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EbRr1h7qgu",
+          "end": 46,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2001381216176750880/video/1",
+          "media_key": "3_2001381201563791360",
+          "start": 23,
+          "url": "https://t.co/EbRr1h7qgu"
+        },
+        {
+          "display_url": "pic.x.com/EbRr1h7qgu",
+          "end": 46,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2001381216176750880/video/1",
+          "media_key": "3_2001381201911910401",
+          "start": 23,
+          "url": "https://t.co/EbRr1h7qgu"
+        },
+        {
+          "display_url": "pic.x.com/EbRr1h7qgu",
+          "end": 46,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2001381216176750880/video/1",
+          "media_key": "7_2001381205510623236",
+          "start": 23,
+          "url": "https://t.co/EbRr1h7qgu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001381216176750880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小风的自介推v1\n你可以往我碗里扔一根猫条🐱 https://t.co/EbRr1h7qgu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2601,
+        "media_key": "3_2001381201563791360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ZVmVtasAAcpDi.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2001381201911910401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ZVmXAakAECG34.jpg",
+        "width": 1152
+      },
+      {
+        "duration_ms": 2229,
+        "height": 1280,
+        "media_key": "7_2001381205510623236",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2001381205510623236/pu/img/_O5WyGn8KFL-8CZA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001381205510623236/pu/vid/avc1/320x568/WAA3cVk6A9nr99gw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001381205510623236/pu/vid/avc1/480x852/nFORIeGrve_d4_7H.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001381205510623236/pu/vid/avc1/720x1280/EjuDtAfPsdfnXInh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2001381205510623236/pu/pl/MWJE9JDgPxg9Ltwe.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001381201563791360",
+            "3_2001381201911910401",
+            "7_2001381205510623236"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2001381216176750880",
+        "created_at": "2025-12-17T19:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T20:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001381216176750880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EbRr1h7qgu",
+              "end": 46,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2001381216176750880/video/1",
+              "media_key": "3_2001381201563791360",
+              "start": 23,
+              "url": "https://t.co/EbRr1h7qgu"
+            },
+            {
+              "display_url": "pic.x.com/EbRr1h7qgu",
+              "end": 46,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2001381216176750880/video/1",
+              "media_key": "3_2001381201911910401",
+              "start": 23,
+              "url": "https://t.co/EbRr1h7qgu"
+            },
+            {
+              "display_url": "pic.x.com/EbRr1h7qgu",
+              "end": 46,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2001381216176750880/video/1",
+              "media_key": "7_2001381205510623236",
+              "start": 23,
+              "url": "https://t.co/EbRr1h7qgu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001381216176750880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小风的自介推v1\n你可以往我碗里扔一根猫条🐱 https://t.co/EbRr1h7qgu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "",
+        "id": "1563508655256850433",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 4012,
+          "like_count": 120755,
+          "listed_count": 5,
+          "media_count": 800,
+          "tweet_count": 4265
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

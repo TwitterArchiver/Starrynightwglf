@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2012634470525055013",
+    "created_at": "2026-01-17T21:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T22:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012634470525055013"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012634470525055013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好久没有好好吃饭了\n一会暴食一会节食的\n饿也饿不死，吃也吃不够\n外卖送不进来懒得取就搞一堆泡面火腿肠囤着🥲\n我怎么还没死啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2012634470525055013",
+        "created_at": "2026-01-17T21:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T22:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012634470525055013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012634470525055013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久没有好好吃饭了\n一会暴食一会节食的\n饿也饿不死，吃也吃不够\n外卖送不进来懒得取就搞一堆泡面火腿肠囤着🥲\n我怎么还没死啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1683,
+          "following_count": 4128,
+          "like_count": 126870,
+          "listed_count": 5,
+          "media_count": 907,
+          "tweet_count": 4571
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

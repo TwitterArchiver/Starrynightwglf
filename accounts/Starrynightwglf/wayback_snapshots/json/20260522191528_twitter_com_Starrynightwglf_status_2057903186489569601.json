@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057903029001842688",
+        "3_2057902972710113280"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2057903186489569601",
+    "created_at": "2026-05-22T19:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T20:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057903186489569601"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Oku1m06kkH",
+          "end": 44,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2057903186489569601/photo/1",
+          "media_key": "3_2057903029001842688",
+          "start": 21,
+          "url": "https://t.co/Oku1m06kkH"
+        },
+        {
+          "display_url": "pic.x.com/Oku1m06kkH",
+          "end": 44,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2057903186489569601/photo/1",
+          "media_key": "3_2057902972710113280",
+          "start": 21,
+          "url": "https://t.co/Oku1m06kkH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057903186489569601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "熊的烤红薯被拉链卡住了呜呜呜\n՞-ㅅ-՞ https://t.co/Oku1m06kkH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2057903029001842688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI8j5tHa8AAxUOG.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2057902972710113280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI8j2babUAAwcRm.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057903029001842688",
+            "3_2057902972710113280"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2057903186489569601",
+        "created_at": "2026-05-22T19:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T20:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057903186489569601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oku1m06kkH",
+              "end": 44,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2057903186489569601/photo/1",
+              "media_key": "3_2057903029001842688",
+              "start": 21,
+              "url": "https://t.co/Oku1m06kkH"
+            },
+            {
+              "display_url": "pic.x.com/Oku1m06kkH",
+              "end": 44,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2057903186489569601/photo/1",
+              "media_key": "3_2057902972710113280",
+              "start": 21,
+              "url": "https://t.co/Oku1m06kkH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057903186489569601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "熊的烤红薯被拉链卡住了呜呜呜\n՞-ㅅ-՞ https://t.co/Oku1m06kkH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 4615,
+          "like_count": 159331,
+          "listed_count": 5,
+          "media_count": 1484,
+          "tweet_count": 6517
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

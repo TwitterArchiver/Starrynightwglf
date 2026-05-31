@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960923665773604864"
+      ],
+      "media_source_tweet_id": [
+        "1960923694798082066"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "1961205434364395559",
+    "created_at": "2025-08-28T23:13:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T00:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961205434364395559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1471640417519030275",
+          "start": 3,
+          "username": "TopGyaru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DjukPGRNUE",
+          "end": 37,
+          "expanded_url": "https://x.com/TopGyaru/status/1960923694798082066/photo/1",
+          "media_key": "3_1960923665773604864",
+          "start": 14,
+          "url": "https://t.co/DjukPGRNUE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961205434364395559",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2105
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960923694798082066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TopGyaru: https://t.co/DjukPGRNUE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1102,
+        "media_key": "3_1960923665773604864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzaZr0IXsAAOYnd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960923665773604864"
+          ],
+          "media_source_tweet_id": [
+            "1960923694798082066"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "1961205434364395559",
+        "created_at": "2025-08-28T23:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T00:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961205434364395559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1471640417519030275",
+              "start": 3,
+              "username": "TopGyaru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DjukPGRNUE",
+              "end": 37,
+              "expanded_url": "https://x.com/TopGyaru/status/1960923694798082066/photo/1",
+              "media_key": "3_1960923665773604864",
+              "start": 14,
+              "url": "https://t.co/DjukPGRNUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961205434364395559",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2105
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960923694798082066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TopGyaru: https://t.co/DjukPGRNUE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960923665773604864"
+          ]
+        },
+        "author_id": "1471640417519030275",
+        "conversation_id": "1960923694798082066",
+        "created_at": "2025-08-28T04:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T05:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960923694798082066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DjukPGRNUE",
+              "end": 23,
+              "expanded_url": "https://x.com/TopGyaru/status/1960923694798082066/photo/1",
+              "media_key": "3_1960923665773604864",
+              "start": 0,
+              "url": "https://t.co/DjukPGRNUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960923694798082066",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4776,
+          "impression_count": 1966563,
+          "like_count": 53974,
+          "quote_count": 324,
+          "reply_count": 364,
+          "retweet_count": 2105
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DjukPGRNUE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一休学ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州/杭州/衢州/沈阳📍┃是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃能多在意我一点点吗🥺┃🚪25┃叫我小风🎐┃妹妹也是恋人💞@xinxia_mtf┃别离开我好吗好的😔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "xinxia_mtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJoam"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "小夏怀里",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 3803,
+          "like_count": 115514,
+          "listed_count": 6,
+          "media_count": 638,
+          "tweet_count": 3834
+        },
+        "url": "https://t.co/EmFCvLJoam",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-17T00:36:50.000Z",
+        "description": "Top Gyaru at your service! I just shitpost and retweet My Dress-up Darling stuff 😆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/topgyaru",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/topgyaru",
+                "start": 0,
+                "url": "https://t.co/PeVNLbcRpx"
+              }
+            ]
+          }
+        },
+        "id": "1471640417519030275",
+        "location": " She/Her",
+        "name": "Maririn~",
+        "pinned_tweet_id": "1892952150281539702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742239844129210369/Y0waOB9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262105,
+          "following_count": 1381,
+          "like_count": 134330,
+          "listed_count": 441,
+          "media_count": 8348,
+          "tweet_count": 24188
+        },
+        "url": "https://t.co/PeVNLbcRpx",
+        "username": "TopGyaru",
+        "verified": true
+      }
+    ]
+  }
+}

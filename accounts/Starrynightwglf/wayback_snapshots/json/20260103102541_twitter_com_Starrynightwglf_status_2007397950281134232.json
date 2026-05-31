@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2007382686105813317",
+    "created_at": "2026-01-03T10:25:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T11:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007397950281134232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "sprLumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007397950281134232",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007382686105813317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sprLumi 我又是谁的宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2007382686105813317",
+        "created_at": "2026-01-03T10:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T11:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007397950281134232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "sprLumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007397950281134232",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007382686105813317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sprLumi 我又是谁的宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2007382686105813317",
+        "created_at": "2026-01-03T09:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T10:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007382686105813317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/grok/status/20…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/grok/status/2007382565062164507",
+              "start": 7,
+              "url": "https://t.co/2bOhEZO9qH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007382686105813317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007382565062164507",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我实在没绷住 https://t.co/2bOhEZO9qH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "梦到什么发什么吧",
+        "id": "1563508655256850433",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 4036,
+          "like_count": 123203,
+          "listed_count": 5,
+          "media_count": 851,
+          "tweet_count": 4410
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "💌 @hobartr6 🐱 @_furryfur_ 🕊️ @JR_YamanoteE235",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "hobartr6"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 45,
+                "start": 29,
+                "username": "JR_YamanoteE235"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "ʟᴜᴍɪ 猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006701127807676419/e4y_PPIz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3291,
+          "following_count": 915,
+          "like_count": 1466,
+          "listed_count": 6,
+          "media_count": 17,
+          "tweet_count": 161
+        },
+        "username": "sprLumi",
+        "verified": true
+      }
+    ]
+  }
+}

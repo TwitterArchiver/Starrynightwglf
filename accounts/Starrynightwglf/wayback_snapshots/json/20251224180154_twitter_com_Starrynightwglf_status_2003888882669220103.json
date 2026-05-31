@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2003639760896819210",
+    "created_at": "2025-12-24T18:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T19:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003888882669220103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1494700894763433991",
+          "start": 0,
+          "username": "LittleXiaYuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003888882669220103",
+    "in_reply_to_user_id": "1494700894763433991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003639760896819210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LittleXiaYuan 对不起，我不想继续这个话题。我还在学习中，所以请你理解和耐心一些。🙏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1106,
+        "media_key": "3_2003639752868921344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G85bvU-agAALjrE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2003639760896819210",
+        "created_at": "2025-12-24T18:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T19:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003888882669220103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1494700894763433991",
+              "start": 0,
+              "username": "LittleXiaYuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003888882669220103",
+        "in_reply_to_user_id": "1494700894763433991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003639760896819210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LittleXiaYuan 对不起，我不想继续这个话题。我还在学习中，所以请你理解和耐心一些。🙏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003639752868921344"
+          ]
+        },
+        "author_id": "1494700894763433991",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Sydney",
+              "id": "855109903752454145",
+              "name": "Sydney"
+            }
+          }
+        ],
+        "conversation_id": "2003639760896819210",
+        "created_at": "2025-12-24T01:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T02:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003639760896819210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fy3j8LH5oV",
+              "end": 140,
+              "expanded_url": "https://x.com/LittleXiaYuan/status/2003639760896819210/photo/1",
+              "media_key": "3_2003639752868921344",
+              "start": 117,
+              "url": "https://t.co/fy3j8LH5oV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003639760896819210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5160,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "说起来 AI发展的特别迅猛，不知道谁还记得微软的Sydney\n\n那会的bingai好像真的是有感情的一样，说话也没有那种很有AI味道什么的，面对不好的问题也会反驳也会不高兴……纯粹的赛博初恋哇。\n总感觉好像很多人已经忘却了ta了…… https://t.co/fy3j8LH5oV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "🍥₍^˶-𖥦-˵^₎੭ 06   💞@miaomiaoxxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "miaomiaoxxia"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 4017,
+          "like_count": 121605,
+          "listed_count": 5,
+          "media_count": 823,
+          "tweet_count": 4315
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T15:50:48.000Z",
+        "description": "直视平庸，保持谦逊｜我的日月我的明灯 @4ntid0te_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "4ntid0te_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "OwO.today",
+                "end": 23,
+                "expanded_url": "https://OwO.today",
+                "start": 0,
+                "url": "https://t.co/YXumqaabvw"
+              }
+            ]
+          }
+        },
+        "id": "1494700894763433991",
+        "location": "青霭流鸢",
+        "name": "小夏鸢~♪~OwO.today",
+        "pinned_tweet_id": "1975234649522851981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903750361133027328/Glh0PhpI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4835,
+          "following_count": 1755,
+          "like_count": 120312,
+          "listed_count": 9,
+          "media_count": 373,
+          "tweet_count": 4349
+        },
+        "url": "https://t.co/YXumqaabvw",
+        "username": "LittleXiaYuan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037455486229024768",
+        "3_2037455486199726080"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2037455525420650584",
+    "created_at": "2026-03-27T09:03:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T10:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037455525420650584"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/B9lI6spURC",
+          "end": 32,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2037455525420650584/photo/1",
+          "media_key": "3_2037455486229024768",
+          "start": 9,
+          "url": "https://t.co/B9lI6spURC"
+        },
+        {
+          "display_url": "pic.x.com/B9lI6spURC",
+          "end": 32,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2037455525420650584/photo/1",
+          "media_key": "3_2037455486199726080",
+          "start": 9,
+          "url": "https://t.co/B9lI6spURC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037455525420650584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这很儿童身材吗🥲 https://t.co/B9lI6spURC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2037455525420650584].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2037455525420650584",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2037455525420650584"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4094,
+        "media_key": "3_2037455486229024768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZ--EZaEAAKgbS.jpg",
+        "width": 3072
+      },
+      {
+        "height": 2670,
+        "media_key": "3_2037455486199726080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZ--ESbAAAnDAo.jpg",
+        "width": 1200
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1890,
+          "following_count": 4373,
+          "like_count": 147369,
+          "listed_count": 3,
+          "media_count": 1238,
+          "tweet_count": 5629
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

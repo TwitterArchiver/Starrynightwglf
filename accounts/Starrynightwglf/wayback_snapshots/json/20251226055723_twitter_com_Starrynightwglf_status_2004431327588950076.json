@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004431324988461056"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2004431327588950076",
+    "created_at": "2025-12-26T05:57:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T06:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004431327588950076"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bam1EjFbHo",
+          "end": 52,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2004431327588950076/photo/1",
+          "media_key": "3_2004431324988461056",
+          "start": 29,
+          "url": "https://t.co/Bam1EjFbHo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004431327588950076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次想整理相册的时候看到这一万四千多张照片都很崩溃... https://t.co/Bam1EjFbHo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 253,
+        "media_key": "3_2004431324988461056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Erq46aUAAixUs.jpg",
+        "width": 601
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004431324988461056"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2004431327588950076",
+        "created_at": "2025-12-26T05:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T06:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004431327588950076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bam1EjFbHo",
+              "end": 52,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2004431327588950076/photo/1",
+              "media_key": "3_2004431324988461056",
+              "start": 29,
+              "url": "https://t.co/Bam1EjFbHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004431327588950076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次想整理相册的时候看到这一万四千多张照片都很崩溃... https://t.co/Bam1EjFbHo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "🍥₍^˶-𖥦-˵^₎੭ 06   💞@miaomiaoxxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "miaomiaoxxia"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 4027,
+          "like_count": 121823,
+          "listed_count": 5,
+          "media_count": 825,
+          "tweet_count": 4326
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

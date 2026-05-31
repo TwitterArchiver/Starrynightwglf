@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1889603128279867543",
+    "created_at": "2025-02-12T09:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T10:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889603128279867543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1510074668274774016",
+          "start": 3,
+          "username": "xiaojun_r18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889603128279867543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 741
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885153945129279519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaojun_r18: 新作品已上架，TWFB-888 「玩音樂遊戲可愛女子，竟然是女裝男子!? 」，這是我非常喜歡的一個主題，也是完成從我剛開始女裝以來，一直幻想發生的事情，音樂遊戲給了我很大的女裝進步動力，我也好喜歡男孩子的那種羞澀矜持感，我是真的拍到超有反應啊啊…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1889603128279867543].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1889603128279867543",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1889603128279867543"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1885153030510895104"
+          ]
+        },
+        "author_id": "1510074668274774016",
+        "conversation_id": "1885153945129279519",
+        "created_at": "2025-01-31T02:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T03:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885153945129279519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qorjuERqcd",
+              "end": 184,
+              "expanded_url": "https://x.com/xiaojun_r18/status/1885153945129279519/video/1",
+              "media_key": "7_1885153030510895104",
+              "start": 161,
+              "url": "https://t.co/qorjuERqcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885153945129279519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1956,
+          "impression_count": 339566,
+          "like_count": 5360,
+          "quote_count": 8,
+          "reply_count": 52,
+          "retweet_count": 741
+        },
+        "reply_settings": "everyone",
+        "text": "新作品已上架，TWFB-888 「玩音樂遊戲可愛女子，竟然是女裝男子!? 」，這是我非常喜歡的一個主題，也是完成從我剛開始女裝以來，一直幻想發生的事情，音樂遊戲給了我很大的女裝進步動力，我也好喜歡男孩子的那種羞澀矜持感，我是真的拍到超有反應啊啊啊，男娘萬歲&gt;&lt;\n\n完整影片請至FansOne、Furuke購買 https://t.co/qorjuERqcd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一休学ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州/杭州/衢州/沈阳📍┃没有什么突出的爱好，是不太有趣的人🤷‍♀️┃没有立场，不喜欢建政🙅‍♀┃fo不fo无所谓能看一眼我就很开心了🥺┃🚪25┃叫我小风🎐┃是妹妹也是恋人@xinxia_mtf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 137,
+                "username": "xinxia_mtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJVZU"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "夏夏怀里",
+        "name": "Starrynight風阁🍥",
+        "pinned_tweet_id": "1886902173017235584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878209818638651393/9j6gRNoW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 3516,
+          "like_count": 97309,
+          "listed_count": 7,
+          "media_count": 491,
+          "tweet_count": 3379
+        },
+        "url": "https://t.co/EmFCvLJVZU",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T02:00:38.000Z",
+        "description": "🔞未滿18請勿觀看🔞 | 男の娘 | transgender | 170/53 | 不像黃推的黃推 | 無經紀人 | 座標台灣雙北🇹🇼 | 不接推廣、不接S、不接任何形式約會 | 相關連結 : https://t.co/5Fbw7dijJq | https://t.co/sOdUZvW7i3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jun0331.com",
+                "end": 120,
+                "expanded_url": "https://jun0331.com",
+                "start": 97,
+                "url": "https://t.co/5Fbw7dijJq"
+              },
+              {
+                "display_url": "fansone.co/xiaojun_mtf",
+                "end": 146,
+                "expanded_url": "https://fansone.co/xiaojun_mtf",
+                "start": 123,
+                "url": "https://t.co/sOdUZvW7i3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jun0331.com",
+                "end": 23,
+                "expanded_url": "https://jun0331.com",
+                "start": 0,
+                "url": "https://t.co/5Fbw7dijJq"
+              }
+            ]
+          }
+        },
+        "id": "1510074668274774016",
+        "name": "TS Xiao Jun 洪筱鈞🏳️‍⚧️🇹🇼🔞",
+        "pinned_tweet_id": "1885153945129279519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833733359148974080/nR2zGmzH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103339,
+          "following_count": 768,
+          "like_count": 6240,
+          "listed_count": 447,
+          "media_count": 388,
+          "tweet_count": 1850
+        },
+        "url": "https://t.co/5Fbw7dijJq",
+        "username": "xiaojun_r18",
+        "verified": true
+      }
+    ]
+  }
+}

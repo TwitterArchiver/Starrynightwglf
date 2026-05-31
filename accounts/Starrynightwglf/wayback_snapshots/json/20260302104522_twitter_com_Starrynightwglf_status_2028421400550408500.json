@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2028380225898533230",
+    "created_at": "2026-03-02T10:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T11:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028421400550408500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1980682684985921536",
+          "start": 0,
+          "username": "linovo33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028421400550408500",
+    "in_reply_to_user_id": "1980682684985921536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028380225898533230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linovo33 小红书很好用啊...我主页基本上都是三坑相关，想搜什么也基本上都有\n搞不明白除非刻意去搜索，不然哪来那么多极端帖子能看到..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2028380225898533230",
+        "created_at": "2026-03-02T10:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028421400550408500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1980682684985921536",
+              "start": 0,
+              "username": "linovo33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028421400550408500",
+        "in_reply_to_user_id": "1980682684985921536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028380225898533230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linovo33 小红书很好用啊...我主页基本上都是三坑相关，想搜什么也基本上都有\n搞不明白除非刻意去搜索，不然哪来那么多极端帖子能看到..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980682684985921536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2028380225898533230",
+        "created_at": "2026-03-02T08:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028380225898533230"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028380225898533230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 15603,
+          "like_count": 677,
+          "quote_count": 5,
+          "reply_count": 69,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道为什么这么多人对xhs有个刻板印象就是都是打拳的，你们用过小红书吗…这真的是直接代替百度的存在了，身体有不舒服不能直接去医院的情况下搜，就有很多好心人帮你解答包括怎么样值机、挂号、乡下指路、学术问题都有很详细的教程，xhs有很多发彩礼有争议的帖子其实大部分都是皮下男。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 4287,
+          "like_count": 138757,
+          "listed_count": 3,
+          "media_count": 1090,
+          "tweet_count": 5143
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T17:09:11.000Z",
+        "description": "你的心脏是一朵百合花",
+        "id": "1980682684985921536",
+        "location": "厦门",
+        "name": "檩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028400101555904512/paOhnTuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 85,
+          "like_count": 6629,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 4359
+        },
+        "username": "linovo33",
+        "verified": false
+      }
+    ]
+  }
+}

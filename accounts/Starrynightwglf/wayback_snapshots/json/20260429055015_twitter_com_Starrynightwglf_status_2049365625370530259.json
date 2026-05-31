@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2049365625370530259",
+    "created_at": "2026-04-29T05:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T06:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049365625370530259"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IAmAlanWalker/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/IAmAlanWalker/status/2049119938393346295",
+          "start": 8,
+          "url": "https://t.co/jcRDUQWnG5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049365625370530259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049119938393346295",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不到长城非豪汉 https://t.co/jcRDUQWnG5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049119932261265409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_vuMCa8AEdvNz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2049365625370530259",
+        "created_at": "2026-04-29T05:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049365625370530259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IAmAlanWalker/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/IAmAlanWalker/status/2049119938393346295",
+              "start": 8,
+              "url": "https://t.co/jcRDUQWnG5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049365625370530259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049119938393346295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不到长城非豪汉 https://t.co/jcRDUQWnG5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049119932261265409"
+          ]
+        },
+        "author_id": "2561704644",
+        "conversation_id": "2049119938393346295",
+        "created_at": "2026-04-28T13:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049119938393346295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHAvUfK8gx",
+              "end": 44,
+              "expanded_url": "https://x.com/IAmAlanWalker/status/2049119938393346295/photo/1",
+              "media_key": "3_2049119932261265409",
+              "start": 21,
+              "url": "https://t.co/XHAvUfK8gx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049119938393346295",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 230,
+          "impression_count": 258951,
+          "like_count": 4605,
+          "quote_count": 56,
+          "reply_count": 404,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "This is a great wall https://t.co/XHAvUfK8gx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060,
+          "following_count": 4484,
+          "like_count": 154002,
+          "listed_count": 3,
+          "media_count": 1357,
+          "tweet_count": 6142
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-11T17:03:23.000Z",
+        "description": "💿World of Walker, Season One: Rise of the Drones - New Album out now🫶🏻 ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "alanwalker.ffm.to/bio",
+                "end": 23,
+                "expanded_url": "https://alanwalker.ffm.to/bio",
+                "start": 0,
+                "url": "https://t.co/r4exnZyRLm"
+              }
+            ]
+          }
+        },
+        "id": "2561704644",
+        "location": "World of Walker",
+        "name": "Alan Walker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954122072965148672/sqGrCcCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836694,
+          "following_count": 904,
+          "like_count": 8515,
+          "listed_count": 1066,
+          "media_count": 1591,
+          "tweet_count": 3013
+        },
+        "url": "https://t.co/r4exnZyRLm",
+        "username": "IAmAlanWalker",
+        "verified": true
+      }
+    ]
+  }
+}

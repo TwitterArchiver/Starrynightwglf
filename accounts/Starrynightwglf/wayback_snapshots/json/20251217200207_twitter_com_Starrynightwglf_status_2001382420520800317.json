@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2001382420520800317",
+    "created_at": "2025-12-17T20:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T21:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001382420520800317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20013…",
+          "end": 51,
+          "expanded_url": "https://x.com/i/status/2001381216176750880",
+          "start": 28,
+          "url": "https://t.co/GH4Q82FJgH"
+        },
+        {
+          "display_url": "x.com/Starrynightwgl…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/Starrynightwglf/status/2001120402198970844",
+          "start": 52,
+          "url": "https://t.co/MMBy15urbT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001382420520800317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001120402198970844",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "复活了ᯠ  _   ̫  _ ̥ ᯄ\n把自介改成置顶了\nhttps://t.co/GH4Q82FJgH https://t.co/MMBy15urbT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2001382420520800317",
+        "created_at": "2025-12-17T20:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T21:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001382420520800317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20013…",
+              "end": 51,
+              "expanded_url": "https://x.com/i/status/2001381216176750880",
+              "start": 28,
+              "url": "https://t.co/GH4Q82FJgH"
+            },
+            {
+              "display_url": "x.com/Starrynightwgl…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/Starrynightwglf/status/2001120402198970844",
+              "start": 52,
+              "url": "https://t.co/MMBy15urbT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001382420520800317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001120402198970844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "复活了ᯠ  _   ̫  _ ̥ ᯄ\n把自介改成置顶了\nhttps://t.co/GH4Q82FJgH https://t.co/MMBy15urbT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2001120402198970844",
+        "created_at": "2025-12-17T02:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T03:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001120402198970844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001120402198970844",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "锁推了orz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "🍥₍^˶-𖥦-˵^₎੭   💞@miaomiaoxxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "miaomiaoxxia"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 4012,
+          "like_count": 120756,
+          "listed_count": 5,
+          "media_count": 800,
+          "tweet_count": 4266
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

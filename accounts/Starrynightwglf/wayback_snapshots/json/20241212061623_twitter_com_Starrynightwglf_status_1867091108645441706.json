@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1867034120720875735",
+    "created_at": "2024-12-12T06:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T07:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867091108645441706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1730458100703064064",
+          "start": 0,
+          "username": "AngffaBang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867091108645441706",
+    "in_reply_to_user_id": "1730458100703064064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867034120720875735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngffaBang 好萌萌萌萌萌萌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1867034120720875735",
+        "created_at": "2024-12-12T06:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T07:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867091108645441706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867091108645441706",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867034120720875735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 好萌萌萌萌萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867034107085197312"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1867034120720875735",
+        "created_at": "2024-12-12T02:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T03:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867034120720875735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/htsrXhmKlO",
+              "end": 28,
+              "expanded_url": "https://x.com/AngffaBang/status/1867034120720875735/photo/1",
+              "media_key": "3_1867034107085197312",
+              "start": 5,
+              "url": "https://t.co/htsrXhmKlO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867034120720875735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4161,
+          "like_count": 152,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剪完啦~ https://t.co/htsrXhmKlO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一ing🏫┃🏳️‍⚧🍥无证😭┃坐标郑州📍┃没有什么突出的爱好，是个不太有趣的人🤷‍♀️┃不在乎立场，也不喜欢建政🙅‍♀┃欢迎互fo喵🥺（只是中推小透明，fo不fo都无所谓啦，能一眼我就很开心了）┃高强度刷推😁┃点赞是手干的，不是我干的😗┃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJVZU"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "无何有",
+        "name": "Starrynight風阁🍥",
+        "pinned_tweet_id": "1862405062833971450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859531481846362112/-ukC50_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 3159,
+          "like_count": 59820,
+          "listed_count": 5,
+          "media_count": 329,
+          "tweet_count": 2733
+        },
+        "url": "https://t.co/EmFCvLJVZU",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 423,
+          "like_count": 3509,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1350
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

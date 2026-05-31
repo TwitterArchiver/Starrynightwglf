@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1843811545048027512",
+    "created_at": "2024-10-09T00:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T01:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843811545048027512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1683441735144439808",
+          "start": 3,
+          "username": "KagurazakaYome_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843811545048027512",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843645363544306082",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KagurazakaYome_: 突然想到：红温的反义词是不是蓝凉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1843811545048027512",
+        "created_at": "2024-10-09T00:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T01:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843811545048027512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1683441735144439808",
+              "start": 3,
+              "username": "KagurazakaYome_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843811545048027512",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843645363544306082",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KagurazakaYome_: 突然想到：红温的反义词是不是蓝凉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683441735144439808",
+        "conversation_id": "1843645363544306082",
+        "created_at": "2024-10-08T13:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T14:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843645363544306082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1843645363544306082",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3086,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "突然想到：红温的反义词是不是蓝凉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "中推小透明，一般不发推，点赞是手干的，不是我干的\nㅤ\n偷偷在这里放个🏳️‍⚧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awawawawawawa.net",
+                "end": 23,
+                "expanded_url": "http://awawawawawawa.net",
+                "start": 0,
+                "url": "https://t.co/Q4WoIflVHh"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "无何有",
+        "name": "Starrynight風阁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840001644190412801/y2jbIt1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 2317,
+          "like_count": 12234,
+          "listed_count": 0,
+          "tweet_count": 673
+        },
+        "url": "https://t.co/Q4WoIflVHh",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T11:39:28.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈/🍥2024.4.20日雌ing/小证/ADHD/178cm57kg/休学备战 A-Level 润HongKong🇭🇰/08 年 5月生人/少数民族/爱哭鬼/抑郁焦虑/Apex手柄♿️线性41bug3.0双赛季铂金😮‍💨/舞萌DX初学者/偶尔出出 cos 满足自己🌊🌊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/AG5sVAiJgj"
+              }
+            ]
+          }
+        },
+        "id": "1683441735144439808",
+        "location": "Tsuen Wan District, Hong Kong",
+        "name": ".翎🍥",
+        "pinned_tweet_id": "1841737663013118000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835424345394749440/t5JDVHut_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2563,
+          "following_count": 1072,
+          "like_count": 50038,
+          "listed_count": 8,
+          "tweet_count": 11527
+        },
+        "url": "https://t.co/AG5sVAiJgj",
+        "username": "KagurazakaYome_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922356081319411713",
+        "3_1922356083168792577"
+      ],
+      "media_source_tweet_id": [
+        "1922356087707099400",
+        "1922356087707099400"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "1922632611651891632",
+    "created_at": "2025-05-14T12:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T13:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922632611651891632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1420377473901072390",
+          "start": 3,
+          "username": "Timfurry233"
+        }
+      ],
+      "urls": [
+        {
+          "description": "我们研究了河南的省级防火墙，并将其与国家级的防火长城（GFW）进行了比较。河南防火墙对TLS SNI和HTTP Header进行审查，检查并阻止出省流量。虽然河南防火墙的技术复杂性和健壮性较低，但其激进的封锁策略让其一度封锁了十倍于GFW的域名数量。我们介绍了一些仅需客户端支持就能绕过河南网络审查的策略。我们的工作记录了一个令人担忧的迹象：中国正在出现区域性的网络审查。",
+          "display_url": "gfw.report/publications/s…",
+          "end": 105,
+          "expanded_url": "https://gfw.report/publications/sp25/zh/",
+          "images": [
+            {
+              "height": 1080,
+              "url": "https://pbs.twimg.com/news_img/1921729530516955137/eSKs-PxZ?format=jpg&name=orig",
+              "width": 1920
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1921729530516955137/eSKs-PxZ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 82,
+          "status": 200,
+          "title": "墙中之墙：中国地区性审查的兴起",
+          "unwound_url": "https://gfw.report/publications/sp25/zh/",
+          "url": "https://t.co/5S9wUQM44s"
+        },
+        {
+          "display_url": "pic.x.com/GtjpqK8vWC",
+          "end": 129,
+          "expanded_url": "https://x.com/Timfurry233/status/1922356087707099400/photo/1",
+          "media_key": "3_1922356081319411713",
+          "start": 106,
+          "url": "https://t.co/GtjpqK8vWC"
+        },
+        {
+          "display_url": "pic.x.com/GtjpqK8vWC",
+          "end": 129,
+          "expanded_url": "https://x.com/Timfurry233/status/1922356087707099400/photo/1",
+          "media_key": "3_1922356083168792577",
+          "start": 106,
+          "url": "https://t.co/GtjpqK8vWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922632611651891632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922356087707099400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Timfurry233: 专业论文出来了，河南省防火墙真实存在（暂且称为HFW）我当初说启用TCP时间戳规避是完全科学合理的，也没想到当时就走在最前沿了😎\nhttps://t.co/5S9wUQM44s https://t.co/GtjpqK8vWC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1922356081319411713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq2Uq77bAAEnwSC.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1922356083168792577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq2UrC0WUAE_aL_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922356081319411713",
+            "3_1922356083168792577"
+          ],
+          "media_source_tweet_id": [
+            "1922356087707099400",
+            "1922356087707099400"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "1922632611651891632",
+        "created_at": "2025-05-14T12:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T13:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922632611651891632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1420377473901072390",
+              "start": 3,
+              "username": "Timfurry233"
+            }
+          ],
+          "urls": [
+            {
+              "description": "我们研究了河南的省级防火墙，并将其与国家级的防火长城（GFW）进行了比较。河南防火墙对TLS SNI和HTTP Header进行审查，检查并阻止出省流量。虽然河南防火墙的技术复杂性和健壮性较低，但其激进的封锁策略让其一度封锁了十倍于GFW的域名数量。我们介绍了一些仅需客户端支持就能绕过河南网络审查的策略。我们的工作记录了一个令人担忧的迹象：中国正在出现区域性的网络审查。",
+              "display_url": "gfw.report/publications/s…",
+              "end": 105,
+              "expanded_url": "https://gfw.report/publications/sp25/zh/",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/1921729530516955137/eSKs-PxZ?format=jpg&name=orig",
+                  "width": 1920
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1921729530516955137/eSKs-PxZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 82,
+              "status": 200,
+              "title": "墙中之墙：中国地区性审查的兴起",
+              "unwound_url": "https://gfw.report/publications/sp25/zh/",
+              "url": "https://t.co/5S9wUQM44s"
+            },
+            {
+              "display_url": "pic.x.com/GtjpqK8vWC",
+              "end": 129,
+              "expanded_url": "https://x.com/Timfurry233/status/1922356087707099400/photo/1",
+              "media_key": "3_1922356081319411713",
+              "start": 106,
+              "url": "https://t.co/GtjpqK8vWC"
+            },
+            {
+              "display_url": "pic.x.com/GtjpqK8vWC",
+              "end": 129,
+              "expanded_url": "https://x.com/Timfurry233/status/1922356087707099400/photo/1",
+              "media_key": "3_1922356083168792577",
+              "start": 106,
+              "url": "https://t.co/GtjpqK8vWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922632611651891632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922356087707099400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Timfurry233: 专业论文出来了，河南省防火墙真实存在（暂且称为HFW）我当初说启用TCP时间戳规避是完全科学合理的，也没想到当时就走在最前沿了😎\nhttps://t.co/5S9wUQM44s https://t.co/GtjpqK8vWC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922356081319411713",
+            "3_1922356083168792577"
+          ]
+        },
+        "author_id": "1420377473901072390",
+        "conversation_id": "1922356087707099400",
+        "created_at": "2025-05-13T18:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T19:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922356087707099400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "我们研究了河南的省级防火墙，并将其与国家级的防火长城（GFW）进行了比较。河南防火墙对TLS SNI和HTTP Header进行审查，检查并阻止出省流量。虽然河南防火墙的技术复杂性和健壮性较低，但其激进的封锁策略让其一度封锁了十倍于GFW的域名数量。我们介绍了一些仅需客户端支持就能绕过河南网络审查的策略。我们的工作记录了一个令人担忧的迹象：中国正在出现区域性的网络审查。",
+              "display_url": "gfw.report/publications/s…",
+              "end": 88,
+              "expanded_url": "https://gfw.report/publications/sp25/zh/",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/1921729530516955137/eSKs-PxZ?format=jpg&name=orig",
+                  "width": 1920
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1921729530516955137/eSKs-PxZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 65,
+              "status": 200,
+              "title": "墙中之墙：中国地区性审查的兴起",
+              "unwound_url": "https://gfw.report/publications/sp25/zh/",
+              "url": "https://t.co/5S9wUQM44s"
+            },
+            {
+              "display_url": "pic.x.com/GtjpqK8vWC",
+              "end": 112,
+              "expanded_url": "https://x.com/Timfurry233/status/1922356087707099400/photo/1",
+              "media_key": "3_1922356081319411713",
+              "start": 89,
+              "url": "https://t.co/GtjpqK8vWC"
+            },
+            {
+              "display_url": "pic.x.com/GtjpqK8vWC",
+              "end": 112,
+              "expanded_url": "https://x.com/Timfurry233/status/1922356087707099400/photo/1",
+              "media_key": "3_1922356083168792577",
+              "start": 89,
+              "url": "https://t.co/GtjpqK8vWC"
+            },
+            {
+              "display_url": "x.com/Timfurry233/st…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/Timfurry233/status/1690305876039811072",
+              "start": 113,
+              "url": "https://t.co/9B6g4PJOIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922356087707099400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 12632,
+          "like_count": 148,
+          "quote_count": 6,
+          "reply_count": 11,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1690305876039811072",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "专业论文出来了，河南省防火墙真实存在（暂且称为HFW）我当初说启用TCP时间戳规避是完全科学合理的，也没想到当时就走在最前沿了😎\nhttps://t.co/5S9wUQM44s https://t.co/GtjpqK8vWC https://t.co/9B6g4PJOIV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一休学ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州/杭州/衢州/沈阳📍┃是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃能多在意我一点点吗🥺┃🚪25┃叫我小风🎐┃妹妹也是恋人@xinxia_mtf┃别离开我好吗好的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 111,
+                "username": "xinxia_mtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJVZU"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "夏夏怀里",
+        "name": "喵喵小风",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 3698,
+          "like_count": 112574,
+          "listed_count": 7,
+          "media_count": 570,
+          "tweet_count": 3649
+        },
+        "url": "https://t.co/EmFCvLJVZU",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-28T13:36:23.000Z",
+        "description": "wikifur维基兽！/不止于推哦！咱是一只furry哦！⚠️偶尔会有🔞内容啦( ˃̶̤́ ꒳ ˂̶̤̀ )，懂一点点前端代码啦，但还很生疏💻中文⭕️English⭕️/日本语❌机翻telegram: https://t.co/5gGVDFMyMd blog: https://t.co/sjwsjkHAB1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/im_furry_Data",
+                "end": 124,
+                "expanded_url": "http://t.me/im_furry_Data",
+                "start": 101,
+                "url": "https://t.co/5gGVDFMyMd"
+              },
+              {
+                "display_url": "furries.fun",
+                "end": 154,
+                "expanded_url": "https://furries.fun",
+                "start": 131,
+                "url": "https://t.co/sjwsjkHAB1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fur0.com",
+                "end": 23,
+                "expanded_url": "https://fur0.com",
+                "start": 0,
+                "url": "https://t.co/nWPW2rCj30"
+              }
+            ]
+          }
+        },
+        "id": "1420377473901072390",
+        "location": "毛毛之家: furryhome.cn 福瑞共和国",
+        "name": "xiaohuangbo",
+        "pinned_tweet_id": "1748344306950434910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843663694594748416/Zjj61DxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2801,
+          "following_count": 2450,
+          "like_count": 18714,
+          "listed_count": 14,
+          "media_count": 349,
+          "tweet_count": 2176
+        },
+        "url": "https://t.co/nWPW2rCj30",
+        "username": "Timfurry233",
+        "verified": false
+      }
+    ]
+  }
+}

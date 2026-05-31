@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2014972582941098472",
+    "created_at": "2026-01-24T13:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T14:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015047384863219716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1266711219425034241",
+          "start": 0,
+          "username": "Mcdonaldism_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20150…",
+          "end": 37,
+          "expanded_url": "https://x.com/i/status/2015000450559594762",
+          "start": 14,
+          "url": "https://t.co/1PqfMxxe28"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015047384863219716",
+    "in_reply_to_user_id": "1266711219425034241",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015000450559594762",
+        "type": "quoted"
+      },
+      {
+        "id": "2014972582941098472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mcdonaldism_ https://t.co/1PqfMxxe28"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1580,
+        "media_key": "3_2015000439117529090",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_a4OTPbQAIA1C5.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2014972582941098472",
+        "created_at": "2026-01-24T13:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T14:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015047384863219716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1266711219425034241",
+              "start": 0,
+              "username": "Mcdonaldism_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20150…",
+              "end": 37,
+              "expanded_url": "https://x.com/i/status/2015000450559594762",
+              "start": 14,
+              "url": "https://t.co/1PqfMxxe28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015047384863219716",
+        "in_reply_to_user_id": "1266711219425034241",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015000450559594762",
+            "type": "quoted"
+          },
+          {
+            "id": "2014972582941098472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mcdonaldism_ https://t.co/1PqfMxxe28"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015000439117529090"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2015000450559594762",
+        "created_at": "2026-01-24T09:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T10:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015000450559594762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/La9HIUnH03",
+              "end": 166,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2015000450559594762/photo/1",
+              "media_key": "3_2015000439117529090",
+              "start": 143,
+              "url": "https://t.co/La9HIUnH03"
+            },
+            {
+              "display_url": "x.com/bbcchinese/sta…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/bbcchinese/status/2014958991218999328",
+              "start": 167,
+              "url": "https://t.co/g1bVW8ifYh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015000450559594762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1016,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014958991218999328",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当朝大学士,统共有五位,朕不得不罢免四位。六部尚书,朕不得不罢免三位。看看这七个人吧,哪个不是两鬓班白,哪个不是朝廷的栋梁,哪个不是朕的儿女亲家,他们烂了,朕心要碎了！\n祖宗把江山交到朕的手里,却搞成了这个样子,朕是痛心疾首,朕有罪于国家,愧对祖宗,愧对天地,朕恨不得自己罢免了自己！ https://t.co/La9HIUnH03 https://t.co/g1bVW8ifYh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266711219425034241",
+        "conversation_id": "2014972582941098472",
+        "created_at": "2026-01-24T08:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T09:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014972582941098472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014972582941098472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 83476,
+          "like_count": 422,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "这届听床师太猛了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 4172,
+          "like_count": 127811,
+          "listed_count": 5,
+          "media_count": 935,
+          "tweet_count": 4654
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-30T12:41:23.000Z",
+        "description": "粉红老保勿扰｜无论你是否是麦神的信徒，无论你的种族肤色性别，无论今天是星期几，你都可以享用13.9元麦当劳神教的1+1圣餐，麦神平等的爱世人，麦门🙏｜🐧相关❌盗图❌搬运",
+        "id": "1266711219425034241",
+        "location": "无所谓我会在网上到处拉屎",
+        "name": "温良肥海鸥🐦本窗口只能收麦当劳薯条🍟🍔",
+        "pinned_tweet_id": "1970215812910006763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920432920826687488/Qhhz0NjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6337,
+          "following_count": 1146,
+          "like_count": 43784,
+          "listed_count": 29,
+          "media_count": 318,
+          "tweet_count": 14147
+        },
+        "username": "Mcdonaldism_",
+        "verified": false
+      }
+    ]
+  }
+}

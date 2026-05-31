@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2022534726867951866",
+    "created_at": "2026-02-14T04:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T05:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022534726867951866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1497241020303495168",
+          "start": 3,
+          "username": "mosscghere"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022534726867951866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022528089583198358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mosscghere: 小卖部新春清仓特惠\n低至三折～\n钥匙扣低至1.8元/件\n运费立减2元\n下单就送随机赠品/隐藏产品\n\n评论+点赞+转发本条推文抽：\n1.钥匙扣13种全套 x 1位\n2.贴纸全套 x 2位\n3.TNT摆件 x 2位\n4.随机小礼品礼包 x 3位\n\n2…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022528053973520393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBF2jJ1akAkptvR.jpg",
+        "width": 1541
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2022528053965131777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBF2jJzakAEq5rq.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2022528054015455232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBF2jJ_acAAJPCr.jpg",
+        "width": 1920
+      },
+      {
+        "height": 576,
+        "media_key": "3_2022528053956743177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBF2jJxakAkHe1t.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2022534726867951866",
+        "created_at": "2026-02-14T04:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T05:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022534726867951866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1497241020303495168",
+              "start": 3,
+              "username": "mosscghere"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022534726867951866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022528089583198358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mosscghere: 小卖部新春清仓特惠\n低至三折～\n钥匙扣低至1.8元/件\n运费立减2元\n下单就送随机赠品/隐藏产品\n\n评论+点赞+转发本条推文抽：\n1.钥匙扣13种全套 x 1位\n2.贴纸全套 x 2位\n3.TNT摆件 x 2位\n4.随机小礼品礼包 x 3位\n\n2…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022528053973520393",
+            "3_2022528053965131777",
+            "3_2022528054015455232",
+            "3_2022528053956743177"
+          ]
+        },
+        "author_id": "1497241020303495168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022528089583198358",
+        "created_at": "2026-02-14T04:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T05:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022528089583198358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/plOuXigPqp",
+              "end": 164,
+              "expanded_url": "https://x.com/mosscghere/status/2022528089583198358/photo/1",
+              "media_key": "3_2022528053973520393",
+              "start": 141,
+              "url": "https://t.co/plOuXigPqp"
+            },
+            {
+              "display_url": "pic.x.com/plOuXigPqp",
+              "end": 164,
+              "expanded_url": "https://x.com/mosscghere/status/2022528089583198358/photo/1",
+              "media_key": "3_2022528053965131777",
+              "start": 141,
+              "url": "https://t.co/plOuXigPqp"
+            },
+            {
+              "display_url": "pic.x.com/plOuXigPqp",
+              "end": 164,
+              "expanded_url": "https://x.com/mosscghere/status/2022528089583198358/photo/1",
+              "media_key": "3_2022528054015455232",
+              "start": 141,
+              "url": "https://t.co/plOuXigPqp"
+            },
+            {
+              "display_url": "pic.x.com/plOuXigPqp",
+              "end": 164,
+              "expanded_url": "https://x.com/mosscghere/status/2022528089583198358/photo/1",
+              "media_key": "3_2022528053956743177",
+              "start": 141,
+              "url": "https://t.co/plOuXigPqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022528089583198358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 59,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "小卖部新春清仓特惠\n低至三折～\n钥匙扣低至1.8元/件\n运费立减2元\n下单就送随机赠品/隐藏产品\n\n评论+点赞+转发本条推文抽：\n1.钥匙扣13种全套 x 1位\n2.贴纸全套 x 2位\n3.TNT摆件 x 2位\n4.随机小礼品礼包 x 3位\n\n2月25日开奖～\ntb：墨守的小卖部 https://t.co/plOuXigPqp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 4225,
+          "like_count": 134127,
+          "listed_count": 3,
+          "media_count": 1005,
+          "tweet_count": 4873
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-25T16:04:20.000Z",
+        "description": "这里是啥也不会的墨姐姐｜闲聊日常技术推｜后端Java+Python工程师｜伪全栈｜早退OIer｜远古MC服主｜MossFrp/MoBoxFrp老板娘｜Trans周边绝赞贩售中",
+        "id": "1497241020303495168",
+        "name": "啥也不会墨姐姐 #三玖天下第一！",
+        "pinned_tweet_id": "1805802094882078995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866694402057572356/bVsoVvV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6130,
+          "following_count": 855,
+          "like_count": 19253,
+          "listed_count": 7,
+          "media_count": 1484,
+          "tweet_count": 5735
+        },
+        "username": "mosscghere",
+        "verified": false
+      }
+    ]
+  }
+}

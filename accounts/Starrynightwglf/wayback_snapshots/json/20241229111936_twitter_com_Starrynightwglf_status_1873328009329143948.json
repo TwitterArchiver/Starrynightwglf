@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1873307853286674729",
+    "created_at": "2024-12-29T11:19:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T12:19:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873328009329143948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1586779015574327296",
+          "start": 0,
+          "username": "Cya_Ninnensuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873328009329143948",
+    "in_reply_to_user_id": "1586779015574327296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873318348546863401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cya_Ninnensuki 嗯哼"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1873318348546863401].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1873318348546863401",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1873318348546863401"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1873307853286674729",
+        "created_at": "2024-12-29T11:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T12:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873328009329143948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1586779015574327296",
+              "start": 0,
+              "username": "Cya_Ninnensuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873328009329143948",
+        "in_reply_to_user_id": "1586779015574327296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873318348546863401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cya_Ninnensuki 嗯哼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州/杭州📍┃没有什么突出的爱好，是个不太有趣的人🤷‍♀️┃不在乎立场，也不喜欢建政🙅‍♀┃fo不fo无所谓能看一眼我就很开心了🥺┃叫我小风┃可爱的妹妹@xinxia_mtf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "xinxia_mtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJVZU"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "无何有",
+        "name": "Starrynight風阁🍥",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859531481846362112/-ukC50_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 3242,
+          "like_count": 71182,
+          "listed_count": 4,
+          "media_count": 390,
+          "tweet_count": 2973
+        },
+        "url": "https://t.co/EmFCvLJVZU",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T17:56:28.000Z",
+        "description": "只是茶酱而已・169㎝ 50㎏・OCD・ADHD可能・喜欢JK制服/lolita/地雷系・一直是果然多",
+        "id": "1586779015574327296",
+        "name": "鹿野外的茶酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864030998171680769/vmruVgLl_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 280,
+          "like_count": 9178,
+          "listed_count": 2,
+          "media_count": 261,
+          "tweet_count": 8167
+        },
+        "username": "Cya_Ninnensuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2009319317939290469",
+    "created_at": "2026-01-08T20:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T21:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009355494989992230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1980306077284786176",
+          "start": 0,
+          "username": "WhatAkb10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009355494989992230",
+    "in_reply_to_user_id": "1980306077284786176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009319317939290469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WhatAkb10 人之常情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2009319317939290469",
+        "created_at": "2026-01-08T20:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T21:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009355494989992230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1980306077284786176",
+              "start": 0,
+              "username": "WhatAkb10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009355494989992230",
+        "in_reply_to_user_id": "1980306077284786176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009319317939290469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WhatAkb10 人之常情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980306077284786176",
+        "conversation_id": "2009319317939290469",
+        "created_at": "2026-01-08T17:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T18:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009319317939290469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009319317939290469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚才玩假牛子把屎弄地上了。\n😿😿😿\n我是一个恶心的母狗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 4078,
+          "like_count": 124650,
+          "listed_count": 5,
+          "media_count": 871,
+          "tweet_count": 4465
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T16:12:26.000Z",
+        "description": "这是，无名的大小姐（伊芙玲玲子？）\n欢迎拜访吾的庭院。\n注：如果我\n本人的贴文中出现了超现实的事情，那大概是我\n本人的梦，请不要在意。\n\n🚪88可接线下",
+        "id": "1980306077284786176",
+        "name": "꧁❦名のないお嬢様❦꧂",
+        "pinned_tweet_id": "2006544960485732606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009319668960329728/7nKydv0l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 89,
+          "like_count": 4457,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 979
+        },
+        "username": "WhatAkb10",
+        "verified": false
+      }
+    ]
+  }
+}

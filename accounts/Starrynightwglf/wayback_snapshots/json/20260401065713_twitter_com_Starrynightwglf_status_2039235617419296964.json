@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2039235617419296964",
+    "created_at": "2026-04-01T06:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T07:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039235617419296964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lucya_dev/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/lucya_dev/status/2038949477751345195",
+          "start": 9,
+          "url": "https://t.co/V7genaJG7n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039235617419296964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038949477751345195",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "懵逼懵逼再懵逼。 https://t.co/V7genaJG7n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2038949470591655937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEvNvZ2WIAEPKK0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2039235617419296964",
+        "created_at": "2026-04-01T06:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039235617419296964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lucya_dev/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/lucya_dev/status/2038949477751345195",
+              "start": 9,
+              "url": "https://t.co/V7genaJG7n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039235617419296964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038949477751345195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "懵逼懵逼再懵逼。 https://t.co/V7genaJG7n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038949470591655937"
+          ]
+        },
+        "author_id": "1525491681835028480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038949477751345195",
+        "created_at": "2026-03-31T12:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038949477751345195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VTK4ItnIM3",
+              "end": 25,
+              "expanded_url": "https://x.com/lucya_dev/status/2038949477751345195/photo/1",
+              "media_key": "3_2038949470591655937",
+              "start": 2,
+              "url": "https://t.co/VTK4ItnIM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038949477751345195",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 487,
+          "impression_count": 379970,
+          "like_count": 34245,
+          "quote_count": 64,
+          "reply_count": 83,
+          "retweet_count": 798
+        },
+        "reply_settings": "everyone",
+        "text": "🫪 https://t.co/VTK4ItnIM3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 4402,
+          "like_count": 149482,
+          "listed_count": 3,
+          "media_count": 1275,
+          "tweet_count": 5768
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T15:02:23.000Z",
+        "description": "🇪🇺 // 18 // he/they ⊹ sysadmin ⊹ apple fanboy ⊹ tech collector ⊹ Linux btw. ⊹ ally 🏳️‍🌈 // @Annalytic_ ❤️ ฅ^•ω•^ฅ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 91,
+                "username": "Annalytic_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lucya.dev",
+                "end": 23,
+                "expanded_url": "https://lucya.dev",
+                "start": 0,
+                "url": "https://t.co/0LZV60CrJi"
+              }
+            ]
+          }
+        },
+        "id": "1525491681835028480",
+        "location": "European Union (EU)",
+        "name": "lucya",
+        "pinned_tweet_id": "2038949477751345195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007830053707468801/EueTECkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 562,
+          "like_count": 10016,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/0LZV60CrJi",
+        "username": "lucya_dev",
+        "verified": false
+      }
+    ]
+  }
+}

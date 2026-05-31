@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030955900593455104"
+      ],
+      "media_source_tweet_id": [
+        "2030955908998758624"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2031262335399243898",
+    "created_at": "2026-03-10T06:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T07:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031262335399243898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "965545093",
+          "start": 3,
+          "username": "boku_smkw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3zZ8uBu17s",
+          "end": 56,
+          "expanded_url": "https://x.com/boku_smkw/status/2030955908998758624/photo/1",
+          "media_key": "3_2030955900593455104",
+          "start": 33,
+          "url": "https://t.co/3zZ8uBu17s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031262335399243898",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1158
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030955908998758624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boku_smkw: こんなのも作ってます！素晴らしい！ https://t.co/3zZ8uBu17s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030955900593455104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC9noZFbQAAMgvt.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030955900593455104"
+          ],
+          "media_source_tweet_id": [
+            "2030955908998758624"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031262335399243898",
+        "created_at": "2026-03-10T06:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T07:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031262335399243898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "965545093",
+              "start": 3,
+              "username": "boku_smkw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3zZ8uBu17s",
+              "end": 56,
+              "expanded_url": "https://x.com/boku_smkw/status/2030955908998758624/photo/1",
+              "media_key": "3_2030955900593455104",
+              "start": 33,
+              "url": "https://t.co/3zZ8uBu17s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031262335399243898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1158
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030955908998758624",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @boku_smkw: こんなのも作ってます！素晴らしい！ https://t.co/3zZ8uBu17s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030955900593455104"
+          ]
+        },
+        "author_id": "965545093",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030955908998758624",
+        "created_at": "2026-03-09T10:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T11:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030955908998758624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3zZ8uBu17s",
+              "end": 41,
+              "expanded_url": "https://x.com/boku_smkw/status/2030955908998758624/photo/1",
+              "media_key": "3_2030955900593455104",
+              "start": 18,
+              "url": "https://t.co/3zZ8uBu17s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030955908998758624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 688,
+          "impression_count": 185299,
+          "like_count": 6390,
+          "quote_count": 210,
+          "reply_count": 8,
+          "retweet_count": 1158
+        },
+        "reply_settings": "everyone",
+        "text": "こんなのも作ってます！素晴らしい！ https://t.co/3zZ8uBu17s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 4318,
+          "like_count": 141783,
+          "listed_count": 3,
+          "media_count": 1143,
+          "tweet_count": 5324
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-23T05:29:53.000Z",
+        "description": "大阪の人！現在ご依頼は企業様からのみとなっております🙇‍♀️さむちゃんと呼んでね💗お絵描き＆グラフィックアーティスト＆カメラマン(修行中)＆人妻｜和歌山産｜お仕事：バイクデザイン・ヒステリックパニック・うまい棒・ぱくたそ等｜マゼンタ100％が好き🩷｜自撮りと日常@mskn_smkw_p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 131,
+                "username": "mskn_smkw_p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instabio.cc/4010310YLmaCR",
+                "end": 23,
+                "expanded_url": "https://instabio.cc/4010310YLmaCR",
+                "start": 0,
+                "url": "https://t.co/hdpmJFnBA2"
+              }
+            ]
+          }
+        },
+        "id": "965545093",
+        "location": "LINEスタンプ販売中💗↓のURL飛んでね",
+        "name": "まさかのさむかわ🌈 ハンズ渋谷店 すーぱーレトロEXPO💗3/26まで",
+        "pinned_tweet_id": "2030950505128849792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1477970547703443457/4WMeR3Ss_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9273,
+          "following_count": 2413,
+          "like_count": 149262,
+          "listed_count": 114,
+          "media_count": 4798,
+          "tweet_count": 66683
+        },
+        "url": "https://t.co/hdpmJFnBA2",
+        "username": "boku_smkw",
+        "verified": true
+      }
+    ]
+  }
+}

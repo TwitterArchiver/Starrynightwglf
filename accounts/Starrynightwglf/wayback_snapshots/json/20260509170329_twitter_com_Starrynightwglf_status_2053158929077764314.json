@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2053158929077764314",
+    "created_at": "2026-05-09T17:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T18:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053158929077764314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053158929077764314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053135404426056002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 5月7日，一位00后教师在抖音上发布了条课程纪实，就男生爱玩的“xx是gay”梗,例如“谁迟到谁是gay，谁作业没写完谁是gay，谁游戏输了谁是gay” 该老师主持了场全体思辨，并向学生传授了性取向的知识，呼吁平等与尊重。一日之间，这条视…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 448005,
+        "height": 1374,
+        "media_key": "13_2053108601762504704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053108601762504704/img/4gVYVnbolKq8dxtB.jpg",
+        "public_metrics": {
+          "view_count": 24085
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053108601762504704/vid/avc1/320x610/R2NYSBFvmFD1WwxH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053108601762504704/vid/avc1/480x916/KFEmpWLLSRR-WS3X.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053108601762504704/vid/avc1/720x1374/PJNekX7fPYHzsdAy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053108601762504704/pl/IFoErS3uYA0_Z8c5.m3u8?v=563"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2053158929077764314",
+        "created_at": "2026-05-09T17:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053158929077764314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053158929077764314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053135404426056002",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 5月7日，一位00后教师在抖音上发布了条课程纪实，就男生爱玩的“xx是gay”梗,例如“谁迟到谁是gay，谁作业没写完谁是gay，谁游戏输了谁是gay” 该老师主持了场全体思辨，并向学生传授了性取向的知识，呼吁平等与尊重。一日之间，这条视…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053108601762504704"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2053135404426056002",
+        "created_at": "2026-05-09T15:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053135404426056002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3SwbOuG4vl",
+              "end": 174,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2053135404426056002/video/1",
+              "media_key": "13_2053108601762504704",
+              "start": 151,
+              "url": "https://t.co/3SwbOuG4vl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053135404426056002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "5月7日，一位00后教师在抖音上发布了条课程纪实，就男生爱玩的“xx是gay”梗,例如“谁迟到谁是gay，谁作业没写完谁是gay，谁游戏输了谁是gay” 该老师主持了场全体思辨，并向学生传授了性取向的知识，呼吁平等与尊重。一日之间，这条视频获得了10万+的点赞与热烈回应，绝大部分观众深表欣慰跟认同。\n然而，该名老师的视频被投诉到教育局，被学校约谈，这支作品也因故下架。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 52391,
+          "like_count": 345,
+          "quote_count": 5,
+          "reply_count": 42,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "5月7日，一位00后教师在抖音上发布了条课程纪实，就男生爱玩的“xx是gay”梗,例如“谁迟到谁是gay，谁作业没写完谁是gay，谁游戏输了谁是gay” 该老师主持了场全体思辨，并向学生传授了性取向的知识，呼吁平等与尊重。一日之间，这条视频获得了10万+的点赞与热烈回应，绝大部分观众深表欣慰跟认同。 https://t.co/3SwbOuG4vl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 4535,
+          "like_count": 155819,
+          "listed_count": 5,
+          "media_count": 1405,
+          "tweet_count": 6279
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2217594,
+          "following_count": 1047,
+          "like_count": 9478,
+          "listed_count": 8720,
+          "media_count": 46458,
+          "tweet_count": 53559
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

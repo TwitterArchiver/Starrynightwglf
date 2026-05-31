@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1857985525820670012",
+    "created_at": "2024-11-17T21:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T22:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858260147426173038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472111867036594179",
+          "start": 0,
+          "username": "SeimoDev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858260147426173038",
+    "in_reply_to_user_id": "1472111867036594179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857985525820670012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeimoDev 航空港站怎么还这么空"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1857985525820670012",
+        "created_at": "2024-11-17T21:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T22:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858260147426173038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472111867036594179",
+              "start": 0,
+              "username": "SeimoDev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858260147426173038",
+        "in_reply_to_user_id": "1472111867036594179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857985525820670012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeimoDev 航空港站怎么还这么空"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857985511211810816",
+            "3_1857985350813233152",
+            "3_1857985350217641990",
+            "3_1857985350809096192"
+          ]
+        },
+        "author_id": "1472111867036594179",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1857985525820670012",
+        "created_at": "2024-11-17T03:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T04:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857985525820670012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bVIWXA3Os0",
+              "end": 35,
+              "expanded_url": "https://x.com/SeimoDev/status/1857985525820670012/photo/1",
+              "media_key": "3_1857985511211810816",
+              "start": 12,
+              "url": "https://t.co/bVIWXA3Os0"
+            },
+            {
+              "display_url": "pic.x.com/bVIWXA3Os0",
+              "end": 35,
+              "expanded_url": "https://x.com/SeimoDev/status/1857985525820670012/photo/1",
+              "media_key": "3_1857985350813233152",
+              "start": 12,
+              "url": "https://t.co/bVIWXA3Os0"
+            },
+            {
+              "display_url": "pic.x.com/bVIWXA3Os0",
+              "end": 35,
+              "expanded_url": "https://x.com/SeimoDev/status/1857985525820670012/photo/1",
+              "media_key": "3_1857985350217641990",
+              "start": 12,
+              "url": "https://t.co/bVIWXA3Os0"
+            },
+            {
+              "display_url": "pic.x.com/bVIWXA3Os0",
+              "end": 35,
+              "expanded_url": "https://x.com/SeimoDev/status/1857985525820670012/photo/1",
+              "media_key": "3_1857985350809096192",
+              "start": 12,
+              "url": "https://t.co/bVIWXA3Os0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857985525820670012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 433,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎光临：郑州航空港站 https://t.co/bVIWXA3Os0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一ing🏫┃🏳️‍⚧🍥无证😭┃坐标郑州📍┃没有什么突出的爱好，是个不太有趣的人🤷‍♀️┃不在乎立场，也不喜欢建政🙅‍♀┃欢迎互fo喵🥺（只是中推小透明，fo不fo都无所谓啦，能一眼我就很开心了）┃高强度刷推😁┃点赞是手干的，不是我干的😗┃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qaqaqaqaqaqaqaqaqaq.net",
+                "end": 23,
+                "expanded_url": "http://qaqaqaqaqaqaqaqaqaq.net",
+                "start": 0,
+                "url": "https://t.co/h3pADwksQy"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "无何有",
+        "name": "Starrynight風阁🍥",
+        "pinned_tweet_id": "1847670974730350853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840001644190412801/y2jbIt1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 3049,
+          "like_count": 38940,
+          "listed_count": 0,
+          "tweet_count": 1971
+        },
+        "url": "https://t.co/h3pADwksQy",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T07:50:10.000Z",
+        "description": "BI6PCR丨音游壬丨AI Learner丨Co-Founder of HNUBA丨 Android Dev丨挖矿丨简中丨繁中丨English丨日本語（在学中）丨20歲丨大二丨政治中立丨https://t.co/Pikc5r4ELF丨友跨顺男丨面基Bot丨广告勿扰丨锁推关注=ban(互关除外)丨本人言论不构成任何投资建议",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/seimoSFW",
+                "end": 116,
+                "expanded_url": "https://t.me/seimoSFW",
+                "start": 93,
+                "url": "https://t.co/Pikc5r4ELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seimo.cn",
+                "end": 23,
+                "expanded_url": "https://seimo.cn",
+                "start": 0,
+                "url": "https://t.co/aegqvv8Y3G"
+              }
+            ]
+          }
+        },
+        "id": "1472111867036594179",
+        "location": "Earth",
+        "name": "Seimo（全🌏🉑✈️）",
+        "pinned_tweet_id": "1675708739998056449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802360568915083264/-W94wbHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 430,
+          "like_count": 5580,
+          "listed_count": 0,
+          "tweet_count": 3218
+        },
+        "url": "https://t.co/aegqvv8Y3G",
+        "username": "SeimoDev",
+        "verified": false
+      }
+    ]
+  }
+}

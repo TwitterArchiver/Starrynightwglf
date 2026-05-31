@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2016153202102775808",
+        "3_2016153210755678217"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2016153320646410696",
+    "created_at": "2026-01-27T14:16:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T15:16:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016153320646410696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QL7QJ6dNN5",
+          "end": 53,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2016153320646410696/video/1",
+          "media_key": "7_2016153202102775808",
+          "start": 30,
+          "url": "https://t.co/QL7QJ6dNN5"
+        },
+        {
+          "display_url": "pic.x.com/QL7QJ6dNN5",
+          "end": 53,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2016153320646410696/video/1",
+          "media_key": "3_2016153210755678217",
+          "start": 30,
+          "url": "https://t.co/QL7QJ6dNN5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016153320646410696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你可以回去，但是那里已经没有人了\n\n这个配乐只是因为好听😌 https://t.co/QL7QJ6dNN5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50690,
+        "height": 960,
+        "media_key": "7_2016153202102775808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2016153202102775808/pu/img/3-8-dF_3Fw6zJiBh.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016153202102775808/pu/vid/avc1/320x426/TBUOSmYAaGKkt1R5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016153202102775808/pu/vid/avc1/480x640/0z8WRT7yyXDbWMXe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016153202102775808/pu/vid/avc1/720x960/3CWSMlRkX3XgbeOA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2016153202102775808/pu/pl/zUgUmBNGMTHGgSu1.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2016153210755678217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_rQqcPbAAkZPYz.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2016153202102775808",
+            "3_2016153210755678217"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2016153320646410696",
+        "created_at": "2026-01-27T14:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T15:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016153320646410696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QL7QJ6dNN5",
+              "end": 53,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2016153320646410696/video/1",
+              "media_key": "7_2016153202102775808",
+              "start": 30,
+              "url": "https://t.co/QL7QJ6dNN5"
+            },
+            {
+              "display_url": "pic.x.com/QL7QJ6dNN5",
+              "end": 53,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2016153320646410696/video/1",
+              "media_key": "3_2016153210755678217",
+              "start": 30,
+              "url": "https://t.co/QL7QJ6dNN5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016153320646410696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你可以回去，但是那里已经没有人了\n\n这个配乐只是因为好听😌 https://t.co/QL7QJ6dNN5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 4172,
+          "like_count": 128644,
+          "listed_count": 5,
+          "media_count": 950,
+          "tweet_count": 4678
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

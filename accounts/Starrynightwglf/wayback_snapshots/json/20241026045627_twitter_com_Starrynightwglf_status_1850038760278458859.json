@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1850037593444057580",
+    "created_at": "2024-10-26T04:56:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T05:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850038760278458859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1560129932524544000",
+          "start": 0,
+          "username": "xijiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850038760278458859",
+    "in_reply_to_user_id": "1560129932524544000",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850037593444057580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijiu_ 存档挂了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1850037593444057580",
+        "created_at": "2024-10-26T04:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T05:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850038760278458859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1560129932524544000",
+              "start": 0,
+              "username": "xijiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850038760278458859",
+        "in_reply_to_user_id": "1560129932524544000",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850037593444057580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijiu_ 存档挂了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850037586074664960"
+          ]
+        },
+        "author_id": "1560129932524544000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1850037593444057580",
+        "created_at": "2024-10-26T04:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T05:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850037593444057580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TaMuAnioFF",
+              "end": 38,
+              "expanded_url": "https://x.com/xijiu_/status/1850037593444057580/photo/1",
+              "media_key": "3_1850037586074664960",
+              "start": 15,
+              "url": "https://t.co/TaMuAnioFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850037593444057580",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂我看到她有多崩溃啊啊啊啊 https://t.co/TaMuAnioFF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一ing🏫┃🏳️‍⚧🍥无证😭┃坐标郑州📍┃没有什么突出的爱好，是个不太有趣的人┃不在乎立场，也不喜欢建政┃欢迎互fo喵🥺（只是中推小透明，fo不fo都无所谓啦，能一眼我就很开心了）┃高强度刷推┃点赞是手干的，不是我干的┃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awawawawawawa.net",
+                "end": 23,
+                "expanded_url": "http://awawawawawawa.net",
+                "start": 0,
+                "url": "https://t.co/Q4WoIflVHh"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "无何有",
+        "name": "Starrynight風阁",
+        "pinned_tweet_id": "1847670974730350853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840001644190412801/y2jbIt1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 2866,
+          "like_count": 16542,
+          "listed_count": 0,
+          "tweet_count": 1071
+        },
+        "url": "https://t.co/Q4WoIflVHh",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "⚧一只在校的高三笨猫|a transgirl| I am who I am,would never be defined🍥|姐姐@han_zi53015|女高杀手，全球可飞，保证把委托人杀死",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "han_zi53015"
+              }
+            ]
+          }
+        },
+        "id": "1560129932524544000",
+        "location": "中国 山东省",
+        "name": "希玖.🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2616,
+          "following_count": 739,
+          "like_count": 80480,
+          "listed_count": 1,
+          "tweet_count": 4293
+        },
+        "username": "xijiu_",
+        "verified": false
+      }
+    ]
+  }
+}

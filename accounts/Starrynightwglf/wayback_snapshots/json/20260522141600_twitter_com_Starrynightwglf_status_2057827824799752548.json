@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2057827671950884864"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2057827824799752548",
+    "created_at": "2026-05-22T14:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T15:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057827824799752548"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5x8Qsy3OJx",
+          "end": 40,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2057827824799752548/video/1",
+          "media_key": "7_2057827671950884864",
+          "start": 17,
+          "url": "https://t.co/5x8Qsy3OJx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057827824799752548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "金融岛这湖深不深，跳下去会噶吗🤨 https://t.co/5x8Qsy3OJx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40233,
+        "height": 720,
+        "media_key": "7_2057827671950884864",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2057827671950884864/pu/img/Keh7dR7GLWfErF3T.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057827671950884864/pu/vid/avc1/480x270/JqMQ89GBreK5-E4s.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057827671950884864/pu/vid/avc1/640x360/IKUNK1_uVlgqT_fD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057827671950884864/pu/vid/avc1/1280x720/bBSe2XBI2FX1Venl.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2057827671950884864/pu/pl/5om7OvxB51q5uPCU.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2057827671950884864"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2057827824799752548",
+        "created_at": "2026-05-22T14:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057827824799752548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5x8Qsy3OJx",
+              "end": 40,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2057827824799752548/video/1",
+              "media_key": "7_2057827671950884864",
+              "start": 17,
+              "url": "https://t.co/5x8Qsy3OJx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057827824799752548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "金融岛这湖深不深，跳下去会噶吗🤨 https://t.co/5x8Qsy3OJx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2081,
+          "following_count": 4610,
+          "like_count": 159279,
+          "listed_count": 5,
+          "media_count": 1477,
+          "tweet_count": 6503
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

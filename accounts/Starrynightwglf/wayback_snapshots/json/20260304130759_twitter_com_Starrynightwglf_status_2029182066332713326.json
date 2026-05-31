@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2029182066332713326",
+    "created_at": "2026-03-04T13:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T14:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029182066332713326"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hq_chihiro/sta…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/hq_chihiro/status/2029161110734004432",
+          "start": 45,
+          "url": "https://t.co/WbLCr76PqS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029182066332713326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029161110734004432",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "高中班里唯一一个女生朋友的视角belike\n高中就觉得我像男娘但嘴硬没承认\n毕业光速出柜 https://t.co/WbLCr76PqS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2029182066332713326",
+        "created_at": "2026-03-04T13:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T14:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029182066332713326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hq_chihiro/sta…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/hq_chihiro/status/2029161110734004432",
+              "start": 45,
+              "url": "https://t.co/WbLCr76PqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029182066332713326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029161110734004432",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "高中班里唯一一个女生朋友的视角belike\n高中就觉得我像男娘但嘴硬没承认\n毕业光速出柜 https://t.co/WbLCr76PqS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444640763070005251",
+        "conversation_id": "2029161110734004432",
+        "created_at": "2026-03-04T11:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029161110734004432"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029161110734004432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 771,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高中后桌毕业一年半疑似爆改药娘了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 4303,
+          "like_count": 139727,
+          "listed_count": 3,
+          "media_count": 1105,
+          "tweet_count": 5218
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T12:29:42.000Z",
+        "description": "做人一世不掺假",
+        "id": "1444640763070005251",
+        "location": "北纬41度",
+        "name": "hqin",
+        "pinned_tweet_id": "2027029893582930117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024986210373173248/sT2X0y1Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1493,
+          "following_count": 961,
+          "like_count": 16210,
+          "listed_count": 7,
+          "media_count": 525,
+          "tweet_count": 7868
+        },
+        "username": "hq_chihiro",
+        "verified": false
+      }
+    ]
+  }
+}

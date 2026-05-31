@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2026634891010662401"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2026617564277940584",
+    "created_at": "2026-02-25T12:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T13:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026634911231389948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1627301480440164352",
+          "start": 0,
+          "username": "NWA12302"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QCtLYdF3TB",
+          "end": 39,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2026634911231389948/photo/1",
+          "media_key": "16_2026634891010662401",
+          "start": 16,
+          "url": "https://t.co/QCtLYdF3TB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026634911231389948",
+    "in_reply_to_user_id": "1627301480440164352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026617564277940584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NWA12302 熊妹乘乘的 https://t.co/QCtLYdF3TB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "16_2026634891010662401",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HCANsiAaYAEXmVV.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HCANsiAaYAEXmVV.mp4"
+          }
+        ],
+        "width": 400
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026617553087508483",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_97VNaMAMcpjI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2026634891010662401"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2026617564277940584",
+        "created_at": "2026-02-25T12:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T13:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026634911231389948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1627301480440164352",
+              "start": 0,
+              "username": "NWA12302"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QCtLYdF3TB",
+              "end": 39,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2026634911231389948/photo/1",
+              "media_key": "16_2026634891010662401",
+              "start": 16,
+              "url": "https://t.co/QCtLYdF3TB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026634911231389948",
+        "in_reply_to_user_id": "1627301480440164352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026617564277940584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NWA12302 熊妹乘乘的 https://t.co/QCtLYdF3TB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026617553087508483"
+          ]
+        },
+        "author_id": "1627301480440164352",
+        "conversation_id": "2026617564277940584",
+        "created_at": "2026-02-25T11:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T12:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026617564277940584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pyayq1b2wX",
+              "end": 39,
+              "expanded_url": "https://x.com/NWA12302/status/2026617564277940584/photo/1",
+              "media_key": "3_2026617553087508483",
+              "start": 16,
+              "url": "https://t.co/Pyayq1b2wX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026617564277940584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了抚慰我受伤的心灵\n买了个熊 https://t.co/Pyayq1b2wX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 4266,
+          "like_count": 137390,
+          "listed_count": 3,
+          "media_count": 1057,
+          "tweet_count": 5042
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T13:38:19.000Z",
+        "description": "地质学Geology & 陨石学 Meteoritics ｜科研日记本｜我永远喜欢蜜莓、黍、嵯峨、玉藻十字、艾蕾｜粥9摆烂选手｜业余摄影师｜jpop 日摇 术力口｜INFJ｜华枝春满，天心月圆@LihaigeUpasaka｜芦毛偏爱｜做个好玩的人\n｜我推@hatunagi_yuzuki｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 96,
+                "username": "LihaigeUpasaka"
+              },
+              {
+                "end": 143,
+                "start": 127,
+                "username": "hatunagi_yuzuki"
+              }
+            ]
+          }
+        },
+        "id": "1627301480440164352",
+        "location": "Kyoto-fu, Japan",
+        "name": "AAA特雷森糖浆专卖🐱",
+        "pinned_tweet_id": "1780992344306983398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014726895527723008/MWsn_rtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1635,
+          "following_count": 1415,
+          "like_count": 136710,
+          "listed_count": 7,
+          "media_count": 2016,
+          "tweet_count": 10177
+        },
+        "username": "NWA12302",
+        "verified": false
+      }
+    ]
+  }
+}

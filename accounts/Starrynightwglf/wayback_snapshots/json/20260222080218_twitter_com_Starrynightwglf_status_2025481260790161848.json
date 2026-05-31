@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2025437751810949619",
+    "created_at": "2026-02-22T08:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T09:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025481260790161848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1470410046353858565",
+          "start": 0,
+          "username": "miumcii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025481260790161848",
+    "in_reply_to_user_id": "1470410046353858565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025437751810949619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miumcii 宝宝你特别萌啊🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2025437751810949619",
+        "created_at": "2026-02-22T08:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T09:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025481260790161848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1470410046353858565",
+              "start": 0,
+              "username": "miumcii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025481260790161848",
+        "in_reply_to_user_id": "1470410046353858565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025437751810949619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miumcii 宝宝你特别萌啊🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1470410046353858565",
+        "conversation_id": "2025437751810949619",
+        "created_at": "2026-02-22T05:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025437751810949619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ddaquaforever/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/ddaquaforever/status/2025431230939103464",
+              "start": 29,
+              "url": "https://t.co/w3XOcXIAkD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025437751810949619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 795,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025431230939103464",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没人觉得我这个人特别萌，说话特别有趣，然后很喜欢我的? https://t.co/w3XOcXIAkD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 4257,
+          "like_count": 136644,
+          "listed_count": 3,
+          "media_count": 1038,
+          "tweet_count": 4974
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-13T15:07:45.000Z",
+        "description": "可是这些又有什么用呢",
+        "id": "1470410046353858565",
+        "name": "闵目🍉夕曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954133022334410752/JblCpcUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36140,
+          "following_count": 312,
+          "like_count": 21957,
+          "listed_count": 108,
+          "media_count": 320,
+          "tweet_count": 11975
+        },
+        "username": "miumcii",
+        "verified": false
+      }
+    ]
+  }
+}

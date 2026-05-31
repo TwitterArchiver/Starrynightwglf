@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2029191471698710528"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2029191490766029295",
+    "created_at": "2026-03-04T13:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T14:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029191490766029295"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Kgf0X80YB",
+          "end": 28,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2029191490766029295/photo/1",
+          "media_key": "16_2029191471698710528",
+          "start": 5,
+          "url": "https://t.co/5Kgf0X80YB"
+        },
+        {
+          "display_url": "x.com/RebeuDeter/sta…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/RebeuDeter/status/2029114386988626052",
+          "start": 29,
+          "url": "https://t.co/d3XHJgAM9Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029191490766029295",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029114386988626052",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咪啪~☆ https://t.co/5Kgf0X80YB https://t.co/d3XHJgAM9Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 192,
+        "media_key": "16_2029191471698710528",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HCki5HPakAAwNWq.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HCki5HPakAAwNWq.mp4"
+          }
+        ],
+        "width": 342
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2029191471698710528"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2029191490766029295",
+        "created_at": "2026-03-04T13:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T14:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029191490766029295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Kgf0X80YB",
+              "end": 28,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2029191490766029295/photo/1",
+              "media_key": "16_2029191471698710528",
+              "start": 5,
+              "url": "https://t.co/5Kgf0X80YB"
+            },
+            {
+              "display_url": "x.com/RebeuDeter/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/RebeuDeter/status/2029114386988626052",
+              "start": 29,
+              "url": "https://t.co/d3XHJgAM9Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029191490766029295",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029114386988626052",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咪啪~☆ https://t.co/5Kgf0X80YB https://t.co/d3XHJgAM9Q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3390937060",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1550165958773223425",
+              "name": "Billy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1550165958773223425",
+              "name": "Billy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615080622272512",
+              "name": "Twitch streamers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1550165958773223425",
+              "name": "Billy"
+            }
+          }
+        ],
+        "conversation_id": "2029114386988626052",
+        "created_at": "2026-03-04T08:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T09:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029114386988626052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029114386988626052",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 52429,
+          "like_count": 1825,
+          "quote_count": 17,
+          "reply_count": 53,
+          "retweet_count": 252
+        },
+        "reply_settings": "everyone",
+        "text": "Nippah ≧◡≦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 4303,
+          "like_count": 139788,
+          "listed_count": 3,
+          "media_count": 1106,
+          "tweet_count": 5219
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-24T12:05:44.000Z",
+        "description": "La même miff qu'avant",
+        "id": "3390937060",
+        "location": "Hueco Mondo",
+        "name": "Billy",
+        "pinned_tweet_id": "2027093606788468856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021607012304662528/rggEg-YO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3198841,
+          "following_count": 2151,
+          "like_count": 102382,
+          "listed_count": 761,
+          "media_count": 832,
+          "tweet_count": 42061
+        },
+        "username": "RebeuDeter",
+        "verified": true
+      }
+    ]
+  }
+}

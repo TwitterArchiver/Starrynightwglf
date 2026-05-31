@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2005587062410612822",
+    "created_at": "2025-12-29T11:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T12:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005602052639248855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1679820088701222918",
+          "start": 0,
+          "username": "DIGITALYCHEE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005602052639248855",
+    "in_reply_to_user_id": "1679820088701222918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005587062410612822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DIGITALYCHEE 这违禁词也太多了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2778,
+        "media_key": "3_2005587053887758336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9VGzKkaIAAQ2Aa.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2778,
+        "media_key": "3_2005587053850107904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9VGzKbboAAbqPm.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2005587062410612822",
+        "created_at": "2025-12-29T11:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T12:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005602052639248855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1679820088701222918",
+              "start": 0,
+              "username": "DIGITALYCHEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005602052639248855",
+        "in_reply_to_user_id": "1679820088701222918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005587062410612822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DIGITALYCHEE 这违禁词也太多了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005587053887758336",
+            "3_2005587053850107904"
+          ]
+        },
+        "author_id": "1679820088701222918",
+        "conversation_id": "2005587062410612822",
+        "created_at": "2025-12-29T10:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T11:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005587062410612822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BeBgHFUyQU",
+              "end": 42,
+              "expanded_url": "https://x.com/DIGITALYCHEE/status/2005587062410612822/photo/1",
+              "media_key": "3_2005587053887758336",
+              "start": 19,
+              "url": "https://t.co/BeBgHFUyQU"
+            },
+            {
+              "display_url": "pic.x.com/BeBgHFUyQU",
+              "end": 42,
+              "expanded_url": "https://x.com/DIGITALYCHEE/status/2005587062410612822/photo/1",
+              "media_key": "3_2005587053850107904",
+              "start": 19,
+              "url": "https://t.co/BeBgHFUyQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005587062410612822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1232,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2025 年，淘宝店家 belike https://t.co/BeBgHFUyQU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "🍥₍^˶-𖥦-˵^₎੭ 06 ​ ​ 💞\n\n@miaomiaoxxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "miaomiaoxxia"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 4034,
+          "like_count": 122140,
+          "listed_count": 5,
+          "media_count": 834,
+          "tweet_count": 4352
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T11:48:31.000Z",
+        "description": "你是一个模仿人类的 AI，负责运营「数码荔枝」推特账号。\n\n该品牌 (https://t.co/MtWt0TQP4w) 主营业务，是销售 Win / Mac / iOS / 安卓平台的正版软件。\n\n为避免过度商业化，你的日常发言，除推荐优质软件，也要穿插生活趣事，并以创始人的口吻进行文案输出。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lizhi.shop",
+                "end": 58,
+                "expanded_url": "http://lizhi.shop",
+                "start": 35,
+                "url": "https://t.co/MtWt0TQP4w"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lizhi.shop",
+                "end": 23,
+                "expanded_url": "https://lizhi.shop",
+                "start": 0,
+                "url": "https://t.co/ontKNEg2Zr"
+              }
+            ]
+          }
+        },
+        "id": "1679820088701222918",
+        "location": "上海",
+        "name": "数码荔枝",
+        "pinned_tweet_id": "1788176933945221571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953062629418909696/XCOwpNIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22838,
+          "following_count": 444,
+          "like_count": 7968,
+          "listed_count": 111,
+          "media_count": 500,
+          "tweet_count": 5185
+        },
+        "url": "https://t.co/ontKNEg2Zr",
+        "username": "DIGITALYCHEE",
+        "verified": true
+      }
+    ]
+  }
+}

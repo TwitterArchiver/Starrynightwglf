@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2003478106389299327",
+    "created_at": "2025-12-23T19:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T20:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003546424588501454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1928711169419956224",
+          "start": 0,
+          "username": "GoSailGlobal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003546424588501454",
+    "in_reply_to_user_id": "1928711169419956224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003478106389299327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GoSailGlobal 其实可以用QQ登录，是新号🤓\n有几个QQ就能有几个小号"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 506,
+        "media_key": "3_2003477866609098752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83IgTqXwAAGJfa.png",
+        "width": 732
+      },
+      {
+        "height": 1084,
+        "media_key": "3_2003477960024637440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83IlvqXwAACW1b.jpg",
+        "width": 730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2003478106389299327",
+        "created_at": "2025-12-23T19:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T20:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003546424588501454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1928711169419956224",
+              "start": 0,
+              "username": "GoSailGlobal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003546424588501454",
+        "in_reply_to_user_id": "1928711169419956224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003478106389299327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GoSailGlobal 其实可以用QQ登录，是新号🤓\n有几个QQ就能有几个小号"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003477866609098752",
+            "3_2003477960024637440"
+          ]
+        },
+        "author_id": "1928711169419956224",
+        "conversation_id": "2003478106389299327",
+        "created_at": "2025-12-23T14:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T15:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003478106389299327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ygDRPCIqGM",
+              "end": 70,
+              "expanded_url": "https://x.com/GoSailGlobal/status/2003478106389299327/photo/1",
+              "media_key": "3_2003477866609098752",
+              "start": 47,
+              "url": "https://t.co/ygDRPCIqGM"
+            },
+            {
+              "display_url": "pic.x.com/ygDRPCIqGM",
+              "end": 70,
+              "expanded_url": "https://x.com/GoSailGlobal/status/2003478106389299327/photo/1",
+              "media_key": "3_2003477960024637440",
+              "start": 47,
+              "url": "https://t.co/ygDRPCIqGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003478106389299327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 35975,
+          "like_count": 192,
+          "quote_count": 2,
+          "reply_count": 42,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "果然有需求，就有解决方案\n\n拼多多买东西需要三人成团，不想打扰朋友\n\n那就闲鱼上买两个人头😁 https://t.co/ygDRPCIqGM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "🍥₍^˶-𖥦-˵^₎੭ 06   💞@miaomiaoxxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "miaomiaoxxia"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1640,
+          "following_count": 4005,
+          "like_count": 121392,
+          "listed_count": 5,
+          "media_count": 821,
+          "tweet_count": 4302
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T07:13:12.000Z",
+        "description": "祝英台的祝，不是朱👀\n搞钱实践派，独立开发，AI SaaS出海， AI价值内容分享 \n让AI工具就像积木一样构建产品，拼出无限可能！\n商务合作｜咨询｜推特增长｜企业培训 ｜青少年AI启蒙 \n👉🏻 https://t.co/BDEkVzuMst",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lnk.bio/JasonZhu",
+                "end": 121,
+                "expanded_url": "http://lnk.bio/JasonZhu",
+                "start": 98,
+                "url": "https://t.co/BDEkVzuMst"
+              }
+            ]
+          }
+        },
+        "id": "1928711169419956224",
+        "location": "china",
+        "name": "Jason Zhu",
+        "pinned_tweet_id": "1949467524669776131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002004911635210240/14rERQZ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10224,
+          "following_count": 1656,
+          "like_count": 6663,
+          "listed_count": 95,
+          "media_count": 505,
+          "tweet_count": 3243
+        },
+        "username": "GoSailGlobal",
+        "verified": true
+      }
+    ]
+  }
+}

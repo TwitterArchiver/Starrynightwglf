@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1850035187784220697",
+    "created_at": "2024-10-26T04:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T05:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1850035187784220697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jakobsonradica…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/jakobsonradical/status/1849968741603561889",
+          "start": 7,
+          "url": "https://t.co/CK6YLZyt22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850035187784220697",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849968741603561889",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "管真宽... https://t.co/CK6YLZyt22"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1850035187784220697",
+        "created_at": "2024-10-26T04:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T05:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850035187784220697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jakobsonradica…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/jakobsonradical/status/1849968741603561889",
+              "start": 7,
+              "url": "https://t.co/CK6YLZyt22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850035187784220697",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849968741603561889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "管真宽... https://t.co/CK6YLZyt22"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1849968737627275264",
+            "3_1849968738843623427"
+          ]
+        },
+        "author_id": "1249525383797456898",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1849968741603561889",
+        "created_at": "2024-10-26T00:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T01:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1849968741603561889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X5czhitYF1",
+              "end": 122,
+              "expanded_url": "https://x.com/jakobsonradical/status/1849968741603561889/photo/1",
+              "media_key": "3_1849968737627275264",
+              "start": 99,
+              "url": "https://t.co/X5czhitYF1"
+            },
+            {
+              "display_url": "pic.x.com/X5czhitYF1",
+              "end": 122,
+              "expanded_url": "https://x.com/jakobsonradical/status/1849968741603561889/photo/1",
+              "media_key": "3_1849968738843623427",
+              "start": 99,
+              "url": "https://t.co/X5czhitYF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1849968741603561889",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 39579,
+          "like_count": 286,
+          "quote_count": 4,
+          "reply_count": 42,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "有网友称：宁夏理工学院电气信息工程学院多名学生因使用游戏加速器、访问外网、使用夸克、迅雷，玩《沙威玛传奇》等被处分。\n该学院规定禁止学生使用VPN，并在学校组织网络安全教育，但没想到打击面这么广。 https://t.co/X5czhitYF1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一ing🏫┃🏳️‍⚧🍥无证😭┃坐标郑州📍┃没有什么突出的爱好，是个不太有趣的人┃不在乎立场，也不喜欢建政┃欢迎互fo喵🥺（只是中推小透明，fo不fo都无所谓啦，能一眼我就很开心了）┃高强度刷推┃点赞是手干的，不是我干的┃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awawawawawawa.net",
+                "end": 23,
+                "expanded_url": "http://awawawawawawa.net",
+                "start": 0,
+                "url": "https://t.co/Q4WoIflVHh"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "无何有",
+        "name": "Starrynight風阁",
+        "pinned_tweet_id": "1847670974730350853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840001644190412801/y2jbIt1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 2866,
+          "like_count": 16520,
+          "listed_count": 0,
+          "tweet_count": 1067
+        },
+        "url": "https://t.co/Q4WoIflVHh",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217513,
+          "following_count": 1499,
+          "like_count": 43827,
+          "listed_count": 900,
+          "tweet_count": 23538
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

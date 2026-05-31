@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2020884555172094048",
+    "created_at": "2026-02-10T10:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T11:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021174322077855756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1941500711675854848",
+          "start": 0,
+          "username": "xirichaoxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021174322077855756",
+    "in_reply_to_user_id": "1941500711675854848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020884555172094048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xirichaoxi 样貌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2020884555172094048",
+        "created_at": "2026-02-10T10:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T11:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021174322077855756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1941500711675854848",
+              "start": 0,
+              "username": "xirichaoxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021174322077855756",
+        "in_reply_to_user_id": "1941500711675854848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020884555172094048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xirichaoxi 样貌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941500711675854848",
+        "conversation_id": "2020884555172094048",
+        "created_at": "2026-02-09T15:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020884555172094048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020884555172094048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 24217,
+          "like_count": 193,
+          "quote_count": 14,
+          "reply_count": 104,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "忘记一个人，是先忘记声音还是先忘记样貌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1771,
+          "following_count": 4221,
+          "like_count": 132978,
+          "listed_count": 3,
+          "media_count": 1000,
+          "tweet_count": 4834
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T14:14:09.000Z",
+        "description": "一只胖胖的熊(破碎女高)\n🚪38，可以提供陪聊服务✧٩(ˊωˋ*)و✧",
+        "id": "1941500711675854848",
+        "name": "故事一无所有",
+        "pinned_tweet_id": "2004056275697701202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995573692131409922/qccbuSOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 123,
+          "like_count": 518,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 301
+        },
+        "username": "xirichaoxi",
+        "verified": false
+      }
+    ]
+  }
+}

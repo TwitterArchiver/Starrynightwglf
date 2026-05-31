@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1993606844435026161",
+    "created_at": "2025-11-26T09:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T10:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993606844435026161"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qqqqqf5/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/qqqqqf5/status/1993583830528348329",
+          "start": 7,
+          "url": "https://t.co/s9znefoanI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993606844435026161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993583830528348329",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已严肃学习🫡 https://t.co/s9znefoanI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1005,
+        "media_key": "3_1993583824807350272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6qh7RubUAASqTj.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1993606844435026161",
+        "created_at": "2025-11-26T09:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T10:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993606844435026161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qqqqqf5/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/qqqqqf5/status/1993583830528348329",
+              "start": 7,
+              "url": "https://t.co/s9znefoanI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993606844435026161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993583830528348329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已严肃学习🫡 https://t.co/s9znefoanI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993583824807350272"
+          ]
+        },
+        "author_id": "1618557658163970049",
+        "conversation_id": "1993583830528348329",
+        "created_at": "2025-11-26T07:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T08:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993583830528348329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I9Gx4YZTjL",
+              "end": 27,
+              "expanded_url": "https://x.com/qqqqqf5/status/1993583830528348329/photo/1",
+              "media_key": "3_1993583824807350272",
+              "start": 4,
+              "url": "https://t.co/I9Gx4YZTjL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993583830528348329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2623,
+          "like_count": 66,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "是真的 https://t.co/I9Gx4YZTjL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃鱼鱼蒸┃重读大一ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州📍┃发点日常（可能掉落涩涩）┃是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃能多在意我一点点吗🥺┃🚪25┃叫我小风🎐┃妹妹也是恋人💞@miaomiaoxxia┃别离开我好吗好的😔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "miaomiaoxxia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf2",
+                "start": 0,
+                "url": "https://t.co/NlD2zt0DAC"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "小夏怀里",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 3942,
+          "like_count": 118182,
+          "listed_count": 5,
+          "media_count": 730,
+          "tweet_count": 4114
+        },
+        "url": "https://t.co/NlD2zt0DAC",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "拒绝键政 | 如果你有键政成分我都会block\n爱发梗图和生活日常 ｜ 偶尔爆照\n都是转发的图!!! 如果图片让你生气了 请不要骂我好不好\n逃生舱:@qqqqqf_\nNGL匿名提问箱:https://t.co/vkfKFLuIsm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 74,
+                "username": "qqqqqf_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/qqqqqf51",
+                "end": 115,
+                "expanded_url": "https://ngl.link/qqqqqf51",
+                "start": 92,
+                "url": "https://t.co/vkfKFLuIsm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTRmX7"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "1989724969690173744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962054912130600960/NK8jfwgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4051,
+          "following_count": 1952,
+          "like_count": 8055,
+          "listed_count": 9,
+          "media_count": 1017,
+          "tweet_count": 2764
+        },
+        "url": "https://t.co/Qfc6ZTRmX7",
+        "username": "qqqqqf5",
+        "verified": false
+      }
+    ]
+  }
+}

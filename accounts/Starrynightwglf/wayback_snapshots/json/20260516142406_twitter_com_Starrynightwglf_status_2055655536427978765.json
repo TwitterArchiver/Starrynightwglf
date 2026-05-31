@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2055655277777891329",
+        "3_2055654456629547008"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2055655536427978765",
+    "created_at": "2026-05-16T14:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055655536427978765"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Us6g5V9qc9",
+          "end": 73,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2055655536427978765/video/1",
+          "media_key": "7_2055655277777891329",
+          "start": 50,
+          "url": "https://t.co/Us6g5V9qc9"
+        },
+        {
+          "display_url": "pic.x.com/Us6g5V9qc9",
+          "end": 73,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2055655536427978765/video/1",
+          "media_key": "3_2055654456629547008",
+          "start": 50,
+          "url": "https://t.co/Us6g5V9qc9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055655536427978765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在外面游荡等零点吃海底捞中\n——————————\n在门外淋雨听亚细亚大舞台🤨\n讨厌红楼梦挺好听没录 https://t.co/Us6g5V9qc9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 72771,
+        "height": 1280,
+        "media_key": "7_2055655277777891329",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2055655277777891329/pu/img/YlvwL474TRsOGZND.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055655277777891329/pu/vid/avc1/320x568/vLhRL2iOiKWorq8J.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055655277777891329/pu/vid/avc1/480x852/wnnjNzLcRhWfF8F0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055655277777891329/pu/vid/avc1/720x1280/oA0_0GI2rRE_Z5TO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2055655277777891329/pu/pl/MMJ2sfnn6eEnFAkt.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1360,
+        "media_key": "3_2055654456629547008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcm1kRaUAATYQ6.jpg",
+        "width": 1189
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2055655277777891329",
+            "3_2055654456629547008"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2055655536427978765",
+        "created_at": "2026-05-16T14:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055655536427978765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Us6g5V9qc9",
+              "end": 73,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2055655536427978765/video/1",
+              "media_key": "7_2055655277777891329",
+              "start": 50,
+              "url": "https://t.co/Us6g5V9qc9"
+            },
+            {
+              "display_url": "pic.x.com/Us6g5V9qc9",
+              "end": 73,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2055655536427978765/video/1",
+              "media_key": "3_2055654456629547008",
+              "start": 50,
+              "url": "https://t.co/Us6g5V9qc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055655536427978765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在外面游荡等零点吃海底捞中\n——————————\n在门外淋雨听亚细亚大舞台🤨\n讨厌红楼梦挺好听没录 https://t.co/Us6g5V9qc9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2083,
+          "following_count": 4584,
+          "like_count": 157978,
+          "listed_count": 5,
+          "media_count": 1444,
+          "tweet_count": 6418
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

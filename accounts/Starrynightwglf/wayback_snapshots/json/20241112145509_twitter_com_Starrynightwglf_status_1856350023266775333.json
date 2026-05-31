@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1856350023266775333",
+    "created_at": "2024-11-12T14:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-12T15:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1856350023266775333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RayestandRaye/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/RayestandRaye/status/1855993438258475381",
+          "start": 3,
+          "url": "https://t.co/ldRrimEHwK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856350023266775333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855993438258475381",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "附议 https://t.co/ldRrimEHwK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1856350023266775333",
+        "created_at": "2024-11-12T14:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T15:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856350023266775333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RayestandRaye/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/RayestandRaye/status/1855993438258475381",
+              "start": 3,
+              "url": "https://t.co/ldRrimEHwK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856350023266775333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855993438258475381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "附议 https://t.co/ldRrimEHwK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597945043251187712",
+        "conversation_id": "1855993438258475381",
+        "created_at": "2024-11-11T15:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T16:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855993438258475381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1855993438258475381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 852,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我宣布玩玩游戏爱大喊大叫的大学生四千加"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一ing🏫┃🏳️‍⚧🍥无证😭┃坐标郑州📍┃没有什么突出的爱好，是个不太有趣的人🤷‍♀️┃不在乎立场，也不喜欢建政🙅‍♀┃欢迎互fo喵🥺（只是中推小透明，fo不fo都无所谓啦，能一眼我就很开心了）┃高强度刷推😁┃点赞是手干的，不是我干的😗┃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qaqaqaqaqaqaqaqaqaq.net",
+                "end": 23,
+                "expanded_url": "http://qaqaqaqaqaqaqaqaqaq.net",
+                "start": 0,
+                "url": "https://t.co/h3pADwksQy"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "无何有",
+        "name": "Starrynight風阁🍥",
+        "pinned_tweet_id": "1847670974730350853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840001644190412801/y2jbIt1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 3013,
+          "like_count": 32099,
+          "listed_count": 0,
+          "tweet_count": 1776
+        },
+        "url": "https://t.co/h3pADwksQy",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T13:26:10.000Z",
+        "description": "命运笼罩我以不公，我却将它谱成诗歌\n倘若今日仍是坚韧，那么死亡明日再说",
+        "id": "1597945043251187712",
+        "location": "前往天国的道路",
+        "name": "Rayest",
+        "pinned_tweet_id": "1761444674458497366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840229291944226817/Fzug8ErE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 632,
+          "like_count": 40420,
+          "listed_count": 6,
+          "tweet_count": 8490
+        },
+        "username": "RayestandRaye",
+        "verified": false
+      }
+    ]
+  }
+}

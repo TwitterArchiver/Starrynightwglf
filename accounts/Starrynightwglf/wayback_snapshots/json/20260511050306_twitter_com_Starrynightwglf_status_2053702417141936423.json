@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2052103147099979974",
+    "created_at": "2026-05-11T05:03:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T06:03:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053702417141936423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053702417141936423",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052103147099979974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 好听🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 56730,
+        "height": 3840,
+        "media_key": "13_2052102833739300864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052102833739300864/img/A9OigiyDG0m-6l4g.jpg",
+        "public_metrics": {
+          "view_count": 145
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052102833739300864/vid/avc1/1080x1920/NWoHyDoUfe7AM3dj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052102833739300864/vid/avc1/720x1280/vZ1fV5_8IZolH4Ph.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052102833739300864/vid/avc1/2160x3840/w1B1ypCM_d2DC8KK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052102833739300864/pl/EIJyK96T79XtBSg5.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052102833739300864/vid/avc1/320x568/DXuuj-z9cxN6njRa.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052102833739300864/vid/avc1/480x852/sFaw8AQheX6KNH1i.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2052103147099979974",
+        "created_at": "2026-05-11T05:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T06:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053702417141936423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053702417141936423",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052103147099979974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 好听🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052102833739300864"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2052103147099979974",
+        "created_at": "2026-05-06T19:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T20:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052103147099979974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4vXY7MuDZv",
+              "end": 34,
+              "expanded_url": "https://x.com/0xo_snow/status/2052103147099979974/video/1",
+              "media_key": "13_2052102833739300864",
+              "start": 11,
+              "url": "https://t.co/4vXY7MuDZv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052103147099979974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 744,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对主人魂牵梦萦～～～ https://t.co/4vXY7MuDZv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 4542,
+          "like_count": 156092,
+          "listed_count": 5,
+          "media_count": 1409,
+          "tweet_count": 6300
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=恋 🎀 变得可爱是唯一追求 ！ip北京｜一般路过美少女厨｜亮点是我的日常｜持续接线下ing入门咨询ᗜ ‸ ᗜ",
+        "id": "1522094329954652161",
+        "location": "🚪88回讯息/解锁线下•⩊•背景有赞赏码可备注微信号喵",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "2052704767655424114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017787889955098624/u0R2iAGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18143,
+          "following_count": 416,
+          "like_count": 16227,
+          "listed_count": 34,
+          "media_count": 1298,
+          "tweet_count": 13822
+        },
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

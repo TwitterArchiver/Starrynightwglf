@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2010050296677048600",
+    "created_at": "2026-01-11T06:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T07:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010240860563386689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1225274552940318720",
+          "start": 0,
+          "username": "realOliverSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010240860563386689",
+    "in_reply_to_user_id": "1225274552940318720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010050296677048600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realOliverSama 煮习"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010050286384197632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-UiFfSaMAAnYVy.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2010050286510059520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-UiFfwasAAbLa_.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2010050296677048600",
+        "created_at": "2026-01-11T06:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T07:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010240860563386689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1225274552940318720",
+              "start": 0,
+              "username": "realOliverSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010240860563386689",
+        "in_reply_to_user_id": "1225274552940318720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010050296677048600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realOliverSama 煮习"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010050286384197632",
+            "3_2010050286510059520"
+          ]
+        },
+        "author_id": "1225274552940318720",
+        "conversation_id": "2010050296677048600",
+        "created_at": "2026-01-10T18:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T19:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010050296677048600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j39o0WsIXs",
+              "end": 30,
+              "expanded_url": "https://x.com/realOliverSama/status/2010050296677048600/photo/1",
+              "media_key": "3_2010050286384197632",
+              "start": 7,
+              "url": "https://t.co/j39o0WsIXs"
+            },
+            {
+              "display_url": "pic.x.com/j39o0WsIXs",
+              "end": 30,
+              "expanded_url": "https://x.com/realOliverSama/status/2010050296677048600/photo/1",
+              "media_key": "3_2010050286510059520",
+              "start": 7,
+              "url": "https://t.co/j39o0WsIXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010050296677048600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7280,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我请问呢🤡… https://t.co/j39o0WsIXs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 4096,
+          "like_count": 125129,
+          "listed_count": 5,
+          "media_count": 879,
+          "tweet_count": 4493
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-06T04:26:49.000Z",
+        "description": "那些后来才懂要说的话 @Zerlight0653",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "Zerlight0653"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kogabyoliver?s…",
+                "end": 23,
+                "expanded_url": "https://x.com/kogabyoliver?s=21",
+                "start": 0,
+                "url": "https://t.co/wqRTCJtvb8"
+              }
+            ]
+          }
+        },
+        "id": "1225274552940318720",
+        "location": "Ocean Blvd.",
+        "name": "Oliver",
+        "pinned_tweet_id": "1998669860482764804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006206595794100224/JByCjF8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16816,
+          "following_count": 909,
+          "like_count": 56747,
+          "listed_count": 19,
+          "media_count": 686,
+          "tweet_count": 4162
+        },
+        "url": "https://t.co/wqRTCJtvb8",
+        "username": "realOliverSama",
+        "verified": false
+      }
+    ]
+  }
+}

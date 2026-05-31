@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2053071954815668243",
+    "created_at": "2026-05-09T11:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T12:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053071954815668243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041159531657416704",
+          "start": 3,
+          "username": "amber_digit2"
+        },
+        {
+          "end": 85,
+          "id": "1397850509323554817",
+          "start": 72,
+          "username": "noaayoyaoaya"
+        }
+      ],
+      "urls": [
+        {
+          "description": "You can contact @amberjellyfish right away.",
+          "display_url": "t.me/amberjellyfish",
+          "end": 60,
+          "expanded_url": "http://t.me/amberjellyfish",
+          "start": 37,
+          "status": 200,
+          "title": "amber",
+          "unwound_url": "https://t.me/amberjellyfish",
+          "url": "https://t.co/JaDsVYdlvP"
+        },
+        {
+          "description": "You are invited to a group chat on Telegram. Click to",
+          "display_url": "t.me/+JJru1O0uCsgyO…",
+          "end": 122,
+          "expanded_url": "https://t.me/+JJru1O0uCsgyOGY1",
+          "images": [
+            {
+              "height": 256,
+              "url": "https://pbs.twimg.com/news_img/2052900016495222786/OTMTrJZX?format=png&name=orig",
+              "width": 256
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2052900016495222786/OTMTrJZX?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 99,
+          "status": 200,
+          "title": "Join group chat on Telegram",
+          "unwound_url": "https://t.me/+JJru1O0uCsgyOGY1",
+          "url": "https://t.co/sq2sM3T4UI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053071954815668243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052900015870206229",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_digit2: 退推一段时间，有事情请联系我 tg：\nhttps://t.co/JaDsVYdlvP\n也可以直接私信那由：\n@noaayoyaoaya \n日常内容会发在频道里：\nhttps://t.co/sq2sM3T4UI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2053071954815668243",
+        "created_at": "2026-05-09T11:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053071954815668243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041159531657416704",
+              "start": 3,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 85,
+              "id": "1397850509323554817",
+              "start": 72,
+              "username": "noaayoyaoaya"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You can contact @amberjellyfish right away.",
+              "display_url": "t.me/amberjellyfish",
+              "end": 60,
+              "expanded_url": "http://t.me/amberjellyfish",
+              "start": 37,
+              "status": 200,
+              "title": "amber",
+              "unwound_url": "https://t.me/amberjellyfish",
+              "url": "https://t.co/JaDsVYdlvP"
+            },
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+JJru1O0uCsgyO…",
+              "end": 122,
+              "expanded_url": "https://t.me/+JJru1O0uCsgyOGY1",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2052900016495222786/OTMTrJZX?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2052900016495222786/OTMTrJZX?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 99,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+JJru1O0uCsgyOGY1",
+              "url": "https://t.co/sq2sM3T4UI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053071954815668243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052900015870206229",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_digit2: 退推一段时间，有事情请联系我 tg：\nhttps://t.co/JaDsVYdlvP\n也可以直接私信那由：\n@noaayoyaoaya \n日常内容会发在频道里：\nhttps://t.co/sq2sM3T4UI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2052900015870206229",
+        "created_at": "2026-05-08T23:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T00:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052900015870206229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 67,
+              "id": "1397850509323554817",
+              "start": 54,
+              "username": "noaayoyaoaya"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You can contact @amberjellyfish right away.",
+              "display_url": "t.me/amberjellyfish",
+              "end": 42,
+              "expanded_url": "http://t.me/amberjellyfish",
+              "start": 19,
+              "status": 200,
+              "title": "amber",
+              "unwound_url": "https://t.me/amberjellyfish",
+              "url": "https://t.co/JaDsVYdlvP"
+            },
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+JJru1O0uCsgyO…",
+              "end": 104,
+              "expanded_url": "https://t.me/+JJru1O0uCsgyOGY1",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2052900016495222786/OTMTrJZX?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2052900016495222786/OTMTrJZX?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 81,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+JJru1O0uCsgyOGY1",
+              "url": "https://t.co/sq2sM3T4UI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052900015870206229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8966,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "退推一段时间，有事情请联系我 tg：\nhttps://t.co/JaDsVYdlvP\n也可以直接私信那由：\n@noaayoyaoaya \n日常内容会发在频道里：\nhttps://t.co/sq2sM3T4UI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2065,
+          "following_count": 4533,
+          "like_count": 155645,
+          "listed_count": 5,
+          "media_count": 1402,
+          "tweet_count": 6269
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "备用 @medusozoa_amber\n也可以直接私信那由 @noaayoyaoaya\n公开频道: https://t.co/9vOZUHGUOo\n\nhttps://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "medusozoa_amber"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+JJru1O0uCsgyO…",
+                "end": 73,
+                "expanded_url": "http://t.me/+JJru1O0uCsgyOGY1",
+                "start": 50,
+                "url": "https://t.co/9vOZUHGUOo"
+              },
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 98,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 75,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://t.me/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/Mu7nsgG4NQ"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 81,
+          "like_count": 19,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 303
+        },
+        "url": "https://t.co/Mu7nsgG4NQ",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-27T09:42:01.000Z",
+        "description": "你好 我是那由\n小号 @noaayoyaoaya1\n🐱@kirimarainfelis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "noaayoyaoaya1"
+              },
+              {
+                "end": 43,
+                "start": 27,
+                "username": "kirimarainfelis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Hp2U0Rck9wU5O…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Hp2U0Rck9wU5OGY0",
+                "start": 0,
+                "url": "https://t.co/aEspHWpK7M"
+              }
+            ]
+          }
+        },
+        "id": "1397850509323554817",
+        "name": "那由",
+        "pinned_tweet_id": "1947921475203436797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626023028818681860/Tg9u2Z8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21060,
+          "following_count": 795,
+          "like_count": 10625,
+          "listed_count": 33,
+          "media_count": 115,
+          "tweet_count": 5183
+        },
+        "url": "https://t.co/aEspHWpK7M",
+        "username": "noaayoyaoaya",
+        "verified": true
+      }
+    ]
+  }
+}

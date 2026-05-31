@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2008580611557204099",
+    "created_at": "2026-01-06T16:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T17:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008580611557204099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1601893417549967360",
+          "start": 3,
+          "username": "AcboxLiu"
+        },
+        {
+          "end": 30,
+          "id": "1683224474",
+          "start": 14,
+          "username": "YangYan60107172"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008580611557204099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008536448895688922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AcboxLiu: @YangYan60107172 你是生产队的公猪吗？脑子里只有配种了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2008580611557204099",
+        "created_at": "2026-01-06T16:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T17:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008580611557204099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1601893417549967360",
+              "start": 3,
+              "username": "AcboxLiu"
+            },
+            {
+              "end": 30,
+              "id": "1683224474",
+              "start": 14,
+              "username": "YangYan60107172"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008580611557204099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008536448895688922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AcboxLiu: @YangYan60107172 你是生产队的公猪吗？脑子里只有配种了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "conversation_id": "2008149704283210076",
+        "created_at": "2026-01-06T13:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T14:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008536448895688922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1683224474",
+              "start": 0,
+              "username": "YangYan60107172"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008536448895688922",
+        "in_reply_to_user_id": "1683224474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1472,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008149704283210076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangYan60107172 你是生产队的公猪吗？脑子里只有配种了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1650,
+          "following_count": 4053,
+          "like_count": 124053,
+          "listed_count": 5,
+          "media_count": 861,
+          "tweet_count": 4437
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/She&Her/💻开源开发/🎨平面设计/🚇轨道交通/全栈&LLM&UI&UX/🐱Github: sheepbox8646/Building ChatTutor/❤️大猫：@Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "Dustella_Chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvKAZ"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "Suzhou",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "2001697455390507470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000629929281810432/W3tlGjqs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10667,
+          "following_count": 2995,
+          "like_count": 2985,
+          "listed_count": 41,
+          "media_count": 1190,
+          "tweet_count": 6108
+        },
+        "url": "https://t.co/mRP5RDvKAZ",
+        "username": "AcboxLiu",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-19T13:03:39.000Z",
+        "description": "Chinese Tiger Mother\n小红书搬运工。如果侵犯了您的版权，请联系我，我会24小时里删帖。",
+        "id": "1683224474",
+        "location": "Toronto, Ontario",
+        "name": "Yang Yang",
+        "pinned_tweet_id": "2006795703893549224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1401214866770300928/FDCYDONH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4198,
+          "following_count": 1789,
+          "like_count": 500373,
+          "listed_count": 13,
+          "media_count": 1839,
+          "tweet_count": 43293
+        },
+        "username": "YangYan60107172",
+        "verified": false
+      }
+    ]
+  }
+}

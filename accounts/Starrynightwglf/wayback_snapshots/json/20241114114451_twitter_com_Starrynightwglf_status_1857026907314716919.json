@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1857026329637454093",
+    "created_at": "2024-11-14T11:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T12:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857026907314716919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1794825887554387968",
+          "start": 0,
+          "username": "obensern55107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857026907314716919",
+    "in_reply_to_user_id": "1794825887554387968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857026466384367746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@obensern55107 宿舍的昏暗日光灯，拍什么都一股死感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1857026329637454093",
+        "created_at": "2024-11-14T11:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T12:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857026907314716919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1794825887554387968",
+              "start": 0,
+              "username": "obensern55107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857026907314716919",
+        "in_reply_to_user_id": "1794825887554387968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857026466384367746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@obensern55107 宿舍的昏暗日光灯，拍什么都一股死感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794825887554387968",
+        "conversation_id": "1857026329637454093",
+        "created_at": "2024-11-14T11:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T12:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857026466384367746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1563508655256850433",
+              "start": 0,
+              "username": "Starrynightwglf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857026466384367746",
+        "in_reply_to_user_id": "1563508655256850433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857026329637454093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starrynightwglf 怎么是这个质感的（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一ing🏫┃🏳️‍⚧🍥无证😭┃坐标郑州📍┃没有什么突出的爱好，是个不太有趣的人🤷‍♀️┃不在乎立场，也不喜欢建政🙅‍♀┃欢迎互fo喵🥺（只是中推小透明，fo不fo都无所谓啦，能一眼我就很开心了）┃高强度刷推😁┃点赞是手干的，不是我干的😗┃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qaqaqaqaqaqaqaqaqaq.net",
+                "end": 23,
+                "expanded_url": "http://qaqaqaqaqaqaqaqaqaq.net",
+                "start": 0,
+                "url": "https://t.co/h3pADwksQy"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "无何有",
+        "name": "Starrynight風阁🍥",
+        "pinned_tweet_id": "1847670974730350853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840001644190412801/y2jbIt1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 3025,
+          "like_count": 34363,
+          "listed_count": 0,
+          "tweet_count": 1849
+        },
+        "url": "https://t.co/h3pADwksQy",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T20:21:30.000Z",
+        "description": "嗯？你在看什么？这里没有简介",
+        "id": "1794825887554387968",
+        "name": "九重色",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836400044448092160/D2b9L3AN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 510,
+          "like_count": 18507,
+          "listed_count": 0,
+          "tweet_count": 889
+        },
+        "username": "obensern55107",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2000920950888661107",
+    "created_at": "2025-12-16T16:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T17:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000961521611104391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936481820608208897",
+          "start": 0,
+          "username": "tcxxstoutou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000961521611104391",
+    "in_reply_to_user_id": "1936481820608208897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000920950888661107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tcxxstoutou 能不能不要打开自动刷新..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2000920950888661107",
+        "created_at": "2025-12-16T16:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T17:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000961521611104391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936481820608208897",
+              "start": 0,
+              "username": "tcxxstoutou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000961521611104391",
+        "in_reply_to_user_id": "1936481820608208897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000920950888661107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tcxxstoutou 能不能不要打开自动刷新..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936481820608208897",
+        "conversation_id": "2000920950888661107",
+        "created_at": "2025-12-16T13:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T14:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000920950888661107"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000920950888661107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5968,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "x为什么不能出一个浏览历史功能。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃鱼鱼蒸┃重读大一ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州📍┃发点日常（可能掉落涩涩）┃是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃能多在意我一点点吗🥺┃🚪25┃叫我小风🎐┃妹妹也是恋人💞@miaomiaoxxia┃别离开我好吗好的😔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "miaomiaoxxia"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "小夏怀里",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 4010,
+          "like_count": 120596,
+          "listed_count": 5,
+          "media_count": 796,
+          "tweet_count": 4259
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T17:50:26.000Z",
+        "description": "hi人 祝看到这条的你生活舒心又如意^^｜蛋小妹@imissmyegg｜❗️置顶锁评推广自辨哦❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "imissmyegg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tcxxstoutou",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tcxxstoutou",
+                "start": 0,
+                "url": "https://t.co/IIgb8GLCng"
+              }
+            ]
+          }
+        },
+        "id": "1936481820608208897",
+        "name": "农民妹",
+        "pinned_tweet_id": "2000936430315692471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997518972451950592/w-j_7YdM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2688,
+          "following_count": 217,
+          "like_count": 10719,
+          "listed_count": 4,
+          "media_count": 310,
+          "tweet_count": 3152
+        },
+        "url": "https://t.co/IIgb8GLCng",
+        "username": "tcxxstoutou",
+        "verified": false
+      }
+    ]
+  }
+}

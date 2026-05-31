@@ -1,0 +1,512 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937830343601709056"
+      ],
+      "media_source_tweet_id": [
+        "1937830372034904199"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      }
+    ],
+    "conversation_id": "1937882965167468879",
+    "created_at": "2025-06-25T14:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T15:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937882965167468879"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "ひぐらし",
+          "probability": 0.7052,
+          "start": 35,
+          "type": "Other"
+        },
+        {
+          "end": 50,
+          "normalized_text": "竜宮レナ",
+          "probability": 0.604,
+          "start": 47,
+          "type": "Person"
+        },
+        {
+          "end": 59,
+          "normalized_text": "騙せて",
+          "probability": 0.4539,
+          "start": 57,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1642497406343454721",
+          "start": 3,
+          "username": "nyan_nyan__0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bG5LAEaqKC",
+          "end": 96,
+          "expanded_url": "https://x.com/nyan_nyan__0/status/1937830372034904199/photo/1",
+          "media_key": "3_1937830343601709056",
+          "start": 73,
+          "url": "https://t.co/bG5LAEaqKC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937882965167468879",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937830372034904199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyan_nyan__0: コスプレ/ cosplay\n\n【 ひぐらしのなく頃に 】 竜宮レナ\n\n父さんは騙せても\n私は騙せないから!! https://t.co/bG5LAEaqKC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1937830343601709056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuSObjFaYAAEXaO.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937830343601709056"
+          ],
+          "media_source_tweet_id": [
+            "1937830372034904199"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          }
+        ],
+        "conversation_id": "1937882965167468879",
+        "created_at": "2025-06-25T14:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T15:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937882965167468879"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "ひぐらし",
+              "probability": 0.7052,
+              "start": 35,
+              "type": "Other"
+            },
+            {
+              "end": 50,
+              "normalized_text": "竜宮レナ",
+              "probability": 0.604,
+              "start": 47,
+              "type": "Person"
+            },
+            {
+              "end": 59,
+              "normalized_text": "騙せて",
+              "probability": 0.4539,
+              "start": 57,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1642497406343454721",
+              "start": 3,
+              "username": "nyan_nyan__0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bG5LAEaqKC",
+              "end": 96,
+              "expanded_url": "https://x.com/nyan_nyan__0/status/1937830372034904199/photo/1",
+              "media_key": "3_1937830343601709056",
+              "start": 73,
+              "url": "https://t.co/bG5LAEaqKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937882965167468879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937830372034904199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyan_nyan__0: コスプレ/ cosplay\n\n【 ひぐらしのなく頃に 】 竜宮レナ\n\n父さんは騙せても\n私は騙せないから!! https://t.co/bG5LAEaqKC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937830343601709056"
+          ]
+        },
+        "author_id": "1642497406343454721",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          }
+        ],
+        "conversation_id": "1937830372034904199",
+        "created_at": "2025-06-25T11:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T12:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937830372034904199"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "ひぐらし",
+              "probability": 0.6195,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 32,
+              "normalized_text": "竜宮レナ",
+              "probability": 0.5825,
+              "start": 29,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bG5LAEaqKC",
+              "end": 78,
+              "expanded_url": "https://x.com/nyan_nyan__0/status/1937830372034904199/photo/1",
+              "media_key": "3_1937830343601709056",
+              "start": 55,
+              "url": "https://t.co/bG5LAEaqKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937830372034904199",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1066,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "コスプレ/ cosplay\n\n【 ひぐらしのなく頃に 】 竜宮レナ\n\n父さんは騙せても\n私は騙せないから!! https://t.co/bG5LAEaqKC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一休学ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州/杭州/衢州/沈阳📍┃是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃能多在意我一点点吗🥺┃🚪25┃叫我小风🎐┃妹妹也是恋人@xinxia_mtf┃别离开我好吗好的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 111,
+                "username": "xinxia_mtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJVZU"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "夏夏怀里",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 3790,
+          "like_count": 115700,
+          "listed_count": 5,
+          "media_count": 596,
+          "tweet_count": 3716
+        },
+        "url": "https://t.co/EmFCvLJVZU",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-02T12:01:20.000Z",
+        "description": "無断投稿❌ 雑多 F外通知OFF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/nyan_nyan__0",
+                "end": 23,
+                "expanded_url": "https://twpf.jp/nyan_nyan__0",
+                "start": 0,
+                "url": "https://t.co/sdIm6Yb987"
+              }
+            ]
+          }
+        },
+        "id": "1642497406343454721",
+        "location": "重重重重重重加工",
+        "name": "ねこた 7/4.5.6アコスタ！",
+        "pinned_tweet_id": "1933829197044277541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927995619861483523/ul7MDbjj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 52,
+          "like_count": 23294,
+          "listed_count": 21,
+          "media_count": 279,
+          "tweet_count": 16469
+        },
+        "url": "https://t.co/sdIm6Yb987",
+        "username": "nyan_nyan__0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2019573704347513012",
+    "created_at": "2026-02-06T05:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T06:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019642207494668358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753017942122672128",
+          "start": 0,
+          "username": "wei_hou61815"
+        },
+        {
+          "end": 24,
+          "id": "1488080791125237760",
+          "start": 14,
+          "username": "MengXi969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019642207494668358",
+    "in_reply_to_user_id": "1753017942122672128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019628818894622966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wei_hou61815 @MengXi969 你喝上了吗，我的千问还卡着🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2019573704347513012",
+        "created_at": "2026-02-06T05:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T06:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019642207494668358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753017942122672128",
+              "start": 0,
+              "username": "wei_hou61815"
+            },
+            {
+              "end": 24,
+              "id": "1488080791125237760",
+              "start": 14,
+              "username": "MengXi969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019642207494668358",
+        "in_reply_to_user_id": "1753017942122672128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019628818894622966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wei_hou61815 @MengXi969 你喝上了吗，我的千问还卡着🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753017942122672128",
+        "conversation_id": "2019573704347513012",
+        "created_at": "2026-02-06T04:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T05:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019628818894622966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1563508655256850433",
+              "start": 0,
+              "username": "Starrynightwglf"
+            },
+            {
+              "end": 27,
+              "id": "1488080791125237760",
+              "start": 17,
+              "username": "MengXi969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019628818894622966",
+        "in_reply_to_user_id": "1563508655256850433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019618644112896374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starrynightwglf @MengXi969 😭我们一个宿舍都卡了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1762,
+          "following_count": 4199,
+          "like_count": 131291,
+          "listed_count": 6,
+          "media_count": 977,
+          "tweet_count": 4766
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T11:30:34.000Z",
+        "description": "我",
+        "id": "1753017942122672128",
+        "location": "game",
+        "name": "AWAY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991160724320899072/bzUHvAGC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 255,
+          "like_count": 656,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 114
+        },
+        "username": "wei_hou61815",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "15 y.r. / Full-Stack / CTFer / Student / @ch3rryzhu\n\n👀 Work for @nexaorion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "ch3rryzhu"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "nexaorion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/TIHBlJvfMd"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "location": "People's Republic of China",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1971529195089166440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 2861,
+          "like_count": 79857,
+          "listed_count": 6,
+          "media_count": 930,
+          "tweet_count": 5571
+        },
+        "url": "https://t.co/TIHBlJvfMd",
+        "username": "MengXi969",
+        "verified": true
+      }
+    ]
+  }
+}

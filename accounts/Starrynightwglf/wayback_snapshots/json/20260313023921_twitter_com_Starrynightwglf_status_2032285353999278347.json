@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2032285353999278347",
+    "created_at": "2026-03-13T02:39:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T03:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032285353999278347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Starrynightwgl…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/Starrynightwglf/status/2029861225686003882",
+          "start": 66,
+          "url": "https://t.co/a9Ev4amvlN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032285353999278347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029861225686003882",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "二教311去成了三教211\n明明一个是阶梯教室一个是小教室却完全没发现哪里不对，直到老师来上课了才反应过来\n小风你来地球什么目的😇 https://t.co/a9Ev4amvlN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2032285353999278347",
+        "created_at": "2026-03-13T02:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T03:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032285353999278347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Starrynightwgl…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/Starrynightwglf/status/2029861225686003882",
+              "start": 66,
+              "url": "https://t.co/a9Ev4amvlN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032285353999278347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029861225686003882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "二教311去成了三教211\n明明一个是阶梯教室一个是小教室却完全没发现哪里不对，直到老师来上课了才反应过来\n小风你来地球什么目的😇 https://t.co/a9Ev4amvlN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2029861225686003882",
+        "created_at": "2026-03-06T10:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T11:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029861225686003882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029861225686003882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 476,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开学第一周走错教学楼找不到教室两次看错时间跑空两次漏课一次😇\n一直记不住哪栋楼是几号...换了新课表就找不到教室了😪\n每天就这么懵逼的活着。\n好懵逼啊这是傻逼吧。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866,
+          "following_count": 4317,
+          "like_count": 142877,
+          "listed_count": 3,
+          "media_count": 1152,
+          "tweet_count": 5360
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

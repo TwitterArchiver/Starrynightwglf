@@ -1,0 +1,145 @@
+{
+  "data": {
+    "author_id": "1563508655256850433",
+    "conversation_id": "1849055551403253852",
+    "created_at": "2024-10-23T11:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-23T12:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1849055551403253852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1530220606485983234",
+          "start": 3,
+          "username": "AliciaCervidae"
+        }
+      ]
+    },
+    "id": "1849055551403253852",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848912624257536205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AliciaCervidae: 看了b站上面最近挺火的那个跨性别科普视频\n作为一个左利手人，我在小的时候都受到了很多来自家里与学校的不理解与强制扭转，甚至还有嘲笑\n小学转学，班主任得知情况后第一句话是：“那你能写好字吗”\n集体主义大环境痛恨所有少数人群。连左利手都如此，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1563508655256850433",
+        "conversation_id": "1849055551403253852",
+        "created_at": "2024-10-23T11:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-23T12:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1849055551403253852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1530220606485983234",
+              "start": 3,
+              "username": "AliciaCervidae"
+            }
+          ]
+        },
+        "id": "1849055551403253852",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848912624257536205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AliciaCervidae: 看了b站上面最近挺火的那个跨性别科普视频\n作为一个左利手人，我在小的时候都受到了很多来自家里与学校的不理解与强制扭转，甚至还有嘲笑\n小学转学，班主任得知情况后第一句话是：“那你能写好字吗”\n集体主义大环境痛恨所有少数人群。连左利手都如此，…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一ing🏫┃🏳️‍⚧🍥无证😭┃坐标郑州📍┃没有什么突出的爱好，是个不太有趣的人🤷‍♀️┃不在乎立场，也不喜欢建政🙅‍♀┃欢迎互fo喵🥺（只是中推小透明，fo不fo都无所谓啦，能一眼我就很开心了）┃高强度刷推😁┃点赞是手干的，不是我干的😗┃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJVZU"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "无何有",
+        "name": "Starrynight風阁🍥",
+        "pinned_tweet_id": "1862405062833971450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859531481846362112/-ukC50_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 3116,
+          "like_count": 55499,
+          "listed_count": 4,
+          "media_count": 291,
+          "tweet_count": 2622
+        },
+        "url": "https://t.co/EmFCvLJVZU",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-27T16:13:31.000Z",
+        "description": "Little Witch live in Internet. Alias 鹿鹿",
+        "id": "1530220606485983234",
+        "location": "Our Paradise",
+        "name": "艾莉西亚的梦日记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863120914398707712/85_5_Acg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1949,
+          "following_count": 763,
+          "like_count": 19598,
+          "listed_count": 14,
+          "media_count": 410,
+          "tweet_count": 6938
+        },
+        "username": "AliciaCervidae",
+        "verified": false
+      }
+    ]
+  }
+}

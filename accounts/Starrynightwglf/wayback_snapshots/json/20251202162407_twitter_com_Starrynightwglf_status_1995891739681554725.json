@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1995708219033866491",
+    "created_at": "2025-12-02T16:24:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T17:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995891739681554725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1868163970051211264",
+          "start": 0,
+          "username": "XianoYue86365"
+        },
+        {
+          "end": 29,
+          "id": "1485662446220201994",
+          "start": 15,
+          "username": "koinoesutoron"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995891739681554725",
+    "in_reply_to_user_id": "1868163970051211264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995888627784843379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XianoYue86365 @koinoesutoron 学考过了就是同等学力了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1995708219033866491",
+        "created_at": "2025-12-02T16:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T17:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995891739681554725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1868163970051211264",
+              "start": 0,
+              "username": "XianoYue86365"
+            },
+            {
+              "end": 29,
+              "id": "1485662446220201994",
+              "start": 15,
+              "username": "koinoesutoron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995891739681554725",
+        "in_reply_to_user_id": "1868163970051211264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995888627784843379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XianoYue86365 @koinoesutoron 学考过了就是同等学力了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868163970051211264",
+        "conversation_id": "1995708219033866491",
+        "created_at": "2025-12-02T16:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T17:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995888627784843379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1485662446220201994",
+              "start": 0,
+              "username": "koinoesutoron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995888627784843379",
+        "in_reply_to_user_id": "1485662446220201994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995853829527798136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koinoesutoron 报名高考要高中学历及同等学历毕业证书"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃鱼鱼蒸┃重读大一ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州📍┃发点日常（可能掉落涩涩）┃是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃能多在意我一点点吗🥺┃🚪25┃叫我小风🎐┃妹妹也是恋人💞@miaomiaoxxia┃别离开我好吗好的😔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "miaomiaoxxia"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "小夏怀里",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 3987,
+          "like_count": 118850,
+          "listed_count": 5,
+          "media_count": 742,
+          "tweet_count": 4150
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T05:21:46.000Z",
+        "description": "09︱170㎝ 65㎏︱🏳‍⚧无证含糖 hrt2024.12.17︱容貌焦虑症qwq︱4i︱是弱受喵uwu︱新来的多多关照喵ovo︱喜欢涩涩（同类是最棒哒 欢迎互fo～︱鱼脑（笨︱弱受︱小号@Suochengtuan ︱最好的姐姐～@kill27012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Suochengtuan"
+              },
+              {
+                "end": 126,
+                "start": 116,
+                "username": "kill27012"
+              }
+            ]
+          }
+        },
+        "id": "1868163970051211264",
+        "location": "福建",
+        "name": "羽秋Yuki🏳‍⚧🍥",
+        "pinned_tweet_id": "1958032887762080208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905918810701365250/reTZSqWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 812,
+          "like_count": 3210,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 436
+        },
+        "username": "XianoYue86365",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-24T17:15:21.000Z",
+        "description": "WikipediaのLTAです。\nLGBT｜大学生｜自己嫌悪｜精神疾患｜トランスジェンダー｜LTA｜Wikipedia｜など",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ja.wikipedia.org/wiki/LTA:ISECH…",
+                "end": 23,
+                "expanded_url": "http://ja.wikipedia.org/wiki/LTA:ISECHIKA",
+                "start": 0,
+                "url": "https://t.co/Km1SZud4DW"
+              }
+            ]
+          }
+        },
+        "id": "1485662446220201994",
+        "location": "東京 千代田区",
+        "name": "伊瀬知夏🏳️‍⚧️",
+        "pinned_tweet_id": "1558859092545769472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984410811058831363/2uZasvuq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 42,
+          "like_count": 71,
+          "listed_count": 5,
+          "media_count": 2416,
+          "tweet_count": 6665
+        },
+        "url": "https://t.co/Km1SZud4DW",
+        "username": "koinoesutoron",
+        "verified": false
+      }
+    ]
+  }
+}

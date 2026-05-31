@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1372979536116084740",
+          "name": "Shunji Iwai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1372979536116084740",
+          "name": "Shunji Iwai"
+        }
+      }
+    ],
+    "conversation_id": "1865442818036244510",
+    "created_at": "2024-12-07T17:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T18:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865442818036244510"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 75,
+          "normalized_text": "Otaru",
+          "probability": 0.4564,
+          "start": 71,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "101031400",
+          "start": 3,
+          "username": "sindyeye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865442818036244510",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3037
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864991986396336375",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sindyeye: We had promised to make a pilgrimage to the snow-covered Otaru together in 2025 - for your 40th debut anniversary and the 30t…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1372979536116084740",
+              "name": "Shunji Iwai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1372979536116084740",
+              "name": "Shunji Iwai"
+            }
+          }
+        ],
+        "conversation_id": "1865442818036244510",
+        "created_at": "2024-12-07T17:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T18:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865442818036244510"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 75,
+              "normalized_text": "Otaru",
+              "probability": 0.4564,
+              "start": 71,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "101031400",
+              "start": 3,
+              "username": "sindyeye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865442818036244510",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3037
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864991986396336375",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sindyeye: We had promised to make a pilgrimage to the snow-covered Otaru together in 2025 - for your 40th debut anniversary and the 30t…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "101031400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1372979536116084740",
+              "name": "Shunji Iwai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1372979536116084740",
+              "name": "Shunji Iwai"
+            }
+          }
+        ],
+        "conversation_id": "1864991986396336375",
+        "created_at": "2024-12-06T11:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T12:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864991986396336375"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 61,
+              "normalized_text": "Otaru",
+              "probability": 0.4221,
+              "start": 57,
+              "type": "Other"
+            },
+            {
+              "end": 153,
+              "normalized_text": "Love Letter",
+              "probability": 0.9193,
+              "start": 143,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864991986396336375",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "We had promised to make a pilgrimage to the snow-covered Otaru together in 2025 - for your 40th debut anniversary and the 30th anniversary of \"Love Letter.\"\nAnd then this news of your sudden passing.\nWith so many emotions swirling inside - frustration, deep regret…I am yet unable to give formal words of remembrance…\nTonight, though only in spirit, I wish to be by your side.\n----\n\n出道40周年，电影《情书》上映30周年，就在这样具有纪念意义的2025年即将到来之际，我们还约好趁着还有雪的时候，一起去小樽进行圣地巡礼。然而，这样的约定却在收到讣告的瞬间戛然而止。\n\n内心充满了遗憾和惊讶，种种情绪涌上心头难以平静，现在说出“愿您安息”这句话，对我来说还为时过早。\n\n今晚，东京的天空下我的思念与心意，将陪伴着你。\n\n----\n\n데뷔 40주년, 그리고 <Love Letter> 30주년이라는 뜻깊은 2025년.\n눈이 있는 계절에 함께 오타루에 성지 순례를 가자고 약속했던 찰나에 들려온 비보.\n\n속상한 마음, 허망한 감정, 여러 가지가 소용돌이칩니다만,\n아직은 “명복을 빈다”는 식의 틀에 박힌 말을 하고 싶지 않은 마음도 있습니다...\n\n오늘 밤은 그저 마음으로나마 당신 곁에 있고 싶습니다.\n\n----\n\nデビュー４０周年、「Love Letter」３０周年、そんなメモリアルな来たる2025年、雪のあるうちに一緒に小樽に聖地巡礼しようと約束していた矢先の訃報。\n\n悔しい想い、無念な想い、様々渦巻くけれど。まだご冥福をとか、極り文句は口にしたくない思いもあり。。。\n\n今夜は気持ちだけですが、あなたの側に居ようと思います。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 620,
+          "impression_count": 611318,
+          "like_count": 9825,
+          "quote_count": 244,
+          "reply_count": 95,
+          "retweet_count": 3037
+        },
+        "reply_settings": "everyone",
+        "text": "We had promised to make a pilgrimage to the snow-covered Otaru together in 2025 - for your 40th debut anniversary and the 30th anniversary of \"Love Letter.\"\nAnd then this news of your sudden passing.\nWith so many emotions swirling inside - frustration, deep regret…I am yet…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一ing🏫┃🏳️‍⚧🍥无证😭┃坐标郑州📍┃没有什么突出的爱好，是个不太有趣的人🤷‍♀️┃不在乎立场，也不喜欢建政🙅‍♀┃欢迎互fo喵🥺（只是中推小透明，fo不fo都无所谓啦，能一眼我就很开心了）┃高强度刷推😁┃点赞是手干的，不是我干的😗┃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJVZU"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "无何有",
+        "name": "Starrynight風阁🍥",
+        "pinned_tweet_id": "1862405062833971450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859531481846362112/-ukC50_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 3120,
+          "like_count": 56251,
+          "listed_count": 4,
+          "media_count": 301,
+          "tweet_count": 2658
+        },
+        "url": "https://t.co/EmFCvLJVZU",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-01T18:34:36.000Z",
+        "description": "I’m a film maker since 18 years old.  contact@iwaiff.com",
+        "id": "101031400",
+        "name": "iwai Shunji 岩井俊二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1262758419296972806/ZP2Qms7U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121105,
+          "following_count": 661,
+          "like_count": 3397,
+          "listed_count": 2118,
+          "media_count": 299,
+          "tweet_count": 12656
+        },
+        "username": "sindyeye",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1801967561262940160"
+      ],
+      "media_source_tweet_id": [
+        "1801967593466761414"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "1956502685085306947",
+    "created_at": "2025-08-15T23:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T00:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956502685085306947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1471310644347498498",
+          "start": 3,
+          "username": "wn54321"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iOwE51S8kR",
+          "end": 84,
+          "expanded_url": "https://x.com/wn54321/status/1801967593466761414/video/1",
+          "media_key": "7_1801967561262940160",
+          "start": 61,
+          "url": "https://t.co/iOwE51S8kR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956502685085306947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2030
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801967593466761414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wn54321: 一个恶毒诅咒\n转发的话自己就会变成这样！\n点赞的话兄弟变成这样！\nps：可以假装没看见这条推。 https://t.co/iOwE51S8kR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1956502685085306947].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1956502685085306947",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1956502685085306947"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17043,
+        "height": 1280,
+        "media_key": "7_1801967561262940160",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1801967561262940160/pu/img/8IXveXN_56UavcIK.jpg",
+        "public_metrics": {
+          "view_count": 312914
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1801967561262940160/pu/vid/avc1/320x568/Y37TDyQfWyxC08PX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1801967561262940160/pu/vid/avc1/480x852/5IsTq5r_LdRRE12i.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1801967561262940160/pu/vid/avc1/720x1280/yZ_4DbSMtb6FaVtE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1801967561262940160/pu/pl/WAviZMBNRWKsdBuw.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1801967561262940160"
+          ]
+        },
+        "author_id": "1471310644347498498",
+        "conversation_id": "1801967593466761414",
+        "created_at": "2024-06-15T13:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T14:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801967593466761414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iOwE51S8kR",
+              "end": 71,
+              "expanded_url": "https://x.com/wn54321/status/1801967593466761414/video/1",
+              "media_key": "7_1801967561262940160",
+              "start": 48,
+              "url": "https://t.co/iOwE51S8kR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801967593466761414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2141,
+          "impression_count": 1048767,
+          "like_count": 9403,
+          "quote_count": 37,
+          "reply_count": 105,
+          "retweet_count": 2030
+        },
+        "reply_settings": "everyone",
+        "text": "一个恶毒诅咒\n转发的话自己就会变成这样！\n点赞的话兄弟变成这样！\nps：可以假装没看见这条推。 https://t.co/iOwE51S8kR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一休学ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州/杭州/衢州/沈阳📍┃是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃能多在意我一点点吗🥺┃🚪25┃叫我小风🎐┃妹妹也是恋人💞@xinxia_mtf┃别离开我好吗好的😔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "xinxia_mtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJoam"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "小夏怀里",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 3801,
+          "like_count": 115614,
+          "listed_count": 4,
+          "media_count": 632,
+          "tweet_count": 3811
+        },
+        "url": "https://t.co/EmFCvLJoam",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-16T02:46:24.000Z",
+        "description": "这是一个带各位lsp欣赏美好肉体和美人的直男账号！收集发送的各位老师的照片视频都不会用于欺骗或者损害形象的行为，如果哪位老师看见介意的话，请务必找我，我会立刻马上就删。\nhttps://t.co/XsnMM7zBnS，自用蜂鸟VPN加速器，",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 108,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=Qed0r7e2",
+                "start": 85,
+                "url": "https://t.co/XsnMM7zBnS"
+              }
+            ]
+          }
+        },
+        "id": "1471310644347498498",
+        "location": "在你身后～哎嘿～",
+        "name": "骆萌萌",
+        "pinned_tweet_id": "1801967593466761414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1471311028881223684/2JdzeTvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58508,
+          "following_count": 613,
+          "like_count": 5613,
+          "listed_count": 299,
+          "media_count": 1235,
+          "tweet_count": 7147
+        },
+        "username": "wn54321",
+        "verified": false
+      }
+    ]
+  }
+}

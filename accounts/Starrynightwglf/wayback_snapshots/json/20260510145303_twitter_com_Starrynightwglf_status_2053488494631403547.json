@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053488492270006272"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2053477412441358717",
+    "created_at": "2026-05-10T14:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T15:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053488494631403547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1907059086354690048",
+          "start": 0,
+          "username": "KawaiiYuri2013"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c91ptLnyKa",
+          "end": 179,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2053488494631403547/photo/1",
+          "media_key": "3_2053488492270006272",
+          "start": 156,
+          "url": "https://t.co/c91ptLnyKa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053488494631403547",
+    "in_reply_to_user_id": "1907059086354690048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053477412441358717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawaiiYuri2013 呃啊微信读书导入限制有点多很讨厌，以前送会员的时候用的多一点\n然后因为电纸书是掌阅封闭系统所以后来又用了掌阅方便导入，呃啊有广告，其实关闭联网用着还行\nbooxreader是文石的很干净\n（厚墨很好看但服务器似了，play图书是一坨，静读天下用过好丑删了，用过的不多就这些了😖） https://t.co/c91ptLnyKa"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2053477412441358717].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2053477412441358717",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2053477412441358717"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2053488492270006272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9052QbMAA6FC9.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053488492270006272"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2053477412441358717",
+        "created_at": "2026-05-10T14:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053488494631403547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1907059086354690048",
+              "start": 0,
+              "username": "KawaiiYuri2013"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c91ptLnyKa",
+              "end": 179,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2053488494631403547/photo/1",
+              "media_key": "3_2053488492270006272",
+              "start": 156,
+              "url": "https://t.co/c91ptLnyKa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053488494631403547",
+        "in_reply_to_user_id": "1907059086354690048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053477412441358717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiiYuri2013 呃啊微信读书导入限制有点多很讨厌，以前送会员的时候用的多一点\n然后因为电纸书是掌阅封闭系统所以后来又用了掌阅方便导入，呃啊有广告，其实关闭联网用着还行\nbooxreader是文石的很干净\n（厚墨很好看但服务器似了，play图书是一坨，静读天下用过好丑删了，用过的不多就这些了😖） https://t.co/c91ptLnyKa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2065,
+          "following_count": 4534,
+          "like_count": 155944,
+          "listed_count": 5,
+          "media_count": 1408,
+          "tweet_count": 6286
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T13:15:45.000Z",
+        "description": "@LovelyChino2013的里推\\秘密基地\\永久锁推 \\里推互fo的各位至少都是我的好朋友\\里推内容请不要外传\\偶尔发一些暴论或者奇怪的图？\\研究生退学重考中\\希望永远留在2012.6-2014.9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "LovelyChino2013"
+              }
+            ]
+          }
+        },
+        "id": "1907059086354690048",
+        "location": "Saga-shi, Saga",
+        "name": "露露卡Shusui",
+        "pinned_tweet_id": "1968702174436692187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051250309297811456/qkT2jwWd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 94,
+          "like_count": 2408,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 964
+        },
+        "username": "KawaiiYuri2013",
+        "verified": false
+      }
+    ]
+  }
+}

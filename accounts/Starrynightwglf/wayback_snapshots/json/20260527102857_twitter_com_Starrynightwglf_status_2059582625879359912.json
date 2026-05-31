@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059582589112119296",
+        "3_2059582591607697408"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2059582625879359912",
+    "created_at": "2026-05-27T10:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059582625879359912"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BsGBMRc2pk",
+          "end": 53,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2059582625879359912/photo/1",
+          "media_key": "3_2059582589112119296",
+          "start": 30,
+          "url": "https://t.co/BsGBMRc2pk"
+        },
+        {
+          "display_url": "pic.x.com/BsGBMRc2pk",
+          "end": 53,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2059582625879359912/photo/1",
+          "media_key": "3_2059582591607697408",
+          "start": 30,
+          "url": "https://t.co/BsGBMRc2pk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059582625879359912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "mimo也干了...\n怎么价格完全对标deepseek的🌚 https://t.co/BsGBMRc2pk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2670,
+        "media_key": "3_2059582589112119296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUbc-GbcAAWFT-.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2670,
+        "media_key": "3_2059582591607697408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUbdHZa8AAzssR.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059582589112119296",
+            "3_2059582591607697408"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2059582625879359912",
+        "created_at": "2026-05-27T10:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059582625879359912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BsGBMRc2pk",
+              "end": 53,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2059582625879359912/photo/1",
+              "media_key": "3_2059582589112119296",
+              "start": 30,
+              "url": "https://t.co/BsGBMRc2pk"
+            },
+            {
+              "display_url": "pic.x.com/BsGBMRc2pk",
+              "end": 53,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2059582625879359912/photo/1",
+              "media_key": "3_2059582591607697408",
+              "start": 30,
+              "url": "https://t.co/BsGBMRc2pk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059582625879359912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "mimo也干了...\n怎么价格完全对标deepseek的🌚 https://t.co/BsGBMRc2pk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2096,
+          "following_count": 4626,
+          "like_count": 160241,
+          "listed_count": 5,
+          "media_count": 1499,
+          "tweet_count": 6580
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

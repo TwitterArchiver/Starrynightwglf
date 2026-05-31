@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2043693907859673291",
+    "created_at": "2026-04-13T14:12:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:12:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043693907859673291"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Semp1trnal_234…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Semp1trnal_2345/status/2043259221907808423",
+          "start": 8,
+          "url": "https://t.co/j3awFhAIDM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043693907859673291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043259221907808423",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁撩撩我🤤🤤🤤 https://t.co/j3awFhAIDM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2043693907859673291",
+        "created_at": "2026-04-13T14:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043693907859673291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Semp1trnal_234…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Semp1trnal_2345/status/2043259221907808423",
+              "start": 8,
+              "url": "https://t.co/j3awFhAIDM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043693907859673291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043259221907808423",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁撩撩我🤤🤤🤤 https://t.co/j3awFhAIDM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2043259221907808423",
+        "created_at": "2026-04-12T09:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043259221907808423"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043259221907808423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 125195,
+          "like_count": 3712,
+          "quote_count": 23,
+          "reply_count": 262,
+          "retweet_count": 297
+        },
+        "reply_settings": "everyone",
+        "text": "：教你如何一步把人撩到腿软：\n1、挑断他的脚筋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2024,
+          "following_count": 4432,
+          "like_count": 151868,
+          "listed_count": 3,
+          "media_count": 1319,
+          "tweet_count": 6016
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 99,
+          "like_count": 10127,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 3271
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1271534251415007234",
+          "name": "Rilakkuma"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1271534251415007234",
+          "name": "Rilakkuma"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1271534251415007234",
+          "name": "Rilakkuma"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1441472383211114515",
+          "name": "Stuffed toys"
+        }
+      }
+    ],
+    "conversation_id": "2019978447318315325",
+    "created_at": "2026-02-07T03:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T04:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019978447318315325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rilakkuma_gyr/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/rilakkuma_gyr/status/2019969477920845952",
+          "start": 9,
+          "url": "https://t.co/TkCyCYRijH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019978447318315325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019969477920845952",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太轻松了我不行了 https://t.co/TkCyCYRijH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2019969455179329545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhfhGkacAkrQ_z.png",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1271534251415007234",
+              "name": "Rilakkuma"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1271534251415007234",
+              "name": "Rilakkuma"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1271534251415007234",
+              "name": "Rilakkuma"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "2019978447318315325",
+        "created_at": "2026-02-07T03:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T04:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019978447318315325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rilakkuma_gyr/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/rilakkuma_gyr/status/2019969477920845952",
+              "start": 9,
+              "url": "https://t.co/TkCyCYRijH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019978447318315325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019969477920845952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太轻松了我不行了 https://t.co/TkCyCYRijH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019969455179329545"
+          ]
+        },
+        "author_id": "1547779548",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1271534251415007234",
+              "name": "Rilakkuma"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1271534251415007234",
+              "name": "Rilakkuma"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1271534251415007234",
+              "name": "Rilakkuma"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "2019969477920845952",
+        "created_at": "2026-02-07T03:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T04:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019969477920845952"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "ゆるゆるぽかぽか",
+              "probability": 0.3844,
+              "start": 38,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 15,
+              "tag": "サンエックスネットショップ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ゆるいタッチとPOPな色合いが魅力の「ゆるゆるぽかぽか」シリーズからサンエックスネットショップ限定でぬいぐるみセットが登場♪ゆる〜い表情がたまらない！！",
+              "display_url": "shop.san-x.co.jp/limit/202602_r…",
+              "end": 146,
+              "expanded_url": "https://shop.san-x.co.jp/limit/202602_rilakkuma-yuruyurupokapoka/?utm_source=sanx_rk_twitter&utm_medium=social&utm_campaign=26020701yurunui",
+              "images": [
+                {
+                  "height": 1000,
+                  "url": "https://pbs.twimg.com/news_img/2019608061422477312/YZk2SIPK?format=png&name=orig",
+                  "width": 768
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2019608061422477312/YZk2SIPK?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 123,
+              "status": 200,
+              "title": "リラックマ- 【限定】ぬいぐるみセット（ゆるゆるぽかぽかシリーズ） - サンエックスネットショップ",
+              "unwound_url": "https://shop.san-x.co.jp/limit/202602_rilakkuma-yuruyurupokapoka/?utm_source=sanx_rk_twitter&utm_medium=social&utm_campaign=26020701yurunui",
+              "url": "https://t.co/urinUzSs0a"
+            },
+            {
+              "display_url": "pic.x.com/3rvxvppRfn",
+              "end": 170,
+              "expanded_url": "https://x.com/rilakkuma_gyr/status/2019969477920845952/photo/1",
+              "media_key": "3_2019969455179329545",
+              "start": 147,
+              "url": "https://t.co/3rvxvppRfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019969477920845952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 14926,
+          "like_count": 718,
+          "quote_count": 22,
+          "reply_count": 1,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "＼📢期間限定 受注商品／\n\n🏠#サンエックスネットショップ 限定🏠\n「ゆるゆるぽかぽか」シリーズから、限定のぬいぐるみセットが登場！！\nゆる～い表情がたまらない🥰💖\nリラックマたちと一緒に、ゆる～くにこにこ過ごしちゃいましょ🌈✌\n\n詳細はこちら👉https://t.co/urinUzSs0a https://t.co/3rvxvppRfn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 4207,
+          "like_count": 131522,
+          "listed_count": 6,
+          "media_count": 981,
+          "tweet_count": 4781
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-26T09:58:06.000Z",
+        "description": "リラックマ情報が全部わかる公式X✨SAN-X株式会社運営🎈 著作権▷ https://t.co/eE9dRqd4Y7 ⒸSAN-X CO., LTD. ALL RIGHTS RESERVED.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "san-x.co.jp/networkservice…",
+                "end": 58,
+                "expanded_url": "https://www.san-x.co.jp/networkservice_guideline/",
+                "start": 35,
+                "url": "https://t.co/eE9dRqd4Y7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "san-x.co.jp/rilakkuma/",
+                "end": 23,
+                "expanded_url": "https://www.san-x.co.jp/rilakkuma/",
+                "start": 0,
+                "url": "https://t.co/WrpbpISq6n"
+              }
+            ]
+          }
+        },
+        "id": "1547779548",
+        "name": "リラックマごゆるりサイト公式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907967316241072128/hvk_9xWZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481421,
+          "following_count": 43,
+          "like_count": 270,
+          "listed_count": 2542,
+          "media_count": 8947,
+          "tweet_count": 13828
+        },
+        "url": "https://t.co/WrpbpISq6n",
+        "username": "rilakkuma_gyr",
+        "verified": true
+      }
+    ]
+  }
+}

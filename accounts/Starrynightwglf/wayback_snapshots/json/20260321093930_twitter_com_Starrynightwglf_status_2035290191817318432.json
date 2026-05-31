@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2035290191817318432",
+    "created_at": "2026-03-21T09:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T10:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035290191817318432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1829592979704803328",
+          "start": 3,
+          "username": "Jiakawaiisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035290191817318432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035061991753359807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jiakawaiisama: 卧槽尼玛比，太他妈吓人了没有王法了这个山东家庭出生的同性恋都上大学了被爹妈联系特训学校抓进去改造了，给交了上万的学费，评论区还有很多女孩子也被亲爹亲妈送进去的，我恨死中国家长了真的，我念评论气的发抖，山东人真的全家死 https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035061983717072896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD3-F4tboAAYSVG.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035061983717036032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD3-F4tbEAA6sYl.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2035290191817318432",
+        "created_at": "2026-03-21T09:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T10:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035290191817318432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1829592979704803328",
+              "start": 3,
+              "username": "Jiakawaiisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035290191817318432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035061991753359807",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jiakawaiisama: 卧槽尼玛比，太他妈吓人了没有王法了这个山东家庭出生的同性恋都上大学了被爹妈联系特训学校抓进去改造了，给交了上万的学费，评论区还有很多女孩子也被亲爹亲妈送进去的，我恨死中国家长了真的，我念评论气的发抖，山东人真的全家死 https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035061983717072896",
+            "3_2035061983717036032"
+          ]
+        },
+        "author_id": "1829592979704803328",
+        "conversation_id": "2035061991753359807",
+        "created_at": "2026-03-20T18:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T19:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035061991753359807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I3Iq8Ybztu",
+              "end": 132,
+              "expanded_url": "https://x.com/Jiakawaiisama/status/2035061991753359807/photo/1",
+              "media_key": "3_2035061983717072896",
+              "start": 109,
+              "url": "https://t.co/I3Iq8Ybztu"
+            },
+            {
+              "display_url": "pic.x.com/I3Iq8Ybztu",
+              "end": 132,
+              "expanded_url": "https://x.com/Jiakawaiisama/status/2035061991753359807/photo/1",
+              "media_key": "3_2035061983717036032",
+              "start": 109,
+              "url": "https://t.co/I3Iq8Ybztu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035061991753359807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 47702,
+          "like_count": 467,
+          "quote_count": 6,
+          "reply_count": 34,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽尼玛比，太他妈吓人了没有王法了这个山东家庭出生的同性恋都上大学了被爹妈联系特训学校抓进去改造了，给交了上万的学费，评论区还有很多女孩子也被亲爹亲妈送进去的，我恨死中国家长了真的，我念评论气的发抖，山东人真的全家死 https://t.co/I3Iq8Ybztu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1879,
+          "following_count": 4351,
+          "like_count": 145703,
+          "listed_count": 3,
+          "media_count": 1200,
+          "tweet_count": 5505
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T18:52:25.000Z",
+        "description": "老钟tv之我是招娣(彩礼88万女神曲婉婷)，想倒贴给兵哥哥在家生3个耀祖当贤妻良母，新年愿望是上桌吃",
+        "id": "1829592979704803328",
+        "location": "🚪52",
+        "name": "佳美美",
+        "pinned_tweet_id": "2010863675058635146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014756779825979392/Ni7SY3a7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 331,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 394
+        },
+        "username": "Jiakawaiisama",
+        "verified": false
+      }
+    ]
+  }
+}

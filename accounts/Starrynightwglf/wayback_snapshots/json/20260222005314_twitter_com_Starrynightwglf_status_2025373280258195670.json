@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025373251350962176"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2025373280258195670",
+    "created_at": "2026-02-22T00:53:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T01:53:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025373280258195670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LXJ9HEawfu",
+          "end": 81,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2025373280258195670/photo/1",
+          "media_key": "3_2025373251350962176",
+          "start": 58,
+          "url": "https://t.co/LXJ9HEawfu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025373280258195670",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "⣠⠛⠛⣄⣠⠶⠛⠛⠛⠶⣄⣠⠛⠛⣄\n⢿　 ⠋　　　　 　⠙　 ⡿\n　 ⣾　●　ᴥ　●　⣷\n　  ⠻⣄　　　　   ⣠⠟ https://t.co/LXJ9HEawfu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2025373251350962176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBuSPcBaIAAAAsu.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025373251350962176"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2025373280258195670",
+        "created_at": "2026-02-22T00:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T01:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025373280258195670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LXJ9HEawfu",
+              "end": 81,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2025373280258195670/photo/1",
+              "media_key": "3_2025373251350962176",
+              "start": 58,
+              "url": "https://t.co/LXJ9HEawfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025373280258195670",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⣠⠛⠛⣄⣠⠶⠛⠛⠛⠶⣄⣠⠛⠛⣄\n⢿　 ⠋　　　　 　⠙　 ⡿\n　 ⣾　●　ᴥ　●　⣷\n　  ⠻⣄　　　　   ⣠⠟ https://t.co/LXJ9HEawfu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1791,
+          "following_count": 4255,
+          "like_count": 136586,
+          "listed_count": 3,
+          "media_count": 1037,
+          "tweet_count": 4970
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

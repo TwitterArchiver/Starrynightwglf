@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2030598697420243085",
+    "created_at": "2026-03-08T11:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T12:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030605928492613798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1365955107473383426",
+          "start": 0,
+          "username": "Takina_Jimato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030605928492613798",
+    "in_reply_to_user_id": "1365955107473383426",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030598697420243085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Takina_Jimato 好姐姐🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030598687504900096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC4iv2oaoAAKuL_.jpg",
+        "width": 1432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2030598697420243085",
+        "created_at": "2026-03-08T11:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T12:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030605928492613798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1365955107473383426",
+              "start": 0,
+              "username": "Takina_Jimato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030605928492613798",
+        "in_reply_to_user_id": "1365955107473383426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030598697420243085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Takina_Jimato 好姐姐🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030598687504900096"
+          ]
+        },
+        "author_id": "1365955107473383426",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2030598697420243085",
+        "created_at": "2026-03-08T10:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T11:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030598697420243085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jVpzhrj8Sh",
+              "end": 79,
+              "expanded_url": "https://x.com/Takina_Jimato/status/2030598697420243085/photo/1",
+              "media_key": "3_2030598687504900096",
+              "start": 56,
+              "url": "https://t.co/jVpzhrj8Sh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030598697420243085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 133,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妹妹回来之后状态好了很多，今天带她去Apple Store提货，都是先给她买的配件，之后什么东西都会给她安排上 https://t.co/jVpzhrj8Sh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1860,
+          "following_count": 4304,
+          "like_count": 141104,
+          "listed_count": 3,
+          "media_count": 1133,
+          "tweet_count": 5287
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-28T09:21:03.000Z",
+        "description": "Takina+Jimato=Takijima｜CN&EN｜生产日期7/28/07｜无证含糖大只家里蹲ホルモン娘｜she/her/hers｜183/60｜HRT: 24.9.4-11.30 重启: 25.3.27｜里推: @Takina_7ove｜姐姐：@AsukaRyo559｜🚪68",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "Takina_7ove"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "username": "AsukaRyo559"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/tWQwG7E",
+                "end": 23,
+                "expanded_url": "https://b23.tv/tWQwG7E",
+                "start": 0,
+                "url": "https://t.co/3w2keeJKeD"
+              }
+            ]
+          }
+        },
+        "id": "1365955107473383426",
+        "location": "Pyongyang, DPR Korea",
+        "name": "Takina.JPN🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1954437389725630545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005610568015921152/5fZiNswq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4636,
+          "following_count": 485,
+          "like_count": 591,
+          "listed_count": 11,
+          "media_count": 215,
+          "tweet_count": 1364
+        },
+        "url": "https://t.co/3w2keeJKeD",
+        "username": "Takina_Jimato",
+        "verified": false
+      }
+    ]
+  }
+}

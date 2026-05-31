@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939115660745031680"
+      ],
+      "media_source_tweet_id": [
+        "1939115664570040731"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1939240081946206686",
+    "created_at": "2025-06-29T08:30:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T09:30:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939240081946206686"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "蝉の鳴かない夏",
+          "probability": 0.6303,
+          "start": 18,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 28,
+          "tag": "秘封倶楽部"
+        },
+        {
+          "end": 39,
+          "start": 35,
+          "tag": "蓮メリ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1385783959972315139",
+          "start": 3,
+          "username": "Shime__Kake"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v9YjhIgdlQ",
+          "end": 63,
+          "expanded_url": "https://x.com/Shime__Kake/status/1939115664570040731/photo/1",
+          "media_key": "3_1939115660745031680",
+          "start": 40,
+          "url": "https://t.co/v9YjhIgdlQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939240081946206686",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 824
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939115664570040731",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shime__Kake: 『蝉の鳴かない夏』\n #秘封倶楽部 #蓮メリ https://t.co/v9YjhIgdlQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1939115660745031680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gukfa2kawAAb2jj.jpg",
+        "width": 1446
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939115660745031680"
+          ],
+          "media_source_tweet_id": [
+            "1939115664570040731"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1939240081946206686",
+        "created_at": "2025-06-29T08:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T09:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939240081946206686"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "蝉の鳴かない夏",
+              "probability": 0.6303,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 28,
+              "tag": "秘封倶楽部"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "蓮メリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1385783959972315139",
+              "start": 3,
+              "username": "Shime__Kake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v9YjhIgdlQ",
+              "end": 63,
+              "expanded_url": "https://x.com/Shime__Kake/status/1939115664570040731/photo/1",
+              "media_key": "3_1939115660745031680",
+              "start": 40,
+              "url": "https://t.co/v9YjhIgdlQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939240081946206686",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 824
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939115664570040731",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shime__Kake: 『蝉の鳴かない夏』\n #秘封倶楽部 #蓮メリ https://t.co/v9YjhIgdlQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939115660745031680"
+          ]
+        },
+        "author_id": "1385783959972315139",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1939115664570040731",
+        "created_at": "2025-06-29T00:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T01:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939115664570040731"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "蝉の鳴かない夏",
+              "probability": 0.7209,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "秘封倶楽部"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "蓮メリ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v9YjhIgdlQ",
+              "end": 46,
+              "expanded_url": "https://x.com/Shime__Kake/status/1939115664570040731/photo/1",
+              "media_key": "3_1939115660745031680",
+              "start": 23,
+              "url": "https://t.co/v9YjhIgdlQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939115664570040731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 668,
+          "impression_count": 102134,
+          "like_count": 5538,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 824
+        },
+        "reply_settings": "everyone",
+        "text": "『蝉の鳴かない夏』\n #秘封倶楽部 #蓮メリ https://t.co/v9YjhIgdlQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一休学ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州/杭州/衢州/沈阳📍┃是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃能多在意我一点点吗🥺┃🚪25┃叫我小风🎐┃妹妹也是恋人@xinxia_mtf┃别离开我好吗好的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 111,
+                "username": "xinxia_mtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJVZU"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "夏夏怀里",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1509,
+          "following_count": 3785,
+          "like_count": 115756,
+          "listed_count": 5,
+          "media_count": 598,
+          "tweet_count": 3721
+        },
+        "url": "https://t.co/EmFCvLJVZU",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T02:33:44.000Z",
+        "description": "絵。光と湿度と匂い。◇skeb▶https://t.co/R1iOCDoCuR ◇ご依頼は✉shime.kake03@gmail.com ◇Xfolioから▶https://t.co/QUkTvd7IOB◇SKIMA▶https://t.co/OZf1grFs8L ※AI学習❌",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Shime__Kake",
+                "end": 39,
+                "expanded_url": "https://skeb.jp/@Shime__Kake",
+                "start": 16,
+                "url": "https://t.co/R1iOCDoCuR"
+              },
+              {
+                "display_url": "xfolio.jp/portfolio/Shim…",
+                "end": 102,
+                "expanded_url": "https://xfolio.jp/portfolio/Shime__Kake",
+                "start": 79,
+                "url": "https://t.co/QUkTvd7IOB"
+              },
+              {
+                "display_url": "onl.bz/9uLmh68",
+                "end": 132,
+                "expanded_url": "https://onl.bz/9uLmh68",
+                "start": 109,
+                "url": "https://t.co/OZf1grFs8L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/1867674",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/1867674",
+                "start": 0,
+                "url": "https://t.co/kbx27vEu0J"
+              }
+            ]
+          }
+        },
+        "id": "1385783959972315139",
+        "location": "禁足地",
+        "name": "七五三懸(しめかけ)",
+        "pinned_tweet_id": "1936310158512341061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652268485727375361/dnB5xTOL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4338,
+          "following_count": 581,
+          "like_count": 2291,
+          "listed_count": 47,
+          "media_count": 104,
+          "tweet_count": 2830
+        },
+        "url": "https://t.co/kbx27vEu0J",
+        "username": "Shime__Kake",
+        "verified": false
+      }
+    ]
+  }
+}

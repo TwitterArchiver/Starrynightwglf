@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1990228309473644714",
+    "created_at": "2025-11-17T01:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T02:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990228309473644714"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mikotossd0106/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/mikotossd0106/status/1989941322384589097",
+          "start": 4,
+          "url": "https://t.co/tVgkofMcUt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990228309473644714",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989941322384589097",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以是 https://t.co/tVgkofMcUt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1990228309473644714",
+        "created_at": "2025-11-17T01:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T02:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990228309473644714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mikotossd0106/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/mikotossd0106/status/1989941322384589097",
+              "start": 4,
+              "url": "https://t.co/tVgkofMcUt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990228309473644714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989941322384589097",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以是 https://t.co/tVgkofMcUt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766452473840173056",
+        "conversation_id": "1989941322384589097",
+        "created_at": "2025-11-16T06:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T07:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989941322384589097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989941322384589097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 175521,
+          "like_count": 531,
+          "quote_count": 13,
+          "reply_count": 118,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：脚并不是性器官"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃鱼鱼蒸┃重读大一ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州📍┃发点日常（可能掉落涩涩）┃是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃能多在意我一点点吗🥺┃🚪25┃叫我小风🎐┃妹妹也是恋人💞@miaomiaoxxia┃别离开我好吗好的😔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "miaomiaoxxia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf2",
+                "start": 0,
+                "url": "https://t.co/NlD2zt0DAC"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "小夏怀里",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 3911,
+          "like_count": 117715,
+          "listed_count": 5,
+          "media_count": 713,
+          "tweet_count": 4062
+        },
+        "url": "https://t.co/NlD2zt0DAC",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T13:14:37.000Z",
+        "description": "这个人很懒，没留下任何东西",
+        "id": "1766452473840173056",
+        "location": "成都",
+        "name": "御坂鱼坂",
+        "pinned_tweet_id": "1990075703115513993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949508283506786304/ipIcd8Jv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 1386,
+          "like_count": 69340,
+          "listed_count": 6,
+          "media_count": 792,
+          "tweet_count": 3694
+        },
+        "username": "mikotossd0106",
+        "verified": false
+      }
+    ]
+  }
+}

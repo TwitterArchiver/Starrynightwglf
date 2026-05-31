@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2053000399548989514",
+    "created_at": "2026-05-09T09:27:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T10:27:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053044130591469731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3253662690",
+          "start": 0,
+          "username": "ttmokeyjay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053044130591469731",
+    "in_reply_to_user_id": "3253662690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053000399548989514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttmokeyjay 真是一场酣畅淋漓的性能释放啊🤫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2053000399548989514",
+        "created_at": "2026-05-09T09:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053044130591469731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3253662690",
+              "start": 0,
+              "username": "ttmokeyjay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053044130591469731",
+        "in_reply_to_user_id": "3253662690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053000399548989514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttmokeyjay 真是一场酣畅淋漓的性能释放啊🤫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3253662690",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2053000399548989514",
+        "created_at": "2026-05-09T06:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053000399548989514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/landiantech/st…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/landiantech/status/2052761181165863364",
+              "start": 36,
+              "url": "https://t.co/MjNuMdq6up"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053000399548989514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7502,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052761181165863364",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "难绷😅谁能想到现在 Windows 点个右键菜单都需要 CPU 超频了 https://t.co/MjNuMdq6up"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2065,
+          "following_count": 4533,
+          "like_count": 155606,
+          "listed_count": 5,
+          "media_count": 1402,
+          "tweet_count": 6267
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-23T14:37:16.000Z",
+        "description": "资深全沾工程师",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mok.moe",
+                "end": 23,
+                "expanded_url": "https://mok.moe",
+                "start": 0,
+                "url": "https://t.co/xTkQucZgzf"
+              }
+            ]
+          }
+        },
+        "id": "3253662690",
+        "location": "China",
+        "name": "mokeyjay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1228425348477440000/-9ofZZCE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2287,
+          "following_count": 188,
+          "like_count": 401,
+          "listed_count": 14,
+          "media_count": 755,
+          "tweet_count": 2212
+        },
+        "url": "https://t.co/xTkQucZgzf",
+        "username": "ttmokeyjay",
+        "verified": false
+      }
+    ]
+  }
+}

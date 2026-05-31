@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1988809627048550400",
+        "16_1988809652679905280"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "1988809664281342409",
+    "created_at": "2025-11-13T03:22:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T04:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988809664281342409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GiEE8uqabc",
+          "end": 34,
+          "expanded_url": "https://x.com/Starrynightwglf/status/1988809664281342409/video/1",
+          "media_key": "7_1988809627048550400",
+          "start": 11,
+          "url": "https://t.co/GiEE8uqabc"
+        },
+        {
+          "display_url": "pic.x.com/GiEE8uqabc",
+          "end": 34,
+          "expanded_url": "https://x.com/Starrynightwglf/status/1988809664281342409/video/1",
+          "media_key": "16_1988809652679905280",
+          "start": 11,
+          "url": "https://t.co/GiEE8uqabc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988809664281342409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "坏猫在摇你的扣扣扣喽 https://t.co/GiEE8uqabc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4585,
+        "height": 1280,
+        "media_key": "7_1988809627048550400",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1988809627048550400/pu/img/UoD4KDWYrlutvyAq.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988809627048550400/pu/vid/avc1/320x568/WLRYKu2aeKkxKQYc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988809627048550400/pu/vid/avc1/480x852/yu7x7hE9jRXoUsBK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988809627048550400/pu/vid/avc1/720x1280/Zf_6tnWv-mZvE5x1.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1988809627048550400/pu/pl/tRrUI7oy2M79Sc_E.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 80,
+        "media_key": "16_1988809652679905280",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G5mr14nakAAtD5l.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G5mr14nakAAtD5l.mp4"
+          }
+        ],
+        "width": 80
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1988809627048550400",
+            "16_1988809652679905280"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "1988809664281342409",
+        "created_at": "2025-11-13T03:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T04:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988809664281342409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GiEE8uqabc",
+              "end": 34,
+              "expanded_url": "https://x.com/Starrynightwglf/status/1988809664281342409/video/1",
+              "media_key": "7_1988809627048550400",
+              "start": 11,
+              "url": "https://t.co/GiEE8uqabc"
+            },
+            {
+              "display_url": "pic.x.com/GiEE8uqabc",
+              "end": 34,
+              "expanded_url": "https://x.com/Starrynightwglf/status/1988809664281342409/video/1",
+              "media_key": "16_1988809652679905280",
+              "start": 11,
+              "url": "https://t.co/GiEE8uqabc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988809664281342409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坏猫在摇你的扣扣扣喽 https://t.co/GiEE8uqabc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃鱼鱼蒸┃重读大一ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州📍┃发点日常（可能掉落涩涩）┃是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃能多在意我一点点吗🥺┃🚪25┃叫我小风🎐┃妹妹也是恋人💞@xinxia_mtf┃别离开我好吗好的😔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xinxia_mtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJoam"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "小夏怀里",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 3900,
+          "like_count": 117395,
+          "listed_count": 6,
+          "media_count": 699,
+          "tweet_count": 4030
+        },
+        "url": "https://t.co/EmFCvLJoam",
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

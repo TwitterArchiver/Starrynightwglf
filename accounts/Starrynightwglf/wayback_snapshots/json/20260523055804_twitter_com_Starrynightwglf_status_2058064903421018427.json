@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058064864103567360"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2058064903421018427",
+    "created_at": "2026-05-23T05:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T06:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058064903421018427"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4okdPoo7E1",
+          "end": 90,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2058064903421018427/photo/1",
+          "media_key": "3_2058064864103567360",
+          "start": 67,
+          "url": "https://t.co/4okdPoo7E1"
+        },
+        {
+          "display_url": "x.com/Starrynightwgl…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/Starrynightwglf/status/2058049755977314658",
+          "start": 91,
+          "url": "https://t.co/IhWeHLyNeK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058064903421018427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058049755977314658",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有你俩，本来穿制服鞋出门走那么多路脚够痛了还要拎一袋子东西\n两瓶牛奶一瓶啤酒一瓶苹果汁还全是一升的🏳️\n本来想拿两瓶酒的，想多了🥴 https://t.co/4okdPoo7E1 https://t.co/IhWeHLyNeK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2058064864103567360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-3Fv2bEAA6yVr.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058064864103567360"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058064903421018427",
+        "created_at": "2026-05-23T05:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058064903421018427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4okdPoo7E1",
+              "end": 90,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2058064903421018427/photo/1",
+              "media_key": "3_2058064864103567360",
+              "start": 67,
+              "url": "https://t.co/4okdPoo7E1"
+            },
+            {
+              "display_url": "x.com/Starrynightwgl…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/Starrynightwglf/status/2058049755977314658",
+              "start": 91,
+              "url": "https://t.co/IhWeHLyNeK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058064903421018427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058049755977314658",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有你俩，本来穿制服鞋出门走那么多路脚够痛了还要拎一袋子东西\n两瓶牛奶一瓶啤酒一瓶苹果汁还全是一升的🏳️\n本来想拿两瓶酒的，想多了🥴 https://t.co/4okdPoo7E1 https://t.co/IhWeHLyNeK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2058049755977314658",
+        "created_at": "2026-05-23T04:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058049755977314658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Starrynightwgl…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/Starrynightwglf/status/1851891219254907348",
+              "start": 45,
+              "url": "https://t.co/gjITpuSI5m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058049755977314658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851891219254907348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "医学院站10号线到1号线B口快给我命都走没了\n我承认医学院站比东大街站夯了，放过我吧🏳️ https://t.co/gjITpuSI5m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 4616,
+          "like_count": 159374,
+          "listed_count": 5,
+          "media_count": 1489,
+          "tweet_count": 6526
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

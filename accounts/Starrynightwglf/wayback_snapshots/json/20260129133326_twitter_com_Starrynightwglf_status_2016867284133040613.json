@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016867223479209987",
+        "3_2016867224158687232",
+        "3_2016867223831531529"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2016867284133040613",
+    "created_at": "2026-01-29T13:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T14:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016867284133040613"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/juTs339JmS",
+          "end": 32,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2016867284133040613/photo/1",
+          "media_key": "3_2016867223479209987",
+          "start": 9,
+          "url": "https://t.co/juTs339JmS"
+        },
+        {
+          "display_url": "pic.x.com/juTs339JmS",
+          "end": 32,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2016867284133040613/photo/1",
+          "media_key": "3_2016867224158687232",
+          "start": 9,
+          "url": "https://t.co/juTs339JmS"
+        },
+        {
+          "display_url": "pic.x.com/juTs339JmS",
+          "end": 32,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2016867284133040613/photo/1",
+          "media_key": "3_2016867223831531529",
+          "start": 9,
+          "url": "https://t.co/juTs339JmS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016867284133040613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去华为店增智慧喵 https://t.co/juTs339JmS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2016867223479209987",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_1aDc6bUAM2j_9.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2016867224158687232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_1aDfcbUAAuAws.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2016867223831531529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_1aDeObUAkznSz.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016867223479209987",
+            "3_2016867224158687232",
+            "3_2016867223831531529"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2016867284133040613",
+        "created_at": "2026-01-29T13:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T14:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016867284133040613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/juTs339JmS",
+              "end": 32,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2016867284133040613/photo/1",
+              "media_key": "3_2016867223479209987",
+              "start": 9,
+              "url": "https://t.co/juTs339JmS"
+            },
+            {
+              "display_url": "pic.x.com/juTs339JmS",
+              "end": 32,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2016867284133040613/photo/1",
+              "media_key": "3_2016867224158687232",
+              "start": 9,
+              "url": "https://t.co/juTs339JmS"
+            },
+            {
+              "display_url": "pic.x.com/juTs339JmS",
+              "end": 32,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2016867284133040613/photo/1",
+              "media_key": "3_2016867223831531529",
+              "start": 9,
+              "url": "https://t.co/juTs339JmS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016867284133040613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去华为店增智慧喵 https://t.co/juTs339JmS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1747,
+          "following_count": 4171,
+          "like_count": 129140,
+          "listed_count": 5,
+          "media_count": 957,
+          "tweet_count": 4694
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

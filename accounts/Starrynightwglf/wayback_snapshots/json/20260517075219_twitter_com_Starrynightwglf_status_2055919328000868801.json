@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2055919328000868801",
+    "created_at": "2026-05-17T07:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055919328000868801"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2055893076061859854",
+          "start": 7,
+          "url": "https://t.co/x23GqW9Xvr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055919328000868801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055893076061859854",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "天亮了呜呜呜 https://t.co/x23GqW9Xvr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1189,
+        "media_key": "3_2055893067950120960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIf_2kta4AAP2mo.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1324,
+        "media_key": "3_2055893068243714048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIf_2lzawAAWTld.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2055919328000868801",
+        "created_at": "2026-05-17T07:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055919328000868801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2055893076061859854",
+              "start": 7,
+              "url": "https://t.co/x23GqW9Xvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055919328000868801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055893076061859854",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天亮了呜呜呜 https://t.co/x23GqW9Xvr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055893067950120960",
+            "3_2055893068243714048"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2055893076061859854",
+        "created_at": "2026-05-17T06:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055893076061859854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qcrrEDAYmy",
+              "end": 77,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2055893076061859854/photo/1",
+              "media_key": "3_2055893067950120960",
+              "start": 54,
+              "url": "https://t.co/qcrrEDAYmy"
+            },
+            {
+              "display_url": "pic.x.com/qcrrEDAYmy",
+              "end": 77,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2055893076061859854/photo/1",
+              "media_key": "3_2055893068243714048",
+              "start": 54,
+              "url": "https://t.co/qcrrEDAYmy"
+            },
+            {
+              "display_url": "x.com/HFRin_CN/statu…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/HFRin_CN/status/2055851717158449605",
+              "start": 78,
+              "url": "https://t.co/rqCoDvGoWK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055893076061859854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2877,
+          "like_count": 77,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055851717158449605",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补充一下更为重要的两条信息，这两条才是明确规定：禁止任何组织还有个人以任何方式、名义开展不良行为矫正活动。 https://t.co/qcrrEDAYmy https://t.co/rqCoDvGoWK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082,
+          "following_count": 4580,
+          "like_count": 157986,
+          "listed_count": 5,
+          "media_count": 1450,
+          "tweet_count": 6433
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5112,
+          "following_count": 2825,
+          "like_count": 2814,
+          "listed_count": 18,
+          "media_count": 416,
+          "tweet_count": 2771
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

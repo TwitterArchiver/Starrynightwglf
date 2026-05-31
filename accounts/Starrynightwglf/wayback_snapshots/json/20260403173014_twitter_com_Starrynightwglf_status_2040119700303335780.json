@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2040078440137965914",
+    "created_at": "2026-04-03T17:30:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T18:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040119700303335780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1444716723978981380",
+          "start": 0,
+          "username": "EleanorAnatidae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040119700303335780",
+    "in_reply_to_user_id": "1444716723978981380",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040078440137965914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EleanorAnatidae 揉揉姐姐🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040078252874854400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_QXLia8AAUyXq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040078252874829824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_QXLiakAAPI_l.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2040078252887412736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_QXLlakAACnIU.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2040078252879065088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_QXLjbMAAcGu-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2040078440137965914",
+        "created_at": "2026-04-03T17:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040119700303335780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1444716723978981380",
+              "start": 0,
+              "username": "EleanorAnatidae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040119700303335780",
+        "in_reply_to_user_id": "1444716723978981380",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040078440137965914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EleanorAnatidae 揉揉姐姐🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040078252874854400",
+            "3_2040078252874829824",
+            "3_2040078252887412736",
+            "3_2040078252879065088"
+          ]
+        },
+        "author_id": "1444716723978981380",
+        "conversation_id": "2040078440137965914",
+        "created_at": "2026-04-03T14:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040078440137965914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SDIXx6w7Ro",
+              "end": 72,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2040078440137965914/photo/1",
+              "media_key": "3_2040078252874854400",
+              "start": 49,
+              "url": "https://t.co/SDIXx6w7Ro"
+            },
+            {
+              "display_url": "pic.x.com/SDIXx6w7Ro",
+              "end": 72,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2040078440137965914/photo/1",
+              "media_key": "3_2040078252874829824",
+              "start": 49,
+              "url": "https://t.co/SDIXx6w7Ro"
+            },
+            {
+              "display_url": "pic.x.com/SDIXx6w7Ro",
+              "end": 72,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2040078440137965914/photo/1",
+              "media_key": "3_2040078252887412736",
+              "start": 49,
+              "url": "https://t.co/SDIXx6w7Ro"
+            },
+            {
+              "display_url": "pic.x.com/SDIXx6w7Ro",
+              "end": 72,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2040078440137965914/photo/1",
+              "media_key": "3_2040078252879065088",
+              "start": 49,
+              "url": "https://t.co/SDIXx6w7Ro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040078440137965914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雨里的中街🌧️\n四月的雪❄️\n是谁在哭泣\n谁的委屈凝结了起来落到地上，和泥土混合，化为一滩污水。 https://t.co/SDIXx6w7Ro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 4429,
+          "like_count": 150474,
+          "listed_count": 3,
+          "media_count": 1289,
+          "tweet_count": 5850
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl /Liberté Égalité Fraternité",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Shirlene_girl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lycoris.online",
+                "end": 23,
+                "expanded_url": "https://lycoris.online",
+                "start": 0,
+                "url": "https://t.co/pE8yXcPFC7"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "pinned_tweet_id": "2021166737559818271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011472697138790400/zWZC7GQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3756,
+          "following_count": 2098,
+          "like_count": 28048,
+          "listed_count": 9,
+          "media_count": 146,
+          "tweet_count": 6814
+        },
+        "url": "https://t.co/pE8yXcPFC7",
+        "username": "EleanorAnatidae",
+        "verified": false
+      }
+    ]
+  }
+}

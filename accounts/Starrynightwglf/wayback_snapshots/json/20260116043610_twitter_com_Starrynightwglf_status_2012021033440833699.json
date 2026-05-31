@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012021014319022088"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2012021033440833699",
+    "created_at": "2026-01-16T04:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T05:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012021033440833699"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wGYTth2C0N",
+          "end": 33,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2012021033440833699/photo/1",
+          "media_key": "3_2012021014319022088",
+          "start": 10,
+          "url": "https://t.co/wGYTth2C0N"
+        },
+        {
+          "display_url": "x.com/Starrynightwgl…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/Starrynightwglf/status/2011914460836085903",
+          "start": 34,
+          "url": "https://t.co/69wP1inYMX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012021033440833699",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011914460836085903",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还是当魔法少女吧😌 https://t.co/wGYTth2C0N https://t.co/69wP1inYMX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2012021014319022088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-wic88bQAgjGbg.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2011914441366102016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-vBhlwa4AAoEAo.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012021014319022088"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2012021033440833699",
+        "created_at": "2026-01-16T04:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T05:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012021033440833699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wGYTth2C0N",
+              "end": 33,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2012021033440833699/photo/1",
+              "media_key": "3_2012021014319022088",
+              "start": 10,
+              "url": "https://t.co/wGYTth2C0N"
+            },
+            {
+              "display_url": "x.com/Starrynightwgl…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Starrynightwglf/status/2011914460836085903",
+              "start": 34,
+              "url": "https://t.co/69wP1inYMX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012021033440833699",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011914460836085903",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还是当魔法少女吧😌 https://t.co/wGYTth2C0N https://t.co/69wP1inYMX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011914441366102016"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2011914460836085903",
+        "created_at": "2026-01-15T21:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T22:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011914460836085903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n04g71GeOC",
+              "end": 40,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2011914460836085903/photo/1",
+              "media_key": "3_2011914441366102016",
+              "start": 17,
+              "url": "https://t.co/n04g71GeOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011914460836085903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底怎么穿才有校供感🥲\n我尽力了 https://t.co/n04g71GeOC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 4129,
+          "like_count": 126538,
+          "listed_count": 5,
+          "media_count": 895,
+          "tweet_count": 4543
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

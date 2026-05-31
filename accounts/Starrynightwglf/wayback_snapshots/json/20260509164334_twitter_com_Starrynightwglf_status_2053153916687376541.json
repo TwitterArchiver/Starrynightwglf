@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2053153866456367104"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2053153916687376541",
+    "created_at": "2026-05-09T16:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T17:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053153916687376541"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/37SEiExgAd",
+          "end": 51,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2053153916687376541/video/1",
+          "media_key": "7_2053153866456367104",
+          "start": 28,
+          "url": "https://t.co/37SEiExgAd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053153916687376541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呃我和小夏打视频就这样\n有点诡异\n（fufu那边是我） https://t.co/37SEiExgAd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25216,
+        "height": 1280,
+        "media_key": "7_2053153866456367104",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2053153866456367104/pu/img/AYRrpaNbVOmellvc.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053153866456367104/pu/vid/avc1/320x710/5RRMPpXxQGdoSxUm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053153866456367104/pu/vid/avc1/480x1066/Vt80Qh2GwWI2dzEH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053153866456367104/pu/vid/avc1/576x1280/IvxBrc9aooKf1QZF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2053153866456367104/pu/pl/3tCXKhVgMuliLobu.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2053153866456367104"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2053153916687376541",
+        "created_at": "2026-05-09T16:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053153916687376541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/37SEiExgAd",
+              "end": 51,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2053153916687376541/video/1",
+              "media_key": "7_2053153866456367104",
+              "start": 28,
+              "url": "https://t.co/37SEiExgAd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053153916687376541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃我和小夏打视频就这样\n有点诡异\n（fufu那边是我） https://t.co/37SEiExgAd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 4535,
+          "like_count": 155811,
+          "listed_count": 5,
+          "media_count": 1405,
+          "tweet_count": 6276
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

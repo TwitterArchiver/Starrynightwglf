@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042462293125185536"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042462303766134859",
+    "created_at": "2026-04-10T04:38:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T05:38:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042462303766134859"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xmz8Icsl0B",
+          "end": 56,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2042462303766134859/photo/1",
+          "media_key": "3_2042462293125185536",
+          "start": 33,
+          "url": "https://t.co/Xmz8Icsl0B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042462303766134859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呃啊新的推特朋友圈\n（怎么感觉混进去几个在我评论区刷怪的黄推？） https://t.co/Xmz8Icsl0B"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "https://nareaitter.appwrite.network/en",
+        "height": 910,
+        "media_key": "3_2042462293125185536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhIoljbQAAOqFL.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042462293125185536"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042462303766134859",
+        "created_at": "2026-04-10T04:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042462303766134859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xmz8Icsl0B",
+              "end": 56,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2042462303766134859/photo/1",
+              "media_key": "3_2042462293125185536",
+              "start": 33,
+              "url": "https://t.co/Xmz8Icsl0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042462303766134859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃啊新的推特朋友圈\n（怎么感觉混进去几个在我评论区刷怪的黄推？） https://t.co/Xmz8Icsl0B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1993,
+          "following_count": 4424,
+          "like_count": 150951,
+          "listed_count": 3,
+          "media_count": 1308,
+          "tweet_count": 5946
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

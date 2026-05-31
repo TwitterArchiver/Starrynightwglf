@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2007464516863324528",
+    "created_at": "2026-01-03T14:50:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T15:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007464516863324528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "844711656022298624",
+          "start": 3,
+          "username": "ice_crown91"
+        },
+        {
+          "end": 33,
+          "id": "1807910824918634496",
+          "start": 17,
+          "username": "suanrongyouyuxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007464516863324528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007292249202385210",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ice_crown91: @suanrongyouyuxu 坚韧个毛，我父母情绪不稳定都是拿我解决的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2007464516863324528",
+        "created_at": "2026-01-03T14:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T15:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007464516863324528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "844711656022298624",
+              "start": 3,
+              "username": "ice_crown91"
+            },
+            {
+              "end": 33,
+              "id": "1807910824918634496",
+              "start": 17,
+              "username": "suanrongyouyuxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007464516863324528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007292249202385210",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ice_crown91: @suanrongyouyuxu 坚韧个毛，我父母情绪不稳定都是拿我解决的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "844711656022298624",
+        "conversation_id": "2007202098556145977",
+        "created_at": "2026-01-03T03:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T04:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007292249202385210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807910824918634496",
+              "start": 0,
+              "username": "suanrongyouyuxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007292249202385210",
+        "in_reply_to_user_id": "1807910824918634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 30338,
+          "like_count": 391,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007202098556145977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suanrongyouyuxu 坚韧个毛，我父母情绪不稳定都是拿我解决的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "梦到什么发什么吧",
+        "id": "1563508655256850433",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 4037,
+          "like_count": 123280,
+          "listed_count": 5,
+          "media_count": 853,
+          "tweet_count": 4418
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-23T00:45:27.000Z",
+        "description": "Opinions provocative and controversial.",
+        "id": "844711656022298624",
+        "location": "United States",
+        "name": "Raven M. Writhe 🇺🇲",
+        "pinned_tweet_id": "1894204661399539756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861610303403732992/jnDKoF-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 108,
+          "like_count": 1308,
+          "listed_count": 3,
+          "media_count": 160,
+          "tweet_count": 3419
+        },
+        "username": "ice_crown91",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-01T22:55:21.000Z",
+        "description": "人在海外/有政治推，有生活推，也有碎碎念/是坚定的LGBTQ支持者/犬儒主义一生之敌/有表达欲/政治光谱是温和左派/坚持DEI原则/想要认识有趣的人",
+        "id": "1807910824918634496",
+        "name": "蒜蓉鱿鱼须",
+        "pinned_tweet_id": "1858686395151524238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879574101750059008/DyN1I1bV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3708,
+          "following_count": 247,
+          "like_count": 5474,
+          "listed_count": 24,
+          "media_count": 259,
+          "tweet_count": 3140
+        },
+        "username": "suanrongyouyuxu",
+        "verified": true
+      }
+    ]
+  }
+}

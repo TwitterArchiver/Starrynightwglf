@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2022172340063547832",
+    "created_at": "2026-02-13T04:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T05:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022172340063547832"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/smiroyama/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/smiroyama/status/2022155281996886022",
+          "start": 7,
+          "url": "https://t.co/scljNSmnVF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022172340063547832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022155281996886022",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽不要啊🙀 https://t.co/scljNSmnVF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1046,
+        "media_key": "3_2022155271838322688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAjgYKbUAADdZw.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2022172340063547832",
+        "created_at": "2026-02-13T04:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T05:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022172340063547832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/smiroyama/status/2022155281996886022",
+              "start": 7,
+              "url": "https://t.co/scljNSmnVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022172340063547832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022155281996886022",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽不要啊🙀 https://t.co/scljNSmnVF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022155271838322688"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2022155281996886022",
+        "created_at": "2026-02-13T03:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022155281996886022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "xhslink.com/o/ASGTJDPRPG4",
+              "end": 32,
+              "expanded_url": "http://xhslink.com/o/ASGTJDPRPG4",
+              "start": 9,
+              "unwound_url": "https://www.xiaohongshu.com/discovery/item/698af079000000002801fce9?app_platform=ios&app_version=9.19.4&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBwLTzLkIAm-4CdRTHK7uod6gyUQG-JSKwkplQWEjZ3Q8=&author_share=1&xhsshare=CopyLink&shareRedId=ODxDODdGNjs2NzUyOTgwNjdHOTk3Nzo7&apptime=1770954327&share_id=4451d54ac38e4a25af1a4cfec4548ebf",
+              "url": "https://t.co/Rib8rKSmrt"
+            },
+            {
+              "display_url": "pic.x.com/axcdl8gbAC",
+              "end": 56,
+              "expanded_url": "https://x.com/smiroyama/status/2022155281996886022/photo/1",
+              "media_key": "3_2022155271838322688",
+              "start": 33,
+              "url": "https://t.co/axcdl8gbAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022155281996886022",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 264,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Credit : https://t.co/Rib8rKSmrt https://t.co/axcdl8gbAC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1780,
+          "following_count": 4227,
+          "like_count": 133769,
+          "listed_count": 3,
+          "media_count": 1003,
+          "tweet_count": 4860
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student | ADHDer |Developer of @HRTtracker |  User | 🐱 Lover | Friends 🥰: @Huang_Yut1ng @fukui_p26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "fukui_p26"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mahiro.uk",
+                "end": 23,
+                "expanded_url": "https://mahiro.uk/",
+                "start": 0,
+                "url": "https://t.co/PpgQBsPRn6"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "🍀🍥Smirnova🍥🍀",
+        "pinned_tweet_id": "2017077146586665078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015097909088567296/r014MYfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 563,
+          "like_count": 3035,
+          "listed_count": 0,
+          "media_count": 363,
+          "tweet_count": 2185
+        },
+        "url": "https://t.co/PpgQBsPRn6",
+        "username": "smiroyama",
+        "verified": false
+      }
+    ]
+  }
+}

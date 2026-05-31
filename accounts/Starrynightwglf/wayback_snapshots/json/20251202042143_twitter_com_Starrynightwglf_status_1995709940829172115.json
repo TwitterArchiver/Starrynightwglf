@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995651769381388288"
+      ],
+      "media_source_tweet_id": [
+        "1995651774343221695"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "1995709940829172115",
+    "created_at": "2025-12-02T04:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T05:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995709940829172115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2440253641",
+          "start": 3,
+          "username": "boydxdxd"
+        },
+        {
+          "end": 26,
+          "id": "1870108535268487169",
+          "start": 14,
+          "username": "MomoseReina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wySYbTQ6HA",
+          "end": 55,
+          "expanded_url": "https://x.com/boydxdxd/status/1995651774343221695/photo/1",
+          "media_key": "3_1995651769381388288",
+          "start": 32,
+          "url": "https://t.co/wySYbTQ6HA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995709940829172115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995651774343221695",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boydxdxd: @MomoseReina 別亂拜啊 https://t.co/wySYbTQ6HA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995651769381388288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7H6tflbgAAIwrR.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995651769381388288"
+          ],
+          "media_source_tweet_id": [
+            "1995651774343221695"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "1995709940829172115",
+        "created_at": "2025-12-02T04:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T05:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995709940829172115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2440253641",
+              "start": 3,
+              "username": "boydxdxd"
+            },
+            {
+              "end": 26,
+              "id": "1870108535268487169",
+              "start": 14,
+              "username": "MomoseReina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wySYbTQ6HA",
+              "end": 55,
+              "expanded_url": "https://x.com/boydxdxd/status/1995651774343221695/photo/1",
+              "media_key": "3_1995651769381388288",
+              "start": 32,
+              "url": "https://t.co/wySYbTQ6HA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995709940829172115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995651774343221695",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @boydxdxd: @MomoseReina 別亂拜啊 https://t.co/wySYbTQ6HA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995651769381388288"
+          ]
+        },
+        "author_id": "2440253641",
+        "conversation_id": "1995404055242506639",
+        "created_at": "2025-12-02T00:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T01:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995651774343221695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wySYbTQ6HA",
+              "end": 41,
+              "expanded_url": "https://x.com/boydxdxd/status/1995651774343221695/photo/1",
+              "media_key": "3_1995651769381388288",
+              "start": 18,
+              "url": "https://t.co/wySYbTQ6HA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995651774343221695",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2177,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995404055242506639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 別亂拜啊 https://t.co/wySYbTQ6HA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃鱼鱼蒸┃重读大一ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州📍┃发点日常（可能掉落涩涩）┃是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃能多在意我一点点吗🥺┃🚪25┃叫我小风🎐┃妹妹也是恋人💞@miaomiaoxxia┃别离开我好吗好的😔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "miaomiaoxxia"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "小夏怀里",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1618,
+          "following_count": 3986,
+          "like_count": 118774,
+          "listed_count": 5,
+          "media_count": 742,
+          "tweet_count": 4148
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-12T16:30:36.000Z",
+        "description": "who the fuck are you",
+        "id": "2440253641",
+        "location": "Taiwan",
+        "name": "零伍 Edit Chaos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505710031127576581/UjrCyk7P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 1055,
+          "like_count": 70173,
+          "listed_count": 2,
+          "media_count": 961,
+          "tweet_count": 10175
+        },
+        "username": "boydxdxd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 261,
+          "like_count": 2617,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1990
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1989947181173018713",
+    "created_at": "2025-11-16T06:59:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T07:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989951456657772823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1627301480440164352",
+          "start": 0,
+          "username": "NWA12302"
+        },
+        {
+          "end": 25,
+          "id": "929286186824220673",
+          "start": 10,
+          "username": "LihaiGeUpasaka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989951456657772823",
+    "in_reply_to_user_id": "1627301480440164352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989947181173018713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NWA12302 @LihaiGeUpasaka 你好我吃一口"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1989947163951185920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G522ZwUbQAAXXRJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1989947181173018713",
+        "created_at": "2025-11-16T06:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T07:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989951456657772823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1627301480440164352",
+              "start": 0,
+              "username": "NWA12302"
+            },
+            {
+              "end": 25,
+              "id": "929286186824220673",
+              "start": 10,
+              "username": "LihaiGeUpasaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989951456657772823",
+        "in_reply_to_user_id": "1627301480440164352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989947181173018713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NWA12302 @LihaiGeUpasaka 你好我吃一口"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989947163951185920"
+          ]
+        },
+        "author_id": "1627301480440164352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1989947181173018713",
+        "created_at": "2025-11-16T06:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T07:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989947181173018713"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "糖汁拌饭"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9dsB9OfSik",
+              "end": 48,
+              "expanded_url": "https://x.com/NWA12302/status/1989947181173018713/photo/1",
+              "media_key": "3_1989947163951185920",
+              "start": 25,
+              "url": "https://t.co/9dsB9OfSik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989947181173018713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#糖汁拌饭 251116\n豆米火锅\n我来尝尝咸淡 https://t.co/9dsB9OfSik"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃鱼鱼蒸┃重读大一ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州📍┃发点日常（可能掉落涩涩）┃是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃能多在意我一点点吗🥺┃🚪25┃叫我小风🎐┃妹妹也是恋人💞@miaomiaoxxia┃别离开我好吗好的😔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "miaomiaoxxia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf2",
+                "start": 0,
+                "url": "https://t.co/NlD2zt0DAC"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "小夏怀里",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 3909,
+          "like_count": 117646,
+          "listed_count": 5,
+          "media_count": 711,
+          "tweet_count": 4056
+        },
+        "url": "https://t.co/NlD2zt0DAC",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T13:38:19.000Z",
+        "description": "地质学Geology & 陨石学 Meteoritics ｜科研日记本｜有理有据表达不满 ｜烤批｜粥9摆烂选手｜业余摄影师｜jpop 日摇 术力口｜INFJ｜华枝春满，天心月圆@LihaigeUpasaka｜我永远喜欢黍｜大码lo裙体验者｜做个好玩的人\n｜用爱发电@Alter_Syrup ｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 88,
+                "username": "LihaigeUpasaka"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "Alter_Syrup"
+              }
+            ]
+          }
+        },
+        "id": "1627301480440164352",
+        "location": "Kyoto-fu, Japan",
+        "name": "AAA糖浆专卖",
+        "pinned_tweet_id": "1780992344306983398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984938961140379648/wf9ada-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 1286,
+          "like_count": 121749,
+          "listed_count": 5,
+          "media_count": 1685,
+          "tweet_count": 8456
+        },
+        "username": "NWA12302",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-11T09:54:27.000Z",
+        "description": "知津 || 复发性阿弗他口炎、ALDH2酶缺乏症 || 且愛路岐通南北，敢憑蠡測笑江湖。\n||一丸涼月，墮似他心 @NWA12302",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "NWA12302"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LihaiZhaiUpasa…",
+                "end": 23,
+                "expanded_url": "http://t.me/LihaiZhaiUpasaka",
+                "start": 0,
+                "url": "https://t.co/cy3GVnQu9B"
+              }
+            ]
+          }
+        },
+        "id": "929286186824220673",
+        "location": "駕言隨子聽所之",
+        "name": "蠡海",
+        "pinned_tweet_id": "1407219840251695113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984939232595722240/lOHwRU-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1841,
+          "following_count": 488,
+          "like_count": 82442,
+          "listed_count": 29,
+          "media_count": 2124,
+          "tweet_count": 19026
+        },
+        "url": "https://t.co/cy3GVnQu9B",
+        "username": "LihaiGeUpasaka",
+        "verified": false
+      }
+    ]
+  }
+}

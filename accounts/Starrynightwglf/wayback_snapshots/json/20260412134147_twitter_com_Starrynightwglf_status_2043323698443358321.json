@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2042968868130558223",
+    "created_at": "2026-04-12T13:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T14:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043323698443358321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1534418744969003008",
+          "start": 0,
+          "username": "ClearSnow6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043323698443358321",
+    "in_reply_to_user_id": "1534418744969003008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042968868130558223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ClearSnow6 我倒也希望我父母能开个小号转移他们的重心🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2042968868130558223",
+        "created_at": "2026-04-12T13:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043323698443358321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1534418744969003008",
+              "start": 0,
+              "username": "ClearSnow6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043323698443358321",
+        "in_reply_to_user_id": "1534418744969003008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042968868130558223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ClearSnow6 我倒也希望我父母能开个小号转移他们的重心🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534418744969003008",
+        "conversation_id": "2042968868130558223",
+        "created_at": "2026-04-11T14:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042968868130558223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042968868130558223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 91613,
+          "like_count": 1150,
+          "quote_count": 12,
+          "reply_count": 38,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "开始hrt后的第一个月就出柜了，父母没说啥，只是说手术签字是不可能的，后续父母在第三个月就怀孕了。然后四五年后家里就慢慢的没了我的位置。现在看着他们一家的合拍照片，真丫的有点悲。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2019,
+          "following_count": 4430,
+          "like_count": 151454,
+          "listed_count": 3,
+          "media_count": 1311,
+          "tweet_count": 5979
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T06:15:24.000Z",
+        "description": "开始碎碎念。有个树洞也挺不错的，反正这里也没人认识我。",
+        "id": "1534418744969003008",
+        "name": "碎念",
+        "pinned_tweet_id": "1707929932557693347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680031349217038337/3kREKp80_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 110,
+          "like_count": 718,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 3435
+        },
+        "username": "ClearSnow6",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2018748206797263227",
+    "created_at": "2026-02-03T18:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T19:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018748206797263227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018748206797263227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018727008113414436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: 多年以后 你还是没进入srs群 只能在推特上刷到一堆比你小十几岁 但身材娇小美丽优雅还有一堆亲朋好友陪伴的小妹妹 在拿手术群里的事情互相攀比 你自己经历的糟烂无聊人生在真正耀眼夺目的生命力面前碎了一地 毫无意义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2018748206797263227",
+        "created_at": "2026-02-03T18:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T19:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018748206797263227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018748206797263227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018727008113414436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: 多年以后 你还是没进入srs群 只能在推特上刷到一堆比你小十几岁 但身材娇小美丽优雅还有一堆亲朋好友陪伴的小妹妹 在拿手术群里的事情互相攀比 你自己经历的糟烂无聊人生在真正耀眼夺目的生命力面前碎了一地 毫无意义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "2018727008113414436",
+        "created_at": "2026-02-03T16:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T17:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018727008113414436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oliviawantshug…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/oliviawantshugs/status/2018641580786417964",
+              "start": 106,
+              "url": "https://t.co/GhNka1Ma7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018727008113414436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 988,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018641580786417964",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "多年以后 你还是没进入srs群 只能在推特上刷到一堆比你小十几岁 但身材娇小美丽优雅还有一堆亲朋好友陪伴的小妹妹 在拿手术群里的事情互相攀比 你自己经历的糟烂无聊人生在真正耀眼夺目的生命力面前碎了一地 毫无意义 https://t.co/GhNka1Ma7d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1761,
+          "following_count": 4196,
+          "like_count": 130825,
+          "listed_count": 6,
+          "media_count": 974,
+          "tweet_count": 4754
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "",
+        "id": "1424779836938022913",
+        "location": "☭",
+        "name": "amber",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20208,
+          "following_count": 2502,
+          "like_count": 35483,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 18220
+        },
+        "username": "amber_toffee",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2004374645349536237",
+    "created_at": "2025-12-26T02:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T03:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004374645349536237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1761655410820579328",
+          "start": 3,
+          "username": "luckykt17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004374645349536237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003756475534250396",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luckykt17: 以前高三觉得大学生真装，早八还起不来\n现在大学觉得高三真牛逼天天六点多起床"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2004374645349536237",
+        "created_at": "2025-12-26T02:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T03:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004374645349536237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1761655410820579328",
+              "start": 3,
+              "username": "luckykt17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004374645349536237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003756475534250396",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luckykt17: 以前高三觉得大学生真装，早八还起不来\n现在大学觉得高三真牛逼天天六点多起床"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761655410820579328",
+        "conversation_id": "2003756475534250396",
+        "created_at": "2025-12-24T09:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T10:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003756475534250396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003756475534250396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 90687,
+          "like_count": 962,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "以前高三觉得大学生真装，早八还起不来\n现在大学觉得高三真牛逼天天六点多起床"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "🍥₍^˶-𖥦-˵^₎੭ 06   💞@miaomiaoxxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "miaomiaoxxia"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 4028,
+          "like_count": 121785,
+          "listed_count": 5,
+          "media_count": 824,
+          "tweet_count": 4325
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T07:32:50.000Z",
+        "description": "纯绿🚪私｜167/51｜私信随缘回（没关注的不回）会看主页回关，女孩子一定回关",
+        "id": "1761655410820579328",
+        "location": "Hong Kong",
+        "name": "恋绘兔",
+        "pinned_tweet_id": "2003082709485433105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002632185489338373/yn0gPdxk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 91,
+          "like_count": 204,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 152
+        },
+        "username": "luckykt17",
+        "verified": false
+      }
+    ]
+  }
+}

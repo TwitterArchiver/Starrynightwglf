@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029589165508276224"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2029589179773182047",
+    "created_at": "2026-03-05T16:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T17:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029589179773182047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pqp3vl1fzn",
+          "end": 64,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2029589179773182047/photo/1",
+          "media_key": "3_2029589165508276224",
+          "start": 41,
+          "url": "https://t.co/pqp3vl1fzn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029589179773182047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "洗一次衣服三十分钟快洗只要这么点电吗🤨我一直以为洗衣机是个很费电的电器来着... https://t.co/pqp3vl1fzn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2029589165508276224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCqMl8IaMAAKhit.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029589165508276224"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2029589179773182047",
+        "created_at": "2026-03-05T16:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T17:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029589179773182047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pqp3vl1fzn",
+              "end": 64,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2029589179773182047/photo/1",
+              "media_key": "3_2029589165508276224",
+              "start": 41,
+              "url": "https://t.co/pqp3vl1fzn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029589179773182047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洗一次衣服三十分钟快洗只要这么点电吗🤨我一直以为洗衣机是个很费电的电器来着... https://t.co/pqp3vl1fzn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1863,
+          "following_count": 4303,
+          "like_count": 140122,
+          "listed_count": 3,
+          "media_count": 1112,
+          "tweet_count": 5234
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

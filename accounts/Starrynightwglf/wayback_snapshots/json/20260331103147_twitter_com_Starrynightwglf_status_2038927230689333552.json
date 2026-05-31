@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026599907339993089"
+      ],
+      "media_source_tweet_id": [
+        "2026599921659380081"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2038927230689333552",
+    "created_at": "2026-03-31T10:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038927230689333552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1449306428557115397",
+          "start": 3,
+          "username": "555Digitaldude"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/80IHqxnz6i",
+          "end": 43,
+          "expanded_url": "https://x.com/555Digitaldude/status/2026599921659380081/photo/1",
+          "media_key": "3_2026599907339993089",
+          "start": 20,
+          "url": "https://t.co/80IHqxnz6i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038927230689333552",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026599921659380081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @555Digitaldude: https://t.co/80IHqxnz6i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2026599907339993089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_t4NrXAAEX3Io.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026599907339993089"
+          ],
+          "media_source_tweet_id": [
+            "2026599921659380081"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2038927230689333552",
+        "created_at": "2026-03-31T10:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038927230689333552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1449306428557115397",
+              "start": 3,
+              "username": "555Digitaldude"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/80IHqxnz6i",
+              "end": 43,
+              "expanded_url": "https://x.com/555Digitaldude/status/2026599921659380081/photo/1",
+              "media_key": "3_2026599907339993089",
+              "start": 20,
+              "url": "https://t.co/80IHqxnz6i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038927230689333552",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026599921659380081",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @555Digitaldude: https://t.co/80IHqxnz6i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026599907339993089"
+          ]
+        },
+        "author_id": "1449306428557115397",
+        "conversation_id": "2026599921659380081",
+        "created_at": "2026-02-25T10:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T11:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026599921659380081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/80IHqxnz6i",
+              "end": 23,
+              "expanded_url": "https://x.com/555Digitaldude/status/2026599921659380081/photo/1",
+              "media_key": "3_2026599907339993089",
+              "start": 0,
+              "url": "https://t.co/80IHqxnz6i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026599921659380081",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2462,
+          "like_count": 168,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/80IHqxnz6i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 4397,
+          "like_count": 149172,
+          "listed_count": 3,
+          "media_count": 1267,
+          "tweet_count": 5743
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-16T09:30:22.000Z",
+        "description": "Higurashi Enjoyer, Umineko Fan. DM submissions. @digitaldude555 My fanart and game dev account. Road to 5000 followers. YIPPIE!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "digitaldude555"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/digitaldude",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/digitaldude",
+                "start": 0,
+                "url": "https://t.co/nc6YMYDumn"
+              }
+            ]
+          }
+        },
+        "id": "1449306428557115397",
+        "name": "Random Higurashi Screencaps Daily",
+        "pinned_tweet_id": "1935434375577075961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611406507299454980/xvou6coS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4652,
+          "following_count": 151,
+          "like_count": 7642,
+          "listed_count": 8,
+          "media_count": 1269,
+          "tweet_count": 1595
+        },
+        "url": "https://t.co/nc6YMYDumn",
+        "username": "555Digitaldude",
+        "verified": false
+      }
+    ]
+  }
+}

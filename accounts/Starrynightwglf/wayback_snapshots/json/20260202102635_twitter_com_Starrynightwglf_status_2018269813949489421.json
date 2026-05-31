@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018201963729715200"
+      ],
+      "media_source_tweet_id": [
+        "2018201998525694308"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2018269813949489421",
+    "created_at": "2026-02-02T10:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T11:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018269813949489421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1180503482173816833",
+          "start": 3,
+          "username": "honobonochina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8160Jz2B50",
+          "end": 52,
+          "expanded_url": "https://x.com/honobonochina/status/2018201998525694308/photo/1",
+          "media_key": "3_2018201963729715200",
+          "start": 29,
+          "url": "https://t.co/8160Jz2B50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018269813949489421",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 307
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018201998525694308",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @honobonochina: 放屁許可証\n63円 https://t.co/8160Jz2B50"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018201963729715200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAIX_j0bAAAa_Is.jpg",
+        "width": 1248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018201963729715200"
+          ],
+          "media_source_tweet_id": [
+            "2018201998525694308"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2018269813949489421",
+        "created_at": "2026-02-02T10:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T11:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018269813949489421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1180503482173816833",
+              "start": 3,
+              "username": "honobonochina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8160Jz2B50",
+              "end": 52,
+              "expanded_url": "https://x.com/honobonochina/status/2018201998525694308/photo/1",
+              "media_key": "3_2018201963729715200",
+              "start": 29,
+              "url": "https://t.co/8160Jz2B50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018269813949489421",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 307
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018201998525694308",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @honobonochina: 放屁許可証\n63円 https://t.co/8160Jz2B50"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018201963729715200"
+          ]
+        },
+        "author_id": "1180503482173816833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2018201998525694308",
+        "created_at": "2026-02-02T05:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018201998525694308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8160Jz2B50",
+              "end": 33,
+              "expanded_url": "https://x.com/honobonochina/status/2018201998525694308/photo/1",
+              "media_key": "3_2018201963729715200",
+              "start": 10,
+              "url": "https://t.co/8160Jz2B50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018201998525694308",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 39007,
+          "like_count": 1351,
+          "quote_count": 24,
+          "reply_count": 7,
+          "retweet_count": 307
+        },
+        "reply_settings": "everyone",
+        "text": "放屁許可証\n63円 https://t.co/8160Jz2B50"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 4183,
+          "like_count": 130101,
+          "listed_count": 6,
+          "media_count": 969,
+          "tweet_count": 4738
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-05T15:22:56.000Z",
+        "description": "中国で人气のあるウィットに富んだ乐しい商品をいっぱい介绍。商品名は大山のぶ代で脳内再生してください。好きな色はキャンディーピンク、お寿司は二口で食べます😊",
+        "id": "1180503482173816833",
+        "name": "中国ほのぼの商品館",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008128652010299393/dRrm3rdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 683,
+          "like_count": 3111,
+          "listed_count": 9,
+          "media_count": 812,
+          "tweet_count": 1304
+        },
+        "username": "honobonochina",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2034786203648893038",
+    "created_at": "2026-03-20T00:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T01:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034786203648893038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1904872455229104129",
+          "start": 3,
+          "username": "TogawaMedical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034786203648893038",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034261917431140376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TogawaMedical: ご機嫌よう。我是丰川药业的小祥 desu。🌸\n为了能更长久地守护在各位身边，我们现将业务目录移至了 Bio 链接中的公示站。目前现货提供：\n🌟自制改良款凝胶\n🌟零售及整盒色普龙 (CPA/土色)\n产品图如图（可选贴标服务）\n若有任何疑惑，我…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2034261909332197376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDsmbbXagAAHI1R.jpg",
+        "width": 2048
+      },
+      {
+        "height": 767,
+        "media_key": "3_2034261909357375488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDsmbbdasAAX63C.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2034786203648893038",
+        "created_at": "2026-03-20T00:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T01:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034786203648893038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1904872455229104129",
+              "start": 3,
+              "username": "TogawaMedical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034786203648893038",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034261917431140376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TogawaMedical: ご機嫌よう。我是丰川药业的小祥 desu。🌸\n为了能更长久地守护在各位身边，我们现将业务目录移至了 Bio 链接中的公示站。目前现货提供：\n🌟自制改良款凝胶\n🌟零售及整盒色普龙 (CPA/土色)\n产品图如图（可选贴标服务）\n若有任何疑惑，我…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034261909332197376",
+            "3_2034261909357375488"
+          ]
+        },
+        "author_id": "1904872455229104129",
+        "conversation_id": "2034261917431140376",
+        "created_at": "2026-03-18T13:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T14:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034261917431140376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/djikvSwUve",
+              "end": 159,
+              "expanded_url": "https://x.com/TogawaMedical/status/2034261917431140376/photo/1",
+              "media_key": "3_2034261909332197376",
+              "start": 136,
+              "url": "https://t.co/djikvSwUve"
+            },
+            {
+              "display_url": "pic.x.com/djikvSwUve",
+              "end": 159,
+              "expanded_url": "https://x.com/TogawaMedical/status/2034261917431140376/photo/1",
+              "media_key": "3_2034261909357375488",
+              "start": 136,
+              "url": "https://t.co/djikvSwUve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034261917431140376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 170,
+                "start": 156,
+                "tag": "TogawaMedical"
+              },
+              {
+                "end": 176,
+                "start": 171,
+                "tag": "丰川药业"
+              }
+            ]
+          },
+          "text": "ご機嫌よう。我是丰川药业的小祥 desu。🌸\n为了能更长久地守护在各位身边，我们现将业务目录移至了 Bio 链接中的公示站。目前现货提供：\n🌟自制改良款凝胶\n🌟零售及整盒色普龙 (CPA/土色)\n产品图如图（可选贴标服务）\n若有任何疑惑，我处诚挚期待您的私信或邮件垂询。\n愿每一份微光，都能温柔地照亮您的道路。\n#TogawaMedical #丰川药业"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1046,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "ご機嫌よう。我是丰川药业的小祥 desu。🌸\n为了能更长久地守护在各位身边，我们现将业务目录移至了 Bio 链接中的公示站。目前现货提供：\n🌟自制改良款凝胶\n🌟零售及整盒色普龙 (CPA/土色)\n产品图如图（可选贴标服务）\n若有任何疑惑，我处诚挚期待您的私信或邮件垂询。 https://t.co/djikvSwUve"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 4341,
+          "like_count": 145236,
+          "listed_count": 3,
+          "media_count": 1193,
+          "tweet_count": 5475
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:26:20.000Z",
+        "description": "ご機嫌よう，承蒙厚爱。🌸 本处现提供 Androcur® (色普龙) 零售及自制雌二醇凝胶；提供少量免费心理咨询服务。愿能为您带来些许微薄的帮助。客服邮箱：Support@TogawaMedical.top，具体商品、帮助、联系方式及更多文档见下方链接。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "doc.togawamedical.top",
+                "end": 23,
+                "expanded_url": "https://doc.togawamedical.top/",
+                "start": 0,
+                "url": "https://t.co/AoJeeIu4v2"
+              }
+            ]
+          }
+        },
+        "id": "1904872455229104129",
+        "location": "丰川家",
+        "name": "丰川药业_Official🍥",
+        "pinned_tweet_id": "2034261917431140376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027631535369965568/UJFyIgC2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 127,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 69
+        },
+        "url": "https://t.co/AoJeeIu4v2",
+        "username": "TogawaMedical",
+        "verified": true
+      }
+    ]
+  }
+}

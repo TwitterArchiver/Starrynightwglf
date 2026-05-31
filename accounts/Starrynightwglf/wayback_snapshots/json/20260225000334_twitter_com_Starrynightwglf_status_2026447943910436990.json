@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026169641186562048"
+      ],
+      "media_source_tweet_id": [
+        "2026169646890865065"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026447943910436990",
+    "created_at": "2026-02-25T00:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T01:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026447943910436990"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 20,
+          "tag": "ひぐらしFA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1110916879118262272",
+          "start": 3,
+          "username": "rice_balls1234"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qy9h6MQZx6",
+          "end": 53,
+          "expanded_url": "https://x.com/rice_balls1234/status/2026169646890865065/photo/1",
+          "media_key": "3_2026169641186562048",
+          "start": 30,
+          "url": "https://t.co/Qy9h6MQZx6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026447943910436990",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 365
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026169646890865065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rice_balls1234: #ひぐらしFA 🪓 https://t.co/Qy9h6MQZx6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026169641186562048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5mjbWbEAA4Upc.jpg",
+        "width": 1580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026169641186562048"
+          ],
+          "media_source_tweet_id": [
+            "2026169646890865065"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026447943910436990",
+        "created_at": "2026-02-25T00:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T01:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026447943910436990"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "ひぐらしFA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1110916879118262272",
+              "start": 3,
+              "username": "rice_balls1234"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qy9h6MQZx6",
+              "end": 53,
+              "expanded_url": "https://x.com/rice_balls1234/status/2026169646890865065/photo/1",
+              "media_key": "3_2026169641186562048",
+              "start": 30,
+              "url": "https://t.co/Qy9h6MQZx6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026447943910436990",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 365
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026169646890865065",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rice_balls1234: #ひぐらしFA 🪓 https://t.co/Qy9h6MQZx6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026169641186562048"
+          ]
+        },
+        "author_id": "1110916879118262272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026169646890865065",
+        "created_at": "2026-02-24T05:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T06:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026169646890865065"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "ひぐらしFA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qy9h6MQZx6",
+              "end": 33,
+              "expanded_url": "https://x.com/rice_balls1234/status/2026169646890865065/photo/1",
+              "media_key": "3_2026169641186562048",
+              "start": 10,
+              "url": "https://t.co/Qy9h6MQZx6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026169646890865065",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 18348,
+          "like_count": 1820,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 365
+        },
+        "reply_settings": "everyone",
+        "text": "#ひぐらしFA 🪓 https://t.co/Qy9h6MQZx6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 4263,
+          "like_count": 137228,
+          "listed_count": 3,
+          "media_count": 1053,
+          "tweet_count": 5026
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-27T14:49:58.000Z",
+        "description": "",
+        "id": "1110916879118262272",
+        "location": "i - 이요진 ",
+        "name": "주먹밥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1308384692547141634/HlPq9Wfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 132,
+          "like_count": 619,
+          "listed_count": 5,
+          "media_count": 211,
+          "tweet_count": 299
+        },
+        "username": "rice_balls1234",
+        "verified": false
+      }
+    ]
+  }
+}

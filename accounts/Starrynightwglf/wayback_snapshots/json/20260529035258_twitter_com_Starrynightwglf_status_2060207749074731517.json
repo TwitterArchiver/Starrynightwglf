@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2059935380963828093",
+    "created_at": "2026-05-29T03:52:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T04:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060207749074731517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1870126437694615558",
+          "start": 0,
+          "username": "xis_ouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060207749074731517",
+    "in_reply_to_user_id": "1870126437694615558",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059935380963828093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xis_ouo 好热！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2059935380963828093",
+        "created_at": "2026-05-29T03:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060207749074731517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1870126437694615558",
+              "start": 0,
+              "username": "xis_ouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060207749074731517",
+        "in_reply_to_user_id": "1870126437694615558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059935380963828093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xis_ouo 好热！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870126437694615558",
+        "conversation_id": "2059935380963828093",
+        "created_at": "2026-05-28T09:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059935380963828093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059935380963828093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好熱！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 4632,
+          "like_count": 160681,
+          "listed_count": 6,
+          "media_count": 1506,
+          "tweet_count": 6607
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T15:18:02.000Z",
+        "description": "希望能創造一個和平友愛的空間ouo",
+        "id": "1870126437694615558",
+        "name": "喵喵喵~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875752069388496899/dbhg3tjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 195,
+          "like_count": 2705,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 599
+        },
+        "username": "xis_ouo",
+        "verified": false
+      }
+    ]
+  }
+}

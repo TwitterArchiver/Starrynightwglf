@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2060155511132373124",
+    "created_at": "2026-05-29T08:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060274769224958314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2002482819302645760",
+          "start": 0,
+          "username": "OuHouh0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060274769224958314",
+    "in_reply_to_user_id": "2002482819302645760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060271063930646829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuHouh0 谷歌不合作也确实是硬伤\n现在给腾讯做还行吧应该是赚的，商店里直接能下应用宝的软件估计没少给提成"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2060155511132373124",
+        "created_at": "2026-05-29T08:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060274769224958314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2002482819302645760",
+              "start": 0,
+              "username": "OuHouh0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060274769224958314",
+        "in_reply_to_user_id": "2002482819302645760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060271063930646829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuHouh0 谷歌不合作也确实是硬伤\n现在给腾讯做还行吧应该是赚的，商店里直接能下应用宝的软件估计没少给提成"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002482819302645760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2060155511132373124",
+        "created_at": "2026-05-29T08:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060271063930646829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1563508655256850433",
+              "start": 0,
+              "username": "Starrynightwglf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060271063930646829",
+        "in_reply_to_user_id": "1563508655256850433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060269078984757338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starrynightwglf 其中一方面原因他是和亚马逊商店合作的，无法安装Google Store（至少需要折腾一下，我们不考虑），另一方面性能方面我觉得不如老牌模拟器，但是UI干净整洁统一这没的说，现在国区和腾讯应用宝合作，让腾讯负责了跨平台适配"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 4631,
+          "like_count": 160737,
+          "listed_count": 6,
+          "media_count": 1506,
+          "tweet_count": 6613
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T20:54:58.000Z",
+        "description": "尾巴大爷的小跟班。📗",
+        "id": "2002482819302645760",
+        "name": "OuHouh👻",
+        "pinned_tweet_id": "2058649068273106945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002755633985245184/uW7VRKMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 43,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 50
+        },
+        "username": "OuHouh0",
+        "verified": false
+      }
+    ]
+  }
+}

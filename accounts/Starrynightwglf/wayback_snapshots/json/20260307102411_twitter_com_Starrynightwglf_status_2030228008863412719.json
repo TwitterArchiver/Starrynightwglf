@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2029859317013422264",
+    "created_at": "2026-03-07T10:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T11:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030228008863412719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2016246349516439568",
+          "start": 0,
+          "username": "JacobCoats97860"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030228008863412719",
+    "in_reply_to_user_id": "2016246349516439568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029859317013422264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JacobCoats97860 造你妈黄谣恶不恶心"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22722,
+        "height": 1280,
+        "media_key": "13_2029859268321845249",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029859268321845249/img/DOSG_GuhQ7472tCZ.jpg",
+        "public_metrics": {
+          "view_count": 715077
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029859268321845249/vid/avc1/320x568/yhQRkUYr7Kkiizdn.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029859268321845249/vid/avc1/480x852/KcjBboV6VQb6CKtZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029859268321845249/vid/avc1/720x1280/luLnT_qAYerLHCmC.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029859268321845249/pl/80T6J0or0mmpnO9C.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2029859317013422264",
+        "created_at": "2026-03-07T10:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T11:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030228008863412719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2016246349516439568",
+              "start": 0,
+              "username": "JacobCoats97860"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030228008863412719",
+        "in_reply_to_user_id": "2016246349516439568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029859317013422264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JacobCoats97860 造你妈黄谣恶不恶心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029859268321845249"
+          ]
+        },
+        "author_id": "2016246349516439568",
+        "conversation_id": "2029859317013422264",
+        "created_at": "2026-03-06T09:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T10:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029859317013422264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y4urHMoWGY",
+              "end": 38,
+              "expanded_url": "https://x.com/JacobCoats97860/status/2029859317013422264/video/1",
+              "media_key": "13_2029859268321845249",
+              "start": 15,
+              "url": "https://t.co/y4urHMoWGY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029859317013422264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1700,
+          "impression_count": 1170737,
+          "like_count": 5040,
+          "quote_count": 11,
+          "reply_count": 221,
+          "retweet_count": 237
+        },
+        "reply_settings": "everyone",
+        "text": "除非是故意的，否则无法解释。 https://t.co/y4urHMoWGY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1862,
+          "following_count": 4307,
+          "like_count": 140772,
+          "listed_count": 3,
+          "media_count": 1123,
+          "tweet_count": 5275
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T20:26:13.000Z",
+        "description": "`_____我主号 @hofda82279399",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "hofda82279399"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "va.saffei.life",
+                "end": 23,
+                "expanded_url": "http://va.saffei.life",
+                "start": 0,
+                "url": "https://t.co/240TxAqK9K"
+              }
+            ]
+          }
+        },
+        "id": "2016246349516439568",
+        "location": "抖音网红约炮性爱圈→",
+        "name": "每日吃瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029647927602466818/9GrJhvk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/240TxAqK9K",
+        "username": "JacobCoats97860",
+        "verified": false
+      }
+    ]
+  }
+}

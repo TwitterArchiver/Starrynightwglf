@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010887334238306304"
+      ],
+      "media_source_tweet_id": [
+        "2010887341259571340"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2010912856456511738",
+    "created_at": "2026-01-13T03:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T04:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010912856456511738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1370930997441687554",
+          "start": 3,
+          "username": "shiroten1728"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VlQGbfL5KO",
+          "end": 55,
+          "expanded_url": "https://x.com/shiroten1728/status/2010887341259571340/photo/1",
+          "media_key": "3_2010887334238306304",
+          "start": 32,
+          "url": "https://t.co/VlQGbfL5KO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010912856456511738",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010887341259571340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiroten1728: 今日の白川郷（雛見沢）❄️ https://t.co/VlQGbfL5KO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010887334238306304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-gbYFibQAAMku2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010887334238306304"
+          ],
+          "media_source_tweet_id": [
+            "2010887341259571340"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2010912856456511738",
+        "created_at": "2026-01-13T03:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T04:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010912856456511738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1370930997441687554",
+              "start": 3,
+              "username": "shiroten1728"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VlQGbfL5KO",
+              "end": 55,
+              "expanded_url": "https://x.com/shiroten1728/status/2010887341259571340/photo/1",
+              "media_key": "3_2010887334238306304",
+              "start": 32,
+              "url": "https://t.co/VlQGbfL5KO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010912856456511738",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010887341259571340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiroten1728: 今日の白川郷（雛見沢）❄️ https://t.co/VlQGbfL5KO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010887334238306304"
+          ]
+        },
+        "author_id": "1370930997441687554",
+        "conversation_id": "2010887341259571340",
+        "created_at": "2026-01-13T01:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T02:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010887341259571340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VlQGbfL5KO",
+              "end": 37,
+              "expanded_url": "https://x.com/shiroten1728/status/2010887341259571340/photo/1",
+              "media_key": "3_2010887334238306304",
+              "start": 14,
+              "url": "https://t.co/VlQGbfL5KO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010887341259571340",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1764,
+          "like_count": 280,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "今日の白川郷（雛見沢）❄️ https://t.co/VlQGbfL5KO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1668,
+          "following_count": 4114,
+          "like_count": 125598,
+          "listed_count": 5,
+          "media_count": 881,
+          "tweet_count": 4510
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-14T02:53:30.000Z",
+        "description": "世界遺産白川郷で 「お食事処天守閣(団体専用) 」「てんぼうだいのおみやげやさん」「てんぼうだいのカフェ」を営業しております。 荻町集落を一望出来る展望台を備えております。DM、コメントのお返事は控えさせていただきます。お問い合わせはホームページよりお願いいたします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shiroten.jp",
+                "end": 23,
+                "expanded_url": "https://shiroten.jp/",
+                "start": 0,
+                "url": "https://t.co/rdlRVSFQHJ"
+              }
+            ]
+          }
+        },
+        "id": "1370930997441687554",
+        "location": "501-5627, 岐阜県 大野郡白川村, 荻町2269-1",
+        "name": "白川郷天守閣展望台",
+        "pinned_tweet_id": "2005164398017757564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1553179101300633600/8GX2ujVe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10659,
+          "following_count": 364,
+          "like_count": 1429,
+          "listed_count": 47,
+          "media_count": 1258,
+          "tweet_count": 1949
+        },
+        "url": "https://t.co/rdlRVSFQHJ",
+        "username": "shiroten1728",
+        "verified": false
+      }
+    ]
+  }
+}

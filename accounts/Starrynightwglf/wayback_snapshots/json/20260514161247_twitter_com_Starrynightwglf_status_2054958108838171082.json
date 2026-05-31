@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2054958108838171082",
+    "created_at": "2026-05-14T16:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T17:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054958108838171082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2007142349529591817",
+          "start": 3,
+          "username": "rZJaHLWSme36248"
+        },
+        {
+          "end": 37,
+          "id": "1889206585152741376",
+          "start": 21,
+          "username": "ChanaWeins89377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054958108838171082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054799158213738762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rZJaHLWSme36248: @ChanaWeins89377 世界还要被这种萌物统治多久"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2054958108838171082",
+        "created_at": "2026-05-14T16:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054958108838171082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2007142349529591817",
+              "start": 3,
+              "username": "rZJaHLWSme36248"
+            },
+            {
+              "end": 37,
+              "id": "1889206585152741376",
+              "start": 21,
+              "username": "ChanaWeins89377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054958108838171082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054799158213738762",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rZJaHLWSme36248: @ChanaWeins89377 世界还要被这种萌物统治多久"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007142349529591817",
+        "conversation_id": "2054797169006395555",
+        "created_at": "2026-05-14T05:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054799158213738762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889206585152741376",
+              "start": 0,
+              "username": "ChanaWeins89377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054799158213738762",
+        "in_reply_to_user_id": "1889206585152741376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3623,
+          "like_count": 167,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054797169006395555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChanaWeins89377 世界还要被这种萌物统治多久"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 4568,
+          "like_count": 157306,
+          "listed_count": 5,
+          "media_count": 1433,
+          "tweet_count": 6391
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T17:31:19.000Z",
+        "description": "当你打开我的主页的那一刻，你就已经彻底的打开了我的主页，我的主页像主页一样浅浅的加载到你眼中，你试图点击我的头像，所以你打开了我的主页，可是你打开了我的主页，我的主页是开放的，你可以打开",
+        "id": "2007142349529591817",
+        "name": "000",
+        "pinned_tweet_id": "2047784513611444569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007142801499471872/ILSyfi8q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 40,
+          "like_count": 555,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 193
+        },
+        "username": "rZJaHLWSme36248",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T06:56:59.000Z",
+        "description": "大陆文科高中生，社交能力很糟 精神状态堪忧 道德底线几乎没有，如果让你不高兴了对不起我没有恶意真的，欢迎所有人来找我玩。中⌚博爱。最大属性周飞辱追，看见他挨骂（各种意义上的）我都会很开心😋",
+        "id": "1889206585152741376",
+        "name": "Ender桓桓",
+        "pinned_tweet_id": "2013950943281529003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928588169009836034/cjk9Jz-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 123,
+          "like_count": 4120,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 680
+        },
+        "username": "ChanaWeins89377",
+        "verified": false
+      }
+    ]
+  }
+}

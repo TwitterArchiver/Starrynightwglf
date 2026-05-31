@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994943587424112640"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "1994731879992627323",
+    "created_at": "2025-11-30T01:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T02:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994943591278678133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1654534022448713728",
+          "start": 0,
+          "username": "jueduizhengyi_A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YT9qlcyAUJ",
+          "end": 45,
+          "expanded_url": "https://x.com/Starrynightwglf/status/1994943591278678133/photo/1",
+          "media_key": "3_1994943587424112640",
+          "start": 22,
+          "url": "https://t.co/YT9qlcyAUJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994943591278678133",
+    "in_reply_to_user_id": "1654534022448713728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994731879992627323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jueduizhengyi_A 熊... https://t.co/YT9qlcyAUJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1156,
+        "media_key": "3_1994943587424112640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G692n4NbkAAmXs2.jpg",
+        "width": 1156
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994731872837070848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G662Ed6acAAxv6s.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994943587424112640"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "1994731879992627323",
+        "created_at": "2025-11-30T01:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T02:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994943591278678133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1654534022448713728",
+              "start": 0,
+              "username": "jueduizhengyi_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YT9qlcyAUJ",
+              "end": 45,
+              "expanded_url": "https://x.com/Starrynightwglf/status/1994943591278678133/photo/1",
+              "media_key": "3_1994943587424112640",
+              "start": 22,
+              "url": "https://t.co/YT9qlcyAUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994943591278678133",
+        "in_reply_to_user_id": "1654534022448713728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994731879992627323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jueduizhengyi_A 熊... https://t.co/YT9qlcyAUJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994731872837070848"
+          ]
+        },
+        "author_id": "1654534022448713728",
+        "conversation_id": "1994731879992627323",
+        "created_at": "2025-11-29T11:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T12:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994731879992627323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CkURK35Se6",
+              "end": 93,
+              "expanded_url": "https://x.com/jueduizhengyi_A/status/1994731879992627323/photo/1",
+              "media_key": "3_1994731872837070848",
+              "start": 70,
+              "url": "https://t.co/CkURK35Se6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994731879992627323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 57279,
+          "like_count": 976,
+          "quote_count": 8,
+          "reply_count": 76,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "我痛恨这种分手了之后把玩偶烧掉的。你的意思是说要让轻松熊这么可爱的小东西陪你们那可笑的感情陪葬吗？它只是想让你开心，它做错什么了？真是虚伪 https://t.co/CkURK35Se6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃鱼鱼蒸┃重读大一ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州📍┃发点日常（可能掉落涩涩）┃是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃能多在意我一点点吗🥺┃🚪25┃叫我小风🎐┃妹妹也是恋人💞@miaomiaoxxia┃别离开我好吗好的😔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "miaomiaoxxia"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "小夏怀里",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 3970,
+          "like_count": 118487,
+          "listed_count": 5,
+          "media_count": 737,
+          "tweet_count": 4132
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T17:10:34.000Z",
+        "description": "INTJ|男的|仮面ライダー|キャラクターデザイナー|小さな雑記|中野",
+        "id": "1654534022448713728",
+        "location": "Nakano-ku, Tokyo",
+        "name": "Suga",
+        "pinned_tweet_id": "1974848022489252350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982431843971379200/3cwnJmBo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 195,
+          "like_count": 37330,
+          "listed_count": 0,
+          "media_count": 589,
+          "tweet_count": 4409
+        },
+        "username": "jueduizhengyi_A",
+        "verified": true
+      }
+    ]
+  }
+}

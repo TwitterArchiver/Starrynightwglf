@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014632404758233091"
+      ],
+      "media_source_tweet_id": [
+        "2014632411624308814"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2014841110577987753",
+    "created_at": "2026-01-23T23:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T00:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014841110577987753"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 20,
+          "tag": "おにまいお絵描き"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1848750890959966215",
+          "start": 3,
+          "username": "zibizibipen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Fv9nn3TE4",
+          "end": 53,
+          "expanded_url": "https://x.com/zibizibipen/status/2014632411624308814/photo/1",
+          "media_key": "3_2014632404758233091",
+          "start": 30,
+          "url": "https://t.co/0Fv9nn3TE4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014841110577987753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1996
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014632411624308814",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zibizibipen: 悲報 #おにまいお絵描き https://t.co/0Fv9nn3TE4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1197,
+        "media_key": "3_2014632404758233091",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Vpf4abAAMHWlo.jpg",
+        "width": 2128
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014632404758233091"
+          ],
+          "media_source_tweet_id": [
+            "2014632411624308814"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2014841110577987753",
+        "created_at": "2026-01-23T23:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T00:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014841110577987753"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "おにまいお絵描き"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1848750890959966215",
+              "start": 3,
+              "username": "zibizibipen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Fv9nn3TE4",
+              "end": 53,
+              "expanded_url": "https://x.com/zibizibipen/status/2014632411624308814/photo/1",
+              "media_key": "3_2014632404758233091",
+              "start": 30,
+              "url": "https://t.co/0Fv9nn3TE4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014841110577987753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1996
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014632411624308814",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zibizibipen: 悲報 #おにまいお絵描き https://t.co/0Fv9nn3TE4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014632404758233091"
+          ]
+        },
+        "author_id": "1848750890959966215",
+        "conversation_id": "2014632411624308814",
+        "created_at": "2026-01-23T09:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T10:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014632411624308814"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 3,
+              "tag": "おにまいお絵描き"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Fv9nn3TE4",
+              "end": 36,
+              "expanded_url": "https://x.com/zibizibipen/status/2014632411624308814/photo/1",
+              "media_key": "3_2014632404758233091",
+              "start": 13,
+              "url": "https://t.co/0Fv9nn3TE4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014632411624308814",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1666,
+          "impression_count": 605580,
+          "like_count": 17941,
+          "quote_count": 46,
+          "reply_count": 49,
+          "retweet_count": 1996
+        },
+        "reply_settings": "everyone",
+        "text": "悲報 #おにまいお絵描き https://t.co/0Fv9nn3TE4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 4168,
+          "like_count": 128111,
+          "listed_count": 5,
+          "media_count": 931,
+          "tweet_count": 4636
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-22T15:39:02.000Z",
+        "description": "お兄ちゃんはおしまい（おにまい）のファンアートをたまに投稿します。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/1660617",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/1660617",
+                "start": 0,
+                "url": "https://t.co/9Ktv3IrwVq"
+              }
+            ]
+          }
+        },
+        "id": "1848750890959966215",
+        "location": "日本",
+        "name": "じびじびぺんＺ",
+        "pinned_tweet_id": "2012089995583226221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002794409373634560/8SQnq8e8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8121,
+          "following_count": 184,
+          "like_count": 5041,
+          "listed_count": 53,
+          "media_count": 214,
+          "tweet_count": 1702
+        },
+        "url": "https://t.co/9Ktv3IrwVq",
+        "username": "zibizibipen",
+        "verified": false
+      }
+    ]
+  }
+}

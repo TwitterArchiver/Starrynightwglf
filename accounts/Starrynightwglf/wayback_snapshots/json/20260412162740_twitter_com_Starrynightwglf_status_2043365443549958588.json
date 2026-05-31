@@ -1,0 +1,491 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043365407189618688",
+        "3_2043365407403503616",
+        "3_2043365409420906496"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2043365443549958588",
+    "created_at": "2026-04-12T16:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T17:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043365443549958588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gzd8quNNDz",
+          "end": 40,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2043365443549958588/photo/1",
+          "media_key": "3_2043365407189618688",
+          "start": 17,
+          "url": "https://t.co/Gzd8quNNDz"
+        },
+        {
+          "display_url": "pic.x.com/Gzd8quNNDz",
+          "end": 40,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2043365443549958588/photo/1",
+          "media_key": "3_2043365407403503616",
+          "start": 17,
+          "url": "https://t.co/Gzd8quNNDz"
+        },
+        {
+          "display_url": "pic.x.com/Gzd8quNNDz",
+          "end": 40,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2043365443549958588/photo/1",
+          "media_key": "3_2043365409420906496",
+          "start": 17,
+          "url": "https://t.co/Gzd8quNNDz"
+        },
+        {
+          "display_url": "x.com/Aquilar9241333…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/Aquilar92413331/status/2043215185184452660",
+          "start": 41,
+          "url": "https://t.co/TXV37ejRBC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043365443549958588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043215185184452660",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "「只活一次不算数」\n「未完待续」 https://t.co/Gzd8quNNDz https://t.co/TXV37ejRBC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2670,
+        "media_key": "3_2043365407189618688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFt-Avnb0AAhksG.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2043365407403503616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFt-AwabcAAQuxk.jpg",
+        "width": 2670
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2043365409420906496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFt-A37akAAXwMp.jpg",
+        "width": 2670
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2043215179417329664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFr1YVjbIAAX2zs.jpg",
+        "width": 849
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043365407189618688",
+            "3_2043365407403503616",
+            "3_2043365409420906496"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2043365443549958588",
+        "created_at": "2026-04-12T16:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043365443549958588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gzd8quNNDz",
+              "end": 40,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2043365443549958588/photo/1",
+              "media_key": "3_2043365407189618688",
+              "start": 17,
+              "url": "https://t.co/Gzd8quNNDz"
+            },
+            {
+              "display_url": "pic.x.com/Gzd8quNNDz",
+              "end": 40,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2043365443549958588/photo/1",
+              "media_key": "3_2043365407403503616",
+              "start": 17,
+              "url": "https://t.co/Gzd8quNNDz"
+            },
+            {
+              "display_url": "pic.x.com/Gzd8quNNDz",
+              "end": 40,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2043365443549958588/photo/1",
+              "media_key": "3_2043365409420906496",
+              "start": 17,
+              "url": "https://t.co/Gzd8quNNDz"
+            },
+            {
+              "display_url": "x.com/Aquilar9241333…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/Aquilar92413331/status/2043215185184452660",
+              "start": 41,
+              "url": "https://t.co/TXV37ejRBC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043365443549958588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043215185184452660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「只活一次不算数」\n「未完待续」 https://t.co/Gzd8quNNDz https://t.co/TXV37ejRBC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043215179417329664"
+          ]
+        },
+        "author_id": "1315158584502624257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2043215185184452660",
+        "created_at": "2026-04-12T06:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043215185184452660"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 23,
+              "tag": "genshinimpact"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "原神"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RkE8xSkE7B",
+              "end": 67,
+              "expanded_url": "https://x.com/Aquilar92413331/status/2043215185184452660/photo/1",
+              "media_key": "3_2043215179417329664",
+              "start": 44,
+              "url": "https://t.co/RkE8xSkE7B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043215185184452660",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 219,
+          "impression_count": 21038,
+          "like_count": 2646,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 403
+        },
+        "reply_settings": "everyone",
+        "text": "Zeitlind\nVIVA LA VIDA \n#genshinimpact📷 #原神📷 https://t.co/RkE8xSkE7B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2018,
+          "following_count": 4428,
+          "like_count": 151604,
+          "listed_count": 3,
+          "media_count": 1315,
+          "tweet_count": 5996
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-11T05:13:44.000Z",
+        "description": "illustrator\nEnglish/中文 Ok                    \n崩三/崩铁/原神/绝区零\nHI3/HSR/Genshin/ZZZ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/56491841",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/56491841",
+                "start": 0,
+                "url": "https://t.co/op8zjuUuFf"
+              }
+            ]
+          }
+        },
+        "id": "1315158584502624257",
+        "location": "out of space",
+        "name": "AQUILAR",
+        "pinned_tweet_id": "1486297198803374080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841143373266370560/IH2WOZHy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5663,
+          "following_count": 1312,
+          "like_count": 19438,
+          "listed_count": 35,
+          "media_count": 299,
+          "tweet_count": 513
+        },
+        "url": "https://t.co/op8zjuUuFf",
+        "username": "Aquilar92413331",
+        "verified": false
+      }
+    ]
+  }
+}

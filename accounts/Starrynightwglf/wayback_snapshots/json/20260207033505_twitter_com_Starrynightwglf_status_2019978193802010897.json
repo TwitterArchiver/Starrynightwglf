@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019744883435765760"
+      ],
+      "media_source_tweet_id": [
+        "2019744888477139367"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2019978193802010897",
+    "created_at": "2026-02-07T03:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T04:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019978193802010897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1901883776126648321",
+          "start": 3,
+          "username": "azucat_mania"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7iyeCCPyjM",
+          "end": 41,
+          "expanded_url": "https://x.com/azucat_mania/status/2019744888477139367/photo/1",
+          "media_key": "3_2019744883435765760",
+          "start": 18,
+          "url": "https://t.co/7iyeCCPyjM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019978193802010897",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1514
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019744888477139367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azucat_mania: https://t.co/7iyeCCPyjM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1054,
+        "media_key": "3_2019744883435765760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAeTRToaAAA7Coz.jpg",
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019744883435765760"
+          ],
+          "media_source_tweet_id": [
+            "2019744888477139367"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019978193802010897",
+        "created_at": "2026-02-07T03:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T04:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019978193802010897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1901883776126648321",
+              "start": 3,
+              "username": "azucat_mania"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7iyeCCPyjM",
+              "end": 41,
+              "expanded_url": "https://x.com/azucat_mania/status/2019744888477139367/photo/1",
+              "media_key": "3_2019744883435765760",
+              "start": 18,
+              "url": "https://t.co/7iyeCCPyjM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019978193802010897",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1514
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019744888477139367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azucat_mania: https://t.co/7iyeCCPyjM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019744883435765760"
+          ]
+        },
+        "author_id": "1901883776126648321",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019744888477139367",
+        "created_at": "2026-02-06T12:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T13:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019744888477139367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7iyeCCPyjM",
+              "end": 23,
+              "expanded_url": "https://x.com/azucat_mania/status/2019744888477139367/photo/1",
+              "media_key": "3_2019744883435765760",
+              "start": 0,
+              "url": "https://t.co/7iyeCCPyjM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019744888477139367",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 240,
+          "impression_count": 102832,
+          "like_count": 9218,
+          "quote_count": 60,
+          "reply_count": 21,
+          "retweet_count": 1514
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7iyeCCPyjM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 4207,
+          "like_count": 131518,
+          "listed_count": 6,
+          "media_count": 981,
+          "tweet_count": 4780
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T06:30:55.000Z",
+        "description": "251 @TZJ3FPsh5430297 サブ@fuwafuwatime00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "TZJ3FPsh5430297"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "fuwafuwatime00"
+              }
+            ]
+          }
+        },
+        "id": "1901883776126648321",
+        "location": "精神障害者",
+        "name": "あずまに",
+        "pinned_tweet_id": "2015355293912482265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010356003112669185/fs622dur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 429,
+          "like_count": 37657,
+          "listed_count": 9,
+          "media_count": 290,
+          "tweet_count": 3684
+        },
+        "username": "azucat_mania",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,671 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037980773236801536"
+      ],
+      "media_source_tweet_id": [
+        "2039357116599746753"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1151834667982528513",
+          "name": "Kyoto Animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1151834667982528513",
+          "name": "Kyoto Animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447585004736512",
+          "name": "Entertainment industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339352163508600832",
+          "name": "Animation studios"
+        }
+      }
+    ],
+    "conversation_id": "2039576090424004736",
+    "created_at": "2026-04-02T05:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T06:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039576090424004736"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 77,
+          "start": 72,
+          "tag": "けいおん"
+        },
+        {
+          "end": 88,
+          "start": 78,
+          "tag": "京都アニメーション"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1266355006615064577",
+          "start": 3,
+          "username": "K_onkinenbi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ocqc0knBSf",
+          "end": 112,
+          "expanded_url": "https://x.com/K_onkinenbi/status/2039357116599746753/photo/1",
+          "media_key": "3_2037980773236801536",
+          "start": 89,
+          "url": "https://t.co/Ocqc0knBSf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039576090424004736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1475
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039357116599746753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @K_onkinenbi: 2009年4月2日 TVアニメ『けいおん！』の放送が始まりました。\n\n今年で放送から17周年を迎えました。\n\n#けいおん\n＃京都アニメーション https://t.co/Ocqc0knBSf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1020,
+        "media_key": "3_2037980773236801536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEhcty_bAAAtEto.jpg",
+        "width": 730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037980773236801536"
+          ],
+          "media_source_tweet_id": [
+            "2039357116599746753"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1151834667982528513",
+              "name": "Kyoto Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1151834667982528513",
+              "name": "Kyoto Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352163508600832",
+              "name": "Animation studios"
+            }
+          }
+        ],
+        "conversation_id": "2039576090424004736",
+        "created_at": "2026-04-02T05:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T06:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039576090424004736"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 72,
+              "tag": "けいおん"
+            },
+            {
+              "end": 88,
+              "start": 78,
+              "tag": "京都アニメーション"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1266355006615064577",
+              "start": 3,
+              "username": "K_onkinenbi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ocqc0knBSf",
+              "end": 112,
+              "expanded_url": "https://x.com/K_onkinenbi/status/2039357116599746753/photo/1",
+              "media_key": "3_2037980773236801536",
+              "start": 89,
+              "url": "https://t.co/Ocqc0knBSf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039576090424004736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1475
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039357116599746753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @K_onkinenbi: 2009年4月2日 TVアニメ『けいおん！』の放送が始まりました。\n\n今年で放送から17周年を迎えました。\n\n#けいおん\n＃京都アニメーション https://t.co/Ocqc0knBSf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037980773236801536"
+          ]
+        },
+        "author_id": "1266355006615064577",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1151834667982528513",
+              "name": "Kyoto Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1151834667982528513",
+              "name": "Kyoto Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352163508600832",
+              "name": "Animation studios"
+            }
+          }
+        ],
+        "conversation_id": "2039357116599746753",
+        "created_at": "2026-04-01T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039357116599746753"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "けいおん"
+            },
+            {
+              "end": 71,
+              "start": 61,
+              "tag": "京都アニメーション"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ocqc0knBSf",
+              "end": 95,
+              "expanded_url": "https://x.com/K_onkinenbi/status/2039357116599746753/photo/1",
+              "media_key": "3_2037980773236801536",
+              "start": 72,
+              "url": "https://t.co/Ocqc0knBSf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039357116599746753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 195,
+          "impression_count": 114987,
+          "like_count": 4659,
+          "quote_count": 112,
+          "reply_count": 16,
+          "retweet_count": 1475
+        },
+        "reply_settings": "everyone",
+        "text": "2009年4月2日 TVアニメ『けいおん！』の放送が始まりました。\n\n今年で放送から17周年を迎えました。\n\n#けいおん\n＃京都アニメーション https://t.co/Ocqc0knBSf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 4409,
+          "like_count": 149795,
+          "listed_count": 3,
+          "media_count": 1282,
+          "tweet_count": 5802
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-29T13:05:47.000Z",
+        "description": "『けいおん！』に関連する出来事をたくさんの方に知ってもらうこと、風化させないことを目的として作成しました。\n過去のイベントやタイアップの振り返り、お知らせ等を発信致します。\n画像の著作権について漫画は「©かきふらい／芳文社」アニメは「©かきふらい・芳文社/桜高軽音部」に準じます。※非公式です。\n\n#けいおん\n#K_ON",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 154,
+                "start": 149,
+                "tag": "けいおん"
+              },
+              {
+                "end": 160,
+                "start": 155,
+                "tag": "K_ON"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/k_onkinenbi",
+                "end": 23,
+                "expanded_url": "https://note.com/k_onkinenbi",
+                "start": 0,
+                "url": "https://t.co/rhEIxOaGad"
+              }
+            ]
+          }
+        },
+        "id": "1266355006615064577",
+        "location": "私たちはいつまでも放課後です。",
+        "name": "けいおん！きねんび！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774774493678018560/-pMyGWAk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25403,
+          "following_count": 57,
+          "like_count": 2792,
+          "listed_count": 67,
+          "media_count": 4159,
+          "tweet_count": 9816
+        },
+        "url": "https://t.co/rhEIxOaGad",
+        "username": "K_onkinenbi",
+        "verified": false
+      }
+    ]
+  }
+}

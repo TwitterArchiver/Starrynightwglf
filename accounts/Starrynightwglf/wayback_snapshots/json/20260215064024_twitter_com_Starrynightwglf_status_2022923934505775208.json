@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022923931427233793"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2022923934505775208",
+    "created_at": "2026-02-15T06:40:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T07:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022923934505775208"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2s9EXjnxcr",
+          "end": 23,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2022923934505775208/photo/1",
+          "media_key": "3_2022923931427233793",
+          "start": 0,
+          "url": "https://t.co/2s9EXjnxcr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022923934505775208",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/2s9EXjnxcr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2670,
+        "media_key": "3_2022923931427233793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLemQRbYAEOpy2.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022923931427233793"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022923934505775208",
+        "created_at": "2026-02-15T06:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T07:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022923934505775208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2s9EXjnxcr",
+              "end": 23,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2022923934505775208/photo/1",
+              "media_key": "3_2022923931427233793",
+              "start": 0,
+              "url": "https://t.co/2s9EXjnxcr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022923934505775208",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2s9EXjnxcr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 4226,
+          "like_count": 134398,
+          "listed_count": 3,
+          "media_count": 1008,
+          "tweet_count": 4882
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

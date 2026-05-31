@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006633453085929472"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2006633481506533848",
+    "created_at": "2026-01-01T07:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T08:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006633481506533848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sZaEGCTAGO",
+          "end": 28,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2006633481506533848/photo/1",
+          "media_key": "3_2006633453085929472",
+          "start": 5,
+          "url": "https://t.co/sZaEGCTAGO"
+        },
+        {
+          "display_url": "x.com/Starrynightwgl…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/Starrynightwglf/status/2006403764841025701",
+          "start": 29,
+          "url": "https://t.co/eSB9Pmdghi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006633481506533848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006403764841025701",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "十条嗯， https://t.co/sZaEGCTAGO https://t.co/eSB9Pmdghi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2006633481506533848].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2006633481506533848",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2006633481506533848"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2006633453085929472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9j-fnWaMAAzK9l.jpg",
+        "width": 3060
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2006403721086062592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gtjc9bUAAnYj8.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006403721086062592"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2006403764841025701",
+        "created_at": "2025-12-31T16:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T17:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006403764841025701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/djM5HMoLX6",
+              "end": 31,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2006403764841025701/photo/1",
+              "media_key": "3_2006403721086062592",
+              "start": 8,
+              "url": "https://t.co/djM5HMoLX6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006403764841025701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "26年划六条😔 https://t.co/djM5HMoLX6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "",
+        "id": "1563508655256850433",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 4047,
+          "like_count": 122886,
+          "listed_count": 5,
+          "media_count": 845,
+          "tweet_count": 4386
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

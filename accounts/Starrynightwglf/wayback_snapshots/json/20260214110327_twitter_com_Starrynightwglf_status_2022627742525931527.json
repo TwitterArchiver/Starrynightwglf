@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2022627742525931527",
+    "created_at": "2026-02-14T11:03:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T12:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022627742525931527"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youyushuiniu62…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/youyushuiniu626/status/2022191364574986248",
+          "start": 4,
+          "url": "https://t.co/utJZNmsoZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022627742525931527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022191364574986248",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不早说 https://t.co/utJZNmsoZZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2022627742525931527",
+        "created_at": "2026-02-14T11:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022627742525931527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youyushuiniu62…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/youyushuiniu626/status/2022191364574986248",
+              "start": 4,
+              "url": "https://t.co/utJZNmsoZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022627742525931527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022191364574986248",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不早说 https://t.co/utJZNmsoZZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973422975904092160",
+        "conversation_id": "2022191364574986248",
+        "created_at": "2026-02-13T06:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T07:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022191364574986248"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022191364574986248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 105142,
+          "like_count": 2593,
+          "quote_count": 42,
+          "reply_count": 115,
+          "retweet_count": 311
+        },
+        "reply_settings": "everyone",
+        "text": "其实13号跳楼14号也能收到花"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 4226,
+          "like_count": 134290,
+          "listed_count": 3,
+          "media_count": 1006,
+          "tweet_count": 4875
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T16:21:24.000Z",
+        "description": "infj",
+        "id": "1973422975904092160",
+        "name": "鱿鱼的水牛",
+        "pinned_tweet_id": "2003662712962974030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989705569654247427/o1qKXNfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 257,
+          "like_count": 2340,
+          "listed_count": 3,
+          "media_count": 33,
+          "tweet_count": 533
+        },
+        "username": "youyushuiniu626",
+        "verified": false
+      }
+    ]
+  }
+}

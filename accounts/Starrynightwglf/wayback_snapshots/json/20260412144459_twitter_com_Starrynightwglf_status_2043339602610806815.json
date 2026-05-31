@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2043339602610806815",
+    "created_at": "2026-04-12T14:44:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T15:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043339602610806815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2039707587567075328",
+          "start": 3,
+          "username": "Cit7w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043339602610806815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043165827122548770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cit7w: 没流量100关注抽\n一等奖：52🧧 x1人\n二等奖：一盒pr80折（20）x1人\n三等奖：玉米片折（10） x1人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2043339602610806815",
+        "created_at": "2026-04-12T14:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043339602610806815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2039707587567075328",
+              "start": 3,
+              "username": "Cit7w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043339602610806815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043165827122548770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cit7w: 没流量100关注抽\n一等奖：52🧧 x1人\n二等奖：一盒pr80折（20）x1人\n三等奖：玉米片折（10） x1人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039707587567075328",
+        "conversation_id": "2043165827122548770",
+        "created_at": "2026-04-12T03:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043165827122548770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043165827122548770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 964,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "没流量100关注抽\n一等奖：52🧧 x1人\n二等奖：一盒pr80折（20）x1人\n三等奖：玉米片折（10） x1人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2020,
+          "following_count": 4433,
+          "like_count": 151543,
+          "listed_count": 3,
+          "media_count": 1312,
+          "tweet_count": 5987
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T14:13:30.000Z",
+        "description": "这个世界充满假象 唯有痛苦从不说谎",
+        "id": "2039707587567075328",
+        "name": "诚诚",
+        "pinned_tweet_id": "2039836078514020584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039841587858137088/IUDiBRJP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 8,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 71
+        },
+        "username": "Cit7w",
+        "verified": false
+      }
+    ]
+  }
+}

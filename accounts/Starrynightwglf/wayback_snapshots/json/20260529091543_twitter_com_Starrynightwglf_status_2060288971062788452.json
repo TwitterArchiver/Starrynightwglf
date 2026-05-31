@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1582385270640418818",
+          "name": "Parler"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1582385270640418818",
+          "name": "Parler"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2060288971062788452",
+    "created_at": "2026-05-29T09:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060288971062788452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cmoitibo/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/cmoitibo/status/2060104167905992784",
+          "start": 16,
+          "url": "https://t.co/zUmrztuU4R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060288971062788452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060104167905992784",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "骗你的，一直说话也0个人会鸟我 https://t.co/zUmrztuU4R"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582385270640418818",
+              "name": "Parler"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1582385270640418818",
+              "name": "Parler"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060288971062788452",
+        "created_at": "2026-05-29T09:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060288971062788452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cmoitibo/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/cmoitibo/status/2060104167905992784",
+              "start": 16,
+              "url": "https://t.co/zUmrztuU4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060288971062788452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060104167905992784",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骗你的，一直说话也0个人会鸟我 https://t.co/zUmrztuU4R"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1277934882027720709",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060104167905992784",
+        "created_at": "2026-05-28T21:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T22:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060104167905992784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060104167905992784",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 73655,
+          "like_count": 5931,
+          "quote_count": 41,
+          "reply_count": 73,
+          "retweet_count": 696
+        },
+        "reply_settings": "everyone",
+        "text": "Le but de Twitter c’est de parler tout seul jusqu’à ce que quelqu’un te calcule l’appli de schizophrène en vrai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 4632,
+          "like_count": 160739,
+          "listed_count": 6,
+          "media_count": 1506,
+          "tweet_count": 6614
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-30T12:00:04.000Z",
+        "description": "procrastineur ambitieux • @PSG_inside",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "PSG_inside"
+              }
+            ]
+          }
+        },
+        "id": "1277934882027720709",
+        "location": "en détente 🏝️ ",
+        "name": "TIBO ☔️",
+        "pinned_tweet_id": "1308442143900536835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802167032848236544/7oXtenIV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44627,
+          "following_count": 954,
+          "like_count": 76337,
+          "listed_count": 48,
+          "media_count": 1240,
+          "tweet_count": 21880
+        },
+        "username": "cmoitibo",
+        "verified": false
+      }
+    ]
+  }
+}

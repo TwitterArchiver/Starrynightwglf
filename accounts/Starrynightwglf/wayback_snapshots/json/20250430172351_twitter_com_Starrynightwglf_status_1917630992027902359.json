@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1917630992027902359",
+    "created_at": "2025-04-30T17:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T18:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917630992027902359"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Starrynightwgl…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Starrynightwglf/status/1917594829611229535",
+          "start": 16,
+          "url": "https://t.co/iSP197GFel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917630992027902359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917594829611229535",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小风不在了，就能省好多好多钱了 https://t.co/iSP197GFel"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1917630992027902359",
+        "created_at": "2025-04-30T17:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T18:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917630992027902359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Starrynightwgl…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Starrynightwglf/status/1917594829611229535",
+              "start": 16,
+              "url": "https://t.co/iSP197GFel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917630992027902359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917594829611229535",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小风不在了，就能省好多好多钱了 https://t.co/iSP197GFel"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1917594829611229535",
+        "created_at": "2025-04-30T15:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T16:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917594829611229535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917594829611229535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小风，讨厌自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一休学ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州/杭州/衢州/沈阳📍┃没有什么突出的爱好，是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃fo不fo无所谓能看一眼我就很开心了🥺┃🚪25┃叫我小风🎐┃是妹妹也是恋人@xinxia_mtf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "xinxia_mtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJVZU"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "夏夏怀里",
+        "name": "喵喵小风",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1468,
+          "following_count": 3667,
+          "like_count": 111750,
+          "listed_count": 7,
+          "media_count": 562,
+          "tweet_count": 3627
+        },
+        "url": "https://t.co/EmFCvLJVZU",
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

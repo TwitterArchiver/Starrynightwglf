@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2016201330629779653",
+    "created_at": "2026-01-27T17:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T18:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016201330629779653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1944419689326858240",
+          "start": 3,
+          "username": "NanamiXuebi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016201330629779653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016183685872267488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NanamiXuebi: 出租本人，会自己吃饭睡觉上厕所，很乖，喜欢女装，每天投喂30ml精液即可。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2016201330629779653",
+        "created_at": "2026-01-27T17:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T18:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016201330629779653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1944419689326858240",
+              "start": 3,
+              "username": "NanamiXuebi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016201330629779653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016183685872267488",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NanamiXuebi: 出租本人，会自己吃饭睡觉上厕所，很乖，喜欢女装，每天投喂30ml精液即可。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944419689326858240",
+        "conversation_id": "2016183685872267488",
+        "created_at": "2026-01-27T16:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T17:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016183685872267488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016183685872267488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "出租本人，会自己吃饭睡觉上厕所，很乖，喜欢女装，每天投喂30ml精液即可。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 4172,
+          "like_count": 128741,
+          "listed_count": 5,
+          "media_count": 951,
+          "tweet_count": 4686
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T15:32:50.000Z",
+        "description": "生日2008.10.14 ip上海 男的 丑逼 偶尔能女装 hrt2025.12.18\n自残只是因为压力大，心理没什么问题，不要讨厌我，我也不od不鉴证\n欢迎来找我玩",
+        "id": "1944419689326858240",
+        "location": "距离你-11cm",
+        "name": "99新🍥",
+        "pinned_tweet_id": "2010908804645601308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944419862958456832/lLSvkg_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 138,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 247
+        },
+        "username": "NanamiXuebi",
+        "verified": false
+      }
+    ]
+  }
+}

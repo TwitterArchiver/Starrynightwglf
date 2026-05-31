@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001870559735615491"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2001870569667776531",
+    "created_at": "2025-12-19T04:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T05:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001870569667776531"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PXynbSAYKA",
+          "end": 62,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2001870569667776531/photo/1",
+          "media_key": "3_2001870559735615491",
+          "start": 39,
+          "url": "https://t.co/PXynbSAYKA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001870569667776531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "九月在总部旗舰店被邀请试喝的开心果新品怎么到现在还没上...不会被淘汰了吧😢 https://t.co/PXynbSAYKA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2670,
+        "media_key": "3_2001870559735615491",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8gSqu9akAMvS3w.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001870559735615491"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2001870569667776531",
+        "created_at": "2025-12-19T04:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T05:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001870569667776531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PXynbSAYKA",
+              "end": 62,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2001870569667776531/photo/1",
+              "media_key": "3_2001870559735615491",
+              "start": 39,
+              "url": "https://t.co/PXynbSAYKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001870569667776531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "九月在总部旗舰店被邀请试喝的开心果新品怎么到现在还没上...不会被淘汰了吧😢 https://t.co/PXynbSAYKA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "🍥₍^˶-𖥦-˵^₎੭ 06   💞@miaomiaoxxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "miaomiaoxxia"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 4011,
+          "like_count": 121022,
+          "listed_count": 5,
+          "media_count": 805,
+          "tweet_count": 4279
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

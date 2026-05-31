@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2060178678500540519",
+    "created_at": "2026-05-29T01:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T02:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060178678500540519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1930534441644175360",
+          "start": 3,
+          "username": "willingbnc75588"
+        },
+        {
+          "end": 33,
+          "id": "124488903",
+          "start": 21,
+          "username": "tunacan1825"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060178678500540519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060022138011287637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @willingbnc75588: @tunacan1825 其实挺爽的，以前只能骂自己国家的傻屌，现在方便多了，可以无差别攻击所有国家的讨厌的人！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2060178678500540519",
+        "created_at": "2026-05-29T01:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060178678500540519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1930534441644175360",
+              "start": 3,
+              "username": "willingbnc75588"
+            },
+            {
+              "end": 33,
+              "id": "124488903",
+              "start": 21,
+              "username": "tunacan1825"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060178678500540519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060022138011287637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @willingbnc75588: @tunacan1825 其实挺爽的，以前只能骂自己国家的傻屌，现在方便多了，可以无差别攻击所有国家的讨厌的人！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930534441644175360",
+        "conversation_id": "2059849157066813673",
+        "created_at": "2026-05-28T15:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060022138011287637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "124488903",
+              "start": 0,
+              "username": "tunacan1825"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060022138011287637",
+        "in_reply_to_user_id": "124488903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 20575,
+          "like_count": 725,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059849157066813673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tunacan1825 其实挺爽的，以前只能骂自己国家的傻屌，现在方便多了，可以无差别攻击所有国家的讨厌的人！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 4629,
+          "like_count": 160623,
+          "listed_count": 6,
+          "media_count": 1506,
+          "tweet_count": 6616
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T07:58:39.000Z",
+        "description": "想要变成有钱人/精神病",
+        "id": "1930534441644175360",
+        "location": "HELL",
+        "name": "菜菜子",
+        "pinned_tweet_id": "1931584810344128573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683200886476802/ywV4jJri_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 26,
+          "like_count": 17876,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 3693
+        },
+        "username": "willingbnc75588",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-19T15:19:21.000Z",
+        "description": "춤을 춰줘 지금 이 순간 내 작은 몸짓들이 어색하지 않게 / Punk band @band_idiots G.V / Podcast @bandjpopgatcha / YON TOWN / BKW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "band_idiots"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "bandjpopgatcha"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/6360558478",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/6360558478",
+                "start": 0,
+                "url": "https://t.co/IXHljrx5X3"
+              }
+            ]
+          }
+        },
+        "id": "124488903",
+        "name": "주나주나☃️",
+        "pinned_tweet_id": "2006699365696749839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974876671779246081/Qk0E58cJ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 892,
+          "like_count": 16967,
+          "listed_count": 21,
+          "media_count": 15108,
+          "tweet_count": 127901
+        },
+        "url": "https://t.co/IXHljrx5X3",
+        "username": "tunacan1825",
+        "verified": false
+      }
+    ]
+  }
+}

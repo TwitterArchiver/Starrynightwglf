@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054770779569725441"
+      ],
+      "media_source_tweet_id": [
+        "2054770980128731303"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2054800456795525438",
+    "created_at": "2026-05-14T05:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T06:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054800456795525438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1279242635341729792",
+          "start": 3,
+          "username": "maigomaigoHH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vuP3oORIEJ",
+          "end": 53,
+          "expanded_url": "https://x.com/maigomaigoHH/status/2054770980128731303/photo/1",
+          "media_key": "3_2054770779569725441",
+          "start": 30,
+          "url": "https://t.co/vuP3oORIEJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054800456795525438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054770980128731303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maigomaigoHH: 为什么会变成这样呢…… https://t.co/vuP3oORIEJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 249,
+        "media_key": "3_2054770779569725441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQDIysbIAEDNfc.png",
+        "width": 458
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054770779569725441"
+          ],
+          "media_source_tweet_id": [
+            "2054770980128731303"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054800456795525438",
+        "created_at": "2026-05-14T05:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054800456795525438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1279242635341729792",
+              "start": 3,
+              "username": "maigomaigoHH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vuP3oORIEJ",
+              "end": 53,
+              "expanded_url": "https://x.com/maigomaigoHH/status/2054770980128731303/photo/1",
+              "media_key": "3_2054770779569725441",
+              "start": 30,
+              "url": "https://t.co/vuP3oORIEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054800456795525438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054770980128731303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maigomaigoHH: 为什么会变成这样呢…… https://t.co/vuP3oORIEJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054770779569725441"
+          ]
+        },
+        "author_id": "1279242635341729792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054770980128731303",
+        "created_at": "2026-05-14T03:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T04:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054770980128731303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vuP3oORIEJ",
+              "end": 35,
+              "expanded_url": "https://x.com/maigomaigoHH/status/2054770980128731303/photo/1",
+              "media_key": "3_2054770779569725441",
+              "start": 12,
+              "url": "https://t.co/vuP3oORIEJ"
+            },
+            {
+              "display_url": "x.com/YahooNewsTopic…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/YahooNewsTopics/status/2054756586032435412",
+              "start": 36,
+              "url": "https://t.co/fMW4jolDGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054770980128731303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 33708,
+          "like_count": 408,
+          "quote_count": 13,
+          "reply_count": 16,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054756586032435412",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么会变成这样呢…… https://t.co/vuP3oORIEJ https://t.co/fMW4jolDGM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2078,
+          "following_count": 4565,
+          "like_count": 157103,
+          "listed_count": 5,
+          "media_count": 1430,
+          "tweet_count": 6379
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-04T02:36:35.000Z",
+        "description": "倒霉蛋",
+        "id": "1279242635341729792",
+        "location": "你身后",
+        "name": "コガ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040711973831368704/4hKq15Da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7012,
+          "following_count": 974,
+          "like_count": 24577,
+          "listed_count": 32,
+          "media_count": 1581,
+          "tweet_count": 21674
+        },
+        "username": "maigomaigoHH",
+        "verified": true
+      }
+    ]
+  }
+}

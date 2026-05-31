@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936766031529172992"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "1936738189026402618",
+    "created_at": "2025-06-22T12:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T13:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936766034209566772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1526938197951131648",
+          "start": 0,
+          "username": "xinxia_mtf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cEODBdmURG",
+          "end": 42,
+          "expanded_url": "https://x.com/Starrynightwglf/status/1936766034209566772/photo/1",
+          "media_key": "3_1936766031529172992",
+          "start": 19,
+          "url": "https://t.co/cEODBdmURG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936766034209566772",
+    "in_reply_to_user_id": "1526938197951131648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936738189026402618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinxia_mtf 我才不是原皮 https://t.co/cEODBdmURG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 76,
+        "media_key": "3_1936766031529172992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuDGcbpW4AAwYl6.jpg",
+        "width": 74
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936766031529172992"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "1936738189026402618",
+        "created_at": "2025-06-22T12:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T13:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936766034209566772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1526938197951131648",
+              "start": 0,
+              "username": "xinxia_mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cEODBdmURG",
+              "end": 42,
+              "expanded_url": "https://x.com/Starrynightwglf/status/1936766034209566772/photo/1",
+              "media_key": "3_1936766031529172992",
+              "start": 19,
+              "url": "https://t.co/cEODBdmURG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936766034209566772",
+        "in_reply_to_user_id": "1526938197951131648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936738189026402618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinxia_mtf 我才不是原皮 https://t.co/cEODBdmURG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1526938197951131648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1936738189026402618",
+        "created_at": "2025-06-22T10:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T11:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936738189026402618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936738189026402618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对象变成原批了怎么办，一天啥也不干就是原神启动，一天玩十多个小时😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一休学ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州/杭州/衢州/沈阳📍┃是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃能多在意我一点点吗🥺┃🚪25┃叫我小风🎐┃妹妹也是恋人@xinxia_mtf┃别离开我好吗好的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 111,
+                "username": "xinxia_mtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJVZU"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "夏夏怀里",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1498,
+          "following_count": 3780,
+          "like_count": 115930,
+          "listed_count": 5,
+          "media_count": 596,
+          "tweet_count": 3711
+        },
+        "url": "https://t.co/EmFCvLJVZU",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-18T14:50:21.000Z",
+        "description": "07年/身高165/INFP/持证含糖mtf/第二次HRT：23.9.10/妈妈意外变成家长党/音游人/推文当日记发（一些和对象的日常）/魔怔小药娘/想跟xyn互fo贴贴（没回fo可能是没看见)/最好的姐姐兼恋人: @Starrynightwglf /🚪30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 108,
+                "username": "Starrynightwglf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xinxia90268",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xinxia90268",
+                "start": 0,
+                "url": "https://t.co/vMsqLwpLYn"
+              }
+            ]
+          }
+        },
+        "id": "1526938197951131648",
+        "location": "小风怀里",
+        "name": "喵喵大王小夏🐱",
+        "pinned_tweet_id": "1871838248030671333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898947809514242048/m6eXmu55_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6751,
+          "following_count": 1773,
+          "like_count": 8027,
+          "listed_count": 16,
+          "media_count": 297,
+          "tweet_count": 3053
+        },
+        "url": "https://t.co/vMsqLwpLYn",
+        "username": "xinxia_mtf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2054293944721428905",
+    "created_at": "2026-05-12T20:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T21:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054293944721428905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mikotossd0106/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/mikotossd0106/status/2053858286156574743",
+          "start": 10,
+          "url": "https://t.co/ztySrWeKXM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054293944721428905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053858286156574743",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呃啊我喜欢阶梯计划 https://t.co/ztySrWeKXM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2054293944721428905",
+        "created_at": "2026-05-12T20:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T21:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054293944721428905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mikotossd0106/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/mikotossd0106/status/2053858286156574743",
+              "start": 10,
+              "url": "https://t.co/ztySrWeKXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054293944721428905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053858286156574743",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃啊我喜欢阶梯计划 https://t.co/ztySrWeKXM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766452473840173056",
+        "conversation_id": "2053858286156574743",
+        "created_at": "2026-05-11T15:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053858286156574743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053858286156574743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 104472,
+          "like_count": 551,
+          "quote_count": 5,
+          "reply_count": 93,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "当你生病住院的时候你暗恋的女生来看你的时候只有两种情况\n1.她喜欢你\n2.阶梯计划"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2069,
+          "following_count": 4553,
+          "like_count": 156544,
+          "listed_count": 5,
+          "media_count": 1418,
+          "tweet_count": 6337
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T13:14:37.000Z",
+        "description": "rim de lacent!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikotossd.net",
+                "end": 23,
+                "expanded_url": "http://mikotossd.net",
+                "start": 0,
+                "url": "https://t.co/hoi4XcP34Y"
+              }
+            ]
+          }
+        },
+        "id": "1766452473840173056",
+        "location": "成都",
+        "name": "御坂鱼坂",
+        "pinned_tweet_id": "2016170324564574213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028471964957110272/CXxZxkpg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742,
+          "following_count": 1645,
+          "like_count": 87401,
+          "listed_count": 4,
+          "media_count": 1218,
+          "tweet_count": 5542
+        },
+        "url": "https://t.co/hoi4XcP34Y",
+        "username": "mikotossd0106",
+        "verified": false
+      }
+    ]
+  }
+}

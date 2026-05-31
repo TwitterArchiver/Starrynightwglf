@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1858643381532193243",
+    "created_at": "2024-11-18T22:48:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T23:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1858643381532193243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/10CFreeze/stat…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/10CFreeze/status/1858347879934636300",
+          "start": 30,
+          "url": "https://t.co/KODkGimC41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858643381532193243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858347879934636300",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不知道高三怎么熬下来的一次医院也没去\n怎么现在没这本事了 https://t.co/KODkGimC41"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1858643381532193243",
+        "created_at": "2024-11-18T22:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T23:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858643381532193243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/10CFreeze/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/10CFreeze/status/1858347879934636300",
+              "start": 30,
+              "url": "https://t.co/KODkGimC41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858643381532193243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858347879934636300",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不知道高三怎么熬下来的一次医院也没去\n怎么现在没这本事了 https://t.co/KODkGimC41"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525433973111140353",
+        "conversation_id": "1858347879934636300",
+        "created_at": "2024-11-18T03:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T04:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858347879934636300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1858347879934636300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 700,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "永远不要相信什么“上大学抑郁就好了”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一ing🏫┃🏳️‍⚧🍥无证😭┃坐标郑州📍┃没有什么突出的爱好，是个不太有趣的人🤷‍♀️┃不在乎立场，也不喜欢建政🙅‍♀┃欢迎互fo喵🥺（只是中推小透明，fo不fo都无所谓啦，能一眼我就很开心了）┃高强度刷推😁┃点赞是手干的，不是我干的😗┃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qaqaqaqaqaqaqaqaqaq.net",
+                "end": 23,
+                "expanded_url": "http://qaqaqaqaqaqaqaqaqaq.net",
+                "start": 0,
+                "url": "https://t.co/h3pADwksQy"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "无何有",
+        "name": "Starrynight風阁🍥",
+        "pinned_tweet_id": "1847670974730350853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840001644190412801/y2jbIt1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 3054,
+          "like_count": 39839,
+          "listed_count": 0,
+          "tweet_count": 1997
+        },
+        "url": "https://t.co/h3pADwksQy",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T11:13:35.000Z",
+        "description": "舟批 澄厨\nArknights player，Goldenglow lover\n\n——————以上为原版简介——————\n\n把推特当推推空间用/不爱鉴证/想到什么会随便说说/想骂我就是你赢了/每天活在药物滥用和焦虑抑郁之中/欢迎互关（比较抽象的我大概不会回关）/欢迎和我互动/想要交朋友！",
+        "id": "1525433973111140353",
+        "name": "10CFREEZE/テンフリーズ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645932489544957952/d7Aovv6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 141,
+          "like_count": 1882,
+          "listed_count": 0,
+          "tweet_count": 1327
+        },
+        "username": "10CFreeze",
+        "verified": false
+      }
+    ]
+  }
+}

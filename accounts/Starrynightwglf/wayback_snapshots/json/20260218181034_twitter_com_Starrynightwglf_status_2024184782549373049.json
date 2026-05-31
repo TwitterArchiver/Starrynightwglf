@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024184780062126080"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2024083063785836954",
+    "created_at": "2026-02-18T18:10:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T19:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024184782549373049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lbjjbIMkYv",
+          "end": 41,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2024184782549373049/photo/1",
+          "media_key": "3_2024184780062126080",
+          "start": 18,
+          "url": "https://t.co/lbjjbIMkYv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024184782549373049",
+    "in_reply_to_user_id": "1563508655256850433",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024090825022398608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee 何意味 https://t.co/lbjjbIMkYv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 392,
+        "media_key": "3_2024184780062126080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBdZVTda8AARitS.jpg",
+        "width": 1194
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024184780062126080"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2024083063785836954",
+        "created_at": "2026-02-18T18:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T19:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024184782549373049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lbjjbIMkYv",
+              "end": 41,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2024184782549373049/photo/1",
+              "media_key": "3_2024184780062126080",
+              "start": 18,
+              "url": "https://t.co/lbjjbIMkYv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024184782549373049",
+        "in_reply_to_user_id": "1563508655256850433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024090825022398608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 何意味 https://t.co/lbjjbIMkYv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2024083063785836954",
+        "created_at": "2026-02-18T11:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T12:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024090825022398608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024090825022398608",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024083063785836954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 最后一段看吐了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 4245,
+          "like_count": 135823,
+          "listed_count": 3,
+          "media_count": 1025,
+          "tweet_count": 4931
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "𝚙𝚑𝚍 @wgsi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️",
+        "name": "amber",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22155,
+          "following_count": 2579,
+          "like_count": 36355,
+          "listed_count": 7,
+          "media_count": 449,
+          "tweet_count": 19127
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

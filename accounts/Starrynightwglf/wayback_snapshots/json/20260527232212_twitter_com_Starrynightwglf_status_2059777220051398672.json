@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2059777220051398672",
+    "created_at": "2026-05-27T23:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T00:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059777220051398672"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/binghe/status/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/binghe/status/2059588173538464233",
+          "start": 7,
+          "url": "https://t.co/4ereGOrlre"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059777220051398672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059588173538464233",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个好用呃啊 https://t.co/4ereGOrlre"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1598,
+        "media_key": "3_2059587587040518144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUf_41aoAA6ZHd.jpg",
+        "width": 3234
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2059777220051398672",
+        "created_at": "2026-05-27T23:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T00:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059777220051398672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/binghe/status/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/binghe/status/2059588173538464233",
+              "start": 7,
+              "url": "https://t.co/4ereGOrlre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059777220051398672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059588173538464233",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个好用呃啊 https://t.co/4ereGOrlre"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059587587040518144"
+          ]
+        },
+        "author_id": "2445001998",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059588173538464233",
+        "created_at": "2026-05-27T10:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059588173538464233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KvvvVaeLTy",
+              "end": 204,
+              "expanded_url": "https://x.com/binghe/status/2059588173538464233/photo/1",
+              "media_key": "3_2059587587040518144",
+              "start": 181,
+              "url": "https://t.co/KvvvVaeLTy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059588173538464233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "喜欢用 DeepSeek 的同学看过来～～\n\n专门适配 DeepSeek 的 AI 编程 Agent 工具 Reasonix，可将缓存命中率维持在 90% 以上，使 Token 成本降至原来的 1/5，部分用户实现 99% 缓存命中率。\n\n支持桌面端和终端，终端可通过一行命令安装启动。\n\n桌面端操作界面类似 Codex 或 Cursor，有些小问题，但能用！\n\n可选择 DeepSeek 的 Free/Pro 模型及多档推理强度。\n\n包含 Plan 模式（先做计划再审核编码）、三类审批模式（全审批、白名单外审批、无审批），可通过斜杠调用技能、@符号导入文件。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 209,
+          "impression_count": 18190,
+          "like_count": 160,
+          "quote_count": 3,
+          "reply_count": 36,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢用 DeepSeek 的同学看过来～～\n\n专门适配 DeepSeek 的 AI 编程 Agent 工具 Reasonix，可将缓存命中率维持在 90% 以上，使 Token 成本降至原来的 1/5，部分用户实现 99% 缓存命中率。\n\n支持桌面端和终端，终端可通过一行命令安装启动。\n\n桌面端操作界面类似 Codex 或 Cursor，有些小问题，但能用！ https://t.co/KvvvVaeLTy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 4630,
+          "like_count": 160447,
+          "listed_count": 6,
+          "media_count": 1503,
+          "tweet_count": 6599
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-15T06:33:45.000Z",
+        "description": "🎉 爱技术，爱赚钱，爱分享！\n\n🐬 分享 赚钱项目 ｜打破信息壁垒 ｜副业避坑\n\n🌻 能拆解的赚钱项目才有意义\n\n🪐 知识星球社群/公众号：“钱来有道” \n\n🌌 小宇宙 |Podcasts |QQ音乐  播客 “钱来有道”\n\n🎀 搞钱训练营  https://t.co/58qRl0IBTf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "qianlai.flowus.cn",
+                "end": 145,
+                "expanded_url": "http://qianlai.flowus.cn",
+                "start": 122,
+                "url": "https://t.co/58qRl0IBTf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qianlai.flowus.cn",
+                "end": 23,
+                "expanded_url": "http://qianlai.flowus.cn",
+                "start": 0,
+                "url": "https://t.co/58qRl0IBTf"
+              }
+            ]
+          }
+        },
+        "id": "2445001998",
+        "name": "冰河",
+        "pinned_tweet_id": "1888106642870612131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967594037571121152/jS1dH7FJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44333,
+          "following_count": 247,
+          "like_count": 1003,
+          "listed_count": 342,
+          "media_count": 1034,
+          "tweet_count": 8296
+        },
+        "url": "https://t.co/58qRl0IBTf",
+        "username": "binghe",
+        "verified": true
+      }
+    ]
+  }
+}

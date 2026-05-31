@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1919695680605737135",
+    "created_at": "2025-05-06T10:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T11:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919697221999632814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1309455512895807488",
+          "start": 0,
+          "username": "codemica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919697221999632814",
+    "in_reply_to_user_id": "1309455512895807488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919696462675587442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codemica 两个回避型不会互相折磨死吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1919695680605737135",
+        "created_at": "2025-05-06T10:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T11:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919697221999632814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1309455512895807488",
+              "start": 0,
+              "username": "codemica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919697221999632814",
+        "in_reply_to_user_id": "1309455512895807488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919696462675587442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codemica 两个回避型不会互相折磨死吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1309455512895807488",
+        "conversation_id": "1919695680605737135",
+        "created_at": "2025-05-06T10:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T11:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919696462675587442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1563508655256850433",
+              "start": 0,
+              "username": "Starrynightwglf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919696462675587442",
+        "in_reply_to_user_id": "1563508655256850433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919695680605737135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starrynightwglf 回避型找回避型，正常型找正常型"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一休学ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州/杭州/衢州/沈阳📍┃没有什么突出的爱好，是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃fo不fo无所谓能看一眼我就很开心了🥺┃🚪25┃叫我小风🎐┃是妹妹也是恋人@xinxia_mtf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "xinxia_mtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJVZU"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "夏夏怀里",
+        "name": "喵喵小风",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 3681,
+          "like_count": 112308,
+          "listed_count": 7,
+          "media_count": 566,
+          "tweet_count": 3636
+        },
+        "url": "https://t.co/EmFCvLJVZU",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-25T11:31:43.000Z",
+        "description": "唯文字和甜酒是终生热爱｜2002｜技术推 @codemetic｜计算机准研究生｜找实习中｜背景是冯 · 诺依曼｜顺直",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "codemetic"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreams.plus",
+                "end": 23,
+                "expanded_url": "https://dreams.plus",
+                "start": 0,
+                "url": "https://t.co/ys8P710ap3"
+              }
+            ]
+          }
+        },
+        "id": "1309455512895807488",
+        "name": "但为君故✨",
+        "pinned_tweet_id": "1908137579725365386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901189888550350848/HnJ44ETu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4186,
+          "following_count": 354,
+          "like_count": 56080,
+          "listed_count": 15,
+          "media_count": 672,
+          "tweet_count": 8930
+        },
+        "url": "https://t.co/ys8P710ap3",
+        "username": "codemica",
+        "verified": false
+      }
+    ]
+  }
+}

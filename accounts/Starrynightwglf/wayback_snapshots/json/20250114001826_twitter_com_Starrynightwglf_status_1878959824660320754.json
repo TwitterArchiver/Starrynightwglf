@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1877373781162995713"
+      ],
+      "media_source_tweet_id": [
+        "1877374267144179803"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1878959824660320754",
+    "created_at": "2025-01-14T00:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-14T01:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878959824660320754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "199099485",
+          "start": 3,
+          "username": "kenzy_oo28"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/myKLJLbkk1",
+          "end": 98,
+          "expanded_url": "https://x.com/kenzy_oo28/status/1877374267144179803/video/1",
+          "media_key": "7_1877373781162995713",
+          "start": 75,
+          "url": "https://t.co/myKLJLbkk1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878959824660320754",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877374267144179803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @kenzy_oo28: ▶️比と並 ／ IRIS MONDO\n\nこれから、きっともっと寒くなるので、防寒対策は忘れずに...楽しみましょう！ https://t.co/myKLJLbkk1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34066,
+        "height": 1080,
+        "media_key": "7_1877373781162995713",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1877373781162995713/pu/img/TUFP3jdDqd70Czh7.jpg",
+        "public_metrics": {
+          "view_count": 209
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1877373781162995713/pu/vid/avc1/480x270/IhoM0vD08ucdlYa5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1877373781162995713/pu/vid/avc1/640x360/Xdpy7SjEfPKQfijV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1877373781162995713/pu/vid/avc1/1280x720/G3wqGTIC24Mk2klJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1877373781162995713/pu/pl/uPOO-sbEtFS5tLN7.m3u8?tag=12"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1877373781162995713"
+          ],
+          "media_source_tweet_id": [
+            "1877374267144179803"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1878959824660320754",
+        "created_at": "2025-01-14T00:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T01:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878959824660320754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "199099485",
+              "start": 3,
+              "username": "kenzy_oo28"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/myKLJLbkk1",
+              "end": 98,
+              "expanded_url": "https://x.com/kenzy_oo28/status/1877374267144179803/video/1",
+              "media_key": "7_1877373781162995713",
+              "start": 75,
+              "url": "https://t.co/myKLJLbkk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878959824660320754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877374267144179803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @kenzy_oo28: ▶️比と並 ／ IRIS MONDO\n\nこれから、きっともっと寒くなるので、防寒対策は忘れずに...楽しみましょう！ https://t.co/myKLJLbkk1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1877373781162995713"
+          ]
+        },
+        "author_id": "199099485",
+        "conversation_id": "1877374267144179803",
+        "created_at": "2025-01-09T15:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T16:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877374267144179803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/myKLJLbkk1",
+              "end": 82,
+              "expanded_url": "https://x.com/kenzy_oo28/status/1877374267144179803/video/1",
+              "media_key": "7_1877373781162995713",
+              "start": 59,
+              "url": "https://t.co/myKLJLbkk1"
+            },
+            {
+              "display_url": "x.com/kenzy_oo28/sta…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/kenzy_oo28/status/1877354831742210188",
+              "start": 83,
+              "url": "https://t.co/o7zJY9d8LS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877374267144179803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1959,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877354831742210188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "▶️比と並 ／ IRIS MONDO\n\nこれから、きっともっと寒くなるので、防寒対策は忘れずに...楽しみましょう！ https://t.co/myKLJLbkk1 https://t.co/o7zJY9d8LS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一休学ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州/杭州/衢州📍┃没有什么突出的爱好，是个不太有趣的人🤷‍♀️┃不在乎立场，也不喜欢建政🙅‍♀┃fo不fo无所谓能看一眼我就很开心了🥺┃叫我小风┃可爱的妹妹@xinxia_mtf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "xinxia_mtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJVZU"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "无何有",
+        "name": "Starrynight風阁🍥",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878209818638651393/9j6gRNoW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 3399,
+          "like_count": 82382,
+          "listed_count": 5,
+          "media_count": 430,
+          "tweet_count": 3087
+        },
+        "url": "https://t.co/EmFCvLJVZU",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-06T01:15:24.000Z",
+        "description": "ジャンル関係なくフィーリングの合う音楽が好きらしい。",
+        "id": "199099485",
+        "location": "Japan?",
+        "name": "kenzy",
+        "pinned_tweet_id": "1866051237185262070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/959720184394137602/vcm3PHtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 297,
+          "like_count": 36310,
+          "listed_count": 1,
+          "media_count": 2412,
+          "tweet_count": 10736
+        },
+        "username": "kenzy_oo28",
+        "verified": false
+      }
+    ]
+  }
+}

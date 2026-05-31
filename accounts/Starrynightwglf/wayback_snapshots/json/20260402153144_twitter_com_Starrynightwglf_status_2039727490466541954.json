@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2039724753888727181",
+    "created_at": "2026-04-02T15:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039727490466541954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1444716723978981380",
+          "start": 0,
+          "username": "EleanorAnatidae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/17497…",
+          "end": 48,
+          "expanded_url": "https://x.com/i/status/1749728762261012752",
+          "start": 25,
+          "url": "https://t.co/lbZ3x66rTB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039727490466541954",
+    "in_reply_to_user_id": "1444716723978981380",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1749728762261012752",
+        "type": "quoted"
+      },
+      {
+        "id": "2039724753888727181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EleanorAnatidae 24年的事了😔\nhttps://t.co/lbZ3x66rTB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1749728724701093889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GEhJATEbIAE2Fsp.jpg",
+        "width": 1080
+      },
+      {
+        "height": 944,
+        "media_key": "3_1749728738236121089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GEhJBFfbQAEhsmw.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2039724740605313024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6O2DtbAAAEmne.jpg",
+        "width": 1080
+      },
+      {
+        "height": 944,
+        "media_key": "3_2039724740613689344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6O2Dva0AAtC1J.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2039724753888727181",
+        "created_at": "2026-04-02T15:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039727490466541954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1444716723978981380",
+              "start": 0,
+              "username": "EleanorAnatidae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/17497…",
+              "end": 48,
+              "expanded_url": "https://x.com/i/status/1749728762261012752",
+              "start": 25,
+              "url": "https://t.co/lbZ3x66rTB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039727490466541954",
+        "in_reply_to_user_id": "1444716723978981380",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1749728762261012752",
+            "type": "quoted"
+          },
+          {
+            "id": "2039724753888727181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EleanorAnatidae 24年的事了😔\nhttps://t.co/lbZ3x66rTB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1749728724701093889",
+            "3_1749728738236121089"
+          ]
+        },
+        "author_id": "1431776320019517445",
+        "conversation_id": "1749728762261012752",
+        "created_at": "2024-01-23T09:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-01-23T10:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1749728762261012752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1705046542502305792",
+              "start": 15,
+              "username": "Dethelly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3jNbsPmYlp",
+              "end": 92,
+              "expanded_url": "https://x.com/KiraRettosei/status/1749728762261012752/photo/1",
+              "media_key": "3_1749728724701093889",
+              "start": 69,
+              "url": "https://t.co/3jNbsPmYlp"
+            },
+            {
+              "display_url": "pic.x.com/3jNbsPmYlp",
+              "end": 92,
+              "expanded_url": "https://x.com/KiraRettosei/status/1749728762261012752/photo/1",
+              "media_key": "3_1749728738236121089",
+              "start": 69,
+              "url": "https://t.co/3jNbsPmYlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1749728762261012752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 142021,
+          "like_count": 494,
+          "quote_count": 72,
+          "reply_count": 88,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "小朋友们不要死！\n\n今天凌晨 @Dethelly 在性别焦虑的打击下自杀身亡。\n她死后，逝者母亲向作为朋友的我了解情况，以下是发言节选： https://t.co/3jNbsPmYlp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039724740605313024",
+            "3_2039724740613689344"
+          ]
+        },
+        "author_id": "1444716723978981380",
+        "conversation_id": "2039724753888727181",
+        "created_at": "2026-04-02T15:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039724753888727181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JxQaFFfMk6",
+              "end": 116,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2039724753888727181/photo/1",
+              "media_key": "3_2039724740605313024",
+              "start": 93,
+              "url": "https://t.co/JxQaFFfMk6"
+            },
+            {
+              "display_url": "pic.x.com/JxQaFFfMk6",
+              "end": 116,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2039724753888727181/photo/1",
+              "media_key": "3_2039724740613689344",
+              "start": 93,
+              "url": "https://t.co/JxQaFFfMk6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039724753888727181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想起来好久以前，一位跨女去世之后，她的母亲说的话。\n“我觉得他喜欢帅帅的男生服”\n所以，要好好活下去呀。作为真实的自己活下去吧，即使再困难、再辛苦，也终究不会怀着悲哀和遗憾被埋进土里。 https://t.co/JxQaFFfMk6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 4414,
+          "like_count": 150051,
+          "listed_count": 3,
+          "media_count": 1285,
+          "tweet_count": 5816
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl /Liberté Égalité Fraternité",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Shirlene_girl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lycoris.online",
+                "end": 23,
+                "expanded_url": "https://lycoris.online",
+                "start": 0,
+                "url": "https://t.co/pE8yXcPFC7"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "pinned_tweet_id": "2021166737559818271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011472697138790400/zWZC7GQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3748,
+          "following_count": 2094,
+          "like_count": 27982,
+          "listed_count": 9,
+          "media_count": 145,
+          "tweet_count": 6788
+        },
+        "url": "https://t.co/pE8yXcPFC7",
+        "username": "EleanorAnatidae",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T00:32:03.000Z",
+        "description": "打扮漂亮/十八岁是天堂/我们的生活甜得像糖\n在电影学院里绽放青春吧！",
+        "id": "1431776320019517445",
+        "location": "🌏地球村！Haidian,Beijing",
+        "name": "🏳️‍⚧️🇺🇦 🎉神采奕奕的劣等生🧐『女高岁月～』",
+        "pinned_tweet_id": "1965938386826572050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710687931382501376/7zaBFCz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1977,
+          "following_count": 2920,
+          "like_count": 41610,
+          "listed_count": 7,
+          "media_count": 1002,
+          "tweet_count": 18548
+        },
+        "username": "KiraRettosei",
+        "verified": false
+      }
+    ]
+  }
+}

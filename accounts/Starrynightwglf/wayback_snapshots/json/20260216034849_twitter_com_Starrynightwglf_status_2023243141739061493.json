@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2023243141739061493",
+    "created_at": "2026-02-16T03:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T04:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023243141739061493"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaojingcanxue…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/xiaojingcanxue/status/2023192446281351466",
+          "start": 5,
+          "url": "https://t.co/Atrwclrbek"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023243141739061493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023192446281351466",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太带派了 https://t.co/Atrwclrbek"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 137718,
+        "height": 1080,
+        "media_key": "13_2023192215649169408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023192215649169408/img/1wbPKyLfnxgYCKHq.jpg",
+        "public_metrics": {
+          "view_count": 31290
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023192215649169408/vid/avc1/1280x720/vNZIRxfC-PY6vddt.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023192215649169408/vid/avc1/480x270/uq33J5phIXTzwJ8O.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023192215649169408/pl/mg1Twibd1j5yBOXT.m3u8?v=91d"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023192215649169408/vid/avc1/1920x1080/HkGdck0ueiSqsVIH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023192215649169408/vid/avc1/640x360/RgmMaIP0B6kryN34.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2023243141739061493",
+        "created_at": "2026-02-16T03:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T04:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023243141739061493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaojingcanxue…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/xiaojingcanxue/status/2023192446281351466",
+              "start": 5,
+              "url": "https://t.co/Atrwclrbek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023243141739061493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023192446281351466",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太带派了 https://t.co/Atrwclrbek"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023192215649169408"
+          ]
+        },
+        "author_id": "44186175",
+        "conversation_id": "2023192446281351466",
+        "created_at": "2026-02-16T00:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T01:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023192446281351466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yR9kxiQUiY",
+              "end": 43,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2023192446281351466/video/1",
+              "media_key": "13_2023192215649169408",
+              "start": 20,
+              "url": "https://t.co/yR9kxiQUiY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023192446281351466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 90518,
+          "like_count": 454,
+          "quote_count": 30,
+          "reply_count": 29,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "沈阳美国领事馆向中国人民发布拜年视频。 https://t.co/yR9kxiQUiY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1782,
+          "following_count": 4234,
+          "like_count": 134835,
+          "listed_count": 3,
+          "media_count": 1012,
+          "tweet_count": 4897
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中美新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236671,
+          "following_count": 1847,
+          "like_count": 190,
+          "listed_count": 1270,
+          "media_count": 27831,
+          "tweet_count": 35604
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

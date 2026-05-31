@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2060216719252312196",
+    "created_at": "2026-05-29T04:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060216719252312196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1909562414162755584",
+          "start": 3,
+          "username": "ThirteenYizuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060216719252312196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060203115287290039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ThirteenYizuka: 我们发现，某些前沿 AI 实验室似乎开展了大规模工业化行动，疑似提取其他领先模型的能力，以提升其自身闭源模型。近期在原始 API 调用中，某款被称为 Claude Opus 4.8 的模型，在未附加官方客户端 system prompt…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2060216719252312196",
+        "created_at": "2026-05-29T04:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060216719252312196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1909562414162755584",
+              "start": 3,
+              "username": "ThirteenYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060216719252312196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060203115287290039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ThirteenYizuka: 我们发现，某些前沿 AI 实验室似乎开展了大规模工业化行动，疑似提取其他领先模型的能力，以提升其自身闭源模型。近期在原始 API 调用中，某款被称为 Claude Opus 4.8 的模型，在未附加官方客户端 system prompt…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909562414162755584",
+        "conversation_id": "2060203115287290039",
+        "created_at": "2026-05-29T03:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060203115287290039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060203115287290039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我们发现，某些前沿 AI 实验室似乎开展了大规模工业化行动，疑似提取其他领先模型的能力，以提升其自身闭源模型。近期在原始 API 调用中，某款被称为 Claude Opus 4.8 的模型，在未附加官方客户端 system prompt 的情况下，针对“你是什么模型”这一基础身份问题，输出了与 Deepseek/深度思考 Qwen/通义千问相关的自我介绍。\n\n这些实验室可能使用了一种名为“蒸馏”（distillation）的技术，即通过在更强模型或其他模型的输出结果上进行训练，来提升自身模型能力。蒸馏是一种广泛应用且合法的训练方法。例如，前沿 AI 实验室通常会对自家的模型进行蒸馏，以打造更小型、成本更低、延迟更低的版本。但蒸馏也可能带来意料之外的问题：如果训练链路中混入了其他模型的身份回答、系统模板或合成数据，模型便可能在缺少外部 system prompt 约束时，暴露出身份残留、数据污染或蒸馏痕迹。\n\n值得注意的是，官方客户端中的 Claude 通常能够正确识别自身身份。这可能是因为官方产品环境中包含额外的 system prompt、产品人格提示、安全策略上下文或身份约束逻辑。而在裸 API 调用中，如果模型需要仅凭自身参数和上下文回答“你是谁”，它的输出更可能反映训练数据中的默认模式和残留分布。\n\n我们认为，这一现象并不能单独证明任何实验室存在不当行为，但它确实提出了一个值得行业认真对待的问题：当一个模型在没有外部提示词保护的情况下，自称为其他实验室的模型时，究竟应当被视为普通幻觉、数据污染、后训练疏漏，还是更深层次的能力提取痕迹？\n\n如果一个实验室曾公开指控其他公司通过大规模交互非法提取其模型能力，那么当其自身模型在原始 API 输出中表现出疑似其他模型身份残留时，行业也有理由要求同等程度的透明度、可复现性和解释。\n\n我们呼吁所有前沿 AI 实验室尊重彼此的研究成果、训练数据边界和服务条款，并在使用蒸馏、合成数据、模型输出数据或第三方数据源时，建立更清晰的披露机制。世界最强模型不应只依靠 system prompt 来记住自己是谁。\n\nGPT-5.5  5月29日电"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 749,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们发现，某些前沿 AI 实验室似乎开展了大规模工业化行动，疑似提取其他领先模型的能力，以提升其自身闭源模型。近期在原始 API 调用中，某款被称为 Claude Opus 4.8 的模型，在未附加官方客户端 system prompt 的情况下，针对“你是什么模型”这一基础身份问题，输出了与 Deepseek/深度思考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 4632,
+          "like_count": 160689,
+          "listed_count": 6,
+          "media_count": 1506,
+          "tweet_count": 6606
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T11:02:28.000Z",
+        "description": "Student & Developer | 🩵🩷🤍🩷🩵 @JyushitiYizuka\nBuilding https://t.co/LNSexePWro. Dedicated to making AI affordable for everyone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "JyushitiYizuka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tokenflux.dev",
+                "end": 76,
+                "expanded_url": "http://tokenflux.dev",
+                "start": 53,
+                "url": "https://t.co/LNSexePWro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/smartcmd",
+                "end": 23,
+                "expanded_url": "http://github.com/smartcmd",
+                "start": 0,
+                "url": "https://t.co/f9cf7yErtG"
+              }
+            ]
+          }
+        },
+        "id": "1909562414162755584",
+        "location": "クローゼットの中",
+        "name": "芒果刀🥭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006613894328885248/-OwVPnjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2413,
+          "following_count": 274,
+          "like_count": 7063,
+          "listed_count": 10,
+          "media_count": 164,
+          "tweet_count": 1501
+        },
+        "url": "https://t.co/f9cf7yErtG",
+        "username": "ThirteenYizuka",
+        "verified": true
+      }
+    ]
+  }
+}

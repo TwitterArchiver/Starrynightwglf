@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2039574813233336722",
+    "created_at": "2026-04-02T05:25:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T06:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039574813233336722"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Miao_oTvTo_/st…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/Miao_oTvTo_/status/2039339204560482517",
+          "start": 49,
+          "url": "https://t.co/LLz2Y1rhDt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039574813233336722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039339204560482517",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对的，在学校一个认识的朋友都没有，小组活动也是直接忽视我，班长和学委对我挺好也帮过我但仅此而已了 https://t.co/LLz2Y1rhDt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2039574813233336722",
+        "created_at": "2026-04-02T05:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T06:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039574813233336722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Miao_oTvTo_/st…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/Miao_oTvTo_/status/2039339204560482517",
+              "start": 49,
+              "url": "https://t.co/LLz2Y1rhDt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039574813233336722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039339204560482517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对的，在学校一个认识的朋友都没有，小组活动也是直接忽视我，班长和学委对我挺好也帮过我但仅此而已了 https://t.co/LLz2Y1rhDt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841741161884504064",
+        "conversation_id": "2039339204560482517",
+        "created_at": "2026-04-01T13:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039339204560482517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039339204560482517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 37422,
+          "like_count": 483,
+          "quote_count": 16,
+          "reply_count": 296,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "你一直刷x 是没人跟你说话吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 4409,
+          "like_count": 149786,
+          "listed_count": 3,
+          "media_count": 1282,
+          "tweet_count": 5798
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T07:24:54.000Z",
+        "description": "祝我天天开心 睡个好觉\n匿名问答https://t.co/83lyR4WmfT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miao29318",
+                "end": 39,
+                "expanded_url": "https://ngl.link/miao29318",
+                "start": 16,
+                "url": "https://t.co/83lyR4WmfT"
+              }
+            ]
+          }
+        },
+        "id": "1841741161884504064",
+        "name": "泪池",
+        "pinned_tweet_id": "1896495494068846672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905216333316493312/VOLSQj_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10980,
+          "following_count": 116,
+          "like_count": 14688,
+          "listed_count": 22,
+          "media_count": 481,
+          "tweet_count": 8068
+        },
+        "username": "Miao_oTvTo_",
+        "verified": false
+      }
+    ]
+  }
+}

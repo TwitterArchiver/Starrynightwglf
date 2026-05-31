@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2039726018362310657"
+      ],
+      "media_source_tweet_id": [
+        "2039726171999650036"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2039727886371057861",
+    "created_at": "2026-04-02T15:33:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039727886371057861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1546431985086009344",
+          "start": 3,
+          "username": "NL8526"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yPOdDtdi6J",
+          "end": 96,
+          "expanded_url": "https://x.com/NL8526/status/2039726171999650036/video/1",
+          "media_key": "7_2039726018362310657",
+          "start": 73,
+          "url": "https://t.co/yPOdDtdi6J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039727886371057861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039726171999650036",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NL8526: 微笑再美 再再美😋再美 再再美🤯眼泪再苦 再再苦 再苦 再再苦🙀靠的再近 再再近 再近再再近😜我只对你有感觉～🥰😘🥰😍😘 https://t.co/yPOdDtdi6J"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12724,
+        "height": 1024,
+        "media_key": "7_2039726018362310657",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2039726018362310657/pu/img/_qwHMmzhY6cygq3X.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039726018362310657/pu/vid/avc1/320x568/c8VlwydVjrOsvAJh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039726018362310657/pu/vid/avc1/480x852/USetg7_Cqkid0Y7p.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039726018362310657/pu/vid/avc1/576x1024/Ia-5N6PExGUOem7j.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2039726018362310657/pu/pl/Ue2FXBKNl8Qokn5y.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2039726018362310657"
+          ],
+          "media_source_tweet_id": [
+            "2039726171999650036"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039727886371057861",
+        "created_at": "2026-04-02T15:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039727886371057861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1546431985086009344",
+              "start": 3,
+              "username": "NL8526"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yPOdDtdi6J",
+              "end": 96,
+              "expanded_url": "https://x.com/NL8526/status/2039726171999650036/video/1",
+              "media_key": "7_2039726018362310657",
+              "start": 73,
+              "url": "https://t.co/yPOdDtdi6J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039727886371057861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039726171999650036",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NL8526: 微笑再美 再再美😋再美 再再美🤯眼泪再苦 再再苦 再苦 再再苦🙀靠的再近 再再近 再近再再近😜我只对你有感觉～🥰😘🥰😍😘 https://t.co/yPOdDtdi6J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2039726018362310657"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2039726171999650036",
+        "created_at": "2026-04-02T15:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039726171999650036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yPOdDtdi6J",
+              "end": 84,
+              "expanded_url": "https://x.com/NL8526/status/2039726171999650036/video/1",
+              "media_key": "7_2039726018362310657",
+              "start": 61,
+              "url": "https://t.co/yPOdDtdi6J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039726171999650036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "微笑再美 再再美😋再美 再再美🤯眼泪再苦 再再苦 再苦 再再苦🙀靠的再近 再再近 再近再再近😜我只对你有感觉～🥰😘🥰😍😘 https://t.co/yPOdDtdi6J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 4414,
+          "like_count": 150052,
+          "listed_count": 3,
+          "media_count": 1285,
+          "tweet_count": 5817
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF 🍀ISFP-T 😺AuDHD-BPD 🎹音游",
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2039311756120793481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 501,
+          "like_count": 7719,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 274
+        },
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

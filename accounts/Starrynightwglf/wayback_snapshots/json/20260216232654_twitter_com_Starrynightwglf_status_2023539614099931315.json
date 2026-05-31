@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2023352217911382402",
+    "created_at": "2026-02-16T23:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T00:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023539614099931315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "968047526635958273",
+          "start": 0,
+          "username": "vQT5ZPqvVqiO0bE"
+        },
+        {
+          "end": 32,
+          "id": "1915098465472016386",
+          "start": 17,
+          "username": "asteriaaaa0109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023539614099931315",
+    "in_reply_to_user_id": "968047526635958273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023478506781634708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vQT5ZPqvVqiO0bE @asteriaaaa0109 付邮送"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2023352217911382402",
+        "created_at": "2026-02-16T23:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T00:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023539614099931315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "968047526635958273",
+              "start": 0,
+              "username": "vQT5ZPqvVqiO0bE"
+            },
+            {
+              "end": 32,
+              "id": "1915098465472016386",
+              "start": 17,
+              "username": "asteriaaaa0109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023539614099931315",
+        "in_reply_to_user_id": "968047526635958273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023478506781634708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vQT5ZPqvVqiO0bE @asteriaaaa0109 付邮送"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "968047526635958273",
+        "conversation_id": "2023352217911382402",
+        "created_at": "2026-02-16T19:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T20:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023478506781634708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1915098465472016386",
+              "start": 0,
+              "username": "asteriaaaa0109"
+            },
+            {
+              "end": 32,
+              "id": "1563508655256850433",
+              "start": 16,
+              "username": "Starrynightwglf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023478506781634708",
+        "in_reply_to_user_id": "1915098465472016386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023477139274953108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asteriaaaa0109 @Starrynightwglf Fys是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1785,
+          "following_count": 4241,
+          "like_count": 135307,
+          "listed_count": 3,
+          "media_count": 1019,
+          "tweet_count": 4918
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-26T08:58:10.000Z",
+        "description": "",
+        "id": "968047526635958273",
+        "name": "羚羊不会飞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1538554244193603584/lDFOCCwb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 148,
+          "like_count": 2241,
+          "listed_count": 3,
+          "media_count": 1,
+          "tweet_count": 4435
+        },
+        "username": "vQT5ZPqvVqiO0bE",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T17:40:39.000Z",
+        "description": "04 泛性恋 3i＞4i≥1i switch偏s 都是碎碎念 欢迎有礼貌的聊天 欢迎女孩和我互关",
+        "id": "1915098465472016386",
+        "name": "asteriaa",
+        "pinned_tweet_id": "2023479225517588740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917102223991148544/q28SYRmJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 79,
+          "like_count": 1354,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 868
+        },
+        "username": "asteriaaaa0109",
+        "verified": false
+      }
+    ]
+  }
+}

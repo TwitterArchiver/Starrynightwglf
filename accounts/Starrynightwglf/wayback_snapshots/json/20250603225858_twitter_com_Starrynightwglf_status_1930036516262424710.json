@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1929884421039235485",
+    "created_at": "2025-06-03T22:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T23:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930036516262424710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1559906722588000256",
+          "start": 0,
+          "username": "Luo_yiyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930036516262424710",
+    "in_reply_to_user_id": "1559906722588000256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929884421039235485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luo_yiyu 可爱！！！！！！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1929884421039235485].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1929884421039235485",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1929884421039235485"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1929884421039235485",
+        "created_at": "2025-06-03T22:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T23:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930036516262424710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1559906722588000256",
+              "start": 0,
+              "username": "Luo_yiyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930036516262424710",
+        "in_reply_to_user_id": "1559906722588000256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929884421039235485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luo_yiyu 可爱！！！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一休学ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州/杭州/衢州/沈阳📍┃是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃能多在意我一点点吗🥺┃🚪25┃叫我小风🎐┃妹妹也是恋人@xinxia_mtf┃别离开我好吗好的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 111,
+                "username": "xinxia_mtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJoam"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "夏夏怀里",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 3752,
+          "like_count": 114981,
+          "listed_count": 6,
+          "media_count": 582,
+          "tweet_count": 3682
+        },
+        "url": "https://t.co/EmFCvLJoam",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T14:15:28.000Z",
+        "description": "🥰🥰🥰 @misaka__network    笨蛋 @haku_dabai ｜里 @Mitaner_hidden ｜ 请叫我小洛~｜双相阴暗b｜有证含🍥2024.6.10｜infp｜ ctf学习中｜业余无线电｜大一电科｜\n晚安🕯🕯@Tianqichen666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "misaka__network"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "haku_dabai"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "Mitaner_hidden"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "Tianqichen666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yiurblog.top",
+                "end": 23,
+                "expanded_url": "http://www.yiurblog.top",
+                "start": 0,
+                "url": "https://t.co/A4NOlo75lV"
+              }
+            ]
+          }
+        },
+        "id": "1559906722588000256",
+        "name": "洛忆雨Yiur",
+        "pinned_tweet_id": "1894682535612825991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916907677721976832/MghM6Z7d_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1603,
+          "following_count": 368,
+          "like_count": 4838,
+          "listed_count": 5,
+          "media_count": 521,
+          "tweet_count": 5385
+        },
+        "url": "https://t.co/A4NOlo75lV",
+        "username": "Luo_yiyu",
+        "verified": false
+      }
+    ]
+  }
+}

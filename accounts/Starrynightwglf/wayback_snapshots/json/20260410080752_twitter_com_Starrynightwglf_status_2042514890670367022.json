@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042261477193928704"
+      ],
+      "media_source_tweet_id": [
+        "2042360655651774632"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2042514890670367022",
+    "created_at": "2026-04-10T08:07:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T09:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042514890670367022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1629106528472162306",
+          "start": 3,
+          "username": "tokyoinmu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Kinrwp0bA",
+          "end": 92,
+          "expanded_url": "https://x.com/tokyoinmu/status/2042360655651774632/photo/1",
+          "media_key": "3_2042261477193928704",
+          "start": 69,
+          "url": "https://t.co/1Kinrwp0bA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042514890670367022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042360655651774632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tokyoinmu: 感謝中國大陸和台灣的各位朋友對我們大學的報道！\n我們認真閱讀了每一則評論\n＃国交＃中国＃台湾＃東京淫夢大学 https://t.co/1Kinrwp0bA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2042261477193928704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeR_j6b0AAU_nD.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042261477193928704"
+          ],
+          "media_source_tweet_id": [
+            "2042360655651774632"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2042514890670367022",
+        "created_at": "2026-04-10T08:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042514890670367022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1629106528472162306",
+              "start": 3,
+              "username": "tokyoinmu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Kinrwp0bA",
+              "end": 92,
+              "expanded_url": "https://x.com/tokyoinmu/status/2042360655651774632/photo/1",
+              "media_key": "3_2042261477193928704",
+              "start": 69,
+              "url": "https://t.co/1Kinrwp0bA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042514890670367022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042360655651774632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tokyoinmu: 感謝中國大陸和台灣的各位朋友對我們大學的報道！\n我們認真閱讀了每一則評論\n＃国交＃中国＃台湾＃東京淫夢大学 https://t.co/1Kinrwp0bA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042261477193928704"
+          ]
+        },
+        "author_id": "1629106528472162306",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2042360655651774632",
+        "created_at": "2026-04-09T21:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T22:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042360655651774632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Kinrwp0bA",
+              "end": 77,
+              "expanded_url": "https://x.com/tokyoinmu/status/2042360655651774632/photo/1",
+              "media_key": "3_2042261477193928704",
+              "start": 54,
+              "url": "https://t.co/1Kinrwp0bA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042360655651774632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 24253,
+          "like_count": 610,
+          "quote_count": 9,
+          "reply_count": 55,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "感謝中國大陸和台灣的各位朋友對我們大學的報道！\n我們認真閱讀了每一則評論\n＃国交＃中国＃台湾＃東京淫夢大学 https://t.co/1Kinrwp0bA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 4424,
+          "like_count": 150985,
+          "listed_count": 3,
+          "media_count": 1308,
+          "tweet_count": 5950
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-24T13:10:55.000Z",
+        "description": "東京淫夢大学広報課の公式アカウントです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tokyoinmu-u.jp",
+                "end": 23,
+                "expanded_url": "https://tokyoinmu-u.jp",
+                "start": 0,
+                "url": "https://t.co/OJbki02ol3"
+              }
+            ]
+          }
+        },
+        "id": "1629106528472162306",
+        "location": "東京都下北沢",
+        "name": "東京淫夢大学",
+        "pinned_tweet_id": "2042448884623163531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025832951230124032/6DODJBMB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338,
+          "following_count": 4,
+          "like_count": 1757,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 439
+        },
+        "url": "https://t.co/OJbki02ol3",
+        "username": "tokyoinmu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1859235825982292375",
+    "created_at": "2024-11-20T14:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T15:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859246363483255173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1814009535587323904",
+          "start": 0,
+          "username": "FufuOw0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859246363483255173",
+    "in_reply_to_user_id": "1814009535587323904",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859235825982292375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FufuOw0 🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1859235825982292375",
+        "created_at": "2024-11-20T14:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T15:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859246363483255173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1814009535587323904",
+              "start": 0,
+              "username": "FufuOw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859246363483255173",
+        "in_reply_to_user_id": "1814009535587323904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859235825982292375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FufuOw0 🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1859235796550848512"
+          ]
+        },
+        "author_id": "1814009535587323904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Food Hashtags",
+              "id": "826815276989624321",
+              "name": "Food Hashtags"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cooking Actions",
+              "id": "846770344681627649",
+              "name": "Cooking"
+            }
+          }
+        ],
+        "conversation_id": "1859235825982292375",
+        "created_at": "2024-11-20T14:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T15:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859235825982292375"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "食物"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "料理"
+            },
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "奶油蘑菇汤"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wVpswfhtL1",
+              "end": 97,
+              "expanded_url": "https://x.com/FufuOw0/status/1859235825982292375/video/1",
+              "media_key": "7_1859235796550848512",
+              "start": 74,
+              "url": "https://t.co/wVpswfhtL1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859235825982292375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 629,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#食物 #料理 #奶油蘑菇汤\n虽然没吃过必胜客的奶油蘑菇汤，但复刻出来的感觉还是有几分我心里觉得应该有的浓稠度的，很醇香，和面包一起吃真的挺不错的 https://t.co/wVpswfhtL1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一ing🏫┃🏳️‍⚧🍥无证😭┃坐标郑州📍┃没有什么突出的爱好，是个不太有趣的人🤷‍♀️┃不在乎立场，也不喜欢建政🙅‍♀┃欢迎互fo喵🥺（只是中推小透明，fo不fo都无所谓啦，能一眼我就很开心了）┃高强度刷推😁┃点赞是手干的，不是我干的😗┃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qaqaqaqaqaqaqaqaqaq.net",
+                "end": 23,
+                "expanded_url": "http://qaqaqaqaqaqaqaqaqaq.net",
+                "start": 0,
+                "url": "https://t.co/h3pADwksQy"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "无何有",
+        "name": "Starrynight風阁🍥",
+        "pinned_tweet_id": "1847670974730350853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840001644190412801/y2jbIt1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 3074,
+          "like_count": 42185,
+          "listed_count": 0,
+          "tweet_count": 2106
+        },
+        "url": "https://t.co/h3pADwksQy",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T18:49:21.000Z",
+        "description": "B站账号: 秋羽AkiHane_(b站账号暂无内容更新)\nBlueSky: https://t.co/97LNWkJrN6\n\n社交能力极弱，随缘扩列，无门槛，不线下!不约!发图只是想纯粹分享，感兴趣可以关注，随缘更新，偶尔可能会说点胡话",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "akihaneow0.bsky.social",
+                "end": 61,
+                "expanded_url": "http://akihaneow0.bsky.social",
+                "start": 38,
+                "url": "https://t.co/97LNWkJrN6"
+              }
+            ]
+          }
+        },
+        "id": "1814009535587323904",
+        "location": "巨山精神病院",
+        "name": "秋羽",
+        "pinned_tweet_id": "1858357414010986655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858915342132932610/2IQgOL0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4932,
+          "following_count": 155,
+          "like_count": 1993,
+          "listed_count": 13,
+          "tweet_count": 676
+        },
+        "username": "FufuOw0",
+        "verified": false
+      }
+    ]
+  }
+}

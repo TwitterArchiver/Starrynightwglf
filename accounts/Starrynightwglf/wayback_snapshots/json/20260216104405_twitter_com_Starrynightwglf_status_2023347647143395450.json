@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023215978721783809",
+        "3_2023215978721820672"
+      ],
+      "media_source_tweet_id": [
+        "2023215984564412506",
+        "2023215984564412506"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2023347647143395450",
+    "created_at": "2026-02-16T10:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T11:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023347647143395450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1124935580490448896",
+          "start": 3,
+          "username": "YuDii77515"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CSfhC2pWwW",
+          "end": 39,
+          "expanded_url": "https://x.com/YuDii77515/status/2023215984564412506/photo/1",
+          "media_key": "3_2023215978721783809",
+          "start": 16,
+          "url": "https://t.co/CSfhC2pWwW"
+        },
+        {
+          "display_url": "pic.x.com/CSfhC2pWwW",
+          "end": 39,
+          "expanded_url": "https://x.com/YuDii77515/status/2023215984564412506/photo/1",
+          "media_key": "3_2023215978721820672",
+          "start": 16,
+          "url": "https://t.co/CSfhC2pWwW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023347647143395450",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023215984564412506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuDii77515: https://t.co/CSfhC2pWwW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2023347647143395450].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2023347647143395450",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2023347647143395450"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_2023215978721783809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBPoNpObMAEe-Hi.jpg",
+        "width": 1168
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023215978721820672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBPoNpObwAA_S6I.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023215978721783809",
+            "3_2023215978721820672"
+          ]
+        },
+        "author_id": "1124935580490448896",
+        "conversation_id": "2023215984564412506",
+        "created_at": "2026-02-16T02:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T03:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023215984564412506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CSfhC2pWwW",
+              "end": 23,
+              "expanded_url": "https://x.com/YuDii77515/status/2023215984564412506/photo/1",
+              "media_key": "3_2023215978721783809",
+              "start": 0,
+              "url": "https://t.co/CSfhC2pWwW"
+            },
+            {
+              "display_url": "pic.x.com/CSfhC2pWwW",
+              "end": 23,
+              "expanded_url": "https://x.com/YuDii77515/status/2023215984564412506/photo/1",
+              "media_key": "3_2023215978721820672",
+              "start": 0,
+              "url": "https://t.co/CSfhC2pWwW"
+            },
+            {
+              "display_url": "x.com/dakun32586/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/dakun32586/status/2023127062853419095",
+              "start": 24,
+              "url": "https://t.co/PloaJdw8rH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023215984564412506",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6851,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023127062853419095",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/CSfhC2pWwW https://t.co/PloaJdw8rH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1785,
+          "following_count": 4241,
+          "like_count": 135053,
+          "listed_count": 3,
+          "media_count": 1014,
+          "tweet_count": 4902
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-05T07:15:17.000Z",
+        "description": "对，怎样，弄死我？",
+        "id": "1124935580490448896",
+        "name": "玉皇大帝",
+        "pinned_tweet_id": "1774103231322587351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765975890583056385/Um9SkX-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33348,
+          "following_count": 100,
+          "like_count": 10005,
+          "listed_count": 41,
+          "media_count": 2433,
+          "tweet_count": 9043
+        },
+        "username": "YuDii77515",
+        "verified": false
+      }
+    ]
+  }
+}

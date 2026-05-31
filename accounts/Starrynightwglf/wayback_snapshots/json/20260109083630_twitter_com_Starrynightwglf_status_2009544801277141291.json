@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009520986409074688"
+      ],
+      "media_source_tweet_id": [
+        "2009521007422525595"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2009544801277141291",
+    "created_at": "2026-01-09T08:36:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T09:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009544801277141291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1750215842795806723",
+          "start": 3,
+          "username": "Kumabou_0617"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M07ctHwYfX",
+          "end": 50,
+          "expanded_url": "https://x.com/Kumabou_0617/status/2009521007422525595/photo/1",
+          "media_key": "3_2009520986409074688",
+          "start": 27,
+          "url": "https://t.co/M07ctHwYfX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009544801277141291",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009521007422525595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kumabou_0617: すみっコしおしお https://t.co/M07ctHwYfX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009520986409074688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-NAsLObAAAE1nk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009520986409074688"
+          ],
+          "media_source_tweet_id": [
+            "2009521007422525595"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2009544801277141291",
+        "created_at": "2026-01-09T08:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T09:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009544801277141291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1750215842795806723",
+              "start": 3,
+              "username": "Kumabou_0617"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M07ctHwYfX",
+              "end": 50,
+              "expanded_url": "https://x.com/Kumabou_0617/status/2009521007422525595/photo/1",
+              "media_key": "3_2009520986409074688",
+              "start": 27,
+              "url": "https://t.co/M07ctHwYfX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009544801277141291",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009521007422525595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kumabou_0617: すみっコしおしお https://t.co/M07ctHwYfX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009520986409074688"
+          ]
+        },
+        "author_id": "1750215842795806723",
+        "conversation_id": "2009521007422525595",
+        "created_at": "2026-01-09T07:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T08:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009521007422525595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M07ctHwYfX",
+              "end": 32,
+              "expanded_url": "https://x.com/Kumabou_0617/status/2009521007422525595/photo/1",
+              "media_key": "3_2009520986409074688",
+              "start": 9,
+              "url": "https://t.co/M07ctHwYfX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009521007422525595",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 96,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "すみっコしおしお https://t.co/M07ctHwYfX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 4083,
+          "like_count": 124808,
+          "listed_count": 5,
+          "media_count": 875,
+          "tweet_count": 4479
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T17:56:07.000Z",
+        "description": "コリラックマのくま坊、ときにリラックマのしおしお(リラックマ：ちいかわ：ヌオー：)",
+        "id": "1750215842795806723",
+        "location": "(画像の使用はお控えください)",
+        "name": "くま坊",
+        "pinned_tweet_id": "1788519228074758652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750217072020480000/K2nQAiA5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 303,
+          "like_count": 22221,
+          "listed_count": 4,
+          "media_count": 3140,
+          "tweet_count": 6265
+        },
+        "username": "Kumabou_0617",
+        "verified": false
+      }
+    ]
+  }
+}

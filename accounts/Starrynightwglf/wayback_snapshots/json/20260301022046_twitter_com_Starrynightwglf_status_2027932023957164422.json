@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2027932023957164422",
+    "created_at": "2026-03-01T02:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T03:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027932023957164422"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027932023957164422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "郑州我讨厌你，挑我出门的时候下大雨\n衣服裙子被溅上泥点了小风也感冒了🥲\n回家就洗了热水澡也没用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2027932023957164422",
+        "created_at": "2026-03-01T02:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T03:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027932023957164422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027932023957164422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "郑州我讨厌你，挑我出门的时候下大雨\n衣服裙子被溅上泥点了小风也感冒了🥲\n回家就洗了热水澡也没用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 4280,
+          "like_count": 138288,
+          "listed_count": 3,
+          "media_count": 1078,
+          "tweet_count": 5106
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1990668724622565804",
+    "created_at": "2025-11-18T06:29:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T07:29:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990668724622565804"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 133,
+          "start": 127,
+          "tag": "艾斯妥凝胶"
+        },
+        {
+          "end": 138,
+          "start": 134,
+          "tag": "诺坤复"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1875471329375440896",
+          "start": 3,
+          "username": "tbh2318"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990668724622565804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990342655730151529",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tbh2318: 做个抽奖活动，点赞评论转发参加，抽5盒有效期两个半月的泰补，5个鲨鲨抱枕，下午七点前当天发出，都有现货，下单私信或tg（泰补一年有效期220,临期两个半月有效期150）,（诺坤复一年有效期80）,（艾斯妥凝胶一年有效期120）\n#艾斯妥凝胶 #诺坤复…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990342640026656768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58eFfgaIAANw8J.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990342639443693568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58eFdVa0AAcGMX.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1990668724622565804",
+        "created_at": "2025-11-18T06:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T07:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990668724622565804"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 127,
+              "tag": "艾斯妥凝胶"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "诺坤复"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1875471329375440896",
+              "start": 3,
+              "username": "tbh2318"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990668724622565804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990342655730151529",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tbh2318: 做个抽奖活动，点赞评论转发参加，抽5盒有效期两个半月的泰补，5个鲨鲨抱枕，下午七点前当天发出，都有现货，下单私信或tg（泰补一年有效期220,临期两个半月有效期150）,（诺坤复一年有效期80）,（艾斯妥凝胶一年有效期120）\n#艾斯妥凝胶 #诺坤复…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990342640026656768",
+            "3_1990342639443693568"
+          ]
+        },
+        "author_id": "1875471329375440896",
+        "conversation_id": "1990342655730151529",
+        "created_at": "2025-11-17T08:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T09:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990342655730151529"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 114,
+              "tag": "艾斯妥凝胶"
+            },
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "诺坤复"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "泰补"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "鲨鲨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pMcuCMxclK",
+              "end": 157,
+              "expanded_url": "https://x.com/tbh2318/status/1990342655730151529/photo/1",
+              "media_key": "3_1990342640026656768",
+              "start": 134,
+              "url": "https://t.co/pMcuCMxclK"
+            },
+            {
+              "display_url": "pic.x.com/pMcuCMxclK",
+              "end": 157,
+              "expanded_url": "https://x.com/tbh2318/status/1990342655730151529/photo/1",
+              "media_key": "3_1990342639443693568",
+              "start": 134,
+              "url": "https://t.co/pMcuCMxclK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990342655730151529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1513,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "做个抽奖活动，点赞评论转发参加，抽5盒有效期两个半月的泰补，5个鲨鲨抱枕，下午七点前当天发出，都有现货，下单私信或tg（泰补一年有效期220,临期两个半月有效期150）,（诺坤复一年有效期80）,（艾斯妥凝胶一年有效期120）\n#艾斯妥凝胶 #诺坤复 #泰补 #鲨鲨 https://t.co/pMcuCMxclK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃鱼鱼蒸┃重读大一ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州📍┃发点日常（可能掉落涩涩）┃是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃能多在意我一点点吗🥺┃🚪25┃叫我小风🎐┃妹妹也是恋人💞@miaomiaoxxia┃别离开我好吗好的😔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "miaomiaoxxia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf2",
+                "start": 0,
+                "url": "https://t.co/NlD2zt0DAC"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "小夏怀里",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 3913,
+          "like_count": 117615,
+          "listed_count": 5,
+          "media_count": 714,
+          "tweet_count": 4064
+        },
+        "url": "https://t.co/NlD2zt0DAC",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-04T09:17:37.000Z",
+        "description": "97年大龄mtf，长居🇹🇭，售卖正规进口药品，每天19:00前可当天发出,全球可发，@tbh2318，@tbh2319",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "tbh2318"
+              },
+              {
+                "end": 59,
+                "start": 51,
+                "username": "tbh2319"
+              }
+            ]
+          }
+        },
+        "id": "1875471329375440896",
+        "name": "乇乇 momo 糖商 已转生 泰补，艾斯妥凝胶，诺坤复🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1984553790981488829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973446999782596613/lAS5HqCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 1307,
+          "like_count": 35,
+          "listed_count": 3,
+          "media_count": 19,
+          "tweet_count": 68
+        },
+        "username": "tbh2318",
+        "verified": true
+      }
+    ]
+  }
+}

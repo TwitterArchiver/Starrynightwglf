@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2022270377481871864",
+    "created_at": "2026-02-14T04:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T05:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022525665069908214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1928711169419956224",
+          "start": 0,
+          "username": "GoSailGlobal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022525665069908214",
+    "in_reply_to_user_id": "1928711169419956224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022270377481871864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GoSailGlobal 我试过提了一千多就被封控了，然后月付几个月用不了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_2022270369428914176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCML8GbwAAzPPD.jpg",
+        "width": 752
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022270369420476416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCML8EbAAAVtRD.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022270369428918272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCML8Gb0AAjb1k.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022270369407930368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCML8BbkAAkLpJ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2022270377481871864",
+        "created_at": "2026-02-14T04:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T05:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022525665069908214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1928711169419956224",
+              "start": 0,
+              "username": "GoSailGlobal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022525665069908214",
+        "in_reply_to_user_id": "1928711169419956224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022270377481871864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GoSailGlobal 我试过提了一千多就被封控了，然后月付几个月用不了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022270369428914176",
+            "3_2022270369420476416",
+            "3_2022270369428918272",
+            "3_2022270369407930368"
+          ]
+        },
+        "author_id": "1928711169419956224",
+        "conversation_id": "2022270377481871864",
+        "created_at": "2026-02-13T11:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022270377481871864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mMi7MzRoQ2",
+              "end": 112,
+              "expanded_url": "https://x.com/GoSailGlobal/status/2022270377481871864/photo/1",
+              "media_key": "3_2022270369428914176",
+              "start": 89,
+              "url": "https://t.co/mMi7MzRoQ2"
+            },
+            {
+              "display_url": "pic.x.com/mMi7MzRoQ2",
+              "end": 112,
+              "expanded_url": "https://x.com/GoSailGlobal/status/2022270377481871864/photo/1",
+              "media_key": "3_2022270369420476416",
+              "start": 89,
+              "url": "https://t.co/mMi7MzRoQ2"
+            },
+            {
+              "display_url": "pic.x.com/mMi7MzRoQ2",
+              "end": 112,
+              "expanded_url": "https://x.com/GoSailGlobal/status/2022270377481871864/photo/1",
+              "media_key": "3_2022270369428918272",
+              "start": 89,
+              "url": "https://t.co/mMi7MzRoQ2"
+            },
+            {
+              "display_url": "pic.x.com/mMi7MzRoQ2",
+              "end": 112,
+              "expanded_url": "https://x.com/GoSailGlobal/status/2022270377481871864/photo/1",
+              "media_key": "3_2022270369407930368",
+              "start": 89,
+              "url": "https://t.co/mMi7MzRoQ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022270377481871864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 613,
+          "impression_count": 363243,
+          "like_count": 934,
+          "quote_count": 4,
+          "reply_count": 31,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽 我发现小红书的人，真是小天才\n\n微信免取现手续费小妙招（最好少操作）\n\n1、美团月付付款可随时退的团购卷\n2、提前还款，用微信余额支付\n3、退卷\n4、提现美团余额到银行卡 https://t.co/mMi7MzRoQ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 4225,
+          "like_count": 134106,
+          "listed_count": 3,
+          "media_count": 1005,
+          "tweet_count": 4872
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T07:13:12.000Z",
+        "description": "独立开发，AI SaaS出海， AI价值内容分享。\n让AI工具就像积木一样构建产品，拼出无限可能！ \n克尔凯郭尔种草博主🪴\n商务合作｜咨询｜推特增长｜企业培训 👉🏻 https://t.co/BDEkVzvki1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lnk.bio/JasonZhu",
+                "end": 106,
+                "expanded_url": "http://lnk.bio/JasonZhu",
+                "start": 83,
+                "url": "https://t.co/BDEkVzvki1"
+              }
+            ]
+          }
+        },
+        "id": "1928711169419956224",
+        "location": "china",
+        "name": "Jason Zhu",
+        "pinned_tweet_id": "2016708877572841591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002004911635210240/14rERQZ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13085,
+          "following_count": 1952,
+          "like_count": 8273,
+          "listed_count": 121,
+          "media_count": 664,
+          "tweet_count": 4258
+        },
+        "username": "GoSailGlobal",
+        "verified": true
+      }
+    ]
+  }
+}

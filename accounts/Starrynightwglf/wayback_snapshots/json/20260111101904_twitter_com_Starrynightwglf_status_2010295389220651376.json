@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2010295389220651376",
+    "created_at": "2026-01-11T10:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T11:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010295389220651376"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Starrynightwgl…",
+          "end": 107,
+          "expanded_url": "https://twitter.com/Starrynightwglf/status/2010293454899941885",
+          "start": 84,
+          "url": "https://t.co/2WdlsHaZmj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010295389220651376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010293454899941885",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下个学期期末考试想交白卷了，啥也不会\n平时考试也不会做，数学作业从跟不上开始就没交过了 平时分也没有，怎么考都是挂\n算下来这个学期丢了18个学分，重修要交1800块😌 https://t.co/2WdlsHaZmj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1043,
+        "media_key": "3_2010293447190777856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-X_PT4aEAAlAzj.jpg",
+        "width": 1097
+      },
+      {
+        "height": 820,
+        "media_key": "3_2010293447383777280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-X_PUmbAAA_RUF.jpg",
+        "width": 1193
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2010295389220651376",
+        "created_at": "2026-01-11T10:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T11:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010295389220651376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Starrynightwgl…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/Starrynightwglf/status/2010293454899941885",
+              "start": 84,
+              "url": "https://t.co/2WdlsHaZmj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010295389220651376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010293454899941885",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下个学期期末考试想交白卷了，啥也不会\n平时考试也不会做，数学作业从跟不上开始就没交过了 平时分也没有，怎么考都是挂\n算下来这个学期丢了18个学分，重修要交1800块😌 https://t.co/2WdlsHaZmj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010293447190777856",
+            "3_2010293447383777280"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2010293454899941885",
+        "created_at": "2026-01-11T10:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T11:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010293454899941885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4QUwAVprRr",
+              "end": 151,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2010293454899941885/photo/1",
+              "media_key": "3_2010293447190777856",
+              "start": 128,
+              "url": "https://t.co/4QUwAVprRr"
+            },
+            {
+              "display_url": "pic.x.com/4QUwAVprRr",
+              "end": 151,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2010293454899941885/photo/1",
+              "media_key": "3_2010293447383777280",
+              "start": 128,
+              "url": "https://t.co/4QUwAVprRr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010293454899941885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "军事理论课考试坐在里面没发到试卷发现的时候已经开考了，然后就开始幻想这个时候上去要试卷被大骂一顿的场景...直接就不敢去了低头看了一节课手机，完了结束了在课程群里发疯，我在干嘛啊...\n（以前就发生过好多次来晚了不敢进去蹲教室门口蹲一节课的事，一直如此😌 https://t.co/4QUwAVprRr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 4096,
+          "like_count": 125214,
+          "listed_count": 5,
+          "media_count": 880,
+          "tweet_count": 4498
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

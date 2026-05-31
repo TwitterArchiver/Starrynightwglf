@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1989281385815896217",
+    "created_at": "2025-11-14T10:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T11:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989281385815896217"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/newkitty412/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/newkitty412/status/1989000726287466995",
+          "start": 8,
+          "url": "https://t.co/2Z26Nq10tL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989281385815896217",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989000726287466995",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别扣了我不行了 https://t.co/2Z26Nq10tL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1989281385815896217",
+        "created_at": "2025-11-14T10:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T11:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989281385815896217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/newkitty412/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/newkitty412/status/1989000726287466995",
+              "start": 8,
+              "url": "https://t.co/2Z26Nq10tL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989281385815896217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989000726287466995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别扣了我不行了 https://t.co/2Z26Nq10tL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874895356452130816",
+        "conversation_id": "1989000726287466995",
+        "created_at": "2025-11-13T16:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T17:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989000726287466995"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989000726287466995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 32441,
+          "like_count": 403,
+          "quote_count": 10,
+          "reply_count": 29,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "我余额是逼吗？微信支付一直扣扣扣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃鱼鱼蒸┃重读大一ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州📍┃发点日常（可能掉落涩涩）┃是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃能多在意我一点点吗🥺┃🚪25┃叫我小风🎐┃妹妹也是恋人💞@miaomiaoxxia┃别离开我好吗好的😔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "miaomiaoxxia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJVZU"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "小夏怀里",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568,
+          "following_count": 3904,
+          "like_count": 117543,
+          "listed_count": 6,
+          "media_count": 705,
+          "tweet_count": 4047
+        },
+        "url": "https://t.co/EmFCvLJVZU",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T19:07:49.000Z",
+        "description": "置顶推广自辩 | 抽象毁一辈子 日记本@yeeeyme0688 自用vpn➡️https://t.co/Pwcci2PkyA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "yeeeyme0688"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cmespeed.com/#/register?cod…",
+                "end": 62,
+                "expanded_url": "https://cmespeed.com/#/register?code=R9BuoZgK",
+                "start": 39,
+                "url": "https://t.co/Pwcci2PkyA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oinml",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oinml",
+                "start": 0,
+                "url": "https://t.co/5ZgSd7Ojrl"
+              }
+            ]
+          }
+        },
+        "id": "1874895356452130816",
+        "location": "🚪52/88  右边匿名信箱📭",
+        "name": "活着真豆不容易",
+        "pinned_tweet_id": "1968227499294568467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969336716940230656/aNawclHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3378,
+          "following_count": 298,
+          "like_count": 8929,
+          "listed_count": 8,
+          "media_count": 105,
+          "tweet_count": 2979
+        },
+        "url": "https://t.co/5ZgSd7Ojrl",
+        "username": "newkitty412",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1999774068900565327",
+    "created_at": "2025-12-14T01:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T02:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000010909121737210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1470943033365438470",
+          "start": 0,
+          "username": "_Camano_Diana_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000010909121737210",
+    "in_reply_to_user_id": "1470943033365438470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999774068900565327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Camano_Diana_ 我现在的大学英语老师也让查词用死重的牛津朗文......说网上的不靠谱😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1999774068900565327",
+        "created_at": "2025-12-14T01:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T02:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000010909121737210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1470943033365438470",
+              "start": 0,
+              "username": "_Camano_Diana_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000010909121737210",
+        "in_reply_to_user_id": "1470943033365438470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999774068900565327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Camano_Diana_ 我现在的大学英语老师也让查词用死重的牛津朗文......说网上的不靠谱😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1470943033365438470",
+        "conversation_id": "1999774068900565327",
+        "created_at": "2025-12-13T09:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T10:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999774068900565327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999774068900565327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3902,
+          "like_count": 76,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "小学六年级的时候语文老师有个非常奇怪的规定（那个时候触屏手机刚开始普及）\n\n说遇到不会的字一定要查纸质版的字典，不要上网查，因为她觉得网络不靠谱\n\n这就跟现在那群瞧不起AI的，要求在网上一篇一篇找资料的人一样（哪怕AI也能把参考文献列出来）\n\n固步自封，无法接受更高效的信息获取渠道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃鱼鱼蒸┃重读大一ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州📍┃发点日常（可能掉落涩涩）┃是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃能多在意我一点点吗🥺┃🚪25┃叫我小风🎐┃妹妹也是恋人💞@miaomiaoxxia┃别离开我好吗好的😔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "miaomiaoxxia"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "小夏怀里",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644,
+          "following_count": 4000,
+          "like_count": 119925,
+          "listed_count": 5,
+          "media_count": 782,
+          "tweet_count": 4220
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-15T02:25:55.000Z",
+        "description": "禅 哲学 生态主义❄️ 外企网安岗 ⚠️遇到魔怔人会拉黑",
+        "id": "1470943033365438470",
+        "location": "Pacific Temperate Rainforest",
+        "name": "然子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984824579693682688/3YOmO-aJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2842,
+          "following_count": 872,
+          "like_count": 27012,
+          "listed_count": 13,
+          "media_count": 1409,
+          "tweet_count": 18710
+        },
+        "username": "_Camano_Diana_",
+        "verified": false
+      }
+    ]
+  }
+}

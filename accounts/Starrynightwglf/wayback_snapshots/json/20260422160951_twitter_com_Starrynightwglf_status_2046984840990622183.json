@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046947273738006528"
+      ],
+      "media_source_tweet_id": [
+        "2046947280973083109"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2046984840990622183",
+    "created_at": "2026-04-22T16:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T17:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046984840990622183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882671462210998272",
+          "start": 3,
+          "username": "HosinoEJ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y6ScJKioXs",
+          "end": 103,
+          "expanded_url": "https://x.com/HosinoEJ/status/2046947280973083109/photo/1",
+          "media_key": "3_2046947273738006528",
+          "start": 80,
+          "url": "https://t.co/Y6ScJKioXs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046984840990622183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046947280973083109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HosinoEJ: 用時一年，終於來到了1k粉絲。非常感謝大家，在這之中有見証、有警察，不過更多的，應該還是可愛的小藥娘們。在這裡感謝所有人，我愛你們 https://t.co/Y6ScJKioXs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046947273738006528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGg3s0UbsAAJtC2.jpg",
+        "width": 923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046947273738006528"
+          ],
+          "media_source_tweet_id": [
+            "2046947280973083109"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2046984840990622183",
+        "created_at": "2026-04-22T16:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046984840990622183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882671462210998272",
+              "start": 3,
+              "username": "HosinoEJ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y6ScJKioXs",
+              "end": 103,
+              "expanded_url": "https://x.com/HosinoEJ/status/2046947280973083109/photo/1",
+              "media_key": "3_2046947273738006528",
+              "start": 80,
+              "url": "https://t.co/Y6ScJKioXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046984840990622183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046947280973083109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HosinoEJ: 用時一年，終於來到了1k粉絲。非常感謝大家，在這之中有見証、有警察，不過更多的，應該還是可愛的小藥娘們。在這裡感謝所有人，我愛你們 https://t.co/Y6ScJKioXs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046947273738006528"
+          ]
+        },
+        "author_id": "1882671462210998272",
+        "conversation_id": "2046947280973083109",
+        "created_at": "2026-04-22T13:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046947280973083109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y6ScJKioXs",
+              "end": 89,
+              "expanded_url": "https://x.com/HosinoEJ/status/2046947280973083109/photo/1",
+              "media_key": "3_2046947273738006528",
+              "start": 66,
+              "url": "https://t.co/Y6ScJKioXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046947280973083109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 273,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "用時一年，終於來到了1k粉絲。非常感謝大家，在這之中有見証、有警察，不過更多的，應該還是可愛的小藥娘們。在這裡感謝所有人，我愛你們 https://t.co/Y6ScJKioXs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2035,
+          "following_count": 4454,
+          "like_count": 153274,
+          "listed_count": 3,
+          "media_count": 1338,
+          "tweet_count": 6097
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "點解我眼角長期都帶住淚？因為我一直被困喺一個暗無天日嘅十月入面。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hosinoneko.me",
+                "end": 23,
+                "expanded_url": "https://hosinoneko.me",
+                "start": 0,
+                "url": "https://t.co/2FBvyw1HI8"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "location": "shanghai",
+        "name": "星野寧子 | HosinoNeko",
+        "pinned_tweet_id": "2045296996916027852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969203560090124288/UXWVrJV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 524,
+          "like_count": 3764,
+          "listed_count": 4,
+          "media_count": 665,
+          "tweet_count": 3430
+        },
+        "url": "https://t.co/2FBvyw1HI8",
+        "username": "HosinoEJ",
+        "verified": false
+      }
+    ]
+  }
+}

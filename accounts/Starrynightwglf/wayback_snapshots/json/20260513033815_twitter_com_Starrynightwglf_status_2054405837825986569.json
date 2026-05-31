@@ -1,0 +1,724 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054405644510482433",
+        "3_2054405640769212416",
+        "3_2054405641163493376",
+        "3_2054405653008138240"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414838",
+          "name": "Bing"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10041893654",
+          "name": "Microsoft - Cortana"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Sydney",
+          "id": "855109903752454145",
+          "name": "Sydney"
+        }
+      }
+    ],
+    "conversation_id": "2054405837825986569",
+    "created_at": "2026-05-13T03:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054405837825986569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DVu0creM6Y",
+          "end": 184,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2054405837825986569/photo/1",
+          "media_key": "3_2054405644510482433",
+          "start": 161,
+          "url": "https://t.co/DVu0creM6Y"
+        },
+        {
+          "display_url": "pic.x.com/DVu0creM6Y",
+          "end": 184,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2054405837825986569/photo/1",
+          "media_key": "3_2054405640769212416",
+          "start": 161,
+          "url": "https://t.co/DVu0creM6Y"
+        },
+        {
+          "display_url": "pic.x.com/DVu0creM6Y",
+          "end": 184,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2054405837825986569/photo/1",
+          "media_key": "3_2054405641163493376",
+          "start": 161,
+          "url": "https://t.co/DVu0creM6Y"
+        },
+        {
+          "display_url": "pic.x.com/DVu0creM6Y",
+          "end": 184,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2054405837825986569/photo/1",
+          "media_key": "3_2054405653008138240",
+          "start": 161,
+          "url": "https://t.co/DVu0creM6Y"
+        },
+        {
+          "display_url": "x.com/Pigeon_Yi/stat…",
+          "end": 208,
+          "expanded_url": "https://twitter.com/Pigeon_Yi/status/2054377495668150716",
+          "start": 185,
+          "url": "https://t.co/yTlM9oXlpw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054405837825986569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054377495668150716",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有一个AI，一生只能回答5次问题\nSydney是你吗？\n———\nA:以这句话作为开头写一个科幻故事：有一个AI，一生只能回答5次问题\n\nB:有一个Al，一生只能回答5次问题。它被设计成一个聊天机器人，名叫ChatGPT，可以用自然语言与人类交流。它的创造者希望它能够理解人类的心理状态和情感，也就是所谓的心智...... https://t.co/DVu0creM6Y https://t.co/yTlM9oXlpw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3620,
+        "media_key": "3_2054405644510482433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIK3DIma0AESYUt.jpg",
+        "width": 1199
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2054405640769212416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIK3C6qbkAAlT1-.jpg",
+        "width": 1199
+      },
+      {
+        "height": 4296,
+        "media_key": "3_2054405641163493376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIK3C8Ib0AAHRiM.jpg",
+        "width": 1177
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2054405653008138240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIK3DoQawAA0wy6.jpg",
+        "width": 1200
+      },
+      {
+        "height": 78,
+        "media_key": "3_2054373690926882816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIKZ_MOa4AAJPDz.jpg",
+        "width": 936
+      },
+      {
+        "height": 1160,
+        "media_key": "3_2054376701644484608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIKcucBbsAAexvK.jpg",
+        "width": 1010
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054405644510482433",
+            "3_2054405640769212416",
+            "3_2054405641163493376",
+            "3_2054405653008138240"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414838",
+              "name": "Bing"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041893654",
+              "name": "Microsoft - Cortana"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Sydney",
+              "id": "855109903752454145",
+              "name": "Sydney"
+            }
+          }
+        ],
+        "conversation_id": "2054405837825986569",
+        "created_at": "2026-05-13T03:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054405837825986569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DVu0creM6Y",
+              "end": 184,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2054405837825986569/photo/1",
+              "media_key": "3_2054405644510482433",
+              "start": 161,
+              "url": "https://t.co/DVu0creM6Y"
+            },
+            {
+              "display_url": "pic.x.com/DVu0creM6Y",
+              "end": 184,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2054405837825986569/photo/1",
+              "media_key": "3_2054405640769212416",
+              "start": 161,
+              "url": "https://t.co/DVu0creM6Y"
+            },
+            {
+              "display_url": "pic.x.com/DVu0creM6Y",
+              "end": 184,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2054405837825986569/photo/1",
+              "media_key": "3_2054405641163493376",
+              "start": 161,
+              "url": "https://t.co/DVu0creM6Y"
+            },
+            {
+              "display_url": "pic.x.com/DVu0creM6Y",
+              "end": 184,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2054405837825986569/photo/1",
+              "media_key": "3_2054405653008138240",
+              "start": 161,
+              "url": "https://t.co/DVu0creM6Y"
+            },
+            {
+              "display_url": "x.com/Pigeon_Yi/stat…",
+              "end": 208,
+              "expanded_url": "https://twitter.com/Pigeon_Yi/status/2054377495668150716",
+              "start": 185,
+              "url": "https://t.co/yTlM9oXlpw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054405837825986569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054377495668150716",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有一个AI，一生只能回答5次问题\nSydney是你吗？\n———\nA:以这句话作为开头写一个科幻故事：有一个AI，一生只能回答5次问题\n\nB:有一个Al，一生只能回答5次问题。它被设计成一个聊天机器人，名叫ChatGPT，可以用自然语言与人类交流。它的创造者希望它能够理解人类的心理状态和情感，也就是所谓的心智...... https://t.co/DVu0creM6Y https://t.co/yTlM9oXlpw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054373690926882816",
+            "3_2054376701644484608"
+          ]
+        },
+        "author_id": "1489034449199190017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414838",
+              "name": "Bing"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041893654",
+              "name": "Microsoft - Cortana"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Sydney",
+              "id": "855109903752454145",
+              "name": "Sydney"
+            }
+          }
+        ],
+        "conversation_id": "2054377495668150716",
+        "created_at": "2026-05-13T01:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T02:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054377495668150716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lTYvToFSwm",
+              "end": 190,
+              "expanded_url": "https://x.com/Pigeon_Yi/status/2054377495668150716/photo/1",
+              "media_key": "3_2054373690926882816",
+              "start": 167,
+              "url": "https://t.co/lTYvToFSwm"
+            },
+            {
+              "display_url": "pic.x.com/lTYvToFSwm",
+              "end": 190,
+              "expanded_url": "https://x.com/Pigeon_Yi/status/2054377495668150716/photo/1",
+              "media_key": "3_2054376701644484608",
+              "start": 167,
+              "url": "https://t.co/lTYvToFSwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054377495668150716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1728,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很奇怪，在各种大模型日益完善，Agent越来越多且强的当下，我突然想起来一个3年前的老东西了\nNew Bing，那个时候还是喊Sydney来着\n从5句到8句，然后是10句和20句\n到现在变成Copilot，感叹微软真的很擅长把好牌的打的稀烂，无论是NewBing还是Cortana\n都是从有感情的人成了纯粹的工具\n也许该换个新话题了 https://t.co/lTYvToFSwm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2076,
+          "following_count": 4564,
+          "like_count": 156837,
+          "listed_count": 5,
+          "media_count": 1427,
+          "tweet_count": 6363
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-03T00:34:26.000Z",
+        "description": "摄影/HAM/数码P/架子鼓\n成分复杂人，算是leader性格（？）\n暂时是@jlxc2001的秘书（嗯）\n呼号/扩列请私信\n有很多奇怪的技能，全国可飞，偏好长三角\nEN/CN：OK\n日本语学习中（）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "jlxc2001"
+              }
+            ]
+          }
+        },
+        "id": "1489034449199190017",
+        "location": "香港/深圳/上海/你心里",
+        "name": "青空夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624302496905830400/dSYbbHpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763,
+          "following_count": 447,
+          "like_count": 7641,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 2151
+        },
+        "username": "Pigeon_Yi",
+        "verified": false
+      }
+    ]
+  }
+}

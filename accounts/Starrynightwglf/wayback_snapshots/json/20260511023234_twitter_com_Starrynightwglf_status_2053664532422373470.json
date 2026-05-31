@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2053378170330759168"
+      ],
+      "media_source_tweet_id": [
+        "2053378232788156723"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053664532422373470",
+    "created_at": "2026-05-11T02:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T03:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053664532422373470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1474412132569473030",
+          "start": 3,
+          "username": "gufeng57745070"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/44ME5UdYxV",
+          "end": 115,
+          "expanded_url": "https://x.com/gufeng57745070/status/2053378232788156723/video/1",
+          "media_key": "7_2053378170330759168",
+          "start": 92,
+          "url": "https://t.co/44ME5UdYxV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053664532422373470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053378232788156723",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gufeng57745070: 看到紐約地鐵這個裝置鄭州人触景伤情——郑州地铁五号线2026年7月20洪水湧入已經过去5年了，当地許多人一到下雨天，心理都有陰影，晚上睡不着。 https://t.co/44ME5UdYxV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42778,
+        "height": 1280,
+        "media_key": "7_2053378170330759168",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2053378170330759168/pu/img/Tmqy5FVSyXNcHt6B.jpg",
+        "public_metrics": {
+          "view_count": 215111
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053378170330759168/pu/vid/avc1/320x690/VCG2v3ewdgsglwzT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053378170330759168/pu/vid/avc1/480x1036/2gJSGnQ9b6uauSDz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053378170330759168/pu/vid/avc1/592x1280/AeVTMu_tcB3uuLs3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2053378170330759168/pu/pl/pt6UI5TOnC5kn9vI.m3u8?tag=12&v=56a"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2053378170330759168"
+          ],
+          "media_source_tweet_id": [
+            "2053378232788156723"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053664532422373470",
+        "created_at": "2026-05-11T02:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T03:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053664532422373470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1474412132569473030",
+              "start": 3,
+              "username": "gufeng57745070"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/44ME5UdYxV",
+              "end": 115,
+              "expanded_url": "https://x.com/gufeng57745070/status/2053378232788156723/video/1",
+              "media_key": "7_2053378170330759168",
+              "start": 92,
+              "url": "https://t.co/44ME5UdYxV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053664532422373470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053378232788156723",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gufeng57745070: 看到紐約地鐵這個裝置鄭州人触景伤情——郑州地铁五号线2026年7月20洪水湧入已經过去5年了，当地許多人一到下雨天，心理都有陰影，晚上睡不着。 https://t.co/44ME5UdYxV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2053378170330759168"
+          ]
+        },
+        "author_id": "1474412132569473030",
+        "conversation_id": "2053378232788156723",
+        "created_at": "2026-05-10T07:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053378232788156723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/44ME5UdYxV",
+              "end": 95,
+              "expanded_url": "https://x.com/gufeng57745070/status/2053378232788156723/video/1",
+              "media_key": "7_2053378170330759168",
+              "start": 72,
+              "url": "https://t.co/44ME5UdYxV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053378232788156723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 325772,
+          "like_count": 368,
+          "quote_count": 0,
+          "reply_count": 64,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "看到紐約地鐵這個裝置鄭州人触景伤情——郑州地铁五号线2026年7月20洪水湧入已經过去5年了，当地許多人一到下雨天，心理都有陰影，晚上睡不着。 https://t.co/44ME5UdYxV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2065,
+          "following_count": 4540,
+          "like_count": 155937,
+          "listed_count": 5,
+          "media_count": 1409,
+          "tweet_count": 6292
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-24T16:10:37.000Z",
+        "description": "人性本无阶级性,只是中共为维护其残酷统治,硬把人性贴上资产阶级标签.朱元璋打击大地主,保护中小地主,并靠这个阶级进行统治;毛泽东的“工人阶级领导一切”就是抄襲朱元璋的招式;如今习近平以利益牵制公务员及事业编,加上无处不在的军警特务,把中國人掐死……其實大清受惠者只是換上八旗.靠少部分人吃死绝大部分人是中国恒久不变之拙作",
+        "id": "1474412132569473030",
+        "name": "谷风副号",
+        "pinned_tweet_id": "1632154361714610177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631663255440572416/kyS1JxZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8745,
+          "following_count": 390,
+          "like_count": 693,
+          "listed_count": 46,
+          "media_count": 3346,
+          "tweet_count": 8913
+        },
+        "username": "gufeng57745070",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1989298415042445312",
+    "created_at": "2025-11-14T11:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T12:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989298415042445312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1464828079512113155",
+          "start": 3,
+          "username": "twdddesme"
+        },
+        {
+          "end": 26,
+          "id": "797439291752378368",
+          "start": 15,
+          "username": "lover_ning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989298415042445312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988961635537682618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @twdddesme: @lover_ning 那岂不是可以左边塞屁眼右边放前面了🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1989298415042445312",
+        "created_at": "2025-11-14T11:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T12:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989298415042445312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1464828079512113155",
+              "start": 3,
+              "username": "twdddesme"
+            },
+            {
+              "end": 26,
+              "id": "797439291752378368",
+              "start": 15,
+              "username": "lover_ning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989298415042445312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988961635537682618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @twdddesme: @lover_ning 那岂不是可以左边塞屁眼右边放前面了🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464828079512113155",
+        "conversation_id": "1988941583782408200",
+        "created_at": "2025-11-13T13:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T14:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988961635537682618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "797439291752378368",
+              "start": 0,
+              "username": "lover_ning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988961635537682618",
+        "in_reply_to_user_id": "797439291752378368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11045,
+          "like_count": 410,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988941583782408200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lover_ning 那岂不是可以左边塞屁眼右边放前面了🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃鱼鱼蒸┃重读大一ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州📍┃发点日常（可能掉落涩涩）┃是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃能多在意我一点点吗🥺┃🚪25┃叫我小风🎐┃妹妹也是恋人💞@miaomiaoxxia┃别离开我好吗好的😔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "miaomiaoxxia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJVZU"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "小夏怀里",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568,
+          "following_count": 3906,
+          "like_count": 117579,
+          "listed_count": 6,
+          "media_count": 705,
+          "tweet_count": 4048
+        },
+        "url": "https://t.co/EmFCvLJVZU",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-28T05:26:54.000Z",
+        "description": "不社交。",
+        "id": "1464828079512113155",
+        "name": "有栖川彻子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968914821262491649/281YGgn0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3796,
+          "following_count": 308,
+          "like_count": 12428,
+          "listed_count": 13,
+          "media_count": 27,
+          "tweet_count": 3066
+        },
+        "username": "twdddesme",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-12T14:01:57.000Z",
+        "description": "本号偏猎奇向，谨慎关注 / 头像是本人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onion03.vip/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://onion03.vip?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/V6J2FWCXht"
+              }
+            ]
+          }
+        },
+        "id": "797439291752378368",
+        "location": "免费VPN👉🏼",
+        "name": "SUZU",
+        "pinned_tweet_id": "1970317413502853194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746648879364501505/tSGXif8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258976,
+          "following_count": 105,
+          "like_count": 33202,
+          "listed_count": 457,
+          "media_count": 3299,
+          "tweet_count": 28274
+        },
+        "url": "https://t.co/V6J2FWCXht",
+        "username": "lover_ning",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008916832670175232"
+      ],
+      "media_source_tweet_id": [
+        "2008916835027292365"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2009096496751510007",
+    "created_at": "2026-01-08T02:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T03:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009096496751510007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1847970691590868992",
+          "start": 3,
+          "username": "watermizumon0w0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VtLjNynYAZ",
+          "end": 74,
+          "expanded_url": "https://x.com/watermizumon0w0/status/2008916835027292365/photo/1",
+          "media_key": "3_2008916832670175232",
+          "start": 51,
+          "url": "https://t.co/VtLjNynYAZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009096496751510007",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008916835027292365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @watermizumon0w0: 그 많은 쓰울 그림들 중에서 가장 마음에 든 장면임. https://t.co/VtLjNynYAZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1005,
+        "media_key": "3_2008916832670175232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-EbNzKb0AABFwx.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008916832670175232"
+          ],
+          "media_source_tweet_id": [
+            "2008916835027292365"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009096496751510007",
+        "created_at": "2026-01-08T02:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T03:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009096496751510007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1847970691590868992",
+              "start": 3,
+              "username": "watermizumon0w0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VtLjNynYAZ",
+              "end": 74,
+              "expanded_url": "https://x.com/watermizumon0w0/status/2008916835027292365/photo/1",
+              "media_key": "3_2008916832670175232",
+              "start": 51,
+              "url": "https://t.co/VtLjNynYAZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009096496751510007",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008916835027292365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @watermizumon0w0: 그 많은 쓰울 그림들 중에서 가장 마음에 든 장면임. https://t.co/VtLjNynYAZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008916832670175232"
+          ]
+        },
+        "author_id": "1847970691590868992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2008916835027292365",
+        "created_at": "2026-01-07T15:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008916835027292365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VtLjNynYAZ",
+              "end": 53,
+              "expanded_url": "https://x.com/watermizumon0w0/status/2008916835027292365/photo/1",
+              "media_key": "3_2008916832670175232",
+              "start": 30,
+              "url": "https://t.co/VtLjNynYAZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008916835027292365",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 9529,
+          "like_count": 864,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "reply_settings": "following",
+        "text": "그 많은 쓰울 그림들 중에서 가장 마음에 든 장면임. https://t.co/VtLjNynYAZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1655,
+          "following_count": 4061,
+          "like_count": 124372,
+          "listed_count": 5,
+          "media_count": 866,
+          "tweet_count": 4450
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T11:58:49.000Z",
+        "description": "",
+        "id": "1847970691590868992",
+        "location": "아주 먼 곳에 있는",
+        "name": "쭈압",
+        "pinned_tweet_id": "2005562982445748574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001721048367271936/uOIdj2VI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 12,
+          "like_count": 4604,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 874
+        },
+        "username": "watermizumon0w0",
+        "verified": false
+      }
+    ]
+  }
+}

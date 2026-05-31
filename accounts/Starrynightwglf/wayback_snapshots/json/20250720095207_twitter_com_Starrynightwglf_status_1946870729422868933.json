@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1946870729422868933",
+    "created_at": "2025-07-20T09:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T10:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946870729422868933"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NanaimoSt/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/NanaimoSt/status/1946685535558463846",
+          "start": 8,
+          "url": "https://t.co/j9SznT49xB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946870729422868933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 56,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946685535558463846",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最权威的一集🤣 https://t.co/j9SznT49xB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1946870729422868933",
+        "created_at": "2025-07-20T09:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T10:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946870729422868933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NanaimoSt/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/NanaimoSt/status/1946685535558463846",
+              "start": 8,
+              "url": "https://t.co/j9SznT49xB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946870729422868933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946685535558463846",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最权威的一集🤣 https://t.co/j9SznT49xB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736843633322840064",
+        "conversation_id": "1946545239994314907",
+        "created_at": "2025-07-19T21:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T22:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946685535558463846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796349415650664448",
+              "start": 0,
+              "username": "KawaiiEru_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946685535558463846",
+        "in_reply_to_user_id": "1796349415650664448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 6263,
+          "like_count": 404,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946545239994314907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiiEru_ 妈的无法无天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一休学ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州/杭州/衢州/沈阳📍┃是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃能多在意我一点点吗🥺┃🚪25┃叫我小风🎐┃妹妹也是恋人💞@xinxia_mtf┃别离开我好吗好的😔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "xinxia_mtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJoam"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "小夏怀里",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 3796,
+          "like_count": 116232,
+          "listed_count": 4,
+          "media_count": 625,
+          "tweet_count": 3788
+        },
+        "url": "https://t.co/EmFCvLJoam",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T20:20:16.000Z",
+        "description": "江泽民（1926年8月17日生）男，汉族，江苏省扬州市人。1943年起参加地下党领导的学生运动，1946年4月加入中国共产党，1947年毕业于上海交通大学电机系。曾任中国共产党中央委员会总书记，中国共产党中央军事委员会主席，中华人民共和国主席，中华人民共和国中央军事委员会主席",
+        "id": "1736843633322840064",
+        "location": "Burnaby, British Columbia",
+        "name": "江泽民 official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793663824513662976/DQWx6St5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 114,
+          "like_count": 3185,
+          "listed_count": 2,
+          "media_count": 355,
+          "tweet_count": 1177
+        },
+        "username": "NanaimoSt",
+        "verified": false
+      }
+    ]
+  }
+}

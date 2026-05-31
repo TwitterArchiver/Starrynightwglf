@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2007731847187575269",
+    "created_at": "2026-01-04T08:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T09:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007731847187575269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/2006_kawaii/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/2006_kawaii/status/2007425316504121824",
+          "start": 9,
+          "url": "https://t.co/fE9qBqIpEZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007731847187575269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007425316504121824",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "盗图狗能不能去死 https://t.co/fE9qBqIpEZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2007425296899944449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9vOq_basAERrlj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2007731847187575269",
+        "created_at": "2026-01-04T08:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T09:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007731847187575269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/2006_kawaii/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/2006_kawaii/status/2007425316504121824",
+              "start": 9,
+              "url": "https://t.co/fE9qBqIpEZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007731847187575269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007425316504121824",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "盗图狗能不能去死 https://t.co/fE9qBqIpEZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007425296899944449"
+          ]
+        },
+        "author_id": "1987419751459790848",
+        "conversation_id": "2007425316504121824",
+        "created_at": "2026-01-03T12:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T13:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007425316504121824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1720665183188922368",
+              "start": 2,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QqRJVQfBSL",
+              "end": 46,
+              "expanded_url": "https://x.com/2006_kawaii/status/2007425316504121824/photo/1",
+              "media_key": "3_2007425296899944449",
+              "start": 23,
+              "url": "https://t.co/QqRJVQfBSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007425316504121824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 71265,
+          "like_count": 642,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "ねえ@grok\nマイクロビキニ姿にしてみて笑 https://t.co/QqRJVQfBSL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 4042,
+          "like_count": 123417,
+          "listed_count": 5,
+          "media_count": 856,
+          "tweet_count": 4426
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T07:19:35.000Z",
+        "description": "フォロワー限定㊙→@akash4002",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "akash4002"
+              }
+            ]
+          }
+        },
+        "id": "1987419751459790848",
+        "name": "なな",
+        "pinned_tweet_id": "2005932796217548884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987420104653742080/L25ZBc7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9784,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 6,
+          "media_count": 17,
+          "tweet_count": 41
+        },
+        "username": "2006_kawaii",
+        "verified": false
+      }
+    ]
+  }
+}

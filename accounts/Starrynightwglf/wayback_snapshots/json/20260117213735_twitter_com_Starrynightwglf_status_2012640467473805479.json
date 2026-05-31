@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2012640467473805479",
+    "created_at": "2026-01-17T21:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T22:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012640467473805479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1344404489051189248",
+          "start": 3,
+          "username": "friebbles"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012640467473805479",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4498
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012441400395059392",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @friebbles: ⠀⠀⠀\n           へ            ╱| \n      ૮  •   ՛ )  ♡  (`   -  7\n       /   ⁻  ៸|         |、⁻〵\n   ໒ (ˍ, ل ل         じしˍ,) ੭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2012640467473805479",
+        "created_at": "2026-01-17T21:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T22:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012640467473805479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1344404489051189248",
+              "start": 3,
+              "username": "friebbles"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012640467473805479",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4498
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012441400395059392",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @friebbles: ⠀⠀⠀\n           へ            ╱| \n      ૮  •   ՛ )  ♡  (`   -  7\n       /   ⁻  ៸|         |、⁻〵\n   ໒ (ˍ, ل ل         じしˍ,) ੭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1344404489051189248",
+        "conversation_id": "2012441400395059392",
+        "created_at": "2026-01-17T08:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T09:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012441400395059392"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012441400395059392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1944,
+          "impression_count": 281867,
+          "like_count": 13902,
+          "quote_count": 252,
+          "reply_count": 0,
+          "retweet_count": 4498
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "⠀⠀⠀\n           へ            ╱| \n      ૮  •   ՛ )  ♡  (`   -  7\n       /   ⁻  ៸|         |、⁻〵\n   ໒ (ˍ, ل ل         じしˍ,) ੭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1683,
+          "following_count": 4128,
+          "like_count": 126881,
+          "listed_count": 5,
+          "media_count": 908,
+          "tweet_count": 4574
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-30T22:06:34.000Z",
+        "description": "𐔌 . ⠀𝑤𝑒𝑙𝑐𝑜𝑚𝑒 𝑡𝑜 𝑚𝑦 𝑝𝑖𝑛𝑘 & 𝑔𝑖𝑟𝑙𝑦 𝑤𝑜𝑟𝑙𝑑 ⠀ ᰔ ! ⠀ ૮ . . ྀིა",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/friebbles/shop",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/friebbles/shop",
+                "start": 0,
+                "url": "https://t.co/BCvjp0ZTjp"
+              }
+            ]
+          }
+        },
+        "id": "1344404489051189248",
+        "location": "adult ෆ/ ig : friebbles ෆ",
+        "name": "౨ৎ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856432894475927553/yB6rYjFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89096,
+          "following_count": 13,
+          "like_count": 7316,
+          "listed_count": 324,
+          "media_count": 58,
+          "tweet_count": 1468
+        },
+        "url": "https://t.co/BCvjp0ZTjp",
+        "username": "friebbles",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2008731750424568087",
+    "created_at": "2026-01-07T04:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T05:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008764959539314894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1829411930458718208",
+          "start": 0,
+          "username": "_250924"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008764959539314894",
+    "in_reply_to_user_id": "1829411930458718208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008764291030417409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_250924 我超盒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2008731750424568087",
+        "created_at": "2026-01-07T04:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T05:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008764959539314894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1829411930458718208",
+              "start": 0,
+              "username": "_250924"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008764959539314894",
+        "in_reply_to_user_id": "1829411930458718208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008764291030417409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_250924 我超盒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829411930458718208",
+        "conversation_id": "2008731750424568087",
+        "created_at": "2026-01-07T04:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T05:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008764291030417409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1563508655256850433",
+              "start": 0,
+              "username": "Starrynightwglf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008764291030417409",
+        "in_reply_to_user_id": "1563508655256850433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008731750424568087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starrynightwglf 中原工学院是一所以工为主，以电子信息、人工智能和织物电子为特色优势，多学科协调发展的河南省特色骨干学科建设高校。始建于1955年，是原纺织工业部八所部属本科院校之一，1998年划转省管，2000年更名为中原工学院。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1651,
+          "following_count": 4055,
+          "like_count": 124105,
+          "listed_count": 5,
+          "media_count": 863,
+          "tweet_count": 4441
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T06:55:21.000Z",
+        "description": "不像串的串得不像再串打死🇰🇵🇹🇼别串了别串了麻了麻了闹麻了🥴 小儿辈，大破防，已报生擒吐谷yù浑",
+        "id": "1829411930458718208",
+        "location": "Paju-si, Republic of Korea",
+        "name": "大不列滇🇹🇼整活人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008135058536665088/lXIem1bb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 1359,
+          "like_count": 25588,
+          "listed_count": 3,
+          "media_count": 43,
+          "tweet_count": 390
+        },
+        "username": "_250924",
+        "verified": false
+      }
+    ]
+  }
+}

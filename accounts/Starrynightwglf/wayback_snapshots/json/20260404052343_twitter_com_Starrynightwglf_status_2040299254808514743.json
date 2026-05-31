@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2040074500239466876",
+    "created_at": "2026-04-04T05:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T06:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040299254808514743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028814965965312001",
+          "start": 0,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040299254808514743",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040074500239466876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miiharukawa @乔布斯何意味\n[奶龙大笑]"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1851,
+        "media_key": "3_2040074493537005568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_M8W6bsAA91qO.jpg",
+        "width": 1178
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2040074493536923648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_M8W6acAAIg_N.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2040074500239466876",
+        "created_at": "2026-04-04T05:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T06:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040299254808514743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040299254808514743",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040074500239466876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa @乔布斯何意味\n[奶龙大笑]"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040074493537005568",
+            "3_2040074493536923648"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2040074500239466876",
+        "created_at": "2026-04-03T14:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040074500239466876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CR7OkIJB00",
+              "end": 34,
+              "expanded_url": "https://x.com/Miiharukawa/status/2040074500239466876/photo/1",
+              "media_key": "3_2040074493537005568",
+              "start": 11,
+              "url": "https://t.co/CR7OkIJB00"
+            },
+            {
+              "display_url": "pic.x.com/CR7OkIJB00",
+              "end": 34,
+              "expanded_url": "https://x.com/Miiharukawa/status/2040074500239466876/photo/1",
+              "media_key": "3_2040074493536923648",
+              "start": 11,
+              "url": "https://t.co/CR7OkIJB00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040074500239466876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 456,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看完急头白脸地下载了 https://t.co/CR7OkIJB00"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 4432,
+          "like_count": 150609,
+          "listed_count": 3,
+          "media_count": 1289,
+          "tweet_count": 5864
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 168,
+          "like_count": 4256,
+          "listed_count": 3,
+          "media_count": 158,
+          "tweet_count": 1341
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

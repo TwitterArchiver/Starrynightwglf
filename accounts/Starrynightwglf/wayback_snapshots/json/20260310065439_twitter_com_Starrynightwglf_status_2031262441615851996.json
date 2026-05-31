@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2031262441615851996",
+    "created_at": "2026-03-10T06:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T07:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031262441615851996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "913478852017627142",
+          "start": 3,
+          "username": "Theodos1us"
+        },
+        {
+          "end": 24,
+          "id": "1433678976564662273",
+          "start": 16,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031262441615851996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031252214149476394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Theodos1us: @hsn8086 什么Another，多出来的人是老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2031262441615851996",
+        "created_at": "2026-03-10T06:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T07:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031262441615851996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "913478852017627142",
+              "start": 3,
+              "username": "Theodos1us"
+            },
+            {
+              "end": 24,
+              "id": "1433678976564662273",
+              "start": 16,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031262441615851996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031252214149476394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Theodos1us: @hsn8086 什么Another，多出来的人是老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "913478852017627142",
+        "conversation_id": "2031234144378957828",
+        "created_at": "2026-03-10T06:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T07:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031252214149476394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031252214149476394",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4207,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031234144378957828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 什么Another，多出来的人是老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 4318,
+          "like_count": 141783,
+          "listed_count": 3,
+          "media_count": 1143,
+          "tweet_count": 5325
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-28T19:01:44.000Z",
+        "description": "",
+        "id": "913478852017627142",
+        "location": "ATL",
+        "name": "Dolosigranulum pigrum",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831704044446023680/VCdcm4gx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 718,
+          "like_count": 7528,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 997
+        },
+        "username": "Theodos1us",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005307492637847552/_2AfujLO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118477,
+          "following_count": 1040,
+          "like_count": 51536,
+          "listed_count": 273,
+          "media_count": 19790,
+          "tweet_count": 29798
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

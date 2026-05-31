@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1867408715470848144",
+    "created_at": "2024-12-13T04:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T05:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867429436838285719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1495635928949616642",
+          "start": 0,
+          "username": "Meizakini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867429436838285719",
+    "in_reply_to_user_id": "1495635928949616642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867408715470848144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meizakini 这个皮肤我也一直在用，好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1867408715470848144",
+        "created_at": "2024-12-13T04:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T05:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867429436838285719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1495635928949616642",
+              "start": 0,
+              "username": "Meizakini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867429436838285719",
+        "in_reply_to_user_id": "1495635928949616642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867408715470848144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meizakini 这个皮肤我也一直在用，好看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495635928949616642",
+        "conversation_id": "1867408715470848144",
+        "created_at": "2024-12-13T03:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T04:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867408715470848144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Meizakini/stat…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/Meizakini/status/1867240070119632908",
+              "start": 77,
+              "url": "https://t.co/26PJR222q1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867408715470848144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 371,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867240070119632908",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个皮肤是outlook的transgender pride皮肤。之前版本一直翻译成变性人，我提交了个反馈之后没多久就改成跨性别者了。微软好，夸夸微软。 https://t.co/26PJR222q1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一ing🏫┃🏳️‍⚧🍥无证😭┃坐标郑州📍┃没有什么突出的爱好，是个不太有趣的人🤷‍♀️┃不在乎立场，也不喜欢建政🙅‍♀┃欢迎互fo喵🥺（只是中推小透明，fo不fo都无所谓啦，能一眼我就很开心了）┃高强度刷推😁┃点赞是手干的，不是我干的😗┃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJVZU"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "无何有",
+        "name": "Starrynight風阁🍥",
+        "pinned_tweet_id": "1862405062833971450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859531481846362112/-ukC50_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 3166,
+          "like_count": 60372,
+          "listed_count": 4,
+          "media_count": 333,
+          "tweet_count": 2749
+        },
+        "url": "https://t.co/EmFCvLJVZU",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T05:46:25.000Z",
+        "description": "Trans girl | 铝铜&女朋友超可爱 | INTP | 无R18 | 不常键政 | 178 cm | 物理 PhD 在读 | mston @meizakini@o3o.ca | tg@meizakini | https://t.co/gZPAIapcje | 手术日记 https://t.co/NcHNk6AdML",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "meizakini.bsky.social",
+                "end": 131,
+                "expanded_url": "http://meizakini.bsky.social",
+                "start": 108,
+                "url": "https://t.co/gZPAIapcje"
+              },
+              {
+                "display_url": "t.me/meizaSRS",
+                "end": 162,
+                "expanded_url": "http://t.me/meizaSRS",
+                "start": 139,
+                "url": "https://t.co/NcHNk6AdML"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "meiza.cc",
+                "end": 23,
+                "expanded_url": "http://meiza.cc",
+                "start": 0,
+                "url": "https://t.co/uTDknZ8kNp"
+              }
+            ]
+          }
+        },
+        "id": "1495635928949616642",
+        "location": "0.7 km",
+        "name": "Meiza",
+        "pinned_tweet_id": "1847939518600519859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826198723694829568/ga73lAXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4594,
+          "following_count": 1251,
+          "like_count": 18930,
+          "listed_count": 11,
+          "media_count": 554,
+          "tweet_count": 6766
+        },
+        "url": "https://t.co/uTDknZ8kNp",
+        "username": "Meizakini",
+        "verified": true
+      }
+    ]
+  }
+}

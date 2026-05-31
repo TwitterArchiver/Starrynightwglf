@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2024998947471966255",
+    "created_at": "2026-02-22T04:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T05:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025421210482606173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2013609251781120001",
+          "start": 0,
+          "username": "jaime_john42744"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025421210482606173",
+    "in_reply_to_user_id": "2013609251781120001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024998947471966255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jaime_john42744 为什么盗视频的流量都这么高🙃"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14378,
+        "height": 1280,
+        "media_key": "13_2024998918212517889",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024998918212517889/img/UHfPvgbyJi4onb4j.jpg",
+        "public_metrics": {
+          "view_count": 259901
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024998918212517889/vid/avc1/320x568/pJuEwyUnyFHqA9mO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024998918212517889/vid/avc1/480x852/pzFTBvEmeQ_mbb3e.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024998918212517889/vid/avc1/720x1280/HeZ4dSze0Zaf9jQF.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024998918212517889/pl/QaMYv3-2d_ZEY1DZ.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2024998947471966255",
+        "created_at": "2026-02-22T04:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025421210482606173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2013609251781120001",
+              "start": 0,
+              "username": "jaime_john42744"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025421210482606173",
+        "in_reply_to_user_id": "2013609251781120001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024998947471966255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jaime_john42744 为什么盗视频的流量都这么高🙃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024998918212517889"
+          ]
+        },
+        "author_id": "2013609251781120001",
+        "conversation_id": "2024998947471966255",
+        "created_at": "2026-02-21T00:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T01:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024998947471966255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mnZWABhfgL",
+              "end": 44,
+              "expanded_url": "https://x.com/jaime_john42744/status/2024998947471966255/video/1",
+              "media_key": "13_2024998918212517889",
+              "start": 21,
+              "url": "https://t.co/mnZWABhfgL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024998947471966255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 375,
+          "impression_count": 392068,
+          "like_count": 2091,
+          "quote_count": 3,
+          "reply_count": 58,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "从神秘的四次元空间拿巧克力出来给大家吃~ https://t.co/mnZWABhfgL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 4255,
+          "like_count": 136614,
+          "listed_count": 3,
+          "media_count": 1038,
+          "tweet_count": 4972
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T13:47:19.000Z",
+        "description": "`_____我主号 @qwkyl92792676",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "qwkyl92792676"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nm.zzym5.lol",
+                "end": 23,
+                "expanded_url": "http://nm.zzym5.lol",
+                "start": 0,
+                "url": "https://t.co/gkw8saynAN"
+              }
+            ]
+          }
+        },
+        "id": "2013609251781120001",
+        "location": "抖音网红约炮性爱圈（限23岁）→",
+        "name": "桐桐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024925031630077953/AKK-bfSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/gkw8saynAN",
+        "username": "jaime_john42744",
+        "verified": false
+      }
+    ]
+  }
+}

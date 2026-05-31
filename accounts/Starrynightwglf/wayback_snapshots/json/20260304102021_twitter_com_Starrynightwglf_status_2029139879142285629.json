@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2029060312473977075",
+    "created_at": "2026-03-04T10:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T11:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029139879142285629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029139879142285629",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029060312473977075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay 莫奈卡和非人哉联名卡哪个好点呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2029060312473977075",
+        "created_at": "2026-03-04T10:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T11:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029139879142285629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029139879142285629",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029060312473977075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 莫奈卡和非人哉联名卡哪个好点呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2029060312473977075",
+        "created_at": "2026-03-04T05:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T06:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029060312473977075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/minokakay/status/1904204323887976465",
+              "start": 100,
+              "url": "https://t.co/JNBBPvUwkf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029060312473977075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "实测下来 中行那张最好用\n这张卡的等级挺高的，且是真全币种（即你可以直接付日元，不需要从人民币/美元自动实时换汇，提前在汇率好的时候换好汇转进去，出国用就行）另每笔1%返现\n\n日本香港免税店 路边店 Agoda/Trip.com订酒店，从来没有拒付过，也可以境外取现，中信线上能用，线下用不了，麦当劳都拒付。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 3449,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904204323887976465",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "实测下来 中行那张最好用\n这张卡的等级挺高的，且是真全币种（即你可以直接付日元，不需要从人民币/美元自动实时换汇，提前在汇率好的时候换好汇转进去，出国用就行）另每笔1%返现\n\n日本香港免税店 路边店 https://t.co/JNBBPvUwkf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1860,
+          "following_count": 4301,
+          "like_count": 139633,
+          "listed_count": 3,
+          "media_count": 1104,
+          "tweet_count": 5215
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️找choseki见https://t.co/hStQSlMtBp，私信不回，打不开换梯子换浏览器",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 74,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 51,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2019736772826341551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14113,
+          "following_count": 1066,
+          "like_count": 44128,
+          "listed_count": 52,
+          "media_count": 1746,
+          "tweet_count": 25321
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

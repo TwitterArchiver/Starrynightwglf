@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2059476952176861236",
+    "created_at": "2026-05-27T03:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T04:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059476952176861236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/patternrecoggn…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/patternrecoggni/status/2059298010417312183",
+          "start": 3,
+          "url": "https://t.co/InlQMzjiRk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059476952176861236",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059298010417312183",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恐怖 https://t.co/InlQMzjiRk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 805,
+        "media_key": "3_2057954194137751552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI9Sb6GbIAANks1.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2059476952176861236",
+        "created_at": "2026-05-27T03:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059476952176861236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/patternrecoggn…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/patternrecoggni/status/2059298010417312183",
+              "start": 3,
+              "url": "https://t.co/InlQMzjiRk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059476952176861236",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059298010417312183",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恐怖 https://t.co/InlQMzjiRk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057954194137751552"
+          ]
+        },
+        "author_id": "1520862259689697280",
+        "conversation_id": "2059298010417312183",
+        "created_at": "2026-05-26T15:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059298010417312183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v45Czuyg73",
+              "end": 23,
+              "expanded_url": "https://x.com/patternrecoggni/status/2059298010417312183/photo/1",
+              "media_key": "3_2057954194137751552",
+              "start": 0,
+              "url": "https://t.co/v45Czuyg73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059298010417312183",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2945,
+          "impression_count": 1111121,
+          "like_count": 86462,
+          "quote_count": 311,
+          "reply_count": 208,
+          "retweet_count": 6568
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/v45Czuyg73"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 4624,
+          "like_count": 160175,
+          "listed_count": 5,
+          "media_count": 1496,
+          "tweet_count": 6571
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-01T20:26:44.000Z",
+        "description": "can you recognize these iconic memes?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/gimmicks",
+                "end": 23,
+                "expanded_url": "http://discord.gg/gimmicks",
+                "start": 0,
+                "url": "https://t.co/AmKGiv04cM"
+              }
+            ]
+          }
+        },
+        "id": "1520862259689697280",
+        "name": "pattern recognition test",
+        "pinned_tweet_id": "2059298010417312183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003988280237506560/hVhISqVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54166,
+          "following_count": 6,
+          "like_count": 762,
+          "listed_count": 57,
+          "media_count": 91,
+          "tweet_count": 260
+        },
+        "url": "https://t.co/AmKGiv04cM",
+        "username": "patternrecoggni",
+        "verified": false
+      }
+    ]
+  }
+}

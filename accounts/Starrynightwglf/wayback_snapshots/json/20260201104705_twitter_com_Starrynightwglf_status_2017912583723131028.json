@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017912550139232256",
+        "3_2017912550973935616",
+        "3_2017912553876459520",
+        "3_2017912552009973760"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2017912583723131028",
+    "created_at": "2026-02-01T10:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T11:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017912583723131028"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/96r7GofU1f",
+          "end": 72,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2017912583723131028/photo/1",
+          "media_key": "3_2017912550139232256",
+          "start": 49,
+          "url": "https://t.co/96r7GofU1f"
+        },
+        {
+          "display_url": "pic.x.com/96r7GofU1f",
+          "end": 72,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2017912583723131028/photo/1",
+          "media_key": "3_2017912550973935616",
+          "start": 49,
+          "url": "https://t.co/96r7GofU1f"
+        },
+        {
+          "display_url": "pic.x.com/96r7GofU1f",
+          "end": 72,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2017912583723131028/photo/1",
+          "media_key": "3_2017912553876459520",
+          "start": 49,
+          "url": "https://t.co/96r7GofU1f"
+        },
+        {
+          "display_url": "pic.x.com/96r7GofU1f",
+          "end": 72,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2017912583723131028/photo/1",
+          "media_key": "3_2017912552009973760",
+          "start": 49,
+          "url": "https://t.co/96r7GofU1f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017912583723131028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "华为网吧喵\n圆神启动喵\n鸿懵系统的MateBook Pro喵\n是手机版的只能跑60针喵\n有点卡喵 https://t.co/96r7GofU1f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2017912550139232256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAEQxeLaAAA1ked.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2017912550973935616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAEQxhSakAAORlu.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2017912553876459520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAEQxsGbkAAIF8j.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2017912552009973760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAEQxlJbQAAgmdx.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017912550139232256",
+            "3_2017912550973935616",
+            "3_2017912553876459520",
+            "3_2017912552009973760"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2017912583723131028",
+        "created_at": "2026-02-01T10:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T11:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017912583723131028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/96r7GofU1f",
+              "end": 72,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2017912583723131028/photo/1",
+              "media_key": "3_2017912550139232256",
+              "start": 49,
+              "url": "https://t.co/96r7GofU1f"
+            },
+            {
+              "display_url": "pic.x.com/96r7GofU1f",
+              "end": 72,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2017912583723131028/photo/1",
+              "media_key": "3_2017912550973935616",
+              "start": 49,
+              "url": "https://t.co/96r7GofU1f"
+            },
+            {
+              "display_url": "pic.x.com/96r7GofU1f",
+              "end": 72,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2017912583723131028/photo/1",
+              "media_key": "3_2017912553876459520",
+              "start": 49,
+              "url": "https://t.co/96r7GofU1f"
+            },
+            {
+              "display_url": "pic.x.com/96r7GofU1f",
+              "end": 72,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2017912583723131028/photo/1",
+              "media_key": "3_2017912552009973760",
+              "start": 49,
+              "url": "https://t.co/96r7GofU1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017912583723131028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "华为网吧喵\n圆神启动喵\n鸿懵系统的MateBook Pro喵\n是手机版的只能跑60针喵\n有点卡喵 https://t.co/96r7GofU1f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 4175,
+          "like_count": 129799,
+          "listed_count": 6,
+          "media_count": 968,
+          "tweet_count": 4727
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

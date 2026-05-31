@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904506757973671936"
+      ],
+      "media_source_tweet_id": [
+        "1904506766337130761"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "1904537109350035544",
+    "created_at": "2025-03-25T14:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T15:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904537109350035544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "706457034967748608",
+          "start": 3,
+          "username": "mrpg_0824"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RL3KcOz2Sg",
+          "end": 54,
+          "expanded_url": "https://x.com/mrpg_0824/status/1904506766337130761/photo/1",
+          "media_key": "3_1904506757973671936",
+          "start": 31,
+          "url": "https://t.co/RL3KcOz2Sg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904537109350035544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904506766337130761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mrpg_0824: ボクが雛見沢を案内するのですよ https://t.co/RL3KcOz2Sg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2448,
+        "media_key": "3_1904506757973671936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm4qzk1aAAAtrQJ.jpg",
+        "width": 1815
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904506757973671936"
+          ],
+          "media_source_tweet_id": [
+            "1904506766337130761"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "1904537109350035544",
+        "created_at": "2025-03-25T14:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T15:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904537109350035544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "706457034967748608",
+              "start": 3,
+              "username": "mrpg_0824"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RL3KcOz2Sg",
+              "end": 54,
+              "expanded_url": "https://x.com/mrpg_0824/status/1904506766337130761/photo/1",
+              "media_key": "3_1904506757973671936",
+              "start": 31,
+              "url": "https://t.co/RL3KcOz2Sg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904537109350035544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904506766337130761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mrpg_0824: ボクが雛見沢を案内するのですよ https://t.co/RL3KcOz2Sg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904506757973671936"
+          ]
+        },
+        "author_id": "706457034967748608",
+        "conversation_id": "1904506766337130761",
+        "created_at": "2025-03-25T12:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T13:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904506766337130761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RL3KcOz2Sg",
+              "end": 39,
+              "expanded_url": "https://x.com/mrpg_0824/status/1904506766337130761/photo/1",
+              "media_key": "3_1904506757973671936",
+              "start": 16,
+              "url": "https://t.co/RL3KcOz2Sg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904506766337130761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 5446,
+          "like_count": 531,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "ボクが雛見沢を案内するのですよ https://t.co/RL3KcOz2Sg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一休学ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州/杭州/衢州/沈阳📍┃没有什么突出的爱好，是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃fo不fo无所谓能看一眼我就很开心了🥺┃🚪25┃叫我小风🎐┃是妹妹也是恋人@xinxia_mtf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "xinxia_mtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJVZU"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "夏夏怀里",
+        "name": "Starrynight風阁",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 3591,
+          "like_count": 107532,
+          "listed_count": 7,
+          "media_count": 525,
+          "tweet_count": 3507
+        },
+        "url": "https://t.co/EmFCvLJVZU",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-06T12:30:57.000Z",
+        "description": "関東在住のレイヤー兼絵描き。￤162cm￤加工してます。撮影地許可済。ひぐらし、聖地巡礼、懐かしい作品が好き。┃撮影写真はDMにお願いします。無断使用・SNS掲載禁止。┃▼リンク集⇢ https://t.co/I5Mk17aq3e ▼日常⇢ @mrpgRand__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 121,
+                "username": "mrpgRand__"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/565P8",
+                "end": 115,
+                "expanded_url": "https://x.gd/565P8",
+                "start": 92,
+                "url": "https://t.co/I5Mk17aq3e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mrpg_cos?igshi…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/mrpg_cos?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/RBpS5wpKf6"
+              }
+            ]
+          }
+        },
+        "id": "706457034967748608",
+        "location": "※相互様、ご用件以外のDMのご返信は出来かねます",
+        "name": "森田ぴぐ@ニコ超両日",
+        "pinned_tweet_id": "1875875522884120786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1513730358734618629/Ra2oaODV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24928,
+          "following_count": 296,
+          "like_count": 179309,
+          "listed_count": 142,
+          "media_count": 3408,
+          "tweet_count": 122709
+        },
+        "url": "https://t.co/RBpS5wpKf6",
+        "username": "mrpg_0824",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037180086139703296"
+      ],
+      "media_source_tweet_id": [
+        "2037180088551350484"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2037745761581146497",
+    "created_at": "2026-03-28T04:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T05:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037745761581146497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2496208164",
+          "start": 3,
+          "username": "AJIE0417"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/246Z9eCq6f",
+          "end": 122,
+          "expanded_url": "https://x.com/AJIE0417/status/2037180088551350484/photo/1",
+          "media_key": "3_2037180086139703296",
+          "start": 99,
+          "url": "https://t.co/246Z9eCq6f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037745761581146497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 206
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037180088551350484",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AJIE0417: 算是分享一件趣事，数位板因为使用的时间很长，中间被笔抛光的像镜子一样可以反射电脑屏幕的画面了。然后突发奇想试了一下，结果得到了这样氛围感的照片，某种意义上的电子梦境感。 https://t.co/246Z9eCq6f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 891,
+        "media_key": "3_2037180086139703296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWEfrHbUAAh4ml.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037180086139703296"
+          ],
+          "media_source_tweet_id": [
+            "2037180088551350484"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2037745761581146497",
+        "created_at": "2026-03-28T04:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T05:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037745761581146497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2496208164",
+              "start": 3,
+              "username": "AJIE0417"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/246Z9eCq6f",
+              "end": 122,
+              "expanded_url": "https://x.com/AJIE0417/status/2037180088551350484/photo/1",
+              "media_key": "3_2037180086139703296",
+              "start": 99,
+              "url": "https://t.co/246Z9eCq6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037745761581146497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 206
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037180088551350484",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AJIE0417: 算是分享一件趣事，数位板因为使用的时间很长，中间被笔抛光的像镜子一样可以反射电脑屏幕的画面了。然后突发奇想试了一下，结果得到了这样氛围感的照片，某种意义上的电子梦境感。 https://t.co/246Z9eCq6f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037180086139703296"
+          ]
+        },
+        "author_id": "2496208164",
+        "conversation_id": "2037180088551350484",
+        "created_at": "2026-03-26T14:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T15:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037180088551350484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/246Z9eCq6f",
+              "end": 108,
+              "expanded_url": "https://x.com/AJIE0417/status/2037180088551350484/photo/1",
+              "media_key": "3_2037180086139703296",
+              "start": 85,
+              "url": "https://t.co/246Z9eCq6f"
+            },
+            {
+              "display_url": "x.com/AJIE0417/statu…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/AJIE0417/status/2036646321831235847",
+              "start": 109,
+              "url": "https://t.co/sK5ha7QNxP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037180088551350484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 59408,
+          "like_count": 2476,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 206
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036646321831235847",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "算是分享一件趣事，数位板因为使用的时间很长，中间被笔抛光的像镜子一样可以反射电脑屏幕的画面了。然后突发奇想试了一下，结果得到了这样氛围感的照片，某种意义上的电子梦境感。 https://t.co/246Z9eCq6f https://t.co/sK5ha7QNxP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1892,
+          "following_count": 4381,
+          "like_count": 147693,
+          "listed_count": 3,
+          "media_count": 1247,
+          "tweet_count": 5661
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-15T11:57:07.000Z",
+        "description": "无授权转载禁止，AI🚫\n更新时间随性，基本全是百合",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "touch.pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://touch.pixiv.net/member.php?id=7320584",
+                "start": 0,
+                "url": "https://t.co/Qd6gZZPMsI"
+              }
+            ]
+          }
+        },
+        "id": "2496208164",
+        "name": "AJIE羯",
+        "pinned_tweet_id": "2036646321831235847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634117746278674432/rrArYVui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2859,
+          "following_count": 175,
+          "like_count": 5058,
+          "listed_count": 17,
+          "media_count": 572,
+          "tweet_count": 2644
+        },
+        "url": "https://t.co/Qd6gZZPMsI",
+        "username": "AJIE0417",
+        "verified": false
+      }
+    ]
+  }
+}

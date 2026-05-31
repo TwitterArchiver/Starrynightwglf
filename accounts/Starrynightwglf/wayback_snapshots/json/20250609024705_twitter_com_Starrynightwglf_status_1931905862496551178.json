@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1931894631366803729",
+    "created_at": "2025-06-09T02:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T03:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931905862496551178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "282522910",
+          "start": 0,
+          "username": "passluo"
+        },
+        {
+          "end": 22,
+          "id": "20484009",
+          "start": 9,
+          "username": "river_leaves"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931905862496551178",
+    "in_reply_to_user_id": "282522910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931895511680012737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@passluo @river_leaves 信息技术通用技术，好像只有浙江考这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1931894631366803729",
+        "created_at": "2025-06-09T02:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T03:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931905862496551178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "282522910",
+              "start": 0,
+              "username": "passluo"
+            },
+            {
+              "end": 22,
+              "id": "20484009",
+              "start": 9,
+              "username": "river_leaves"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931905862496551178",
+        "in_reply_to_user_id": "282522910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931895511680012737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@passluo @river_leaves 信息技术通用技术，好像只有浙江考这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "282522910",
+        "conversation_id": "1931894631366803729",
+        "created_at": "2025-06-09T02:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T03:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931895511680012737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "20484009",
+              "start": 0,
+              "username": "river_leaves"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931895511680012737",
+        "in_reply_to_user_id": "20484009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 239,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931895053775184251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@river_leaves 技术是啥？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一休学ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州/杭州/衢州/沈阳📍┃是不太有趣的人🤷‍♀️┃没有立场🙅‍♀┃能多在意我一点点吗🥺┃🚪25┃叫我小风🎐┃妹妹也是恋人@xinxia_mtf┃别离开我好吗好的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 111,
+                "username": "xinxia_mtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJoam"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "夏夏怀里",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 3764,
+          "like_count": 115097,
+          "listed_count": 6,
+          "media_count": 586,
+          "tweet_count": 3685
+        },
+        "url": "https://t.co/EmFCvLJoam",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-15T11:10:43.000Z",
+        "description": "在所有文化中，对地狱的描述都是重复。",
+        "id": "282522910",
+        "name": "𝙋𝙖𝙨𝙨𝙡𝙪𝙤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597030973161422848/JrgJ5kiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45870,
+          "following_count": 1396,
+          "like_count": 29923,
+          "listed_count": 248,
+          "media_count": 1763,
+          "tweet_count": 21480
+        },
+        "username": "passluo",
+        "verified": true
+      },
+      {
+        "created_at": "2009-02-10T01:28:58.000Z",
+        "description": "会写代码和下厨的产品经理/文理法工农医",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.lishun.me",
+                "end": 23,
+                "expanded_url": "https://blog.lishun.me",
+                "start": 0,
+                "url": "https://t.co/9oPAY4QfuZ"
+              }
+            ]
+          }
+        },
+        "id": "20484009",
+        "location": "Earth",
+        "name": "River Leaves",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596851019316572160/lJmC6W-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24403,
+          "following_count": 1177,
+          "like_count": 19032,
+          "listed_count": 211,
+          "media_count": 1504,
+          "tweet_count": 24384
+        },
+        "url": "https://t.co/9oPAY4QfuZ",
+        "username": "river_leaves",
+        "verified": false
+      }
+    ]
+  }
+}

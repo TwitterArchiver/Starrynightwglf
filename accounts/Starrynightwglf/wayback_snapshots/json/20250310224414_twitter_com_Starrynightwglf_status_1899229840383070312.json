@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1898956407984246915",
+    "created_at": "2025-03-10T22:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T23:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899229840383070312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761036841330053120",
+          "start": 0,
+          "username": "Hoshiju_Sei"
+        },
+        {
+          "end": 24,
+          "id": "1526938197951131648",
+          "start": 13,
+          "username": "xinxia_mtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899229840383070312",
+    "in_reply_to_user_id": "1761036841330053120",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899113730585305333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshiju_Sei @xinxia_mtf ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1898956407984246915",
+        "created_at": "2025-03-10T22:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T23:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899229840383070312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761036841330053120",
+              "start": 0,
+              "username": "Hoshiju_Sei"
+            },
+            {
+              "end": 24,
+              "id": "1526938197951131648",
+              "start": 13,
+              "username": "xinxia_mtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899229840383070312",
+        "in_reply_to_user_id": "1761036841330053120",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899113730585305333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshiju_Sei @xinxia_mtf ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761036841330053120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1898956407984246915",
+        "created_at": "2025-03-10T15:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T16:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899113730585305333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1526938197951131648",
+              "start": 0,
+              "username": "xinxia_mtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899113730585305333",
+        "in_reply_to_user_id": "1526938197951131648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898956407984246915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinxia_mtf 盗了（doge）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一休学ing🏫┃🏳️‍⚧🍥mtf小证含糖┃坐标郑州/杭州/衢州/沈阳📍┃没有什么突出的爱好，是不太有趣的人🤷‍♀️┃没有立场，不喜欢建政🙅‍♀┃fo不fo无所谓能看一眼我就很开心了🥺┃🚪25┃叫我小风🎐┃是妹妹也是恋人@xinxia_mtf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 137,
+                "username": "xinxia_mtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJVZU"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "夏夏怀里",
+        "name": "Starrynight風阁🍥",
+        "pinned_tweet_id": "1871842409329684661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 3543,
+          "like_count": 103924,
+          "listed_count": 7,
+          "media_count": 521,
+          "tweet_count": 3472
+        },
+        "url": "https://t.co/EmFCvLJVZU",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T14:34:48.000Z",
+        "description": "07年高中生👦/INTJ☕️/身高173/友跨顺性别者/账号信息在扩展简介（点击“查看更多”来查看）/目前没有任何形式的粉丝群，且仅在小红书和抖音/X上活跃，约泡的和找我援交的赶紧滚啊！最好的兄弟@yotaru1226 和妹妹@xinxia_mtf（人称代词it/its/he）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 98,
+                "username": "yotaru1226"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "xinxia_mtf"
+              }
+            ]
+          }
+        },
+        "id": "1761036841330053120",
+        "location": "2025深圳蔚蓝档案Only",
+        "name": "星拾齐（馨夏夏特殊版）",
+        "pinned_tweet_id": "1893122980068413917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899113876400332800/CBop59oZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 33,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 214
+        },
+        "username": "Hoshiju_Sei",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-18T14:50:21.000Z",
+        "description": "07年/身高165/INFP/持证含糖mtf/第二次HRT：23.9.10/妈妈意外变成家长党/音游人/推文当日记发（一些和对象的日常）/魔怔小药娘/想跟xyn互fo贴贴（没回fo可能是没看见)/最好的姐姐兼恋人: @Starrynightwglf /🚪30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 108,
+                "username": "Starrynightwglf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xinxia90268",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xinxia90268",
+                "start": 0,
+                "url": "https://t.co/vMsqLwqjNV"
+              }
+            ]
+          }
+        },
+        "id": "1526938197951131648",
+        "location": "小风怀里",
+        "name": "馨夏夏",
+        "pinned_tweet_id": "1871838248030671333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898947809514242048/m6eXmu55_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6675,
+          "following_count": 1653,
+          "like_count": 7178,
+          "listed_count": 17,
+          "media_count": 267,
+          "tweet_count": 2877
+        },
+        "url": "https://t.co/vMsqLwqjNV",
+        "username": "xinxia_mtf",
+        "verified": false
+      }
+    ]
+  }
+}

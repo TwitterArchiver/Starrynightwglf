@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2006568121633579217",
+    "created_at": "2026-01-01T03:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T04:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006570268043698200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1666558312949710854",
+          "start": 0,
+          "username": "cc_OvOzZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006570268043698200",
+    "in_reply_to_user_id": "1666558312949710854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006568121633579217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cc_OvOzZZ 25年最后一顿是粉面菜蛋加了根肠🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2006568121633579217",
+        "created_at": "2026-01-01T03:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T04:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006570268043698200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1666558312949710854",
+              "start": 0,
+              "username": "cc_OvOzZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006570268043698200",
+        "in_reply_to_user_id": "1666558312949710854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006568121633579217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cc_OvOzZZ 25年最后一顿是粉面菜蛋加了根肠🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666558312949710854",
+        "conversation_id": "2006568121633579217",
+        "created_at": "2026-01-01T03:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T04:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006568121633579217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006568121633579217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨年只吃了一包方便面加了个鸡蛋 2026对自己好点行吗😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "",
+        "id": "1563508655256850433",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1662,
+          "following_count": 4046,
+          "like_count": 122791,
+          "listed_count": 5,
+          "media_count": 842,
+          "tweet_count": 4382
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-07T21:31:11.000Z",
+        "description": "",
+        "id": "1666558312949710854",
+        "name": "辰辰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974158921406238720/zQJ1435D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 596,
+          "like_count": 8113,
+          "listed_count": 10,
+          "media_count": 285,
+          "tweet_count": 2096
+        },
+        "username": "cc_OvOzZZ",
+        "verified": false
+      }
+    ]
+  }
+}

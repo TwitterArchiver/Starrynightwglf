@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053349532608733184"
+      ],
+      "media_source_tweet_id": [
+        "2053349543958425813"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2053415731098964076",
+    "created_at": "2026-05-10T10:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053415731098964076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1858186854526562304",
+          "start": 3,
+          "username": "meiyujijie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tT6Krh6DXR",
+          "end": 67,
+          "expanded_url": "https://x.com/meiyujijie/status/2053349543958425813/photo/1",
+          "media_key": "3_2053349532608733184",
+          "start": 44,
+          "url": "https://t.co/tT6Krh6DXR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053415731098964076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053349543958425813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meiyujijie: 今天母亲节和妈妈出来玩了\n我妈：这个节给你过吧你比我母 https://t.co/tT6Krh6DXR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2053349532608733184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH72hVLboAAZ9MC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053349532608733184"
+          ],
+          "media_source_tweet_id": [
+            "2053349543958425813"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2053415731098964076",
+        "created_at": "2026-05-10T10:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053415731098964076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1858186854526562304",
+              "start": 3,
+              "username": "meiyujijie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tT6Krh6DXR",
+              "end": 67,
+              "expanded_url": "https://x.com/meiyujijie/status/2053349543958425813/photo/1",
+              "media_key": "3_2053349532608733184",
+              "start": 44,
+              "url": "https://t.co/tT6Krh6DXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053415731098964076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053349543958425813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meiyujijie: 今天母亲节和妈妈出来玩了\n我妈：这个节给你过吧你比我母 https://t.co/tT6Krh6DXR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053349532608733184"
+          ]
+        },
+        "author_id": "1858186854526562304",
+        "conversation_id": "2053349543958425813",
+        "created_at": "2026-05-10T05:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053349543958425813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tT6Krh6DXR",
+              "end": 51,
+              "expanded_url": "https://x.com/meiyujijie/status/2053349543958425813/photo/1",
+              "media_key": "3_2053349532608733184",
+              "start": 28,
+              "url": "https://t.co/tT6Krh6DXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053349543958425813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5146,
+          "like_count": 186,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "今天母亲节和妈妈出来玩了\n我妈：这个节给你过吧你比我母 https://t.co/tT6Krh6DXR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2065,
+          "following_count": 4534,
+          "like_count": 155881,
+          "listed_count": 5,
+          "media_count": 1405,
+          "tweet_count": 6283
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T16:34:14.000Z",
+        "description": "是一颗仙人球",
+        "id": "1858186854526562304",
+        "name": "何六诚",
+        "pinned_tweet_id": "1892435541817257985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004432853254524931/PltAt9t5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88479,
+          "following_count": 128,
+          "like_count": 1681,
+          "listed_count": 200,
+          "media_count": 347,
+          "tweet_count": 746
+        },
+        "username": "meiyujijie",
+        "verified": false
+      }
+    ]
+  }
+}

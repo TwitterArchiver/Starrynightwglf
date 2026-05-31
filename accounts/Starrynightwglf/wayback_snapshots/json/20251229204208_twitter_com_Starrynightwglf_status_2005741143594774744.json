@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2005741143594774744",
+    "created_at": "2025-12-29T20:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T21:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005741143594774744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DAIIIYUUUUU/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/DAIIIYUUUUU/status/2005266323992084613",
+          "start": 5,
+          "url": "https://t.co/UZD4q4WI3C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005741143594774744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005266323992084613",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是活该的 https://t.co/UZD4q4WI3C"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2005741143594774744",
+        "created_at": "2025-12-29T20:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T21:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005741143594774744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DAIIIYUUUUU/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/DAIIIYUUUUU/status/2005266323992084613",
+              "start": 5,
+              "url": "https://t.co/UZD4q4WI3C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005741143594774744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005266323992084613",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是活该的 https://t.co/UZD4q4WI3C"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883814771935649792",
+        "conversation_id": "2005266323992084613",
+        "created_at": "2025-12-28T13:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T14:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005266323992084613"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005266323992084613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 174038,
+          "like_count": 1263,
+          "quote_count": 30,
+          "reply_count": 127,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "回避型没人爱是应该的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "🍥₍^˶-𖥦-˵^₎੭ 06 ​ ​ 💞\n\n@miaomiaoxxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "miaomiaoxxia"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1658,
+          "following_count": 4040,
+          "like_count": 122312,
+          "listed_count": 5,
+          "media_count": 834,
+          "tweet_count": 4361
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T09:50:27.000Z",
+        "description": "@DAIYUSHIHUANGDI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "DAIYUSHIHUANGDI"
+              }
+            ]
+          }
+        },
+        "id": "1883814771935649792",
+        "name": "黛黛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883817274693603328/z3iNfna2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9041,
+          "following_count": 2,
+          "like_count": 2259,
+          "listed_count": 20,
+          "media_count": 71,
+          "tweet_count": 560
+        },
+        "username": "DAIIIYUUUUU",
+        "verified": false
+      }
+    ]
+  }
+}

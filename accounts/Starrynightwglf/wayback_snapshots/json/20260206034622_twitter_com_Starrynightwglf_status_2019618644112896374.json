@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019618640585453570"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2019573704347513012",
+    "created_at": "2026-02-06T03:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T04:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019618644112896374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1488080791125237760",
+          "start": 0,
+          "username": "MengXi969"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FQBW7slAbB",
+          "end": 43,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2019618644112896374/photo/1",
+          "media_key": "3_2019618640585453570",
+          "start": 20,
+          "url": "https://t.co/FQBW7slAbB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019618644112896374",
+    "in_reply_to_user_id": "1488080791125237760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019573704347513012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MengXi969 服务器卡爆了呜呜 https://t.co/FQBW7slAbB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2670,
+        "media_key": "3_2019618640585453570",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAcgdAXacAIsWDF.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019573701663158273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAb3lN1acAE9iJ_.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019618640585453570"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2019573704347513012",
+        "created_at": "2026-02-06T03:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T04:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019618644112896374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1488080791125237760",
+              "start": 0,
+              "username": "MengXi969"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FQBW7slAbB",
+              "end": 43,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2019618644112896374/photo/1",
+              "media_key": "3_2019618640585453570",
+              "start": 20,
+              "url": "https://t.co/FQBW7slAbB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019618644112896374",
+        "in_reply_to_user_id": "1488080791125237760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019573704347513012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MengXi969 服务器卡爆了呜呜 https://t.co/FQBW7slAbB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019573701663158273"
+          ]
+        },
+        "author_id": "1488080791125237760",
+        "conversation_id": "2019573704347513012",
+        "created_at": "2026-02-06T00:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T01:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019573704347513012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HPmFjl6kRC",
+              "end": 92,
+              "expanded_url": "https://x.com/MengXi969/status/2019573704347513012/photo/1",
+              "media_key": "3_2019573701663158273",
+              "start": 69,
+              "url": "https://t.co/HPmFjl6kRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019573704347513012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 168,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "千问送奶茶了，邀请好友还可以再领一杯\n【千问】送你一张奶茶免单卡！简单三步：复制口令，打开千问App，马上领取！,60463AR7Ai, https://t.co/HPmFjl6kRC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763,
+          "following_count": 4200,
+          "like_count": 131256,
+          "listed_count": 6,
+          "media_count": 977,
+          "tweet_count": 4765
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "15 y.r. / Full-Stack / CTFer / Student / @ch3rryzhu\n\n👀 Work for @nexaorion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "ch3rryzhu"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "nexaorion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/TIHBlJvfMd"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "location": "People's Republic of China",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1971529195089166440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2005,
+          "following_count": 2861,
+          "like_count": 79822,
+          "listed_count": 6,
+          "media_count": 930,
+          "tweet_count": 5568
+        },
+        "url": "https://t.co/TIHBlJvfMd",
+        "username": "MengXi969",
+        "verified": true
+      }
+    ]
+  }
+}

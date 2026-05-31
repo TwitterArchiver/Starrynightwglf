@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2026581629582627009",
+    "created_at": "2026-02-25T08:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T09:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026581629582627009"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0TwT012/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/0TwT012/status/2026226955516068152",
+          "start": 9,
+          "url": "https://t.co/wqboWVFRg0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026581629582627009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026226955516068152",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "买一送一赚大啦😋 https://t.co/wqboWVFRg0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2026581629582627009",
+        "created_at": "2026-02-25T08:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T09:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026581629582627009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0TwT012/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/0TwT012/status/2026226955516068152",
+              "start": 9,
+              "url": "https://t.co/wqboWVFRg0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026581629582627009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026226955516068152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "买一送一赚大啦😋 https://t.co/wqboWVFRg0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2026226955516068152",
+        "created_at": "2026-02-24T09:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T10:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026226955516068152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026226955516068152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 18480,
+          "like_count": 681,
+          "quote_count": 11,
+          "reply_count": 14,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "抑郁症和焦虑症就像一对夫妻一样，买一送一"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1810,
+          "following_count": 4265,
+          "like_count": 137332,
+          "listed_count": 3,
+          "media_count": 1055,
+          "tweet_count": 5037
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 会互fo感兴趣的人—你喜欢我我喜欢你//讨厌没有礼貌的人",
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 223,
+          "like_count": 387,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 347
+        },
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1853662142202851332",
+    "created_at": "2024-11-05T05:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-05T06:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853670159640375571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1776506115112718336",
+          "start": 0,
+          "username": "xiaosanjiu520"
+        }
+      ],
+      "urls": [
+        {
+          "description": "该网站提供了最新、完整的Emoji搜索和相关信息，包括表情符号含义、使用示例、Unicode代码点、高分辨率图片、复制和粘贴，以及Emoji大数据排名、矢量图形和动态图表、智能算法情感分析和表情符号语言学研究。",
+          "display_url": "emojiall.com/zh-hans",
+          "end": 54,
+          "expanded_url": "https://www.emojiall.com/zh-hans",
+          "images": [
+            {
+              "height": 300,
+              "url": "https://pbs.twimg.com/news_img/1853078016714211328/x0oZ96Fx?format=png&name=orig",
+              "width": 560
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1853078016714211328/x0oZ96Fx?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 31,
+          "status": 200,
+          "title": "Emoji大全 | Emoji表情符号词典 | EmojiAll中文官方网站",
+          "unwound_url": "https://www.emojiall.com/zh-hans",
+          "url": "https://t.co/F9QlW6r4cb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853670159640375571",
+    "in_reply_to_user_id": "1776506115112718336",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853662142202851332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaosanjiu520 我也是，所以剪贴板里复制了好多\nhttps://t.co/F9QlW6r4cb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1853662142202851332",
+        "created_at": "2024-11-05T05:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T06:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853670159640375571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1776506115112718336",
+              "start": 0,
+              "username": "xiaosanjiu520"
+            }
+          ],
+          "urls": [
+            {
+              "description": "该网站提供了最新、完整的Emoji搜索和相关信息，包括表情符号含义、使用示例、Unicode代码点、高分辨率图片、复制和粘贴，以及Emoji大数据排名、矢量图形和动态图表、智能算法情感分析和表情符号语言学研究。",
+              "display_url": "emojiall.com/zh-hans",
+              "end": 54,
+              "expanded_url": "https://www.emojiall.com/zh-hans",
+              "images": [
+                {
+                  "height": 300,
+                  "url": "https://pbs.twimg.com/news_img/1853078016714211328/x0oZ96Fx?format=png&name=orig",
+                  "width": 560
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1853078016714211328/x0oZ96Fx?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 31,
+              "status": 200,
+              "title": "Emoji大全 | Emoji表情符号词典 | EmojiAll中文官方网站",
+              "unwound_url": "https://www.emojiall.com/zh-hans",
+              "url": "https://t.co/F9QlW6r4cb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853670159640375571",
+        "in_reply_to_user_id": "1776506115112718336",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853662142202851332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaosanjiu520 我也是，所以剪贴板里复制了好多\nhttps://t.co/F9QlW6r4cb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776506115112718336",
+        "conversation_id": "1853662142202851332",
+        "created_at": "2024-11-05T04:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T05:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853662142202851332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1853662142202851332",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么你们能打出这个emoji🥹\n而我不能\n没有，全没有，找不到！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一ing🏫┃🏳️‍⚧🍥无证😭┃坐标郑州📍┃没有什么突出的爱好，是个不太有趣的人🤷‍♀️┃不在乎立场，也不喜欢建政🙅‍♀┃欢迎互fo喵🥺（只是中推小透明，fo不fo都无所谓啦，能一眼我就很开心了）┃高强度刷推😁┃点赞是手干的，不是我干的😗┃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qaqaqaqaqaqaqaqaqaq.net",
+                "end": 23,
+                "expanded_url": "http://qaqaqaqaqaqaqaqaqaq.net",
+                "start": 0,
+                "url": "https://t.co/h3pADwksQy"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "无何有",
+        "name": "Starrynight風阁🍥",
+        "pinned_tweet_id": "1847670974730350853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840001644190412801/y2jbIt1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 2949,
+          "like_count": 26316,
+          "listed_count": 0,
+          "tweet_count": 1614
+        },
+        "url": "https://t.co/h3pADwksQy",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T07:04:09.000Z",
+        "description": "爱人先爱己，择人先问心.\n                                           偶尔发一些梗图！\n先輩：@jiangchun8357\n              碧蓝档案 /原神 /崩坏星穹铁道    互fo（看成分）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 68,
+                "username": "jiangchun8357"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/nanazi…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/nanazi520.bsky.social",
+                "start": 0,
+                "url": "https://t.co/nJZsCmvcwF"
+              }
+            ]
+          }
+        },
+        "id": "1776506115112718336",
+        "location": "    什亭之匣",
+        "name": "ナナコ.",
+        "pinned_tweet_id": "1846478802035372259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852145140183502848/gue4oi_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 441,
+          "like_count": 4271,
+          "listed_count": 1,
+          "tweet_count": 2490
+        },
+        "url": "https://t.co/nJZsCmvcwF",
+        "username": "xiaosanjiu520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059232478871834624"
+      ],
+      "media_source_tweet_id": [
+        "2059232494063620434"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sociology",
+          "id": "1088163371365482496",
+          "name": "Sociology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2059489513710506199",
+    "created_at": "2026-05-27T04:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059489513710506199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1965448764686303235",
+          "start": 3,
+          "username": "mio_negimeow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3DVbyyJEQS",
+          "end": 87,
+          "expanded_url": "https://x.com/mio_negimeow/status/2059232494063620434/photo/1",
+          "media_key": "3_2059232478871834624",
+          "start": 64,
+          "url": "https://t.co/3DVbyyJEQS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059489513710506199",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059232494063620434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mio_negimeow: 我来煽动下网暴🤣\n还有\n要是不想被这种人嚼舌根还没法痛痛快快的骂回去\n那就都给我好好活着！ https://t.co/3DVbyyJEQS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059232478871834624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPdB30aUAAVIkj.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059232478871834624"
+          ],
+          "media_source_tweet_id": [
+            "2059232494063620434"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sociology",
+              "id": "1088163371365482496",
+              "name": "Sociology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2059489513710506199",
+        "created_at": "2026-05-27T04:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059489513710506199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1965448764686303235",
+              "start": 3,
+              "username": "mio_negimeow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3DVbyyJEQS",
+              "end": 87,
+              "expanded_url": "https://x.com/mio_negimeow/status/2059232494063620434/photo/1",
+              "media_key": "3_2059232478871834624",
+              "start": 64,
+              "url": "https://t.co/3DVbyyJEQS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059489513710506199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059232494063620434",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mio_negimeow: 我来煽动下网暴🤣\n还有\n要是不想被这种人嚼舌根还没法痛痛快快的骂回去\n那就都给我好好活着！ https://t.co/3DVbyyJEQS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059232478871834624"
+          ]
+        },
+        "author_id": "1965448764686303235",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sociology",
+              "id": "1088163371365482496",
+              "name": "Sociology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2059232494063620434",
+        "created_at": "2026-05-26T11:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059232494063620434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3DVbyyJEQS",
+              "end": 69,
+              "expanded_url": "https://x.com/mio_negimeow/status/2059232494063620434/photo/1",
+              "media_key": "3_2059232478871834624",
+              "start": 46,
+              "url": "https://t.co/3DVbyyJEQS"
+            },
+            {
+              "display_url": "x.com/mio_negimeow/s…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/mio_negimeow/status/2059219870852788272",
+              "start": 70,
+              "url": "https://t.co/yLufKtzLUC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059232494063620434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 489,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059219870852788272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我来煽动下网暴🤣\n还有\n要是不想被这种人嚼舌根还没法痛痛快快的骂回去\n那就都给我好好活着！ https://t.co/3DVbyyJEQS https://t.co/yLufKtzLUC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 4625,
+          "like_count": 160189,
+          "listed_count": 5,
+          "media_count": 1497,
+          "tweet_count": 6575
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T16:14:58.000Z",
+        "description": "aka. Snowmiku❄️｜姛｜Feminist ｜喜欢探索世界的理工女 ｜ 日常碎碎念  |  是什么呢？顾名思义是一只葱，那为什么是酱葱呢，因为葱酱很可爱！（无端//）",
+        "id": "1965448764686303235",
+        "name": "酱葱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993376877587972104/nec22BPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 72,
+          "like_count": 891,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 493
+        },
+        "username": "mio_negimeow",
+        "verified": false
+      }
+    ]
+  }
+}

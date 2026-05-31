@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2035361482758861253",
+    "created_at": "2026-03-21T14:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T15:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035361482758861253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "829603366154051584",
+          "start": 3,
+          "username": "mayajoss1"
+        },
+        {
+          "end": 28,
+          "id": "2893510872",
+          "start": 15,
+          "username": "Hayami_kiraa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035361482758861253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035336376414040559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mayajoss1: @Hayami_kiraa 我用我的猪肘子稳稳的把你接住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2035361482758861253",
+        "created_at": "2026-03-21T14:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T15:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035361482758861253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "829603366154051584",
+              "start": 3,
+              "username": "mayajoss1"
+            },
+            {
+              "end": 28,
+              "id": "2893510872",
+              "start": 15,
+              "username": "Hayami_kiraa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035361482758861253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035336376414040559",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mayajoss1: @Hayami_kiraa 我用我的猪肘子稳稳的把你接住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "829603366154051584",
+        "conversation_id": "2035318199021928951",
+        "created_at": "2026-03-21T12:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T13:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035336376414040559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2893510872",
+              "start": 0,
+              "username": "Hayami_kiraa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035336376414040559",
+        "in_reply_to_user_id": "2893510872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3447,
+          "like_count": 145,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035318199021928951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hayami_kiraa 我用我的猪肘子稳稳的把你接住"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1878,
+          "following_count": 4354,
+          "like_count": 145772,
+          "listed_count": 3,
+          "media_count": 1201,
+          "tweet_count": 5513
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-09T08:10:30.000Z",
+        "description": "千金易得，知己难寻；春华有尽，英雄无归。\nGold easy found\nFriend hard seek; \nSpring must fade\nHero never back.",
+        "id": "829603366154051584",
+        "location": "Kallithea, Greece",
+        "name": "Mayajoss 'Swift' Min🎻🇬🇷",
+        "pinned_tweet_id": "2033442283706540472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928670726208270337/UVLjX7tW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 123,
+          "like_count": 5983,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 4370
+        },
+        "username": "mayajoss1",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-08T08:13:17.000Z",
+        "description": "🇨🇳-🇩🇪 Shanghai - Berlin｜AI Builder｜ex Product manager Temu & Tiktok｜Content Creator｜IG：hayami_kiraa｜Tele：https://t.co/KoSOVOQSgX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hayami_kiraa",
+                "end": 128,
+                "expanded_url": "http://t.me/hayami_kiraa",
+                "start": 105,
+                "url": "https://t.co/KoSOVOQSgX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hayami.typlog.io",
+                "end": 23,
+                "expanded_url": "https://hayami.typlog.io",
+                "start": 0,
+                "url": "https://t.co/IrU2I5EGQP"
+              }
+            ]
+          }
+        },
+        "id": "2893510872",
+        "location": "Berlin",
+        "name": "早见Hayami",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1278520167060783105/hmseAOTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40759,
+          "following_count": 980,
+          "like_count": 406,
+          "listed_count": 254,
+          "media_count": 1282,
+          "tweet_count": 3382
+        },
+        "url": "https://t.co/IrU2I5EGQP",
+        "username": "Hayami_kiraa",
+        "verified": true
+      }
+    ]
+  }
+}

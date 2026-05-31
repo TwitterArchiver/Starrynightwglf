@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2010295389220651376",
+    "created_at": "2026-01-11T10:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T11:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010295511610524065"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010295511610524065",
+    "in_reply_to_user_id": "1563508655256850433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 14,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010295389220651376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下个星期..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2010295389220651376",
+        "created_at": "2026-01-11T10:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T11:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010295511610524065"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010295511610524065",
+        "in_reply_to_user_id": "1563508655256850433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010295389220651376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下个星期..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2010295389220651376",
+        "created_at": "2026-01-11T10:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T11:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010295389220651376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Starrynightwgl…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/Starrynightwglf/status/2010293454899941885",
+              "start": 84,
+              "url": "https://t.co/2WdlsHaZmj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010295389220651376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010293454899941885",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下个学期期末考试想交白卷了，啥也不会\n平时考试也不会做，数学作业从跟不上开始就没交过了 平时分也没有，怎么考都是挂\n算下来这个学期丢了18个学分，重修要交1800块😌 https://t.co/2WdlsHaZmj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 4098,
+          "like_count": 125242,
+          "listed_count": 5,
+          "media_count": 880,
+          "tweet_count": 4500
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

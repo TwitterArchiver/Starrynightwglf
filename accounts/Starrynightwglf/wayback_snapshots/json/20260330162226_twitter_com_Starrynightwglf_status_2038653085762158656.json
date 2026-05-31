@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2038653085762158656",
+    "created_at": "2026-03-30T16:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T17:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038653085762158656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "828947309874417664",
+          "start": 3,
+          "username": "AsagiriMayumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038653085762158656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038640038393618556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsagiriMayumi: 最近看到一些互关离开，真的很难过。\n只是我也想轻轻提醒一件事：\n在一个彼此熟悉、情绪共鸣很强的圈子里，当有人离开时，确实可能对其他正在痛苦中的人产生放大影响。不是因为谁“带坏了谁”，而是人在脆弱时，会更容易被周围的情绪裹挟，这就是心理学常说…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2038653085762158656",
+        "created_at": "2026-03-30T16:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038653085762158656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "828947309874417664",
+              "start": 3,
+              "username": "AsagiriMayumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038653085762158656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038640038393618556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsagiriMayumi: 最近看到一些互关离开，真的很难过。\n只是我也想轻轻提醒一件事：\n在一个彼此熟悉、情绪共鸣很强的圈子里，当有人离开时，确实可能对其他正在痛苦中的人产生放大影响。不是因为谁“带坏了谁”，而是人在脆弱时，会更容易被周围的情绪裹挟，这就是心理学常说…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "828947309874417664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2038640038393618556",
+        "created_at": "2026-03-30T15:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038640038393618556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038640038393618556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 215,
+                "start": 202,
+                "tag": "mentalhealth"
+              },
+              {
+                "end": 222,
+                "start": 216,
+                "tag": "照顾好自己"
+              },
+              {
+                "end": 232,
+                "start": 223,
+                "tag": "takecare"
+              },
+              {
+                "end": 240,
+                "start": 233,
+                "tag": "你不是一个人"
+              }
+            ]
+          },
+          "text": "最近看到一些互关离开，真的很难过。\n只是我也想轻轻提醒一件事：\n在一个彼此熟悉、情绪共鸣很强的圈子里，当有人离开时，确实可能对其他正在痛苦中的人产生放大影响。不是因为谁“带坏了谁”，而是人在脆弱时，会更容易被周围的情绪裹挟，这就是心理学常说的“维特效应”。\n如果你最近也在被这些内容反复触动，甚至感觉更难受了，\n或许可以考虑暂时离开一会儿，保护一下自己。\n你比任何信息流都重要\n你不需要一个人承受这些。\n#mentalhealth #照顾好自己 #takecare #你不是一个人"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 141,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最近看到一些互关离开，真的很难过。\n只是我也想轻轻提醒一件事：\n在一个彼此熟悉、情绪共鸣很强的圈子里，当有人离开时，确实可能对其他正在痛苦中的人产生放大影响。不是因为谁“带坏了谁”，而是人在脆弱时，会更容易被周围的情绪裹挟，这就是心理学常说的“维特效应”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 4382,
+          "like_count": 148414,
+          "listed_count": 3,
+          "media_count": 1257,
+          "tweet_count": 5702
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-07T12:43:34.000Z",
+        "description": "我与你感同身受",
+        "id": "828947309874417664",
+        "location": " Deutschland",
+        "name": "NuclearCake",
+        "pinned_tweet_id": "2027752059110400312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945441303694647296/HjOatkbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 604,
+          "like_count": 2328,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 2110
+        },
+        "username": "AsagiriMayumi",
+        "verified": true
+      }
+    ]
+  }
+}

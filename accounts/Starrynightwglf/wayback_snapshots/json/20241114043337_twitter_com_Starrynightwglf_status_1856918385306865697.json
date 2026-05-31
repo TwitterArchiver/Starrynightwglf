@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1856901784725590149",
+    "created_at": "2024-11-14T04:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T05:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856918385306865697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1676161442980982784",
+          "start": 0,
+          "username": "MephiSprt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Starrynightwgl…",
+          "end": 36,
+          "expanded_url": "https://x.com/Starrynightwglf/status/1856727364425896394?t=_z2LL2TScMBv1OYSk0Cjig&s=19",
+          "start": 13,
+          "url": "https://t.co/cO72h7sDJW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856918385306865697",
+    "in_reply_to_user_id": "1676161442980982784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856727364425896394",
+        "type": "quoted"
+      },
+      {
+        "id": "1856901784725590149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MephiSprt 喵\nhttps://t.co/cO72h7sDJW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1856901784725590149",
+        "created_at": "2024-11-14T04:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T05:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856918385306865697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1676161442980982784",
+              "start": 0,
+              "username": "MephiSprt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Starrynightwgl…",
+              "end": 36,
+              "expanded_url": "https://x.com/Starrynightwglf/status/1856727364425896394?t=_z2LL2TScMBv1OYSk0Cjig&s=19",
+              "start": 13,
+              "url": "https://t.co/cO72h7sDJW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856918385306865697",
+        "in_reply_to_user_id": "1676161442980982784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856727364425896394",
+            "type": "quoted"
+          },
+          {
+            "id": "1856901784725590149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MephiSprt 喵\nhttps://t.co/cO72h7sDJW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1856727364425896394",
+        "created_at": "2024-11-13T15:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T16:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856727364425896394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuukichan0327/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/kuukichan0327/status/1856710995420594603",
+              "start": 5,
+              "url": "https://t.co/IOsDEo4Old"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856727364425896394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 369,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856710995420594603",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上课睡教 https://t.co/IOsDEo4Old"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1856901783156854784"
+          ]
+        },
+        "author_id": "1676161442980982784",
+        "conversation_id": "1856901784725590149",
+        "created_at": "2024-11-14T03:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T04:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856901784725590149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856901784725590149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看一下我列表的宗教信仰情况"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一ing🏫┃🏳️‍⚧🍥无证😭┃坐标郑州📍┃没有什么突出的爱好，是个不太有趣的人🤷‍♀️┃不在乎立场，也不喜欢建政🙅‍♀┃欢迎互fo喵🥺（只是中推小透明，fo不fo都无所谓啦，能一眼我就很开心了）┃高强度刷推😁┃点赞是手干的，不是我干的😗┃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qaqaqaqaqaqaqaqaqaq.net",
+                "end": 23,
+                "expanded_url": "http://qaqaqaqaqaqaqaqaqaq.net",
+                "start": 0,
+                "url": "https://t.co/h3pADwksQy"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "无何有",
+        "name": "Starrynight風阁🍥",
+        "pinned_tweet_id": "1847670974730350853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840001644190412801/y2jbIt1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 3025,
+          "like_count": 33861,
+          "listed_count": 0,
+          "tweet_count": 1840
+        },
+        "url": "https://t.co/h3pADwksQy",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T09:30:17.000Z",
+        "description": "Feel free to DM me /Male/19/CS/paradox/philosophy/politics/literature🇺🇦🏳️‍🌈🏳️‍⚧️.❤️ @Faust_Mio /一緒に遊ぼう@nekomakiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "Faust_Mio"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "nekomakiQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/WuQYKXDqRM",
+                "end": 23,
+                "expanded_url": "https://discord.gg/WuQYKXDqRM",
+                "start": 0,
+                "url": "https://t.co/0lyQmCyQst"
+              }
+            ]
+          }
+        },
+        "id": "1676161442980982784",
+        "location": "Peking.‼️link:personal group",
+        "name": "Ice Cream",
+        "pinned_tweet_id": "1856692818498183216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854939056280686592/Rfej_lCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3235,
+          "following_count": 91,
+          "like_count": 35656,
+          "listed_count": 6,
+          "tweet_count": 16534
+        },
+        "url": "https://t.co/0lyQmCyQst",
+        "username": "MephiSprt",
+        "verified": false
+      }
+    ]
+  }
+}

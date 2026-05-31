@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1865458420553503183",
+    "created_at": "2024-12-07T18:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T19:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865459999666995387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757148144738123776",
+          "start": 0,
+          "username": "zyl1518124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865459999666995387",
+    "in_reply_to_user_id": "1757148144738123776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865459589883535754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyl1518124 唉我真是有病改签前还是复兴号"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1865459589883535754].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1865459589883535754",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1865459589883535754"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1865458420553503183",
+        "created_at": "2024-12-07T18:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T19:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865459999666995387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757148144738123776",
+              "start": 0,
+              "username": "zyl1518124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865459999666995387",
+        "in_reply_to_user_id": "1757148144738123776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865459589883535754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyl1518124 唉我真是有病改签前还是复兴号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一ing🏫┃🏳️‍⚧🍥无证😭┃坐标郑州📍┃没有什么突出的爱好，是个不太有趣的人🤷‍♀️┃不在乎立场，也不喜欢建政🙅‍♀┃欢迎互fo喵🥺（只是中推小透明，fo不fo都无所谓啦，能一眼我就很开心了）┃高强度刷推😁┃点赞是手干的，不是我干的😗┃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starrynightwgl…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starrynightwglf1",
+                "start": 0,
+                "url": "https://t.co/EmFCvLJVZU"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "无何有",
+        "name": "Starrynight風阁🍥",
+        "pinned_tweet_id": "1862405062833971450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859531481846362112/-ukC50_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 3121,
+          "like_count": 56440,
+          "listed_count": 4,
+          "media_count": 304,
+          "tweet_count": 2663
+        },
+        "url": "https://t.co/EmFCvLJVZU",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T21:02:30.000Z",
+        "description": "ENFP-T🎲 桌游爱好者 | 🎶 音乐探索者 | ☕ 随性漫游者\n\n在骰子与卡牌的世界中，我找到乐趣；在旋律与节拍中，我寻找灵感。爱好闲逛，寻找创意与美好瞬间。让我们一起分享游戏的策略、音乐的节拍，和生活的点滴！https://t.co/JxlSdxXcDB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "3words.ngl.link/zyl1518124",
+                "end": 130,
+                "expanded_url": "https://3words.ngl.link/zyl1518124",
+                "start": 107,
+                "url": "https://t.co/JxlSdxXcDB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zyl1518124",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zyl1518124",
+                "start": 0,
+                "url": "https://t.co/qUsOw3WiAq"
+              }
+            ]
+          }
+        },
+        "id": "1757148144738123776",
+        "location": "卡里姆多",
+        "name": "zyl",
+        "pinned_tweet_id": "1863798544077066729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860802474233528320/UC7eaYgN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 196,
+          "like_count": 2983,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 3031
+        },
+        "url": "https://t.co/qUsOw3WiAq",
+        "username": "zyl1518124",
+        "verified": false
+      }
+    ]
+  }
+}

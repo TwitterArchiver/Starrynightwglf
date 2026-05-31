@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2018444100912161003",
+    "created_at": "2026-02-03T04:15:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T05:15:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018538881516482775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "868887840230330368",
+          "start": 0,
+          "username": "momoGZ0412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018538881516482775",
+    "in_reply_to_user_id": "868887840230330368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018444100912161003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momoGZ0412 反贼都是傻逼吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 94826,
+        "height": 1542,
+        "media_key": "13_2018443860100382720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2018443860100382720/img/zhyiatThOXC7F_2i.jpg",
+        "public_metrics": {
+          "view_count": 40086
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018443860100382720/vid/avc1/720x1250/AQBFFki6c7Vu2IS0.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018443860100382720/vid/avc1/320x554/Sqpm96OnWG7rpItV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2018443860100382720/pl/G97UqnUAwP0zIALi.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018443860100382720/vid/avc1/888x1542/h-zmzc9zTXrjVKPn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018443860100382720/vid/avc1/480x832/fY49-lAv2GshXKvY.mp4"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2018444100912161003",
+        "created_at": "2026-02-03T04:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T05:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018538881516482775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "868887840230330368",
+              "start": 0,
+              "username": "momoGZ0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018538881516482775",
+        "in_reply_to_user_id": "868887840230330368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018444100912161003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoGZ0412 反贼都是傻逼吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018443860100382720"
+          ]
+        },
+        "author_id": "868887840230330368",
+        "conversation_id": "2018444100912161003",
+        "created_at": "2026-02-02T21:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T22:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018444100912161003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bviCzUYtrD",
+              "end": 90,
+              "expanded_url": "https://x.com/momoGZ0412/status/2018444100912161003/video/1",
+              "media_key": "13_2018443860100382720",
+              "start": 67,
+              "url": "https://t.co/bviCzUYtrD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018444100912161003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 68420,
+          "like_count": 369,
+          "quote_count": 10,
+          "reply_count": 115,
+          "retweet_count": 158
+        },
+        "reply_settings": "everyone",
+        "text": "2026年2月2日一广东网友发出在众目睽睽之下直升飞机带走一个小孩飞起了，引起评论区恐慌。都在质疑现在取小孩零件都这么明目张胆了吗？ https://t.co/bviCzUYtrD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1762,
+          "following_count": 4191,
+          "like_count": 130485,
+          "listed_count": 6,
+          "media_count": 972,
+          "tweet_count": 4748
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-28T17:52:59.000Z",
+        "description": "别人都假装正经，我只有假装不正经。",
+        "id": "868887840230330368",
+        "location": "Paris, France",
+        "name": "默默",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996847012906717184/fVYoKJaa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61491,
+          "following_count": 4860,
+          "like_count": 148633,
+          "listed_count": 191,
+          "media_count": 6669,
+          "tweet_count": 19838
+        },
+        "username": "momoGZ0412",
+        "verified": true
+      }
+    ]
+  }
+}

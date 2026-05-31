@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1850465802149089788",
+    "created_at": "2024-10-27T09:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T10:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850466412466475242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "931934663198703616",
+          "start": 0,
+          "username": "BakaHDT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850466412466475242",
+    "in_reply_to_user_id": "931934663198703616",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850465802149089788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BakaHDT 智齿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1850465802149089788",
+        "created_at": "2024-10-27T09:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T10:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850466412466475242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "931934663198703616",
+              "start": 0,
+              "username": "BakaHDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850466412466475242",
+        "in_reply_to_user_id": "931934663198703616",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850465802149089788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BakaHDT 智齿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "931934663198703616",
+        "conversation_id": "1850465802149089788",
+        "created_at": "2024-10-27T09:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T10:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850465802149089788"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1850465802149089788",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "板烧鸡腿堡是麦当劳存在的意义(暴论"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一ing🏫┃🏳️‍⚧🍥无证😭┃坐标郑州📍┃没有什么突出的爱好，是个不太有趣的人🤷‍♀️┃不在乎立场，也不喜欢建政🙅‍♀┃欢迎互fo喵🥺（只是中推小透明，fo不fo都无所谓啦，能一眼我就很开心了）┃高强度刷推😁┃点赞是手干的，不是我干的😗┃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awawawawawawa.net",
+                "end": 23,
+                "expanded_url": "http://awawawawawawa.net",
+                "start": 0,
+                "url": "https://t.co/Q4WoIflVHh"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "无何有",
+        "name": "Starrynight風阁",
+        "pinned_tweet_id": "1847670974730350853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840001644190412801/y2jbIt1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 2863,
+          "like_count": 17609,
+          "listed_count": 0,
+          "tweet_count": 1134
+        },
+        "url": "https://t.co/Q4WoIflVHh",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-18T17:18:33.000Z",
+        "description": "mtf/双相/bpd | 今天也在努力活着的小女孩，可以叫我123 | 发一些生活中的事情 | 下面的链接是提问箱 | 最爱的主人是 @IWantMyLilDoggy 愿意为他付出一切",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 67,
+                "username": "IWantMyLilDoggy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bakahdt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bakahdt",
+                "start": 0,
+                "url": "https://t.co/DVXWY0OIcQ"
+              }
+            ]
+          }
+        },
+        "id": "931934663198703616",
+        "location": "没有歧视和偏见的很美好很温暖的地方",
+        "name": "BakaHDT🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677035496298680321/nqhi0pU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 426,
+          "like_count": 4082,
+          "listed_count": 1,
+          "tweet_count": 1324
+        },
+        "url": "https://t.co/DVXWY0OIcQ",
+        "username": "BakaHDT",
+        "verified": false
+      }
+    ]
+  }
+}

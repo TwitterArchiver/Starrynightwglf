@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024082909708320769"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2024023145481728348",
+    "created_at": "2026-02-18T11:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T12:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024082914980315334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2900565097",
+          "start": 0,
+          "username": "johnny_onpuchan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HXmy6rtrsF",
+          "end": 40,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2024082914980315334/photo/1",
+          "media_key": "3_2024082909708320769",
+          "start": 17,
+          "url": "https://t.co/HXmy6rtrsF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024082914980315334",
+    "in_reply_to_user_id": "2900565097",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024023145481728348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@johnny_onpuchan https://t.co/HXmy6rtrsF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 760,
+        "media_key": "3_2024082909708320769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBb8rq0agAE8E2o.jpg",
+        "width": 1200
+      },
+      {
+        "height": 421,
+        "media_key": "3_2024023141253869568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbGUr-bcAAJpwr.jpg",
+        "width": 749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024082909708320769"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2024023145481728348",
+        "created_at": "2026-02-18T11:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T12:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024082914980315334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2900565097",
+              "start": 0,
+              "username": "johnny_onpuchan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HXmy6rtrsF",
+              "end": 40,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2024082914980315334/photo/1",
+              "media_key": "3_2024082909708320769",
+              "start": 17,
+              "url": "https://t.co/HXmy6rtrsF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024082914980315334",
+        "in_reply_to_user_id": "2900565097",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024023145481728348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@johnny_onpuchan https://t.co/HXmy6rtrsF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024023141253869568"
+          ]
+        },
+        "author_id": "2900565097",
+        "conversation_id": "2024023145481728348",
+        "created_at": "2026-02-18T07:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024023145481728348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xl3l8FLTaV",
+              "end": 28,
+              "expanded_url": "https://x.com/johnny_onpuchan/status/2024023145481728348/photo/1",
+              "media_key": "3_2024023141253869568",
+              "start": 5,
+              "url": "https://t.co/xl3l8FLTaV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024023145481728348",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 27148,
+          "like_count": 453,
+          "quote_count": 3,
+          "reply_count": 33,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "酸っぱい https://t.co/xl3l8FLTaV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮",
+        "id": "1563508655256850433",
+        "name": "小风",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 4245,
+          "like_count": 135664,
+          "listed_count": 3,
+          "media_count": 1023,
+          "tweet_count": 4927
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-15T14:59:24.000Z",
+        "description": "朕/全裸日本鬼子/小日本屁民/包蜜",
+        "id": "2900565097",
+        "location": "福冈反革命根据地",
+        "name": "ジョニー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1319681425612836864/Nt_SUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14526,
+          "following_count": 1174,
+          "like_count": 130863,
+          "listed_count": 100,
+          "media_count": 7674,
+          "tweet_count": 139602
+        },
+        "username": "johnny_onpuchan",
+        "verified": false
+      }
+    ]
+  }
+}

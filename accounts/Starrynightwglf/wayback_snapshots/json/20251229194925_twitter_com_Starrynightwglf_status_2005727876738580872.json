@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2005727876738580872",
+    "created_at": "2025-12-29T19:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T20:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005727876738580872"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Starrynightwgl…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/Starrynightwglf/status/2005709275365269968",
+          "start": 61,
+          "url": "https://t.co/hvV1b3HPHm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005727876738580872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005709275365269968",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "高数老师挺照顾我的两次阶段测没去她给我单独开学习通考试不限时间让我慢慢做😿我对不起她的好，我真的学不会，学习能力快归零了 https://t.co/hvV1b3HPHm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2005727876738580872",
+        "created_at": "2025-12-29T19:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T20:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005727876738580872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Starrynightwgl…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/Starrynightwglf/status/2005709275365269968",
+              "start": 61,
+              "url": "https://t.co/hvV1b3HPHm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005727876738580872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005709275365269968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "高数老师挺照顾我的两次阶段测没去她给我单独开学习通考试不限时间让我慢慢做😿我对不起她的好，我真的学不会，学习能力快归零了 https://t.co/hvV1b3HPHm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2005709275365269968",
+        "created_at": "2025-12-29T18:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T19:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005709275365269968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005709275365269968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我这个书读不成了\n高数结课了，刚学明白第三章\nc语言完全看不懂，基本语法都记不住\n每天坐着啥也不干就能焦虑到想死\n自学也学不会，听什么课都像念经\n到底为什么会变成这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "🍥₍^˶-𖥦-˵^₎੭ 06 ​ ​ 💞\n\n@miaomiaoxxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "miaomiaoxxia"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "name": "喵喵小风🐱",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1658,
+          "following_count": 4040,
+          "like_count": 122280,
+          "listed_count": 5,
+          "media_count": 834,
+          "tweet_count": 4360
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

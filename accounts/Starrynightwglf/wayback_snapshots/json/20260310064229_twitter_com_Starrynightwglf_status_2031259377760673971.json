@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2031259377760673971",
+    "created_at": "2026-03-10T06:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T07:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031259377760673971"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kataribe1388/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/kataribe1388/status/2031115558436089921",
+          "start": 11,
+          "url": "https://t.co/e7oBvSTkUi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031259377760673971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031115558436089921",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "雏见泽怎么还在下雪😦 https://t.co/e7oBvSTkUi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29838,
+        "height": 720,
+        "media_key": "13_2031115491079761923",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2031115491079761923/img/5pxzUMMMvUJNBlPT.jpg",
+        "public_metrics": {
+          "view_count": 1447
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031115491079761923/vid/avc1/480x270/sOOP4HbH8t2qIO5B.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031115491079761923/vid/avc1/640x360/jPvVs0bbfRKoEr64.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031115491079761923/vid/avc1/1280x720/CT-KnSsFWN5b5GP6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2031115491079761923/pl/sqSFM3e18ON-_Rsf.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2031259377760673971",
+        "created_at": "2026-03-10T06:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T07:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031259377760673971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kataribe1388/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/kataribe1388/status/2031115558436089921",
+              "start": 11,
+              "url": "https://t.co/e7oBvSTkUi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031259377760673971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031115558436089921",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雏见泽怎么还在下雪😦 https://t.co/e7oBvSTkUi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2031115491079761923"
+          ]
+        },
+        "author_id": "1226795653084221440",
+        "conversation_id": "2031115558436089921",
+        "created_at": "2026-03-09T21:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T22:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031115558436089921"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "白川郷"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cQPNzLsFNR",
+              "end": 67,
+              "expanded_url": "https://x.com/kataribe1388/status/2031115558436089921/video/1",
+              "media_key": "13_2031115491079761923",
+              "start": 44,
+              "url": "https://t.co/cQPNzLsFNR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031115558436089921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3977,
+          "like_count": 269,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "おはようございます\n\n2026年３月１０日　朝起きたら雪❄️☃️\n\nなごり雪\n#白川郷 https://t.co/cQPNzLsFNR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898934186553352192/j3riaQGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 4317,
+          "like_count": 141772,
+          "listed_count": 3,
+          "media_count": 1142,
+          "tweet_count": 5320
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T09:11:32.000Z",
+        "description": "世界遺産荻町合掌集落内にある土産屋。お車を村営駐車場にとめて徒歩でご来店ください。#ひぐらしのなく頃に #峠ステッカー #JTP #国道ステッカー #国道360 正規取り扱い店です。合掌民宿「幸エ門」家族経営♪ アイコンイラスト海内圭さん@u_umiuchi ヘッダー画 鈴木次郎さん @jirosuzuki水曜日定休",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 41,
+                "tag": "ひぐらしのなく頃に"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "tag": "峠ステッカー"
+              },
+              {
+                "end": 64,
+                "start": 60,
+                "tag": "JTP"
+              },
+              {
+                "end": 73,
+                "start": 65,
+                "tag": "国道ステッカー"
+              },
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "国道360"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 129,
+                "start": 119,
+                "username": "u_umiuchi"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "jirosuzuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kataribe-shirakawagou.com",
+                "end": 23,
+                "expanded_url": "https://kataribe-shirakawagou.com/",
+                "start": 0,
+                "url": "https://t.co/bYXbrWoPWS"
+              }
+            ]
+          }
+        },
+        "id": "1226795653084221440",
+        "location": "岐阜県大野郡白川村荻町452",
+        "name": "白川郷 （雛見沢）お土産処 かたりべ",
+        "pinned_tweet_id": "2026779964218253317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695209101188550656/3AGNSM0x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7420,
+          "following_count": 571,
+          "like_count": 27078,
+          "listed_count": 39,
+          "media_count": 2624,
+          "tweet_count": 6517
+        },
+        "url": "https://t.co/bYXbrWoPWS",
+        "username": "kataribe1388",
+        "verified": true
+      }
+    ]
+  }
+}
