@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060625074802274304"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2060045328049438995",
+    "created_at": "2026-05-30T07:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060625077805469861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1557646423172186113",
+          "start": 0,
+          "username": "pqpqnome"
+        },
+        {
+          "end": 22,
+          "id": "2042655089228128256",
+          "start": 10,
+          "username": "privwendley"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TFhl4VDlYq",
+          "end": 55,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2060625077805469861/photo/1",
+          "media_key": "3_2060625074802274304",
+          "start": 32,
+          "url": "https://t.co/TFhl4VDlYq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060625077805469861",
+    "in_reply_to_user_id": "1557646423172186113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060086970622116091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pqpqnome @privwendley 删不完根本删不完 https://t.co/TFhl4VDlYq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 464,
+        "media_key": "3_2060625074802274304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjPln7aMAA-NFp.jpg",
+        "width": 555
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060625074802274304"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2060045328049438995",
+        "created_at": "2026-05-30T07:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060625077805469861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557646423172186113",
+              "start": 0,
+              "username": "pqpqnome"
+            },
+            {
+              "end": 22,
+              "id": "2042655089228128256",
+              "start": 10,
+              "username": "privwendley"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TFhl4VDlYq",
+              "end": 55,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2060625077805469861/photo/1",
+              "media_key": "3_2060625074802274304",
+              "start": 32,
+              "url": "https://t.co/TFhl4VDlYq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060625077805469861",
+        "in_reply_to_user_id": "1557646423172186113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060086970622116091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pqpqnome @privwendley 删不完根本删不完 https://t.co/TFhl4VDlYq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557646423172186113",
+        "conversation_id": "2060045328049438995",
+        "created_at": "2026-05-28T19:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060086970622116091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2042655089228128256",
+              "start": 0,
+              "username": "privwendley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060086970622116091",
+        "in_reply_to_user_id": "2042655089228128256",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7006,
+          "like_count": 251,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060045328049438995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@privwendley Realmente, as pessoas iam descobrir que tenho milhões de prints inúteis"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 4634,
+          "like_count": 160897,
+          "listed_count": 6,
+          "media_count": 1513,
+          "tweet_count": 6634
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T08:34:01.000Z",
+        "description": "O inferno são os outros.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/psic.junovais?…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/psic.junovais?utm_source=linktree_profile_share&ltsid=4a2856cb-3073-4607-b88c-adca",
+                "start": 0,
+                "url": "https://t.co/I4ewcKJovD"
+              }
+            ]
+          }
+        },
+        "id": "1557646423172186113",
+        "name": "ju",
+        "pinned_tweet_id": "1942262088056869029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040539992661884929/-8HL7yjW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 462,
+          "like_count": 48147,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 5809
+        },
+        "url": "https://t.co/I4ewcKJovD",
+        "username": "pqpqnome",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T17:26:54.000Z",
+        "description": "🚬•☕️•🎱",
+        "id": "2042655089228128256",
+        "name": "ؘ 𝖂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056057165048156160/9VOrd3VZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1961,
+          "following_count": 572,
+          "like_count": 7799,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 471
+        },
+        "username": "privwendley",
+        "verified": false
+      }
+    ]
+  }
+}

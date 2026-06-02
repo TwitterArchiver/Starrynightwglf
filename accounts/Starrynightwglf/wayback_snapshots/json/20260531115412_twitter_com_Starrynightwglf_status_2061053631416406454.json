@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2061053631416406454",
+    "created_at": "2026-05-31T11:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T12:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061053631416406454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/privwendley/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/privwendley/status/2060911536378352023",
+          "start": 15,
+          "url": "https://t.co/Z9ZsFInmN6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061053631416406454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060911536378352023",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想要说的 前人们都说过了🤬 https://t.co/Z9ZsFInmN6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2061053631416406454",
+        "created_at": "2026-05-31T11:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061053631416406454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/privwendley/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/privwendley/status/2060911536378352023",
+              "start": 15,
+              "url": "https://t.co/Z9ZsFInmN6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061053631416406454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060911536378352023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想要说的 前人们都说过了🤬 https://t.co/Z9ZsFInmN6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042655089228128256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060911536378352023",
+        "created_at": "2026-05-31T02:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T03:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060911536378352023"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060911536378352023",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 63083,
+          "like_count": 4172,
+          "quote_count": 30,
+          "reply_count": 32,
+          "retweet_count": 1128
+        },
+        "reply_settings": "everyone",
+        "text": "É engraçado como você entra no twitter e todos os seus pensamentos já estão no tweet de outra pessoa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 4658,
+          "like_count": 161648,
+          "listed_count": 6,
+          "media_count": 1522,
+          "tweet_count": 6668
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-10T17:26:54.000Z",
+        "description": "🚬•☕️•🎱",
+        "id": "2042655089228128256",
+        "name": "ؘ 𝖂",
+        "pinned_tweet_id": "2060834750017700114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060844966377578498/4BXMurN4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 576,
+          "like_count": 7943,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 484
+        },
+        "username": "privwendley",
+        "verified": false
+      }
+    ]
+  }
+}

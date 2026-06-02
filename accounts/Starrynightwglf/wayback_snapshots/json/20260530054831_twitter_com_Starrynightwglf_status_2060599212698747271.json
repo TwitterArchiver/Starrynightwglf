@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058743871052402688"
+      ],
+      "media_source_tweet_id": [
+        "2058760219899896296"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2060599212698747271",
+    "created_at": "2026-05-30T05:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T06:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060599212698747271"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "原神"
+        },
+        {
+          "end": 79,
+          "start": 71,
+          "tag": "Genshin"
+        },
+        {
+          "end": 87,
+          "start": 80,
+          "tag": "サンドローネ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1070960596357509121",
+          "start": 3,
+          "username": "Genshin_7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aQQcgxGUX1",
+          "end": 111,
+          "expanded_url": "https://x.com/Genshin_7/status/2058760219899896296/photo/1",
+          "media_key": "3_2058743871052402688",
+          "start": 88,
+          "url": "https://t.co/aQQcgxGUX1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060599212698747271",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106814
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058760219899896296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Genshin_7: 【キャラクター紹介】\n鏡水の解明——サンドローネ\n十一人のファトゥス 第七位\n万理を見通す奇械の躯\n \n#原神 #Genshin #サンドローネ https://t.co/aQQcgxGUX1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1899,
+        "media_key": "3_2058743871052402688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIgpJ2XUAAyFcV.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058743871052402688"
+          ],
+          "media_source_tweet_id": [
+            "2058760219899896296"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2060599212698747271",
+        "created_at": "2026-05-30T05:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060599212698747271"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "原神"
+            },
+            {
+              "end": 79,
+              "start": 71,
+              "tag": "Genshin"
+            },
+            {
+              "end": 87,
+              "start": 80,
+              "tag": "サンドローネ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1070960596357509121",
+              "start": 3,
+              "username": "Genshin_7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aQQcgxGUX1",
+              "end": 111,
+              "expanded_url": "https://x.com/Genshin_7/status/2058760219899896296/photo/1",
+              "media_key": "3_2058743871052402688",
+              "start": 88,
+              "url": "https://t.co/aQQcgxGUX1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060599212698747271",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106814
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058760219899896296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Genshin_7: 【キャラクター紹介】\n鏡水の解明——サンドローネ\n十一人のファトゥス 第七位\n万理を見通す奇械の躯\n \n#原神 #Genshin #サンドローネ https://t.co/aQQcgxGUX1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058743871052402688"
+          ]
+        },
+        "author_id": "1070960596357509121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2058760219899896296",
+        "created_at": "2026-05-25T04:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058760219899896296"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "原神"
+            },
+            {
+              "end": 64,
+              "start": 56,
+              "tag": "Genshin"
+            },
+            {
+              "end": 72,
+              "start": 65,
+              "tag": "サンドローネ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aQQcgxGUX1",
+              "end": 96,
+              "expanded_url": "https://x.com/Genshin_7/status/2058760219899896296/photo/1",
+              "media_key": "3_2058743871052402688",
+              "start": 73,
+              "url": "https://t.co/aQQcgxGUX1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058760219899896296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18338,
+          "impression_count": 25753489,
+          "like_count": 299579,
+          "quote_count": 29586,
+          "reply_count": 3051,
+          "retweet_count": 106814
+        },
+        "reply_settings": "everyone",
+        "text": "【キャラクター紹介】\n鏡水の解明——サンドローネ\n十一人のファトゥス 第七位\n万理を見通す奇械の躯\n \n#原神 #Genshin #サンドローネ https://t.co/aQQcgxGUX1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 4633,
+          "like_count": 160826,
+          "listed_count": 6,
+          "media_count": 1510,
+          "tweet_count": 6629
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-07T08:37:58.000Z",
+        "description": "PS5・Xbox・iOS・Android・PC向けオープンワールドRPG『原神』公式アカウントです。最新情報を発信します！ #原神 #Genshin #HoYoverse",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 62,
+                "tag": "原神"
+              },
+              {
+                "end": 74,
+                "start": 66,
+                "tag": "Genshin"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "tag": "HoYoverse"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoyo.link/6mfgFBAL",
+                "end": 23,
+                "expanded_url": "https://hoyo.link/6mfgFBAL",
+                "start": 0,
+                "url": "https://t.co/Ju8qwDkJpP"
+              }
+            ]
+          }
+        },
+        "id": "1070960596357509121",
+        "name": "原神（Genshin）公式",
+        "pinned_tweet_id": "2059454541599277481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980837846979067904/Hvxtnvav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3967257,
+          "following_count": 52,
+          "like_count": 241,
+          "listed_count": 15441,
+          "media_count": 2135787,
+          "tweet_count": 2139236
+        },
+        "url": "https://t.co/Ju8qwDkJpP",
+        "username": "Genshin_7",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060704730196885504",
+        "3_2060704730272464896"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2060704756822380748",
+    "created_at": "2026-05-30T12:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060704756822380748"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RXJhjxg05L",
+          "end": 32,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2060704756822380748/photo/1",
+          "media_key": "3_2060704730196885504",
+          "start": 9,
+          "url": "https://t.co/RXJhjxg05L"
+        },
+        {
+          "display_url": "pic.x.com/RXJhjxg05L",
+          "end": 32,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2060704756822380748/photo/1",
+          "media_key": "3_2060704730272464896",
+          "start": 9,
+          "url": "https://t.co/RXJhjxg05L"
+        },
+        {
+          "display_url": "x.com/yunpoyon_/stat…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/yunpoyon_/status/2060284368137158804",
+          "start": 33,
+          "url": "https://t.co/piGZnTgbpB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060704756822380748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060284368137158804",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "👇不玩原神导致的 https://t.co/RXJhjxg05L https://t.co/piGZnTgbpB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2110,
+        "media_key": "3_2060704730196885504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkYCLZaQAATNzp.jpg",
+        "width": 1200
+      },
+      {
+        "height": 4216,
+        "media_key": "3_2060704730272464896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkYCLrbgAADJwg.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2060284363607310336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeZtn0bAAA7ulZ.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060704730196885504",
+            "3_2060704730272464896"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2060704756822380748",
+        "created_at": "2026-05-30T12:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060704756822380748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RXJhjxg05L",
+              "end": 32,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2060704756822380748/photo/1",
+              "media_key": "3_2060704730196885504",
+              "start": 9,
+              "url": "https://t.co/RXJhjxg05L"
+            },
+            {
+              "display_url": "pic.x.com/RXJhjxg05L",
+              "end": 32,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2060704756822380748/photo/1",
+              "media_key": "3_2060704730272464896",
+              "start": 9,
+              "url": "https://t.co/RXJhjxg05L"
+            },
+            {
+              "display_url": "x.com/yunpoyon_/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/yunpoyon_/status/2060284368137158804",
+              "start": 33,
+              "url": "https://t.co/piGZnTgbpB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060704756822380748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060284368137158804",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "👇不玩原神导致的 https://t.co/RXJhjxg05L https://t.co/piGZnTgbpB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060284363607310336"
+          ]
+        },
+        "author_id": "2052566293333893120",
+        "conversation_id": "2060284368137158804",
+        "created_at": "2026-05-29T08:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060284368137158804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mPIonw7vFq",
+              "end": 50,
+              "expanded_url": "https://x.com/yunpoyon_/status/2060284368137158804/photo/1",
+              "media_key": "3_2060284363607310336",
+              "start": 27,
+              "url": "https://t.co/mPIonw7vFq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060284368137158804",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 719,
+          "impression_count": 144209,
+          "like_count": 5424,
+          "quote_count": 30,
+          "reply_count": 129,
+          "retweet_count": 168
+        },
+        "reply_settings": "everyone",
+        "text": "妹の制服勝手に借りて女装した\n\n怒られないかな... https://t.co/mPIonw7vFq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 4641,
+          "like_count": 161052,
+          "listed_count": 6,
+          "media_count": 1515,
+          "tweet_count": 6643
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T01:50:15.000Z",
+        "description": "大阪ミナミの会える屋さん🍻 可愛くなりたいおとこのこ @ANTI__GRAVITY__\nほしい物リスト",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "ANTI__GRAVITY__"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/38D2INFPGVX6?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/TSY3fYqnIZ"
+              }
+            ]
+          }
+        },
+        "id": "2052566293333893120",
+        "location": "ふぃくしょん",
+        "name": "ゆさｸﾝ♂",
+        "pinned_tweet_id": "2059548709164392765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055935536767066112/Y4w0e6OR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3227,
+          "following_count": 48,
+          "like_count": 1081,
+          "listed_count": 8,
+          "media_count": 20,
+          "tweet_count": 130
+        },
+        "url": "https://t.co/TSY3fYqnIZ",
+        "username": "yunpoyon_",
+        "verified": false
+      }
+    ]
+  }
+}

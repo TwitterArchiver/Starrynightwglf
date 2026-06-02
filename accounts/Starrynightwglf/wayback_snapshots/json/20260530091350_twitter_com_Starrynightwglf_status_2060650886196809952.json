@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2060358062360420529",
+    "created_at": "2026-05-30T09:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060650886196809952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "777794266076581888",
+          "start": 0,
+          "username": "102784919Com"
+        },
+        {
+          "end": 29,
+          "id": "921964235533402119",
+          "start": 14,
+          "username": "nisenise114514"
+        },
+        {
+          "end": 39,
+          "id": "1418775043291508736",
+          "start": 30,
+          "username": "Maju_555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060650886196809952",
+    "in_reply_to_user_id": "777794266076581888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060548989850964456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@102784919Com @nisenise114514 @Maju_555 入脑入心入魂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2060358062360420529",
+        "created_at": "2026-05-30T09:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060650886196809952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "777794266076581888",
+              "start": 0,
+              "username": "102784919Com"
+            },
+            {
+              "end": 29,
+              "id": "921964235533402119",
+              "start": 14,
+              "username": "nisenise114514"
+            },
+            {
+              "end": 39,
+              "id": "1418775043291508736",
+              "start": 30,
+              "username": "Maju_555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060650886196809952",
+        "in_reply_to_user_id": "777794266076581888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060548989850964456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@102784919Com @nisenise114514 @Maju_555 入脑入心入魂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "777794266076581888",
+        "conversation_id": "2060358062360420529",
+        "created_at": "2026-05-30T02:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060548989850964456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "921964235533402119",
+              "start": 0,
+              "username": "nisenise114514"
+            },
+            {
+              "end": 25,
+              "id": "1418775043291508736",
+              "start": 16,
+              "username": "Maju_555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060548989850964456",
+        "in_reply_to_user_id": "921964235533402119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4302,
+          "like_count": 163,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060543348054859995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nisenise114514 @Maju_555 日本人真是政治入脑入傻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 4638,
+          "like_count": 160984,
+          "listed_count": 6,
+          "media_count": 1514,
+          "tweet_count": 6641
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-19T08:59:38.000Z",
+        "description": "",
+        "id": "777794266076581888",
+        "location": "china",
+        "name": "年年有雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/984630506930106368/Y03YjIZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 17,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 104
+        },
+        "username": "102784919Com",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-22T04:59:37.000Z",
+        "description": "",
+        "id": "921964235533402119",
+        "name": "niseaka114514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1365457481623687170/8s7hs_rx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 232,
+          "like_count": 15031,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 7315
+        },
+        "username": "nisenise114514",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T03:28:33.000Z",
+        "description": "JTC海外駐在員を辞め、26年5月から世界旅行へ｜ミドサー夫婦｜居住歴 🇯🇵➜🇲🇲１年➜🇮🇩５年➜…｜夫婦での旅行歴 🇮🇩🇹🇭🇰🇭🇲🇾🇦🇪🇹🇷🇺🇿｜🇲🇳🇨🇳",
+        "id": "1418775043291508736",
+        "name": "まじゅ@夫婦で世界旅行",
+        "pinned_tweet_id": "2027640858309435607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035002171645988864/E1RW0y7D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 107,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 40
+        },
+        "username": "Maju_555",
+        "verified": false
+      }
+    ]
+  }
+}

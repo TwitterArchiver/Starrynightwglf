@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2060641658828689867",
+    "created_at": "2026-05-30T08:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060641658828689867"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/boss_ismee/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/boss_ismee/status/2060200286254518328",
+          "start": 4,
+          "url": "https://t.co/P8HeNfDsGB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060641658828689867",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060200286254518328",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤤🤤🤤 https://t.co/P8HeNfDsGB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2060641658828689867",
+        "created_at": "2026-05-30T08:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060641658828689867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/boss_ismee/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/boss_ismee/status/2060200286254518328",
+              "start": 4,
+              "url": "https://t.co/P8HeNfDsGB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060641658828689867",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060200286254518328",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤤🤤🤤 https://t.co/P8HeNfDsGB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833884449752350720",
+        "conversation_id": "2060200286254518328",
+        "created_at": "2026-05-29T03:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060200286254518328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060200286254518328",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 265,
+          "impression_count": 1721813,
+          "like_count": 2675,
+          "quote_count": 197,
+          "reply_count": 1184,
+          "retweet_count": 196
+        },
+        "reply_settings": "everyone",
+        "text": "중국가기로 해서 여권만들어야한다니까 부모님이 중국가면 사람잡아먹는다, 쥐도새도업시 사라진다, 공룡돌아다닌다 이러면서 근들갑떨어서 에휴 역시 비행기 처녀들이란...(ㅈㅅㅋㅋ)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 4635,
+          "like_count": 160952,
+          "listed_count": 6,
+          "media_count": 1514,
+          "tweet_count": 6638
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T15:05:16.000Z",
+        "description": "지키고싶은 신념같은 건 없고, 지킬 수 있는 건 처녀밖에 없어.",
+        "id": "1833884449752350720",
+        "name": "펠릭스(도태된 사람)",
+        "pinned_tweet_id": "2060034613775569279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029934639180304386/kx2km-Jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 64,
+          "like_count": 30027,
+          "listed_count": 0,
+          "media_count": 1090,
+          "tweet_count": 10432
+        },
+        "username": "boss_ismee",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061104415902449664"
+      ],
+      "media_source_tweet_id": [
+        "2061104425608093891"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2061247797647880272",
+    "created_at": "2026-06-01T00:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T01:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061247797647880272"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 20,
+          "tag": "パイモン生誕祭2026"
+        },
+        {
+          "end": 40,
+          "start": 33,
+          "tag": "Paimon"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1304756409582583809",
+          "start": 3,
+          "username": "naraemigenshin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x25dHLU9Ma",
+          "end": 64,
+          "expanded_url": "https://x.com/naraemigenshin/status/2061104425608093891/photo/1",
+          "media_key": "3_2061104415902449664",
+          "start": 41,
+          "url": "https://t.co/x25dHLU9Ma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061247797647880272",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061104425608093891",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @naraemigenshin: #パイモン生誕祭2026 #Paimon https://t.co/x25dHLU9Ma"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3480,
+        "media_key": "3_2061104415902449664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqDi8rawAA_5uq.jpg",
+        "width": 2610
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061104415902449664"
+          ],
+          "media_source_tweet_id": [
+            "2061104425608093891"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061247797647880272",
+        "created_at": "2026-06-01T00:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T01:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061247797647880272"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 20,
+              "tag": "パイモン生誕祭2026"
+            },
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "Paimon"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1304756409582583809",
+              "start": 3,
+              "username": "naraemigenshin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x25dHLU9Ma",
+              "end": 64,
+              "expanded_url": "https://x.com/naraemigenshin/status/2061104425608093891/photo/1",
+              "media_key": "3_2061104415902449664",
+              "start": 41,
+              "url": "https://t.co/x25dHLU9Ma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061247797647880272",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061104425608093891",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @naraemigenshin: #パイモン生誕祭2026 #Paimon https://t.co/x25dHLU9Ma"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061104415902449664"
+          ]
+        },
+        "author_id": "1304756409582583809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061104425608093891",
+        "created_at": "2026-05-31T15:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061104425608093891"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "パイモン生誕祭2026"
+            },
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "Paimon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x25dHLU9Ma",
+              "end": 44,
+              "expanded_url": "https://x.com/naraemigenshin/status/2061104425608093891/photo/1",
+              "media_key": "3_2061104415902449664",
+              "start": 21,
+              "url": "https://t.co/x25dHLU9Ma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061104425608093891",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 8210,
+          "like_count": 753,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "#パイモン生誕祭2026 #Paimon https://t.co/x25dHLU9Ma"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2107,
+          "following_count": 4663,
+          "like_count": 161915,
+          "listed_count": 6,
+          "media_count": 1523,
+          "tweet_count": 6680
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-12T12:19:14.000Z",
+        "description": "| Genshin Impact | HSR | Photo editor |          | JP • EG |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCbG8V…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCbG8VY8tX21zVyzEbhr5EZg?si=BsqHFSotyyJ4JuUf",
+                "start": 0,
+                "url": "https://t.co/5INdvF1p9Z"
+              }
+            ]
+          }
+        },
+        "id": "1304756409582583809",
+        "location": "Hoyocreators @soe_taro_1←お友達",
+        "name": "えみにゃ📷´-",
+        "pinned_tweet_id": "1885286557810385305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704073538905464832/9sUy6Uys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56049,
+          "following_count": 184,
+          "like_count": 23655,
+          "listed_count": 125,
+          "media_count": 5947,
+          "tweet_count": 19665
+        },
+        "url": "https://t.co/5INdvF1p9Z",
+        "username": "naraemigenshin",
+        "verified": true
+      }
+    ]
+  }
+}

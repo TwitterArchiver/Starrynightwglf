@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2059988376921805158",
+    "created_at": "2026-05-30T09:03:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:03:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060648202307813498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1953803601522094080",
+          "start": 0,
+          "username": "rumc_zzz"
+        },
+        {
+          "end": 25,
+          "id": "1441730225423851530",
+          "start": 10,
+          "username": "ParadiseMoonER"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060648202307813498",
+    "in_reply_to_user_id": "1953803601522094080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060007997494251994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rumc_zzz @ParadiseMoonER 牛福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2059988376921805158",
+        "created_at": "2026-05-30T09:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060648202307813498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1953803601522094080",
+              "start": 0,
+              "username": "rumc_zzz"
+            },
+            {
+              "end": 25,
+              "id": "1441730225423851530",
+              "start": 10,
+              "username": "ParadiseMoonER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060648202307813498",
+        "in_reply_to_user_id": "1953803601522094080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060007997494251994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rumc_zzz @ParadiseMoonER 牛福"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953803601522094080",
+        "conversation_id": "2059988376921805158",
+        "created_at": "2026-05-28T14:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060007997494251994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1441730225423851530",
+              "start": 0,
+              "username": "ParadiseMoonER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060007997494251994",
+        "in_reply_to_user_id": "1441730225423851530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 487921,
+          "like_count": 2670,
+          "quote_count": 45,
+          "reply_count": 504,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060007349474255108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ParadiseMoonER 牛逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 4636,
+          "like_count": 160947,
+          "listed_count": 6,
+          "media_count": 1514,
+          "tweet_count": 6640
+        },
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T13:01:04.000Z",
+        "description": "08世代 XNTP VRC9/4-",
+        "id": "1953803601522094080",
+        "name": "か",
+        "pinned_tweet_id": "2026348465928958055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953804133640941569/NPwANVpp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 23,
+          "like_count": 1980,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 474
+        },
+        "username": "rumc_zzz",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-25T11:44:25.000Z",
+        "description": "",
+        "id": "1441730225423851530",
+        "name": "CloudRiver",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749090988264763392/V9g8SAXq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 160,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 61
+        },
+        "username": "ParadiseMoonER",
+        "verified": false
+      }
+    ]
+  }
+}

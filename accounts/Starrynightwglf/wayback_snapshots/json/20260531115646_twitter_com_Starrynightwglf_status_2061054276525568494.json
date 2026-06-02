@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2061054276525568494",
+    "created_at": "2026-05-31T11:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T12:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061054276525568494"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds03/status/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/hgds03/status/2060328582770205174",
+          "start": 12,
+          "url": "https://t.co/e9c3wuK89m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061054276525568494",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060328582770205174",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那我倒要看看有多舒服🤨 https://t.co/e9c3wuK89m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2061054276525568494",
+        "created_at": "2026-05-31T11:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061054276525568494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds03/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/hgds03/status/2060328582770205174",
+              "start": 12,
+              "url": "https://t.co/e9c3wuK89m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061054276525568494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060328582770205174",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那我倒要看看有多舒服🤨 https://t.co/e9c3wuK89m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034586230881722368",
+        "conversation_id": "2060328582770205174",
+        "created_at": "2026-05-29T11:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060328582770205174"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060328582770205174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 119526,
+          "like_count": 5900,
+          "quote_count": 23,
+          "reply_count": 266,
+          "retweet_count": 526
+        },
+        "reply_settings": "everyone",
+        "text": "舒服是留给死人的这句话并不会激励我，而是诱惑我成为死人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 4658,
+          "like_count": 161661,
+          "listed_count": 6,
+          "media_count": 1522,
+          "tweet_count": 6669
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-19T11:02:47.000Z",
+        "description": "我们只是网友，你把手机摔了我就死了，放过彼此OK？放下手中的屠刀，神在救你\n匿名箱📮https://t.co/2OAcbUUA79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hgds03",
+                "end": 65,
+                "expanded_url": "https://ngl.link/hgds03",
+                "start": 42,
+                "url": "https://t.co/2OAcbUUA79"
+              }
+            ]
+          }
+        },
+        "id": "2034586230881722368",
+        "location": "世界上最忧郁的人",
+        "name": "哈根达斯",
+        "pinned_tweet_id": "2060949148325847052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043304519770226688/xqFH8lfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3886,
+          "following_count": 446,
+          "like_count": 4668,
+          "listed_count": 6,
+          "media_count": 44,
+          "tweet_count": 524
+        },
+        "username": "hgds03",
+        "verified": false
+      }
+    ]
+  }
+}
