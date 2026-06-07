@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2061833679052156928"
+      ],
+      "media_source_tweet_id": [
+        "2061833741534642600"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2061853789876089285",
+    "created_at": "2026-06-02T16:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061853789876089285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1587097450367574017",
+          "start": 3,
+          "username": "YuiLovesKisses"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vHnlJWFsZj",
+          "end": 43,
+          "expanded_url": "https://x.com/YuiLovesKisses/status/2061833741534642600/video/1",
+          "media_key": "13_2061833679052156928",
+          "start": 20,
+          "url": "https://t.co/vHnlJWFsZj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061853789876089285",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061833741534642600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuiLovesKisses: https://t.co/vHnlJWFsZj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15250,
+        "height": 576,
+        "media_key": "13_2061833679052156928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061833679052156928/img/nU1Rp9_6_PGMl-F-.jpg",
+        "public_metrics": {
+          "view_count": 277
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061833679052156928/vid/avc1/360x270/pGQj6YAo4drNsm1F.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061833679052156928/vid/avc1/480x360/qRNEoNglJwg9lu3w.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061833679052156928/vid/avc1/768x576/tEPNuNUGTLkl82dJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061833679052156928/pl/fVviahnDs1dYBppy.m3u8"
+          }
+        ],
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061833679052156928"
+          ],
+          "media_source_tweet_id": [
+            "2061833741534642600"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061853789876089285",
+        "created_at": "2026-06-02T16:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061853789876089285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1587097450367574017",
+              "start": 3,
+              "username": "YuiLovesKisses"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vHnlJWFsZj",
+              "end": 43,
+              "expanded_url": "https://x.com/YuiLovesKisses/status/2061833741534642600/video/1",
+              "media_key": "13_2061833679052156928",
+              "start": 20,
+              "url": "https://t.co/vHnlJWFsZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061853789876089285",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061833741534642600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuiLovesKisses: https://t.co/vHnlJWFsZj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061833679052156928"
+          ]
+        },
+        "author_id": "1587097450367574017",
+        "conversation_id": "2061833741534642600",
+        "created_at": "2026-06-02T15:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061833741534642600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vHnlJWFsZj",
+              "end": 23,
+              "expanded_url": "https://x.com/YuiLovesKisses/status/2061833741534642600/video/1",
+              "media_key": "13_2061833679052156928",
+              "start": 0,
+              "url": "https://t.co/vHnlJWFsZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061833741534642600",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 609,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vHnlJWFsZj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2112,
+          "following_count": 4663,
+          "like_count": 162792,
+          "listed_count": 6,
+          "media_count": 1543,
+          "tweet_count": 6746
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-31T15:01:41.000Z",
+        "description": "Moe Schmittian Realism I Yui's husband | Pro Pure Love ❤️ Traditionalism | Otaku shitposting | 名は体を表す|何でもは知らないわよ、知っていることだけ| Talmud for Finances | MSGKNWO",
+        "id": "1587097450367574017",
+        "location": "Tainan, Hyogo, Shiga Ward",
+        "name": "Yui’s Eternal Husband 🌂☔️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023942304772603905/4aJRRLCb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4535,
+          "following_count": 414,
+          "like_count": 15755,
+          "listed_count": 12,
+          "media_count": 505,
+          "tweet_count": 2649
+        },
+        "username": "YuiLovesKisses",
+        "verified": true
+      }
+    ]
+  }
+}

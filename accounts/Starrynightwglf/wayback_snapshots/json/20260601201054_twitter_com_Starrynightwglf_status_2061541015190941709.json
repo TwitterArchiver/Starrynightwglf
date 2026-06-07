@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2061541015190941709",
+    "created_at": "2026-06-01T20:10:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T21:10:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061541015190941709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Hazeludw/statu…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Hazeludw/status/2061444245605794097",
+          "start": 21,
+          "url": "https://t.co/rIljUaXXL1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061541015190941709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061444245605794097",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我已经完全提不起动力收拾屋子了🫩\n好麻烦 https://t.co/rIljUaXXL1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2061541015190941709",
+        "created_at": "2026-06-01T20:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T21:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061541015190941709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hazeludw/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Hazeludw/status/2061444245605794097",
+              "start": 21,
+              "url": "https://t.co/rIljUaXXL1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061541015190941709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061444245605794097",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已经完全提不起动力收拾屋子了🫩\n好麻烦 https://t.co/rIljUaXXL1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055685480675684352",
+        "conversation_id": "2061444245605794097",
+        "created_at": "2026-06-01T13:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061444245605794097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061444245605794097",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 35919,
+          "like_count": 1283,
+          "quote_count": 35,
+          "reply_count": 40,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "five signs you’re depressed\n\n- dirty room\n- losing interest in hobbies \n- slacking on hygiene\n- bed rotting\n- isolation"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 4658,
+          "like_count": 162342,
+          "listed_count": 6,
+          "media_count": 1530,
+          "tweet_count": 6704
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-16T16:24:24.000Z",
+        "description": "💌 ₊˚ units of warmth & daily thoughts. 22. looking for moots to share the vibes with 🧸",
+        "id": "2055685480675684352",
+        "name": "Hazel",
+        "pinned_tweet_id": "2061133532584644706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055689292874416128/lGrWzWa6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2142,
+          "following_count": 867,
+          "like_count": 1105,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 379
+        },
+        "username": "Hazeludw",
+        "verified": true
+      }
+    ]
+  }
+}

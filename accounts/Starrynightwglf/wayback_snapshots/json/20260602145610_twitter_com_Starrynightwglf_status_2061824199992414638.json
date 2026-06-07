@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2061824199992414638",
+    "created_at": "2026-06-02T14:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T15:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061824199992414638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "469904112",
+          "start": 3,
+          "username": "lori_2525"
+        },
+        {
+          "end": 27,
+          "id": "2822416724",
+          "start": 15,
+          "username": "rimohigashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061824199992414638",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061780550524993556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lori_2525: @rimohigashi ぶっ飛ばすぞ……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2061824199992414638",
+        "created_at": "2026-06-02T14:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061824199992414638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "469904112",
+              "start": 3,
+              "username": "lori_2525"
+            },
+            {
+              "end": 27,
+              "id": "2822416724",
+              "start": 15,
+              "username": "rimohigashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061824199992414638",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061780550524993556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lori_2525: @rimohigashi ぶっ飛ばすぞ……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "469904112",
+        "conversation_id": "2061693119385698354",
+        "created_at": "2026-06-02T12:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061780550524993556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2822416724",
+              "start": 0,
+              "username": "rimohigashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061780550524993556",
+        "in_reply_to_user_id": "2822416724",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 63876,
+          "like_count": 239,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061779976131948544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rimohigashi ぶっ飛ばすぞ……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2111,
+          "following_count": 4662,
+          "like_count": 162664,
+          "listed_count": 6,
+          "media_count": 1541,
+          "tweet_count": 6736
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2012-01-21T03:42:06.000Z",
+        "description": "プリキュアのオタクskeb→https://t.co/CQCoJgipBv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@lori_2525",
+                "end": 37,
+                "expanded_url": "https://skeb.jp/@lori_2525",
+                "start": 14,
+                "url": "https://t.co/CQCoJgipBv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCiUqs…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCiUqsJwLB9RMZMC0Xgwol4g",
+                "start": 0,
+                "url": "https://t.co/9pc8bcK4ne"
+              }
+            ]
+          }
+        },
+        "id": "469904112",
+        "location": "日本",
+        "name": "ろり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991136576995528704/xRmTi8sO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7583,
+          "following_count": 678,
+          "like_count": 24138,
+          "listed_count": 61,
+          "media_count": 238,
+          "tweet_count": 20476
+        },
+        "url": "https://t.co/9pc8bcK4ne",
+        "username": "lori_2525",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-20T17:34:13.000Z",
+        "description": "ギャン中、アル中。酒で脳みそがとろけてるキャラクターが安定しない体調不良系アラフィフ🤑基本ポジティブなポストはしません👍\nギャンブルが嫌いです🖕🤬🖕\n競輪が1番嫌いです👎\n胡散臭い垢以外はフォロバするよ。",
+        "id": "2822416724",
+        "name": "宇宙から見たらチリとすら認識されない",
+        "pinned_tweet_id": "1852785110359413245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835365060975157248/cki7zoQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 1276,
+          "like_count": 46392,
+          "listed_count": 3,
+          "media_count": 2320,
+          "tweet_count": 13995
+        },
+        "username": "rimohigashi",
+        "verified": false
+      }
+    ]
+  }
+}

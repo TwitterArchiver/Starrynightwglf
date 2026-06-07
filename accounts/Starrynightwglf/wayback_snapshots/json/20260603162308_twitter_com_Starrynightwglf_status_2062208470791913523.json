@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2062208470791913523",
+    "created_at": "2026-06-03T16:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062208470791913523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1069931275698335744",
+          "start": 3,
+          "username": "TponyS_xiaoma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062208470791913523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061979924320374879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TponyS_xiaoma: 把多元的世界强行变成一元就会得到屎。\n没毛病啊，这不就是在描述异性恋顺性别霸权吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2062208470791913523",
+        "created_at": "2026-06-03T16:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062208470791913523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1069931275698335744",
+              "start": 3,
+              "username": "TponyS_xiaoma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062208470791913523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061979924320374879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TponyS_xiaoma: 把多元的世界强行变成一元就会得到屎。\n没毛病啊，这不就是在描述异性恋顺性别霸权吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1069931275698335744",
+        "conversation_id": "2061979924320374879",
+        "created_at": "2026-06-03T01:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T02:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061979924320374879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alphafox/statu…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/alphafox/status/2061481774811652583",
+              "start": 41,
+              "url": "https://t.co/xbS5VjoLI8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061979924320374879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 10174,
+          "like_count": 517,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061481774811652583",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "把多元的世界强行变成一元就会得到屎。\n没毛病啊，这不就是在描述异性恋顺性别霸权吗 https://t.co/xbS5VjoLI8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 4671,
+          "like_count": 163118,
+          "listed_count": 6,
+          "media_count": 1550,
+          "tweet_count": 6771
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-04T12:27:49.000Z",
+        "description": "",
+        "id": "1069931275698335744",
+        "location": "浙江",
+        "name": "TponyS",
+        "pinned_tweet_id": "2055297632613106174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055113613850144769/k_Qc-JmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17415,
+          "following_count": 362,
+          "like_count": 5509,
+          "listed_count": 120,
+          "media_count": 727,
+          "tweet_count": 6733
+        },
+        "username": "TponyS_xiaoma",
+        "verified": false
+      }
+    ]
+  }
+}

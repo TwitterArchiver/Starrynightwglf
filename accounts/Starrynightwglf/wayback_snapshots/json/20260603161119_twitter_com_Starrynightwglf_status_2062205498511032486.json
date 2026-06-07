@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062205495759552512"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2062143989013209453",
+    "created_at": "2026-06-03T16:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062205498511032486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1874002861971111936",
+          "start": 0,
+          "username": "zxzxovo"
+        },
+        {
+          "end": 22,
+          "id": "1876613242887282688",
+          "start": 9,
+          "username": "liujiayi1111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wcayRjffXe",
+          "end": 63,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2062205498511032486/photo/1",
+          "media_key": "3_2062205495759552512",
+          "start": 40,
+          "url": "https://t.co/wcayRjffXe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062205498511032486",
+    "in_reply_to_user_id": "1874002861971111936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062172539754102793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxzxovo @liujiayi1111 看起来是颜文字有控制字符导致的🤨 https://t.co/wcayRjffXe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2062205495759552512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5s-OybQAA86oQ.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1861,
+        "media_key": "3_2062172534708281344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5O_pTaoAAZb5F.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062205495759552512"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2062143989013209453",
+        "created_at": "2026-06-03T16:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062205498511032486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1874002861971111936",
+              "start": 0,
+              "username": "zxzxovo"
+            },
+            {
+              "end": 22,
+              "id": "1876613242887282688",
+              "start": 9,
+              "username": "liujiayi1111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wcayRjffXe",
+              "end": 63,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2062205498511032486/photo/1",
+              "media_key": "3_2062205495759552512",
+              "start": 40,
+              "url": "https://t.co/wcayRjffXe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062205498511032486",
+        "in_reply_to_user_id": "1874002861971111936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062172539754102793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxzxovo @liujiayi1111 看起来是颜文字有控制字符导致的🤨 https://t.co/wcayRjffXe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062172534708281344"
+          ]
+        },
+        "author_id": "1874002861971111936",
+        "conversation_id": "2062143989013209453",
+        "created_at": "2026-06-03T14:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062172539754102793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/myEZNCfkDs",
+              "end": 51,
+              "expanded_url": "https://x.com/zxzxovo/status/2062172539754102793/photo/1",
+              "media_key": "3_2062172534708281344",
+              "start": 28,
+              "url": "https://t.co/myEZNCfkDs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062172539754102793",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062143989013209453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 神奇诶，点开之后排版乱掉了 https://t.co/myEZNCfkDs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 4670,
+          "like_count": 163104,
+          "listed_count": 6,
+          "media_count": 1550,
+          "tweet_count": 6769
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-31T08:01:22.000Z",
+        "description": "“There's a crack in everything, that's how the light gets in” \n平平无奇的日常推🍭\n记得热爱生活呀(*¯︶¯*)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hizhixia.site",
+                "end": 23,
+                "expanded_url": "https://hizhixia.site",
+                "start": 0,
+                "url": "https://t.co/xOyiQTFna4"
+              }
+            ]
+          }
+        },
+        "id": "1874002861971111936",
+        "location": "Always somewhere",
+        "name": "芷夏(≧ω≦)",
+        "pinned_tweet_id": "1976200214877962642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027879285936295938/IXpC33s5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 611,
+          "like_count": 11682,
+          "listed_count": 2,
+          "media_count": 246,
+          "tweet_count": 1281
+        },
+        "url": "https://t.co/xOyiQTFna4",
+        "username": "zxzxovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "被Tauri伤透两回，再也不喜欢Tauri了！LOL游戏主播。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liujiayi1111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liujiayi1111",
+                "start": 0,
+                "url": "https://t.co/MsaRlYIHJ7"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8511,
+          "following_count": 86,
+          "like_count": 8029,
+          "listed_count": 20,
+          "media_count": 186,
+          "tweet_count": 1359
+        },
+        "url": "https://t.co/MsaRlYIHJ7",
+        "username": "liujiayi1111",
+        "verified": true
+      }
+    ]
+  }
+}

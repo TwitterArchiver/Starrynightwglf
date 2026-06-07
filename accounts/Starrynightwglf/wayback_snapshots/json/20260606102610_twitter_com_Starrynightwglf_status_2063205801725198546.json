@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10042890459",
+          "name": "NVIDIA GeForce"
+        }
+      }
+    ],
+    "conversation_id": "2062966750443159888",
+    "created_at": "2026-06-06T10:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063205801725198546"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 21,
+          "tag": "RTXPowersPlay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "86395621",
+          "start": 0,
+          "username": "NVIDIAGeForce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063205801725198546",
+    "in_reply_to_user_id": "86395621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062966750443159888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NVIDIAGeForce 这也能抽吗🤨#RTXPowersPlay"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12000,
+        "height": 1080,
+        "media_key": "13_2062966665550372865",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062966665550372865/img/4rHMUAI_MubLfnLo.jpg",
+        "public_metrics": {
+          "view_count": 370046
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062966665550372865/pl/EBHITDotcxBqJ59J.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062966665550372865/vid/avc1/320x320/p6b7uHH_IY2VVtFH.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062966665550372865/vid/avc1/1080x1080/9K3zEGZiL9AeHFVr.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062966665550372865/vid/avc1/720x720/d4adH5lkgYdOty5H.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062966665550372865/vid/avc1/540x540/G-fM0yi-MCSZxggp.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10042890459",
+              "name": "NVIDIA GeForce"
+            }
+          }
+        ],
+        "conversation_id": "2062966750443159888",
+        "created_at": "2026-06-06T10:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063205801725198546"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 21,
+              "tag": "RTXPowersPlay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "86395621",
+              "start": 0,
+              "username": "NVIDIAGeForce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063205801725198546",
+        "in_reply_to_user_id": "86395621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062966750443159888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NVIDIAGeForce 这也能抽吗🤨#RTXPowersPlay"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062966665550372865"
+          ]
+        },
+        "author_id": "86395621",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1260268519674920960",
+              "name": "Summer Game Fest"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video game conferences, like E3",
+              "id": "115",
+              "name": "Video Game Conference"
+            },
+            "entity": {
+              "id": "1260268519674920960",
+              "name": "Summer Game Fest"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1260268519674920960",
+              "name": "Summer Game Fest"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291094662682271744",
+              "name": "Gaming events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10042890459",
+              "name": "NVIDIA GeForce"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Geoff Keighley hosts a live video game world premiere showcase from YouTube Theater, with Mortal Kombat 1, Alan Wake 2 and more.",
+              "id": "1665783137895325701",
+              "name": "Summer Game Fest 2023"
+            }
+          }
+        ],
+        "conversation_id": "2062966750443159888",
+        "created_at": "2026-06-05T18:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062966750443159888"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 13,
+              "tag": "SummerGameFest"
+            },
+            {
+              "end": 106,
+              "start": 92,
+              "tag": "RTXPowersPlay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hinn31speA",
+              "end": 140,
+              "expanded_url": "https://x.com/NVIDIAGeForce/status/2062966750443159888/video/1",
+              "media_key": "13_2062966665550372865",
+              "start": 117,
+              "url": "https://t.co/hinn31speA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062966750443159888",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 962,
+          "impression_count": 1586987,
+          "like_count": 11628,
+          "quote_count": 147,
+          "reply_count": 25728,
+          "retweet_count": 1862
+        },
+        "reply_settings": "everyone",
+        "text": "To celebrate #SummerGameFest...\n\nWe have a GeForce RTX 5090 up for grabs👀\n\nWant it? Comment #RTXPowersPlay to enter. https://t.co/hinn31speA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2123,
+          "following_count": 4680,
+          "like_count": 163949,
+          "listed_count": 6,
+          "media_count": 1558,
+          "tweet_count": 6799
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2009-10-30T21:01:49.000Z",
+        "description": "Introducing GeForce RTX 50 Series graphics cards & laptops, powered by NVIDIA Blackwell and AI.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nvidiageforce",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/nvidiageforce",
+                "start": 0,
+                "url": "https://t.co/Ph5zTEZ53L"
+              }
+            ]
+          }
+        },
+        "id": "86395621",
+        "name": "NVIDIA GeForce",
+        "pinned_tweet_id": "2060013398662824409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060010727730298880/OOjCwGcF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3081538,
+          "following_count": 956,
+          "like_count": 6808,
+          "listed_count": 5559,
+          "media_count": 8648,
+          "tweet_count": 18887
+        },
+        "url": "https://t.co/Ph5zTEZ53L",
+        "username": "NVIDIAGeForce",
+        "verified": true
+      }
+    ]
+  }
+}

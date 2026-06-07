@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2061554285176062437",
+    "created_at": "2026-06-01T21:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T22:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061554285176062437"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ishxy1014/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/ishxy1014/status/2061282982443569393",
+          "start": 2,
+          "url": "https://t.co/InEMQfGT9i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061554285176062437",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061282982443569393",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "熊 https://t.co/InEMQfGT9i"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2061554285176062437",
+        "created_at": "2026-06-01T21:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T22:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061554285176062437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ishxy1014/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/ishxy1014/status/2061282982443569393",
+              "start": 2,
+              "url": "https://t.co/InEMQfGT9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061554285176062437",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061282982443569393",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "熊 https://t.co/InEMQfGT9i"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009536613286903808",
+        "conversation_id": "2061282982443569393",
+        "created_at": "2026-06-01T03:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061282982443569393"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061282982443569393",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 209,
+          "impression_count": 176064,
+          "like_count": 6187,
+          "quote_count": 106,
+          "reply_count": 63,
+          "retweet_count": 1997
+        },
+        "reply_settings": "everyone",
+        "text": "죽고싶진않은데 \n더이상 살고싶지도 않다"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2001381216176750880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 4659,
+          "like_count": 162395,
+          "listed_count": 6,
+          "media_count": 1531,
+          "tweet_count": 6707
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-09T08:04:19.000Z",
+        "description": "정병부계:@yahoping \n🙊:@anzueve_1224",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "yahoping"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "anzueve_1224"
+              }
+            ]
+          }
+        },
+        "id": "2009536613286903808",
+        "location": "우울 정병계~",
+        "name": ".",
+        "pinned_tweet_id": "2035006884089143720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044071027022696448/6miD3Ux4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1770,
+          "following_count": 625,
+          "like_count": 15972,
+          "listed_count": 11,
+          "media_count": 191,
+          "tweet_count": 3497
+        },
+        "username": "ishxy1014",
+        "verified": false
+      }
+    ]
+  }
+}

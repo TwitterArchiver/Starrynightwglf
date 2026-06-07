@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062626127357841408",
+        "3_2062626127865344000"
+      ],
+      "media_source_tweet_id": [
+        "2062626129509548111",
+        "2062626129509548111"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2062956843119571409",
+    "created_at": "2026-06-05T17:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T18:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062956843119571409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1703963332020146176",
+          "start": 3,
+          "username": "The_RadicalDino"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U0lTuUdpuO",
+          "end": 114,
+          "expanded_url": "https://x.com/The_RadicalDino/status/2062626129509548111/photo/1",
+          "media_key": "3_2062626127357841408",
+          "start": 91,
+          "url": "https://t.co/U0lTuUdpuO"
+        },
+        {
+          "display_url": "pic.x.com/U0lTuUdpuO",
+          "end": 114,
+          "expanded_url": "https://x.com/The_RadicalDino/status/2062626129509548111/photo/1",
+          "media_key": "3_2062626127865344000",
+          "start": 91,
+          "url": "https://t.co/U0lTuUdpuO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062956843119571409",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 105
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062626129509548111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @The_RadicalDino: May I suggest the scariest of them all: \nChinese high School Backroom https://t.co/U0lTuUdpuO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 597,
+        "media_key": "3_2062626127357841408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_riNmakAAEQiq.jpg",
+        "width": 335
+      },
+      {
+        "height": 853,
+        "media_key": "3_2062626127865344000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_riPfacAAT6xS.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062626127357841408",
+            "3_2062626127865344000"
+          ],
+          "media_source_tweet_id": [
+            "2062626129509548111",
+            "2062626129509548111"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2062956843119571409",
+        "created_at": "2026-06-05T17:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062956843119571409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1703963332020146176",
+              "start": 3,
+              "username": "The_RadicalDino"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U0lTuUdpuO",
+              "end": 114,
+              "expanded_url": "https://x.com/The_RadicalDino/status/2062626129509548111/photo/1",
+              "media_key": "3_2062626127357841408",
+              "start": 91,
+              "url": "https://t.co/U0lTuUdpuO"
+            },
+            {
+              "display_url": "pic.x.com/U0lTuUdpuO",
+              "end": 114,
+              "expanded_url": "https://x.com/The_RadicalDino/status/2062626129509548111/photo/1",
+              "media_key": "3_2062626127865344000",
+              "start": 91,
+              "url": "https://t.co/U0lTuUdpuO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062956843119571409",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 105
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062626129509548111",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @The_RadicalDino: May I suggest the scariest of them all: \nChinese high School Backroom https://t.co/U0lTuUdpuO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062626127357841408",
+            "3_2062626127865344000"
+          ]
+        },
+        "author_id": "1703963332020146176",
+        "conversation_id": "2062626129509548111",
+        "created_at": "2026-06-04T20:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T21:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062626129509548111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U0lTuUdpuO",
+              "end": 93,
+              "expanded_url": "https://x.com/The_RadicalDino/status/2062626129509548111/photo/1",
+              "media_key": "3_2062626127357841408",
+              "start": 70,
+              "url": "https://t.co/U0lTuUdpuO"
+            },
+            {
+              "display_url": "pic.x.com/U0lTuUdpuO",
+              "end": 93,
+              "expanded_url": "https://x.com/The_RadicalDino/status/2062626129509548111/photo/1",
+              "media_key": "3_2062626127865344000",
+              "start": 70,
+              "url": "https://t.co/U0lTuUdpuO"
+            },
+            {
+              "display_url": "x.com/nr4CES/status/…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/nr4CES/status/2062286548712689993",
+              "start": 94,
+              "url": "https://t.co/XldSSAWysO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062626129509548111",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 261191,
+          "like_count": 1321,
+          "quote_count": 11,
+          "reply_count": 5,
+          "retweet_count": 105
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062286548712689993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "May I suggest the scariest of them all: \nChinese high School Backroom https://t.co/U0lTuUdpuO https://t.co/XldSSAWysO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2121,
+          "following_count": 4676,
+          "like_count": 163711,
+          "listed_count": 6,
+          "media_count": 1557,
+          "tweet_count": 6793
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-19T02:45:23.000Z",
+        "description": "They/He\nThe Lord of Shang-Yang!\nChinese Libertarian Socialist who's also a Zoologist! \nConservation, Zoology, and Political Philosophy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@TheRadicalDin…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@TheRadicalDino?si=PmyaI9AwRSrJVOTB",
+                "start": 0,
+                "url": "https://t.co/MAnua6sdOJ"
+              }
+            ]
+          }
+        },
+        "id": "1703963332020146176",
+        "location": "Shang-Yang, Western Provinces",
+        "name": "The RadicalDino",
+        "pinned_tweet_id": "1881081013289529702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705807724054020096/43vUbgkn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2971,
+          "following_count": 1144,
+          "like_count": 407567,
+          "listed_count": 13,
+          "media_count": 1244,
+          "tweet_count": 19017
+        },
+        "url": "https://t.co/MAnua6sdOJ",
+        "username": "The_RadicalDino",
+        "verified": false
+      }
+    ]
+  }
+}

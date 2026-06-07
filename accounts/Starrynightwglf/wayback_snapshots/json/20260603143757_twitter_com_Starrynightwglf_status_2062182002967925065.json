@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2062182002967925065",
+    "created_at": "2026-06-03T14:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T15:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062182002967925065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/x_nyako_x/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/x_nyako_x/status/2061864003987734621",
+          "start": 5,
+          "url": "https://t.co/OuRpqX67Cv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062182002967925065",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061864003987734621",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诗音之歌 https://t.co/OuRpqX67Cv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2061863494841249792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ017KFbsAAaUBF.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2062182002967925065",
+        "created_at": "2026-06-03T14:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062182002967925065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x_nyako_x/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/x_nyako_x/status/2061864003987734621",
+              "start": 5,
+              "url": "https://t.co/OuRpqX67Cv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062182002967925065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061864003987734621",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诗音之歌 https://t.co/OuRpqX67Cv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061863494841249792"
+          ]
+        },
+        "author_id": "1527858693164834816",
+        "conversation_id": "2061864003987734621",
+        "created_at": "2026-06-02T17:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061864003987734621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6KN7cpWQhg",
+              "end": 27,
+              "expanded_url": "https://x.com/x_nyako_x/status/2061864003987734621/photo/1",
+              "media_key": "3_2061863494841249792",
+              "start": 4,
+              "url": "https://t.co/6KN7cpWQhg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061864003987734621",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 369,
+          "impression_count": 44321,
+          "like_count": 3407,
+          "quote_count": 21,
+          "reply_count": 1,
+          "retweet_count": 763
+        },
+        "reply_settings": "following",
+        "text": "💚⚡️ https://t.co/6KN7cpWQhg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2112,
+          "following_count": 4669,
+          "like_count": 163044,
+          "listed_count": 6,
+          "media_count": 1548,
+          "tweet_count": 6764
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-21T03:48:06.000Z",
+        "description": "ʚ nyako / にゃこ ɞ \n練習🎨🖌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/x-nyak…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/x-nyako-x.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Lp1399gEWd"
+              }
+            ]
+          }
+        },
+        "id": "1527858693164834816",
+        "location": "AI🚫",
+        "name": "nyako",
+        "pinned_tweet_id": "1883921531321102820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923238950346555393/6T8A3NhU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2334,
+          "following_count": 21,
+          "like_count": 1041,
+          "listed_count": 14,
+          "media_count": 130,
+          "tweet_count": 342
+        },
+        "url": "https://t.co/Lp1399gEWd",
+        "username": "x_nyako_x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2062210591067111915",
+    "created_at": "2026-06-03T16:37:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:37:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062211998033805765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634944403872833536",
+          "start": 0,
+          "username": "wmy072011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062211998033805765",
+    "in_reply_to_user_id": "1634944403872833536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062210591067111915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmy072011 以人类目前的意志力完全无法抵抗此等萌物"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6707,
+        "height": 1280,
+        "media_key": "13_2062210496506527748",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062210496506527748/img/WfVIXbxh_mlHKYIM.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062210496506527748/vid/avc1/320x568/AhZ5dmgPPfhiylck.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062210496506527748/vid/avc1/480x852/2MZNcjtMlvO7k5DC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062210496506527748/vid/avc1/720x1280/dpeu8r0w7chCt0VR.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062210496506527748/pl/enKCZcSzVVdavyQJ.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2062210496502398976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5xhUAbgAAyBo1.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2062210591067111915",
+        "created_at": "2026-06-03T16:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062211998033805765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634944403872833536",
+              "start": 0,
+              "username": "wmy072011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062211998033805765",
+        "in_reply_to_user_id": "1634944403872833536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062210591067111915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmy072011 以人类目前的意志力完全无法抵抗此等萌物"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062210496506527748",
+            "3_2062210496502398976"
+          ]
+        },
+        "author_id": "1634944403872833536",
+        "conversation_id": "2062210591067111915",
+        "created_at": "2026-06-03T16:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062210591067111915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UipFHXfimT",
+              "end": 53,
+              "expanded_url": "https://x.com/wmy072011/status/2062210591067111915/video/1",
+              "media_key": "13_2062210496506527748",
+              "start": 30,
+              "url": "https://t.co/UipFHXfimT"
+            },
+            {
+              "display_url": "pic.x.com/UipFHXfimT",
+              "end": 53,
+              "expanded_url": "https://x.com/wmy072011/status/2062210591067111915/video/1",
+              "media_key": "3_2062210496502398976",
+              "start": 30,
+              "url": "https://t.co/UipFHXfimT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062210591067111915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特别喜欢今天的头发 然后朋友今天画了我的头发 嘻嘻嘻嘻嘻 https://t.co/UipFHXfimT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 4671,
+          "like_count": 163128,
+          "listed_count": 6,
+          "media_count": 1550,
+          "tweet_count": 6773
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "",
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1808,
+          "following_count": 464,
+          "like_count": 50283,
+          "listed_count": 1,
+          "media_count": 1607,
+          "tweet_count": 15674
+        },
+        "username": "wmy072011",
+        "verified": false
+      }
+    ]
+  }
+}
