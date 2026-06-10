@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      }
+    ],
+    "conversation_id": "2063200866472214724",
+    "created_at": "2026-06-06T10:06:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063200866472214724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8HgewIx4pGoFC6…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/8HgewIx4pGoFC62/status/2062888086108028990",
+          "start": 14,
+          "url": "https://t.co/mexD9rD4JO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063200866472214724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062888086108028990",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "蝉在叫，风坏掉...... https://t.co/mexD9rD4JO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2062888081406193664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDZx8eacAAD76Q.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          }
+        ],
+        "conversation_id": "2063200866472214724",
+        "created_at": "2026-06-06T10:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063200866472214724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8HgewIx4pGoFC6…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/8HgewIx4pGoFC62/status/2062888086108028990",
+              "start": 14,
+              "url": "https://t.co/mexD9rD4JO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063200866472214724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062888086108028990",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蝉在叫，风坏掉...... https://t.co/mexD9rD4JO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062888081406193664"
+          ]
+        },
+        "author_id": "1213949625444392960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          }
+        ],
+        "conversation_id": "2062888086108028990",
+        "created_at": "2026-06-05T13:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062888086108028990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7DqVddITyQ",
+              "end": 58,
+              "expanded_url": "https://x.com/8HgewIx4pGoFC62/status/2062888086108028990/photo/1",
+              "media_key": "3_2062888081406193664",
+              "start": 35,
+              "url": "https://t.co/7DqVddITyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062888086108028990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 5230,
+          "like_count": 310,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "6月と言えば、ひぐらしのなく頃にだよなぁ！って人どのくらいいるかな🧐 https://t.co/7DqVddITyQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2123,
+          "following_count": 4680,
+          "like_count": 163946,
+          "listed_count": 6,
+          "media_count": 1558,
+          "tweet_count": 6797
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-05T22:25:31.000Z",
+        "description": "アニメ、漫画好きでひぐらし/うみねこ /あそびあそばせが特に好きです、Vtuberのおめシスも好きなんです^_^無言フォロー失礼します",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "higurashianime.com",
+                "end": 23,
+                "expanded_url": "https://higurashianime.com",
+                "start": 0,
+                "url": "https://t.co/vHDWXJroGO"
+              }
+            ]
+          }
+        },
+        "id": "1213949625444392960",
+        "location": "東京 ",
+        "name": "竜宮",
+        "pinned_tweet_id": "1394905485476655106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1358292078745116681/mHPc1Ocp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 1105,
+          "like_count": 84697,
+          "listed_count": 12,
+          "media_count": 2291,
+          "tweet_count": 10247
+        },
+        "url": "https://t.co/vHDWXJroGO",
+        "username": "8HgewIx4pGoFC62",
+        "verified": false
+      }
+    ]
+  }
+}

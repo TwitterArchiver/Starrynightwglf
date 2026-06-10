@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2063724790905733487",
+    "created_at": "2026-06-07T20:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T21:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063724790905733487"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xlvrxsam/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/xlvrxsam/status/2063570033993765080",
+          "start": 7,
+          "url": "https://t.co/tMW28k7S74"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063724790905733487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063570033993765080",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "换了十个蓝球 https://t.co/tMW28k7S74"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2063724790905733487",
+        "created_at": "2026-06-07T20:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T21:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063724790905733487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xlvrxsam/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/xlvrxsam/status/2063570033993765080",
+              "start": 7,
+              "url": "https://t.co/tMW28k7S74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063724790905733487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063570033993765080",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "换了十个蓝球 https://t.co/tMW28k7S74"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653415374606548994",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2063570033993765080",
+        "created_at": "2026-06-07T10:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063570033993765080"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063570033993765080",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 74512,
+          "like_count": 1278,
+          "quote_count": 386,
+          "reply_count": 410,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "what was the stupidest thing yall did in genshin early game?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2123,
+          "following_count": 4703,
+          "like_count": 164723,
+          "listed_count": 6,
+          "media_count": 1562,
+          "tweet_count": 6832
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-02T15:05:38.000Z",
+        "description": "🇮🇹\n— that one oomf thats too furina ~ || might post or rtwt nsfw stuff at times !",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xlvrxsam.straw.page",
+                "end": 23,
+                "expanded_url": "https://xlvrxsam.straw.page",
+                "start": 0,
+                "url": "https://t.co/rwb5f0mJov"
+              }
+            ]
+          }
+        },
+        "id": "1653415374606548994",
+        "location": "Palais Mermonia",
+        "name": "Sam",
+        "pinned_tweet_id": "2059339244452057092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062129028060852225/DDX83-z1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 439,
+          "like_count": 20741,
+          "listed_count": 5,
+          "media_count": 1348,
+          "tweet_count": 11253
+        },
+        "url": "https://t.co/rwb5f0mJov",
+        "username": "xlvrxsam",
+        "verified": false
+      }
+    ]
+  }
+}

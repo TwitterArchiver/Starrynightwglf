@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2063732361003716965",
+    "created_at": "2026-06-07T21:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T22:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063732361003716965"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CHIMUTANCUTE/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/CHIMUTANCUTE/status/2063526770100584666",
+          "start": 7,
+          "url": "https://t.co/2JlZivbTGB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063732361003716965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063526770100584666",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的吗真的吗 https://t.co/2JlZivbTGB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2063732361003716965",
+        "created_at": "2026-06-07T21:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T22:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063732361003716965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CHIMUTANCUTE/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/CHIMUTANCUTE/status/2063526770100584666",
+              "start": 7,
+              "url": "https://t.co/2JlZivbTGB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063732361003716965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063526770100584666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的吗真的吗 https://t.co/2JlZivbTGB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038709743477473280",
+        "conversation_id": "2063526770100584666",
+        "created_at": "2026-06-07T07:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063526770100584666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063526770100584666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 433,
+          "impression_count": 657009,
+          "like_count": 3278,
+          "quote_count": 82,
+          "reply_count": 81,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "首吊りって苦しいって言うけど全然苦しくなかった。首吊った3秒後にはもう意識失ってた"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2123,
+          "following_count": 4705,
+          "like_count": 164833,
+          "listed_count": 6,
+          "media_count": 1562,
+          "tweet_count": 6842
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-30T20:09:00.000Z",
+        "description": "本垢@kiqurc_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "kiqurc_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@kiqurc_?_r=1&…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@kiqurc_?_r=1&_t=ZS-96YkKCTxaGf",
+                "start": 0,
+                "url": "https://t.co/zwC28H78mG"
+              }
+            ]
+          }
+        },
+        "id": "2038709743477473280",
+        "name": "でんげきもえおうちゃん！",
+        "pinned_tweet_id": "2057620417792352699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063212786952622080/QvChkg8h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 28,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 71
+        },
+        "url": "https://t.co/zwC28H78mG",
+        "username": "CHIMUTANCUTE",
+        "verified": false
+      }
+    ]
+  }
+}

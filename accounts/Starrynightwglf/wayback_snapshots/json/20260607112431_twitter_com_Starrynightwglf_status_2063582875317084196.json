@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063301427498553344"
+      ],
+      "media_source_tweet_id": [
+        "2063301432393273693"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2063582875317084196",
+    "created_at": "2026-06-07T11:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T12:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063582875317084196"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 18,
+          "tag": "ひぐらしFA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1643628325686919168",
+          "start": 3,
+          "username": "karu_illust_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5fG4gNOpJC",
+          "end": 49,
+          "expanded_url": "https://x.com/karu_illust_/status/2063301432393273693/photo/1",
+          "media_key": "3_2063301427498553344",
+          "start": 26,
+          "url": "https://t.co/5fG4gNOpJC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063582875317084196",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 241
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063301432393273693",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @karu_illust_: #ひぐらしFA https://t.co/5fG4gNOpJC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063301427498553344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJRt2qbkAAF-Fl.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063301427498553344"
+          ],
+          "media_source_tweet_id": [
+            "2063301432393273693"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2063582875317084196",
+        "created_at": "2026-06-07T11:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063582875317084196"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "ひぐらしFA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1643628325686919168",
+              "start": 3,
+              "username": "karu_illust_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5fG4gNOpJC",
+              "end": 49,
+              "expanded_url": "https://x.com/karu_illust_/status/2063301432393273693/photo/1",
+              "media_key": "3_2063301427498553344",
+              "start": 26,
+              "url": "https://t.co/5fG4gNOpJC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063582875317084196",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 241
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063301432393273693",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @karu_illust_: #ひぐらしFA https://t.co/5fG4gNOpJC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063301427498553344"
+          ]
+        },
+        "author_id": "1643628325686919168",
+        "conversation_id": "2063301432393273693",
+        "created_at": "2026-06-06T16:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063301432393273693"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "ひぐらしFA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5fG4gNOpJC",
+              "end": 31,
+              "expanded_url": "https://x.com/karu_illust_/status/2063301432393273693/photo/1",
+              "media_key": "3_2063301427498553344",
+              "start": 8,
+              "url": "https://t.co/5fG4gNOpJC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063301432393273693",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 10441,
+          "like_count": 1134,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 241
+        },
+        "reply_settings": "everyone",
+        "text": "#ひぐらしFA https://t.co/5fG4gNOpJC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2124,
+          "following_count": 4695,
+          "like_count": 164292,
+          "listed_count": 6,
+          "media_count": 1558,
+          "tweet_count": 6810
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-05T14:55:15.000Z",
+        "description": "お絵描きしてます\n上手になれるように研究中！！\n\n【🚫禁止事項 / Prohibited】\n無断転載・自作発言・AI学習禁止\nNo Repost / No AI training.",
+        "id": "1643628325686919168",
+        "name": "月森 かる",
+        "pinned_tweet_id": "2060925495332737477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054237783083110400/HpHlX6KW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 13,
+          "like_count": 40,
+          "listed_count": 3,
+          "media_count": 33,
+          "tweet_count": 129
+        },
+        "username": "karu_illust_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063656924252672000"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2063656929994620939",
+    "created_at": "2026-06-07T16:18:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063656929994620939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D2QRS3IRjB",
+          "end": 59,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2063656929994620939/photo/1",
+          "media_key": "3_2063656924252672000",
+          "start": 36,
+          "url": "https://t.co/D2QRS3IRjB"
+        },
+        {
+          "display_url": "x.com/SakurasakaRiko…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/SakurasakaRiko/status/2063649841113379033",
+          "start": 60,
+          "url": "https://t.co/FNuhvlBrD4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063656929994620939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063649841113379033",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "热知识：可以跳级买华为硕士版，别人都在用本科版你用硕士版这不遥遥领先😸 https://t.co/D2QRS3IRjB https://t.co/FNuhvlBrD4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2063656924252672000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOVCfRbEAANtf2.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063656924252672000"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2063656929994620939",
+        "created_at": "2026-06-07T16:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063656929994620939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D2QRS3IRjB",
+              "end": 59,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2063656929994620939/photo/1",
+              "media_key": "3_2063656924252672000",
+              "start": 36,
+              "url": "https://t.co/D2QRS3IRjB"
+            },
+            {
+              "display_url": "x.com/SakurasakaRiko…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/SakurasakaRiko/status/2063649841113379033",
+              "start": 60,
+              "url": "https://t.co/FNuhvlBrD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063656929994620939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063649841113379033",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "热知识：可以跳级买华为硕士版，别人都在用本科版你用硕士版这不遥遥领先😸 https://t.co/D2QRS3IRjB https://t.co/FNuhvlBrD4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735728536827334657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2063649841113379033",
+        "created_at": "2026-06-07T15:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063649841113379033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063649841113379033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给所有准备高考完买新设备的准大学生们一个忠告：\n⚠️不要买华为的电脑⚠️\n尤其是鸿蒙系统的\n\n你可以买华为的手机，华为的平板，这些不说好用，多少也是个能用，但是电脑真的不要碰华为鸿蒙。\n\n不管你是多么小众的专业，多么偏文科，你家里多么喜欢华为，宁可不要电脑也不要去买一台鸿蒙电脑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2123,
+          "following_count": 4702,
+          "like_count": 164622,
+          "listed_count": 6,
+          "media_count": 1560,
+          "tweet_count": 6827
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-15T18:28:33.000Z",
+        "description": "日本語🇯🇵/中文🇨🇳/EN🇺🇸🇬🇧 OK\n喜欢玩各种音游的普通玩家，数码设备爱好者\n maimai 樱桃堇晓橙白熊华超檄辉将持有，真神持有\n你可以称呼我为riko或者璃子\n全球各地旅游中，偶尔发发酒店评价\n⬛️🟨⬛️🟪⬛️🟨⬛️🟪⬛️🟨⬛️",
+        "id": "1735728536827334657",
+        "location": "Tokyo",
+        "name": "樱坂璃子Riko",
+        "pinned_tweet_id": "2045383031490560228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054559274341392384/IBqpzPWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 173,
+          "like_count": 4472,
+          "listed_count": 3,
+          "media_count": 177,
+          "tweet_count": 1482
+        },
+        "username": "SakurasakaRiko",
+        "verified": true
+      }
+    ]
+  }
+}

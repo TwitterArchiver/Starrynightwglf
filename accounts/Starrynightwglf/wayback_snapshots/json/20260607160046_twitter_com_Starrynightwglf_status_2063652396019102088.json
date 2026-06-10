@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2063652396019102088",
+    "created_at": "2026-06-07T16:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063652396019102088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2031345771254255616",
+          "start": 3,
+          "username": "homesick_swm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063652396019102088",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9794
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063314127205097784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @homesick_swm: 다들 노력하고 정말 열심히하는데\n나만 병신같이 처울고 처먹고 처자고 핸드폰만 처보고"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2063652396019102088",
+        "created_at": "2026-06-07T16:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063652396019102088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2031345771254255616",
+              "start": 3,
+              "username": "homesick_swm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063652396019102088",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9794
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063314127205097784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @homesick_swm: 다들 노력하고 정말 열심히하는데\n나만 병신같이 처울고 처먹고 처자고 핸드폰만 처보고"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031345771254255616",
+        "conversation_id": "2063314127205097784",
+        "created_at": "2026-06-06T17:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063314127205097784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063314127205097784",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1866,
+          "impression_count": 1150709,
+          "like_count": 38945,
+          "quote_count": 1055,
+          "reply_count": 155,
+          "retweet_count": 9794
+        },
+        "reply_settings": "everyone",
+        "text": "다들 노력하고 정말 열심히하는데\n나만 병신같이 처울고 처먹고 처자고 핸드폰만 처보고"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2123,
+          "following_count": 4702,
+          "like_count": 164602,
+          "listed_count": 6,
+          "media_count": 1559,
+          "tweet_count": 6824
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-10T12:25:56.000Z",
+        "description": "도!망!가!자!도!피!하!자!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/homesick_swm",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/homesick_swm",
+                "start": 0,
+                "url": "https://t.co/FwZpHo4hJg"
+              }
+            ]
+          }
+        },
+        "id": "2031345771254255616",
+        "location": "썅노무시끼 / 시험기간이라 접속, 연락 느립니다 T.T",
+        "name": "썅끼",
+        "pinned_tweet_id": "2043155358252933245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053401887832203264/qNTF4THN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2500,
+          "following_count": 92,
+          "like_count": 8648,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 982
+        },
+        "url": "https://t.co/FwZpHo4hJg",
+        "username": "homesick_swm",
+        "verified": false
+      }
+    ]
+  }
+}
