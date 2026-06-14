@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063990488731160577"
+      ],
+      "media_source_tweet_id": [
+        "2063990495219687607"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2064044856876704135",
+    "created_at": "2026-06-08T18:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T19:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064044856876704135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2782049042",
+          "start": 3,
+          "username": "mimacbr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/71oY5MJNzM",
+          "end": 36,
+          "expanded_url": "https://x.com/mimacbr/status/2063990495219687607/photo/1",
+          "media_key": "3_2063990488731160577",
+          "start": 13,
+          "url": "https://t.co/71oY5MJNzM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064044856876704135",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1279
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063990495219687607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mimacbr: https://t.co/71oY5MJNzM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1006,
+        "media_key": "3_2063990488731160577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTEafybEAE0mSw.jpg",
+        "width": 1764
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063990488731160577"
+          ],
+          "media_source_tweet_id": [
+            "2063990495219687607"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2064044856876704135",
+        "created_at": "2026-06-08T18:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T19:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064044856876704135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2782049042",
+              "start": 3,
+              "username": "mimacbr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/71oY5MJNzM",
+              "end": 36,
+              "expanded_url": "https://x.com/mimacbr/status/2063990495219687607/photo/1",
+              "media_key": "3_2063990488731160577",
+              "start": 13,
+              "url": "https://t.co/71oY5MJNzM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064044856876704135",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1279
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063990495219687607",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mimacbr: https://t.co/71oY5MJNzM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063990488731160577"
+          ]
+        },
+        "author_id": "2782049042",
+        "conversation_id": "2063990495219687607",
+        "created_at": "2026-06-08T14:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063990495219687607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/71oY5MJNzM",
+              "end": 23,
+              "expanded_url": "https://x.com/mimacbr/status/2063990495219687607/photo/1",
+              "media_key": "3_2063990488731160577",
+              "start": 0,
+              "url": "https://t.co/71oY5MJNzM"
+            },
+            {
+              "display_url": "x.com/shorty2kiss/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/shorty2kiss/status/2062839940598161409",
+              "start": 24,
+              "url": "https://t.co/Qt4WX9lDFf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063990495219687607",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 305,
+          "impression_count": 41816,
+          "like_count": 5623,
+          "quote_count": 17,
+          "reply_count": 5,
+          "retweet_count": 1279
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062839940598161409",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/71oY5MJNzM https://t.co/Qt4WX9lDFf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2125,
+          "following_count": 4708,
+          "like_count": 165306,
+          "listed_count": 6,
+          "media_count": 1565,
+          "tweet_count": 6858
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-31T10:34:02.000Z",
+        "description": "20+ | โฮโระจัง | csm×nier×evangelionxkny | meiji au 🎎 | scaracest ☔️☂️🌂| live, laugh, love, kabubu 🌸 | Fujimotoism🪚 | Franz Kafka save me | 🍰🍯@_m00nnle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 142,
+                "username": "_m00nnle"
+              }
+            ]
+          }
+        },
+        "id": "2782049042",
+        "location": "☀️Heaven",
+        "name": "mima ft. mkm-san’s dog🐾 wdr’s tea🍵 : 放浪者中心",
+        "pinned_tweet_id": "1832288844034543773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027439537002262528/VvvpgAHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10538,
+          "following_count": 543,
+          "like_count": 178228,
+          "listed_count": 25,
+          "media_count": 8413,
+          "tweet_count": 107940
+        },
+        "username": "mimacbr",
+        "verified": false
+      }
+    ]
+  }
+}

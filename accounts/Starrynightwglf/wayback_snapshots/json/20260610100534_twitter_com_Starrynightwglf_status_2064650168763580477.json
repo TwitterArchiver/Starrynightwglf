@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064650162237263872",
+        "3_2064650162530877440"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2064650168763580477",
+    "created_at": "2026-06-10T10:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064650168763580477"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hoXznnqQPn",
+          "end": 75,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2064650168763580477/photo/1",
+          "media_key": "3_2064650162237263872",
+          "start": 52,
+          "url": "https://t.co/hoXznnqQPn"
+        },
+        {
+          "display_url": "pic.x.com/hoXznnqQPn",
+          "end": 75,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2064650168763580477/photo/1",
+          "media_key": "3_2064650162530877440",
+          "start": 52,
+          "url": "https://t.co/hoXznnqQPn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064650168763580477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "巧克力味好浓这个而且才一块五🤤\n感觉泡热牛奶里口感会很奇妙🤤\n\n又去批发店买了一大袋雪糕塞满冰箱了呢🤤 https://t.co/hoXznnqQPn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2064650162237263872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKccYjGa0AAswCS.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2064650162530877440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKccYkMbAAArkon.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064650162237263872",
+            "3_2064650162530877440"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064650168763580477",
+        "created_at": "2026-06-10T10:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064650168763580477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hoXznnqQPn",
+              "end": 75,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2064650168763580477/photo/1",
+              "media_key": "3_2064650162237263872",
+              "start": 52,
+              "url": "https://t.co/hoXznnqQPn"
+            },
+            {
+              "display_url": "pic.x.com/hoXznnqQPn",
+              "end": 75,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2064650168763580477/photo/1",
+              "media_key": "3_2064650162530877440",
+              "start": 52,
+              "url": "https://t.co/hoXznnqQPn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064650168763580477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "巧克力味好浓这个而且才一块五🤤\n感觉泡热牛奶里口感会很奇妙🤤\n\n又去批发店买了一大袋雪糕塞满冰箱了呢🤤 https://t.co/hoXznnqQPn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2137,
+          "following_count": 4716,
+          "like_count": 166374,
+          "listed_count": 6,
+          "media_count": 1570,
+          "tweet_count": 6884
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2064504054873743721",
+    "created_at": "2026-06-10T00:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T01:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064504054873743721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1936628009999745024",
+          "start": 3,
+          "username": "otonashikotoba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064504054873743721",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 604
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064278868383470003",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @otonashikotoba: たぶん一生忘れない話。 ADHDあるあるの先延ばし癖がひどすぎて、知り合いの精神科医に『どうやったらやる気を出せますか？』って聞いてみた。 \n\n「目標を細かく立てろ」「ご褒美を用意しろ」…みたいな答えを期待してたんだけど、返ってきたのは衝…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2064504054873743721",
+        "created_at": "2026-06-10T00:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T01:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064504054873743721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1936628009999745024",
+              "start": 3,
+              "username": "otonashikotoba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064504054873743721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 604
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064278868383470003",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @otonashikotoba: たぶん一生忘れない話。 ADHDあるあるの先延ばし癖がひどすぎて、知り合いの精神科医に『どうやったらやる気を出せますか？』って聞いてみた。 \n\n「目標を細かく立てろ」「ご褒美を用意しろ」…みたいな答えを期待してたんだけど、返ってきたのは衝…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936628009999745024",
+        "conversation_id": "2064278868383470003",
+        "created_at": "2026-06-09T09:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064278868383470003"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064278868383470003",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6571,
+          "impression_count": 3238162,
+          "like_count": 7332,
+          "quote_count": 65,
+          "reply_count": 174,
+          "retweet_count": 604
+        },
+        "reply_settings": "everyone",
+        "text": "たぶん一生忘れない話。 ADHDあるあるの先延ばし癖がひどすぎて、知り合いの精神科医に『どうやったらやる気を出せますか？』って聞いてみた。 \n\n「目標を細かく立てろ」「ご褒美を用意しろ」…みたいな答えを期待してたんだけど、返ってきたのは衝撃の一言で…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2134,
+          "following_count": 4715,
+          "like_count": 165935,
+          "listed_count": 6,
+          "media_count": 1568,
+          "tweet_count": 6876
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-22T03:31:24.000Z",
+        "description": "WEBマーケ会社の社長/集中できない・すぐ気が散るADHD/HSPの生きづらさを解消するヒントを発信。 脳科学×心理学ベースで 特性を「武器」に変える行動術・収入アップ術を発信。PRやSNS運用代行はDMで/ 無理せず自分らしい働き方を実現する方法👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sub.wismagic21.com/p/DRBMXoRgenq0",
+                "end": 23,
+                "expanded_url": "https://sub.wismagic21.com/p/DRBMXoRgenq0",
+                "start": 0,
+                "url": "https://t.co/IVz87viBSM"
+              }
+            ]
+          }
+        },
+        "id": "1936628009999745024",
+        "name": "セナ@ADHDを才能に変える思考法",
+        "pinned_tweet_id": "2061387407711260879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966498325559115776/0ts0P4uP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47428,
+          "following_count": 149,
+          "like_count": 3775,
+          "listed_count": 172,
+          "media_count": 186,
+          "tweet_count": 11136
+        },
+        "url": "https://t.co/IVz87viBSM",
+        "username": "otonashikotoba",
+        "verified": true
+      }
+    ]
+  }
+}
