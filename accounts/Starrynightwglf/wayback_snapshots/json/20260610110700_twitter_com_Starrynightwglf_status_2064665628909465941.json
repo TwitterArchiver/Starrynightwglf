@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2064660614337974570",
+    "created_at": "2026-06-10T11:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T12:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064665628909465941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634944403872833536",
+          "start": 0,
+          "username": "wmy072011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064665628909465941",
+    "in_reply_to_user_id": "1634944403872833536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064660614337974570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmy072011 宝宝本来就很好看呀^^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2064660614337974570",
+        "created_at": "2026-06-10T11:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064665628909465941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634944403872833536",
+              "start": 0,
+              "username": "wmy072011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064665628909465941",
+        "in_reply_to_user_id": "1634944403872833536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064660614337974570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmy072011 宝宝本来就很好看呀^^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634944403872833536",
+        "conversation_id": "2064660614337974570",
+        "created_at": "2026-06-10T10:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064660614337974570"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064660614337974570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好开心。今天我的头发被人夸好看了 嘻嘻嘻嘻嘻 我每天用夹板弄那么久头发当然好看了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2137,
+          "following_count": 4716,
+          "like_count": 166398,
+          "listed_count": 6,
+          "media_count": 1570,
+          "tweet_count": 6887
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "恋人@MercuricCyanide",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "MercuricCyanide"
+              }
+            ]
+          }
+        },
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1870,
+          "following_count": 472,
+          "like_count": 51488,
+          "listed_count": 1,
+          "media_count": 1630,
+          "tweet_count": 15993
+        },
+        "username": "wmy072011",
+        "verified": false
+      }
+    ]
+  }
+}

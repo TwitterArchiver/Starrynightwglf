@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2064983586995142712",
+    "created_at": "2026-06-11T12:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065048063744549195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "929286186824220673",
+          "start": 0,
+          "username": "LihaiGeUpasaka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065048063744549195",
+    "in_reply_to_user_id": "929286186824220673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065047638333137159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LihaiGeUpasaka 通识课也要这样写吗，好辛苦😥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2064983586995142712",
+        "created_at": "2026-06-11T12:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065048063744549195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "929286186824220673",
+              "start": 0,
+              "username": "LihaiGeUpasaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065048063744549195",
+        "in_reply_to_user_id": "929286186824220673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065047638333137159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LihaiGeUpasaka 通识课也要这样写吗，好辛苦😥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "929286186824220673",
+        "conversation_id": "2064983586995142712",
+        "created_at": "2026-06-11T12:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065047638333137159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1563508655256850433",
+              "start": 0,
+              "username": "Starrynightwglf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065047638333137159",
+        "in_reply_to_user_id": "1563508655256850433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064983586995142712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starrynightwglf 我们当年是从知网查个十几篇相关文献，手动修改措辞拼贴写出来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2145,
+          "following_count": 4722,
+          "like_count": 166707,
+          "listed_count": 6,
+          "media_count": 1593,
+          "tweet_count": 6936
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-11T09:54:27.000Z",
+        "description": "知津 || Chemistry/Archaeology || 复发性阿弗他口炎、ALDH2酶缺乏症、轴性近视伴规则散光 || 且愛路岐通南北，敢憑蠡測笑江湖。\n||一丸涼月，墮似他心 @NWA12302 || 头像/アイコン @cheriko_24",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "NWA12302"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cheriko_24"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LihaiZhaiUpasa…",
+                "end": 23,
+                "expanded_url": "http://t.me/LihaiZhaiUpasaka",
+                "start": 0,
+                "url": "https://t.co/cy3GVnQu9B"
+              }
+            ]
+          }
+        },
+        "id": "929286186824220673",
+        "location": "駕言隨子聽所之",
+        "name": "蠡海",
+        "pinned_tweet_id": "1407219840251695113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044754337277370368/UFWgGx8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1829,
+          "following_count": 502,
+          "like_count": 87716,
+          "listed_count": 29,
+          "media_count": 2231,
+          "tweet_count": 19892
+        },
+        "url": "https://t.co/cy3GVnQu9B",
+        "username": "LihaiGeUpasaka",
+        "verified": false
+      }
+    ]
+  }
+}

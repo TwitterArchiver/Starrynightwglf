@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2066014891610349731",
+    "created_at": "2026-06-14T09:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T10:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066084637961748677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1077035952655163392",
+          "start": 0,
+          "username": "sacrificeQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066084637961748677",
+    "in_reply_to_user_id": "1077035952655163392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066014891610349731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sacrificeQAQ 我去八院"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2066014865228267520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKv1kt6bgAA86l-.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2066014891610349731",
+        "created_at": "2026-06-14T09:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066084637961748677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1077035952655163392",
+              "start": 0,
+              "username": "sacrificeQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066084637961748677",
+        "in_reply_to_user_id": "1077035952655163392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066014891610349731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sacrificeQAQ 我去八院"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066014865228267520"
+          ]
+        },
+        "author_id": "1077035952655163392",
+        "conversation_id": "2066014891610349731",
+        "created_at": "2026-06-14T04:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066014891610349731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H8CabslzCr",
+              "end": 37,
+              "expanded_url": "https://x.com/sacrificeQAQ/status/2066014891610349731/photo/1",
+              "media_key": "3_2066014865228267520",
+              "start": 14,
+              "url": "https://t.co/H8CabslzCr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066014891610349731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1626,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还能快速治疗？注射氯胺酮吗 https://t.co/H8CabslzCr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2159,
+          "following_count": 4740,
+          "like_count": 167858,
+          "listed_count": 5,
+          "media_count": 1610,
+          "tweet_count": 6993
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-24T02:59:16.000Z",
+        "description": "QT间期延长 室间隔缺损(已康复) 轻度肺阻塞 慢性肛裂 肝内胆管结石 肾结石 高度近视 散光 弱视 慢性扁桃体炎 髌骨软骨软化 慢性外耳道炎",
+        "id": "1077035952655163392",
+        "name": "lastwidecat𓃠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572636674668261378/Q2jPPA7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 1805,
+          "like_count": 211742,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 7663
+        },
+        "username": "sacrificeQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

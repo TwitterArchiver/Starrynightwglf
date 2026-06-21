@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2064591621447192664",
+    "created_at": "2026-06-11T07:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T08:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064971061612126521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1732763258325762048",
+          "start": 0,
+          "username": "AmeAsukaLangley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064971061612126521",
+    "in_reply_to_user_id": "1732763258325762048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064591621447192664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmeAsukaLangley fufu沙明感觉一般般😥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2064591621447192664",
+        "created_at": "2026-06-11T07:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064971061612126521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064971061612126521",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064591621447192664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley fufu沙明感觉一般般😥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2064591621447192664",
+        "created_at": "2026-06-10T06:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064591621447192664"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064591621447192664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1884,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精神科的老头给我开了两个新药，氟伏沙明和右佐匹克隆，期待右佐匹克隆的表现"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2141,
+          "following_count": 4721,
+          "like_count": 166651,
+          "listed_count": 6,
+          "media_count": 1588,
+          "tweet_count": 6928
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "恋人@marisa114514191 \n应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "marisa114514191"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2061022848504991748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 300,
+          "like_count": 20175,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1387
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      }
+    ]
+  }
+}

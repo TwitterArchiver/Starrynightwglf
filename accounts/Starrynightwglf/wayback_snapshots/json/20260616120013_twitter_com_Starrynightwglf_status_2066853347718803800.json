@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2066849100549791886",
+    "created_at": "2026-06-16T12:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T13:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066853347718803800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634944403872833536",
+          "start": 0,
+          "username": "wmy072011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066853347718803800",
+    "in_reply_to_user_id": "1634944403872833536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066849100549791886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmy072011 到底谁才是孩子啊，她的痛苦凭什么让你来承担🫥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2066849100549791886",
+        "created_at": "2026-06-16T12:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066853347718803800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634944403872833536",
+              "start": 0,
+              "username": "wmy072011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066853347718803800",
+        "in_reply_to_user_id": "1634944403872833536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066849100549791886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmy072011 到底谁才是孩子啊，她的痛苦凭什么让你来承担🫥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634944403872833536",
+        "conversation_id": "2066849100549791886",
+        "created_at": "2026-06-16T11:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066849100549791886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066849100549791886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "照顾你的情绪并不是我的义务 你作为一个成年人还请多多学会如何控制自己的情绪 好吗。毕竟如果我有情绪了 跟你讲了 我都想不到你会把我骂的多难听。不要再一难受就给我发条消息或者直接打电话了。\n我也渴望被人当成小孩子一样的照顾 有人能注意到我的情绪\n唉算了 回家还得接着见到她 烦死了。不想回家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 4739,
+          "like_count": 168393,
+          "listed_count": 5,
+          "media_count": 1620,
+          "tweet_count": 7015
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "爱人@MercuricCyanide",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "MercuricCyanide"
+              }
+            ]
+          }
+        },
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1868,
+          "following_count": 470,
+          "like_count": 52858,
+          "listed_count": 1,
+          "media_count": 1642,
+          "tweet_count": 16148
+        },
+        "username": "wmy072011",
+        "verified": false
+      }
+    ]
+  }
+}

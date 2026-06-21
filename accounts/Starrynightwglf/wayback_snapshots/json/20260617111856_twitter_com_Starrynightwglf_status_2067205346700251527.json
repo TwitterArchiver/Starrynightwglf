@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2067205346700251527",
+    "created_at": "2026-06-17T11:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067205346700251527"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Starrynightwgl…",
+          "end": 132,
+          "expanded_url": "https://twitter.com/Starrynightwglf/status/2066986256081543597",
+          "start": 109,
+          "url": "https://t.co/lkY5VC00TA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067205346700251527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066986256081543597",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "凌晨四点醒→洗澡出去吃早饭→早八早十一上午课程设计→回来吃点东西午休，就睡半小时→睁眼一看时间下午六点半（空调还忘记定时24度开了一下午，然后吹感冒了现在）\n好崩溃好绝望\n下午有体育课最后一节了今天是考试来着.... https://t.co/lkY5VC00TA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2670,
+        "media_key": "3_2066986249232306176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9pCtUb0AAfikP.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2670,
+        "media_key": "3_2066986249777479680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9pCvWagAAZP7h.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2067205346700251527",
+        "created_at": "2026-06-17T11:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067205346700251527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Starrynightwgl…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/Starrynightwglf/status/2066986256081543597",
+              "start": 109,
+              "url": "https://t.co/lkY5VC00TA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067205346700251527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066986256081543597",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "凌晨四点醒→洗澡出去吃早饭→早八早十一上午课程设计→回来吃点东西午休，就睡半小时→睁眼一看时间下午六点半（空调还忘记定时24度开了一下午，然后吹感冒了现在）\n好崩溃好绝望\n下午有体育课最后一节了今天是考试来着.... https://t.co/lkY5VC00TA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066986249232306176",
+            "3_2066986249777479680"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2066986256081543597",
+        "created_at": "2026-06-16T20:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T21:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066986256081543597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9frNmSxKb2",
+              "end": 152,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2066986256081543597/photo/1",
+              "media_key": "3_2066986249232306176",
+              "start": 129,
+              "url": "https://t.co/9frNmSxKb2"
+            },
+            {
+              "display_url": "pic.x.com/9frNmSxKb2",
+              "end": 152,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2066986256081543597/photo/1",
+              "media_key": "3_2066986249777479680",
+              "start": 129,
+              "url": "https://t.co/9frNmSxKb2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066986256081543597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "九点多想眯会定了一个半小时闹钟然后就昏迷了刚过了四点就醒过来发现昨晚没上号丟一天月卡委托🫠卡这么死干嘛给我留五分钟我都够开电脑领了\n一个月大概能忘五次左右，肉疼\n睡眠和记性都很差\n——————\n真的是昏迷，我开了十点半到十一点半四个闹钟，声音是最大的...\n早上起床也得有六七个闹钟开着，我感觉楼上楼下得骂死我了但真的没办法🫠"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "九点多想眯会定了一个半小时闹钟然后就昏迷了刚过了四点就醒过来发现昨晚没上号丟一天月卡委托🫠卡这么死干嘛给我留五分钟我都够开电脑领了\n一个月大概能忘五次左右，肉疼\n睡眠和记性都很差\n——————\n真的是昏迷，我开了十点半到十一点半四个闹钟，声音是最大的... https://t.co/9frNmSxKb2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2165,
+          "following_count": 4753,
+          "like_count": 168551,
+          "listed_count": 5,
+          "media_count": 1621,
+          "tweet_count": 7020
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      }
+    ]
+  }
+}

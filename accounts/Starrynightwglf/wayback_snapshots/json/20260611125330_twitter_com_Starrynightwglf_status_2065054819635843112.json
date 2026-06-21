@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2065051296647004574",
+    "created_at": "2026-06-11T12:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065054819635843112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634944403872833536",
+          "start": 0,
+          "username": "wmy072011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065054819635843112",
+    "in_reply_to_user_id": "1634944403872833536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065051296647004574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmy072011 可能是吃安非他酮吃的吧🤧我没吃这个药也讨厌烟味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2065051296647004574",
+        "created_at": "2026-06-11T12:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065054819635843112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634944403872833536",
+              "start": 0,
+              "username": "wmy072011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065054819635843112",
+        "in_reply_to_user_id": "1634944403872833536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065051296647004574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmy072011 可能是吃安非他酮吃的吧🤧我没吃这个药也讨厌烟味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634944403872833536",
+        "conversation_id": "2065051296647004574",
+        "created_at": "2026-06-11T12:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065051296647004574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065051296647004574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽烟的自己一个考场行不行啊。今天考试坐我后面的人从一走过来就一股烟味 后面考着考着他又出去抽了一根。气死我了啊 我现在真是一点二手烟味都闻不了 恶心死了恶心死了恶心死了 滚啊 我一闻到烟味就想吐。明天还得再忍一天二手烟味。恶心 烟味恶心死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 4722,
+          "like_count": 166720,
+          "listed_count": 6,
+          "media_count": 1595,
+          "tweet_count": 6939
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "恋人@MercuricCyanide",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "MercuricCyanide"
+              }
+            ]
+          }
+        },
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1869,
+          "following_count": 472,
+          "like_count": 52006,
+          "listed_count": 1,
+          "media_count": 1630,
+          "tweet_count": 16010
+        },
+        "username": "wmy072011",
+        "verified": false
+      }
+    ]
+  }
+}

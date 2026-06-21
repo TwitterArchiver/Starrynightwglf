@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2066349585656885248",
+        "3_2066349592640389120"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2066349599997227024",
+    "created_at": "2026-06-15T02:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T03:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066349599997227024"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MG472ZrjYx",
+          "end": 77,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2066349599997227024/video/1",
+          "media_key": "7_2066349585656885248",
+          "start": 54,
+          "url": "https://t.co/MG472ZrjYx"
+        },
+        {
+          "display_url": "pic.x.com/MG472ZrjYx",
+          "end": 77,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2066349599997227024/video/1",
+          "media_key": "3_2066349592640389120",
+          "start": 54,
+          "url": "https://t.co/MG472ZrjYx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066349599997227024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "v4pro怎么这么智障啊前端后端各干各的😓一看全都做出来了点一下球用没有\n还偷懒，，，我没说这个可以不做诶 https://t.co/MG472ZrjYx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6804,
+        "height": 720,
+        "media_key": "7_2066349585656885248",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066349585656885248/pu/img/gTSf52zQWaNBoRHJ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066349585656885248/pu/vid/avc1/480x270/G5PeAP8rdA_AuG8P.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066349585656885248/pu/vid/avc1/640x360/7IMTzHFRnOzBY6KH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066349585656885248/pu/vid/avc1/1280x720/mcB0Thr0EE8ioUIu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066349585656885248/pu/pl/NO5hjf3uPKuidE7F.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1438,
+        "media_key": "3_2066349592640389120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK0mAasagAA6Uur.jpg",
+        "width": 1438
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066349585656885248",
+            "3_2066349592640389120"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2066349599997227024",
+        "created_at": "2026-06-15T02:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066349599997227024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MG472ZrjYx",
+              "end": 77,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2066349599997227024/video/1",
+              "media_key": "7_2066349585656885248",
+              "start": 54,
+              "url": "https://t.co/MG472ZrjYx"
+            },
+            {
+              "display_url": "pic.x.com/MG472ZrjYx",
+              "end": 77,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2066349599997227024/video/1",
+              "media_key": "3_2066349592640389120",
+              "start": 54,
+              "url": "https://t.co/MG472ZrjYx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066349599997227024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "v4pro怎么这么智障啊前端后端各干各的😓一看全都做出来了点一下球用没有\n还偷懒，，，我没说这个可以不做诶 https://t.co/MG472ZrjYx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2160,
+          "following_count": 4737,
+          "like_count": 168091,
+          "listed_count": 5,
+          "media_count": 1616,
+          "tweet_count": 7004
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      }
+    ]
+  }
+}

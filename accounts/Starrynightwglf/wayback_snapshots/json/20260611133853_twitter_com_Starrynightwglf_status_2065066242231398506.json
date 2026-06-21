@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2065066242231398506",
+    "created_at": "2026-06-11T13:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T14:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065066242231398506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "927295449739988992",
+          "start": 3,
+          "username": "cheenanet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065066242231398506",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 159
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064684688523084139",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cheenanet: DeepSeekさんへ：Claude Fableを蒸留してコスト0.1%にしたモデルのリリースお願いします"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2065066242231398506",
+        "created_at": "2026-06-11T13:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065066242231398506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "927295449739988992",
+              "start": 3,
+              "username": "cheenanet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065066242231398506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 159
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064684688523084139",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cheenanet: DeepSeekさんへ：Claude Fableを蒸留してコスト0.1%にしたモデルのリリースお願いします"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "927295449739988992",
+        "conversation_id": "2064684688523084139",
+        "created_at": "2026-06-10T12:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064684688523084139"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064684688523084139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 186884,
+          "like_count": 1889,
+          "quote_count": 24,
+          "reply_count": 26,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "DeepSeekさんへ：Claude Fableを蒸留してコスト0.1%にしたモデルのリリースお願いします"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 4722,
+          "like_count": 166856,
+          "listed_count": 6,
+          "media_count": 1597,
+          "tweet_count": 6946
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-05T22:03:58.000Z",
+        "description": "💻🕵️をやる\n/ cheena@cheena.net\n/ SimpleXで話す: https://t.co/60yCmV9PS6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tinyurl.com/yu65awxr",
+                "end": 64,
+                "expanded_url": "https://tinyurl.com/yu65awxr",
+                "start": 41,
+                "url": "https://t.co/60yCmV9PS6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cheena.net",
+                "end": 23,
+                "expanded_url": "https://cheena.net",
+                "start": 0,
+                "url": "https://t.co/EQwVHNr2W7"
+              }
+            ]
+          }
+        },
+        "id": "927295449739988992",
+        "name": "Cheena",
+        "pinned_tweet_id": "2057715636223316148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1219384254062383107/akQ_nO6J_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25296,
+          "following_count": 1745,
+          "like_count": 87813,
+          "listed_count": 357,
+          "media_count": 5982,
+          "tweet_count": 55507
+        },
+        "url": "https://t.co/EQwVHNr2W7",
+        "username": "cheenanet",
+        "verified": false
+      }
+    ]
+  }
+}

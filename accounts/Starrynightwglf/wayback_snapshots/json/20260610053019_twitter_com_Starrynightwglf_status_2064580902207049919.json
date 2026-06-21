@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2064580902207049919",
+    "created_at": "2026-06-10T05:30:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064580902207049919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1010_knna/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/1010_knna/status/2064552275142705332",
+          "start": 11,
+          "url": "https://t.co/VEmD2iCfdc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064580902207049919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064552275142705332",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么日区爆率这么高 https://t.co/VEmD2iCfdc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1320,
+        "media_key": "3_2064552269039988736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbDWaha8AA7Kvo.jpg",
+        "width": 2868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2064580902207049919",
+        "created_at": "2026-06-10T05:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064580902207049919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1010_knna/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/1010_knna/status/2064552275142705332",
+              "start": 11,
+              "url": "https://t.co/VEmD2iCfdc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064580902207049919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064552275142705332",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么日区爆率这么高 https://t.co/VEmD2iCfdc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064552269039988736"
+          ]
+        },
+        "author_id": "1692099812458635264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064552275142705332",
+        "created_at": "2026-06-10T03:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064552275142705332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ecmWP0MMHf",
+              "end": 46,
+              "expanded_url": "https://x.com/1010_knna/status/2064552275142705332/photo/1",
+              "media_key": "3_2064552269039988736",
+              "start": 23,
+              "url": "https://t.co/ecmWP0MMHf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064552275142705332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 205,
+          "impression_count": 94100,
+          "like_count": 4435,
+          "quote_count": 242,
+          "reply_count": 13,
+          "retweet_count": 361
+        },
+        "reply_settings": "everyone",
+        "text": "助けてください\nバケモンみたいな引きしました https://t.co/ecmWP0MMHf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2136,
+          "following_count": 4717,
+          "like_count": 166158,
+          "listed_count": 6,
+          "media_count": 1568,
+          "tweet_count": 6879
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-17T09:03:40.000Z",
+        "description": "20↑ gnsn❄️🔥(左右非固定)/enst🍡🐈(左右固定)/skebはリンクから/プロフカード：https://t.co/2AMxCNfeN9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/AUPMWzgDakMx…",
+                "end": 73,
+                "expanded_url": "https://profcard.info/u/AUPMWzgDakMxmStR8Zmc1VwwcR12",
+                "start": 50,
+                "url": "https://t.co/2AMxCNfeN9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@snow_tics",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@snow_tics",
+                "start": 0,
+                "url": "https://t.co/6wtqBCXis5"
+              }
+            ]
+          }
+        },
+        "id": "1692099812458635264",
+        "location": "アイコンとヘッダーは貰い物",
+        "name": "済",
+        "pinned_tweet_id": "2029506878439657762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956378411955638272/es-MiWAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 313,
+          "like_count": 6493,
+          "listed_count": 4,
+          "media_count": 1410,
+          "tweet_count": 4680
+        },
+        "url": "https://t.co/6wtqBCXis5",
+        "username": "1010_knna",
+        "verified": false
+      }
+    ]
+  }
+}

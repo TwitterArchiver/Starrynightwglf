@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2068033388448305191",
+    "created_at": "2026-06-19T18:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T19:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068033388448305191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1924212425332813824",
+          "start": 3,
+          "username": "Phoenixyin13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068033388448305191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067810676928606660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Phoenixyin13: 我认为，这是一个很好的社会实验。\n\n忘记性别，忘记学历，忘记背景，忘记你所拥有的资源，忘记你去过多少城市国度，忘记你经历过的荣辱，忘记一切世俗的评判标准，你究竟是谁？\n\n在日常生活中，我们习惯于用外在标签来定义自己，比如C9本，藤校硕士，T1…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 718,
+        "media_key": "3_2067810674034499584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJW2jCWYAAdatd.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2068033388448305191",
+        "created_at": "2026-06-19T18:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068033388448305191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1924212425332813824",
+              "start": 3,
+              "username": "Phoenixyin13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068033388448305191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067810676928606660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Phoenixyin13: 我认为，这是一个很好的社会实验。\n\n忘记性别，忘记学历，忘记背景，忘记你所拥有的资源，忘记你去过多少城市国度，忘记你经历过的荣辱，忘记一切世俗的评判标准，你究竟是谁？\n\n在日常生活中，我们习惯于用外在标签来定义自己，比如C9本，藤校硕士，T1…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067810674034499584"
+          ]
+        },
+        "author_id": "1924212425332813824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041116623",
+              "name": "Goldman Sachs"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2067810676928606660",
+        "created_at": "2026-06-19T03:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067810676928606660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JJlxnztcAb",
+              "end": 181,
+              "expanded_url": "https://x.com/Phoenixyin13/status/2067810676928606660/photo/1",
+              "media_key": "3_2067810674034499584",
+              "start": 158,
+              "url": "https://t.co/JJlxnztcAb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067810676928606660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我认为，这是一个很好的社会实验。\n\n忘记性别，忘记学历，忘记背景，忘记你所拥有的资源，忘记你去过多少城市国度，忘记你经历过的荣辱，忘记一切世俗的评判标准，你究竟是谁？\n\n在日常生活中，我们习惯于用外在标签来定义自己，比如C9本，藤校硕士，T14法学院JD，四大CS PhD，FAANG Intern，Goldman Sachs VP。\n\n心理学中，这些被称为客体自我，它们只是社会关系的投射，而非是我们的内核。\n\n标签的本质是一种认知的偷懒和快速检索机制。\n当我试图向外界介绍自己是狮子座或一个MBTI为INTJ的人时，实际上是用一整套社会既定的Stereotypes，代替对主观体验的叙述。\n\n心理学家Daniel Kahneman除了思考快与慢之外，还提出过一个经典的区分：叙事自我和经验自我。\n\n前者，就是那些成就，历史，地位，社会坐标，而后者，则是感知、习惯、本能反应。\n\n真正的你，不应该是你和别人记忆里那个被美化或被规训的故事。\n\n你对情绪的微观感知带宽，流过的一滴眼泪，因一件事反复回忆的莞尔，这些精细的神经活动，比任何身份都更接近你的本真。\n\n当我们忘记了去过多少国家、拥有多少资源时，我们其实是主动关闭了大脑的默认模式网络中关于自我反思和身份叙事的部分。\n这时浮现出来的自我，是一种纯粹的、AI无法模拟的具身认知。\n它是你的边缘系统对世界的独特镜像。\n\n人类终其一生追求的社会成就和外在标签，在定义你是谁这一终极问题上，权重其实接近于零。真相就是如此。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 299,
+          "impression_count": 38701,
+          "like_count": 608,
+          "quote_count": 7,
+          "reply_count": 46,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "我认为，这是一个很好的社会实验。\n\n忘记性别，忘记学历，忘记背景，忘记你所拥有的资源，忘记你去过多少城市国度，忘记你经历过的荣辱，忘记一切世俗的评判标准，你究竟是谁？\n\n在日常生活中，我们习惯于用外在标签来定义自己，比如C9本，藤校硕士，T14法学院JD，四大CS PhD，FAANG Intern，Goldman https://t.co/JJlxnztcAb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2174,
+          "following_count": 4763,
+          "like_count": 168926,
+          "listed_count": 5,
+          "media_count": 1630,
+          "tweet_count": 7042
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-18T21:16:21.000Z",
+        "description": "🇺🇸 04美本 | 计算机科学&认知科学\n⚙️AI, cognition, crypto, and the future of intelligence.\n✨相信好奇心驱动。相信人永远可塑。",
+        "id": "1924212425332813824",
+        "location": "Columbus, OH",
+        "name": "Phoenix Yin",
+        "pinned_tweet_id": "2067810676928606660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028337523773038592/1kSOtKBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10690,
+          "following_count": 1054,
+          "like_count": 9736,
+          "listed_count": 69,
+          "media_count": 801,
+          "tweet_count": 7064
+        },
+        "url": "",
+        "username": "Phoenixyin13",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2067959506605342989",
+    "created_at": "2026-06-19T14:08:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067972814439858574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880803334405435393",
+          "start": 0,
+          "username": "tiantmaoshenshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067972814439858574",
+    "in_reply_to_user_id": "1880803334405435393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067959506605342989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiantmaoshenshi 图片里有三个宝宝很可爱😚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2067959399654866944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLeHhJbwAASzrO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2067959506605342989",
+        "created_at": "2026-06-19T14:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067972814439858574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880803334405435393",
+              "start": 0,
+              "username": "tiantmaoshenshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067972814439858574",
+        "in_reply_to_user_id": "1880803334405435393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067959506605342989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiantmaoshenshi 图片里有三个宝宝很可爱😚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067959399654866944"
+          ]
+        },
+        "author_id": "1880803334405435393",
+        "conversation_id": "2067959506605342989",
+        "created_at": "2026-06-19T13:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067959506605342989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pii5874HRc",
+              "end": 29,
+              "expanded_url": "https://x.com/tiantmaoshenshi/status/2067959506605342989/photo/1",
+              "media_key": "3_2067959399654866944",
+              "start": 6,
+              "url": "https://t.co/Pii5874HRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067959506605342989",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两只星黛露 https://t.co/Pii5874HRc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2174,
+          "following_count": 4763,
+          "like_count": 168859,
+          "listed_count": 5,
+          "media_count": 1629,
+          "tweet_count": 7038
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-19T02:24:18.000Z",
+        "description": "靠近才能了解的兔子\n负能量警告⚠️\n2.3次元人\n不是好人\n双相精分犯抽的时候会很烦，对不起，请蔽我\n不发推就是在现生/思考/浮起\n来和我交朋友互fo吧(`･ω･´)ゞ",
+        "id": "1880803334405435393",
+        "location": "中北海",
+        "name": "锦玉茉莉",
+        "pinned_tweet_id": "2062000701300244929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973409019516821504/5wMTL0Wa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 760,
+          "like_count": 10982,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 6056
+        },
+        "url": "",
+        "username": "tiantmaoshenshi",
+        "verified": false
+      }
+    ]
+  }
+}

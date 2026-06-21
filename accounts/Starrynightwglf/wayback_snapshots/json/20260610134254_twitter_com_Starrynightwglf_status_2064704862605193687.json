@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2064704332805943664",
+    "created_at": "2026-06-10T13:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064704862605193687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634944403872833536",
+          "start": 0,
+          "username": "wmy072011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064704862605193687",
+    "in_reply_to_user_id": "1634944403872833536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064704332805943664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmy072011 辛苦啦好棒好棒！*★"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2064704332805943664",
+        "created_at": "2026-06-10T13:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064704862605193687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634944403872833536",
+              "start": 0,
+              "username": "wmy072011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064704862605193687",
+        "in_reply_to_user_id": "1634944403872833536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064704332805943664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmy072011 辛苦啦好棒好棒！*★"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634944403872833536",
+        "conversation_id": "2064704332805943664",
+        "created_at": "2026-06-10T13:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064704332805943664"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064704332805943664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好累。但我今天一整天都坚持下来了 我上了完完整整的一天学 嗯。。我已经很久没完整在学校一整天了 然后晚上还去上了一对一"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2137,
+          "following_count": 4718,
+          "like_count": 166475,
+          "listed_count": 6,
+          "media_count": 1580,
+          "tweet_count": 6903
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "恋人@MercuricCyanide",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "MercuricCyanide"
+              }
+            ]
+          }
+        },
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1868,
+          "following_count": 472,
+          "like_count": 51534,
+          "listed_count": 1,
+          "media_count": 1629,
+          "tweet_count": 15993
+        },
+        "username": "wmy072011",
+        "verified": false
+      }
+    ]
+  }
+}

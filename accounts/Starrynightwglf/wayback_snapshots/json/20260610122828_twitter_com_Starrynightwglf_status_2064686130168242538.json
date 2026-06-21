@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2064686130168242538",
+    "created_at": "2026-06-10T12:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064686130168242538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "878311861384613888",
+          "start": 3,
+          "username": "bubbleboi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064686130168242538",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064593075893354770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bubbleboi: Nobody in history wakes up and chooses to be evil.\n\nHitler didn’t. Stalin didn’t. Mao didn’t. And I’m pretty sure nobody at…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1011,
+        "media_key": "3_2064593072487534595",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbodfNaEAMNFnY.jpg",
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2064686130168242538",
+        "created_at": "2026-06-10T12:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064686130168242538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "878311861384613888",
+              "start": 3,
+              "username": "bubbleboi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064686130168242538",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064593075893354770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bubbleboi: Nobody in history wakes up and chooses to be evil.\n\nHitler didn’t. Stalin didn’t. Mao didn’t. And I’m pretty sure nobody at…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064593072487534595"
+          ]
+        },
+        "author_id": "878311861384613888",
+        "conversation_id": "2064593075893354770",
+        "created_at": "2026-06-10T06:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064593075893354770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jioARKYoiu",
+              "end": 303,
+              "expanded_url": "https://x.com/bubbleboi/status/2064593075893354770/photo/1",
+              "media_key": "3_2064593072487534595",
+              "start": 280,
+              "url": "https://t.co/jioARKYoiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064593075893354770",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Nobody in history wakes up and chooses to be evil.\n\nHitler didn’t. Stalin didn’t. Mao didn’t. And I’m pretty sure nobody at Anthropic did when they woke up today either. History has this cruel pattern where the people most convinced that they’re saving the world are the ones who end up burning it down.\n\nEvil doesn’t come wearing a villain’s costume. It comes as someone who wins your trust & confidence. The word “con man” is short for “confidence man,” it was coined after a swindler who would ask strangers if they had the confidence to trust him with their watch. The crime wasn’t named after theft it was named after trust. \n\nTherefore, it’s actually really hard to know who is evil and when you yourself might cross that threshold. I believe although I’m sure it’s imprecise that the moment you decide you’re the chosen one, the smartest in the room, and the one who deserves to make the rules that’s when you become evil. \n\nThat decision disables the only alarm system the human mind has which is doubt. Doubt is not weakness. Doubt is the immune system of the soul.\n\nTo better illustrate my thesis, consider a compulsive liar. Funnily enough they still need a map of the truth in order to lie. The most dangerous man on earth isn’t the one who knows he’s lying. It’s the one who’s certain he’s right. The true believer burns the map, and marches a million people off a cliff because the voice that whispers “what if I’m wrong?” left their head years ago.\n\nThat is the rot at the core of effective altruism, and by extension, Anthropic. A philosophy that begins with a noble question, how do I do the most good, ends as a license to do anything. You don’t just want the money. You deserve the money, because in your hands it saves more lives. You’re not greedy, you’re allocating capital toward maximum utility. I call it arithmetic sainthood where the arithmetic is performed by a saint, about a saint, and always concluding the saint should have more.\n\nSam Bankman-Fried is that arithmetic fully metabolized. He didn’t steal billions despite his philosophy, he stole it because of it and from all reports still has no remorse for his crimes. Fraud wasn’t a crime for him, it was a bump on the road to saving the world. He did the math and calculate that it was positive EV to misappropriate customer deposits.\n\nDario Amodei runs the same arithmetic in reverse. SBF only took what wasn’t his because he was certain he’d allocate it better. Dario withholds what could be ours because he’s certain we can’t be trusted with it. Models that could cure diseases and save lives get capped, gated, rationed, because one man and his court concluded humanity isn’t ready but they are. That’s not safety that’s playing god. He is implicitly deciding that he has the foresight and ability to know who deserves what. SBF’s certainty only cost people their savings, but certainty about who deserves intelligence will cost far more.\n\nAnyone that concludes they are the optimal vessel for humanity’s resources, or its gatekeeper, is not being ethical. The only real moral discipline is that you should assume you might be the villain in someone’s story. Keep the prosecutor in your head alive. Think about what they will say at your trial and what evidence will be entered. The day that voice goes silent is the day you became dangerous.\n\nSo now let me speak directly to the people at Anthropic. I know you’re not evil. I know you didn’t sign up to be. But the fish rots from the head, and the road down isn’t a cliff it’s a sloooow spiral and nobody at the bottom remembers climbing down. Forget my words and think about the words that will be read aloud when history puts this era on trial, and ask yourself, while the prosecutor in your head still breathes which side of that transcript do you want your name on?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 227,
+          "impression_count": 37508,
+          "like_count": 865,
+          "quote_count": 35,
+          "reply_count": 68,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "Nobody in history wakes up and chooses to be evil.\n\nHitler didn’t. Stalin didn’t. Mao didn’t. And I’m pretty sure nobody at Anthropic did when they woke up today either. History has this cruel pattern where the people most convinced that they’re saving the world are the ones who https://t.co/jioARKYoiu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2137,
+          "following_count": 4716,
+          "like_count": 166412,
+          "listed_count": 6,
+          "media_count": 1575,
+          "tweet_count": 6894
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-23T18:00:40.000Z",
+        "description": "head of risk @thru_xyz.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "thru_xyz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thru.org",
+                "end": 23,
+                "expanded_url": "https://www.thru.org",
+                "start": 0,
+                "url": "https://t.co/eTL3fyJfxQ"
+              }
+            ]
+          }
+        },
+        "id": "878311861384613888",
+        "name": "bubble boi",
+        "pinned_tweet_id": "2047904425247899685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033464084700766208/lp1X6XQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81511,
+          "following_count": 5618,
+          "like_count": 104918,
+          "listed_count": 849,
+          "media_count": 1003,
+          "tweet_count": 35615
+        },
+        "url": "https://t.co/eTL3fyJfxQ",
+        "username": "bubbleboi",
+        "verified": true
+      }
+    ]
+  }
+}
