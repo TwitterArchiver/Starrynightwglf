@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069788763010527232"
+      ],
+      "media_source_tweet_id": [
+        "2069788770652807645"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2070310812930232803",
+    "created_at": "2026-06-26T00:58:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T01:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070310812930232803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1005831466356359173",
+          "start": 3,
+          "username": "niyane"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AoyVKgczsj",
+          "end": 48,
+          "expanded_url": "https://x.com/niyane/status/2069788770652807645/photo/1",
+          "media_key": "3_2069788763010527232",
+          "start": 25,
+          "url": "https://t.co/AoyVKgczsj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070310812930232803",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1153
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069788770652807645",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niyane: かわいそかわいそなのです https://t.co/AoyVKgczsj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069788763010527232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLld6etWcAAPYcj.jpg",
+        "width": 1956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069788763010527232"
+          ],
+          "media_source_tweet_id": [
+            "2069788770652807645"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2070310812930232803",
+        "created_at": "2026-06-26T00:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T01:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070310812930232803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1005831466356359173",
+              "start": 3,
+              "username": "niyane"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AoyVKgczsj",
+              "end": 48,
+              "expanded_url": "https://x.com/niyane/status/2069788770652807645/photo/1",
+              "media_key": "3_2069788763010527232",
+              "start": 25,
+              "url": "https://t.co/AoyVKgczsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070310812930232803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1153
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069788770652807645",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @niyane: かわいそかわいそなのです https://t.co/AoyVKgczsj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069788763010527232"
+          ]
+        },
+        "author_id": "1005831466356359173",
+        "conversation_id": "2069788770652807645",
+        "created_at": "2026-06-24T14:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069788770652807645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AoyVKgczsj",
+              "end": 36,
+              "expanded_url": "https://x.com/niyane/status/2069788770652807645/photo/1",
+              "media_key": "3_2069788763010527232",
+              "start": 13,
+              "url": "https://t.co/AoyVKgczsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069788770652807645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 586,
+          "impression_count": 162977,
+          "like_count": 12172,
+          "quote_count": 32,
+          "reply_count": 7,
+          "retweet_count": 1153
+        },
+        "reply_settings": "everyone",
+        "text": "かわいそかわいそなのです https://t.co/AoyVKgczsj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2186,
+          "following_count": 4778,
+          "like_count": 169969,
+          "listed_count": 5,
+          "media_count": 1653,
+          "tweet_count": 7109
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-10T15:18:03.000Z",
+        "description": "",
+        "id": "1005831466356359173",
+        "name": "C108 1日目 東ニ-33ab",
+        "pinned_tweet_id": "2068642247030263836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067554124112199680/sROqmUrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28111,
+          "following_count": 48,
+          "like_count": 19757,
+          "listed_count": 190,
+          "media_count": 369,
+          "tweet_count": 709
+        },
+        "url": "",
+        "username": "niyane",
+        "verified": false
+      }
+    ]
+  }
+}

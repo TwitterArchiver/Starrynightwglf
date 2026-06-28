@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2069980488794849750",
+    "created_at": "2026-06-25T04:25:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T05:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070000512653820015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1530170745816354819",
+          "start": 0,
+          "username": "YuYan_Boom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070000512653820015",
+    "in_reply_to_user_id": "1530170745816354819",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069980488794849750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuYan_Boom 🤤🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2069980480615964672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoMR6cbYAAlO-N.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2069980488794849750",
+        "created_at": "2026-06-25T04:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070000512653820015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1530170745816354819",
+              "start": 0,
+              "username": "YuYan_Boom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070000512653820015",
+        "in_reply_to_user_id": "1530170745816354819",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069980488794849750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuYan_Boom 🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069980480615964672"
+          ]
+        },
+        "author_id": "1530170745816354819",
+        "conversation_id": "2069980488794849750",
+        "created_at": "2026-06-25T03:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T04:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069980488794849750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/46s0gmu4Rg",
+              "end": 53,
+              "expanded_url": "https://x.com/YuYan_Boom/status/2069980488794849750/photo/1",
+              "media_key": "3_2069980480615964672",
+              "start": 30,
+              "url": "https://t.co/46s0gmu4Rg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069980488794849750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 359,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "又是军火库展览会😂\n谁能救救我\n强制带走点😂包邮包包装就行 https://t.co/46s0gmu4Rg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2181,
+          "following_count": 4777,
+          "like_count": 169867,
+          "listed_count": 5,
+          "media_count": 1647,
+          "tweet_count": 7098
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-27T12:55:22.000Z",
+        "description": "我不喜欢所有争端，对立。所以谢谢，让我在自己的小世界里自high就好了 需要交流直接推文，私信基本不回 另自用的达蒙vpn：https://t.co/091PdhCBWu 挺好用的，需要的话可以试试",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tw03.damoplane1.com/#/register?cod…",
+                "end": 85,
+                "expanded_url": "https://tw03.damoplane1.com/#/register?code=Ff1h5YaM",
+                "start": 62,
+                "url": "https://t.co/091PdhCBWu"
+              }
+            ]
+          }
+        },
+        "id": "1530170745816354819",
+        "location": "Anaheim, CA",
+        "name": "羽砚🐾（睡不醒版",
+        "pinned_tweet_id": "2067749952902824379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024824090364887040/m9z-AiYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15306,
+          "following_count": 1326,
+          "like_count": 96442,
+          "listed_count": 44,
+          "media_count": 6572,
+          "tweet_count": 98063
+        },
+        "url": "",
+        "username": "YuYan_Boom",
+        "verified": false
+      }
+    ]
+  }
+}

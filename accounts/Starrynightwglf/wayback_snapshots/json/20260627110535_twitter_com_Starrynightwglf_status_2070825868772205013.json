@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2070825833355423744"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2070825868772205013",
+    "created_at": "2026-06-27T11:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T12:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070825868772205013"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AisvBytQzR",
+          "end": 36,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2070825868772205013/video/1",
+          "media_key": "7_2070825833355423744",
+          "start": 13,
+          "url": "https://t.co/AisvBytQzR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070825868772205013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "敲敲桌子就可以开关台灯诶 https://t.co/AisvBytQzR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9987,
+        "height": 1280,
+        "media_key": "7_2070825833355423744",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2070825833355423744/pu/img/MeO_lmJrSB1OPt_7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070825833355423744/pu/vid/avc1/320x568/mncc-0sgAm3QTRV5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070825833355423744/pu/vid/avc1/480x852/gJ2TVDORc8JrOGhP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070825833355423744/pu/vid/avc1/720x1280/iRfZTA1mm-ulAug3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2070825833355423744/pu/pl/9CmgtElybSAofX6l.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2070825833355423744"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2070825868772205013",
+        "created_at": "2026-06-27T11:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070825868772205013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AisvBytQzR",
+              "end": 36,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2070825868772205013/video/1",
+              "media_key": "7_2070825833355423744",
+              "start": 13,
+              "url": "https://t.co/AisvBytQzR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070825868772205013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "敲敲桌子就可以开关台灯诶 https://t.co/AisvBytQzR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2185,
+          "following_count": 4782,
+          "like_count": 170102,
+          "listed_count": 5,
+          "media_count": 1661,
+          "tweet_count": 7133
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      }
+    ]
+  }
+}

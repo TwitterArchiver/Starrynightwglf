@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070098210199371776"
+      ],
+      "media_source_tweet_id": [
+        "2070098215907824057"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2070325580223136196",
+    "created_at": "2026-06-26T01:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T02:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070325580223136196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1642497406343454721",
+          "start": 3,
+          "username": "nyan_nyan__0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7QxTulBm5p",
+          "end": 54,
+          "expanded_url": "https://x.com/nyan_nyan__0/status/2070098215907824057/photo/1",
+          "media_key": "3_2070098210199371776",
+          "start": 31,
+          "url": "https://t.co/7QxTulBm5p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070325580223136196",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070098215907824057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyan_nyan__0: cosplay\n\n退場。 https://t.co/7QxTulBm5p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2730,
+        "media_key": "3_2070098210199371776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLp3WrUbAAAsgKm.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070098210199371776"
+          ],
+          "media_source_tweet_id": [
+            "2070098215907824057"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2070325580223136196",
+        "created_at": "2026-06-26T01:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070325580223136196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1642497406343454721",
+              "start": 3,
+              "username": "nyan_nyan__0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7QxTulBm5p",
+              "end": 54,
+              "expanded_url": "https://x.com/nyan_nyan__0/status/2070098215907824057/photo/1",
+              "media_key": "3_2070098210199371776",
+              "start": 31,
+              "url": "https://t.co/7QxTulBm5p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070325580223136196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070098215907824057",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyan_nyan__0: cosplay\n\n退場。 https://t.co/7QxTulBm5p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070098210199371776"
+          ]
+        },
+        "author_id": "1642497406343454721",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2070098215907824057",
+        "created_at": "2026-06-25T10:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070098215907824057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7QxTulBm5p",
+              "end": 36,
+              "expanded_url": "https://x.com/nyan_nyan__0/status/2070098215907824057/photo/1",
+              "media_key": "3_2070098210199371776",
+              "start": 13,
+              "url": "https://t.co/7QxTulBm5p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070098215907824057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1630,
+          "like_count": 185,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "cosplay\n\n退場。 https://t.co/7QxTulBm5p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2187,
+          "following_count": 4778,
+          "like_count": 169997,
+          "listed_count": 5,
+          "media_count": 1653,
+          "tweet_count": 7112
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-02T12:01:20.000Z",
+        "description": "無断投稿❌ 雑多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mixch.tv/u/18843478",
+                "end": 23,
+                "expanded_url": "https://mixch.tv/u/18843478",
+                "start": 0,
+                "url": "https://t.co/HxbPkHTXy5"
+              }
+            ]
+          }
+        },
+        "id": "1642497406343454721",
+        "location": "重重重重重重加工",
+        "name": "ねこた Tag中",
+        "pinned_tweet_id": "2043960121563509238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054822848158650368/tNL5cMv3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2467,
+          "following_count": 25,
+          "like_count": 28666,
+          "listed_count": 26,
+          "media_count": 383,
+          "tweet_count": 19627
+        },
+        "url": "https://t.co/HxbPkHTXy5",
+        "username": "nyan_nyan__0",
+        "verified": false
+      }
+    ]
+  }
+}

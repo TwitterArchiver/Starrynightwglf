@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2069310917289119796",
+    "created_at": "2026-06-23T10:34:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:34:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069368585563304162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1910137141570740225",
+          "start": 0,
+          "username": "TwiAshen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069368585563304162",
+    "in_reply_to_user_id": "1910137141570740225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069364020247924965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TwiAshen 所以除了加上WinUI改版了个寂寞，做这么长功能还是不全的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2069310917289119796",
+        "created_at": "2026-06-23T10:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069368585563304162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910137141570740225",
+              "start": 0,
+              "username": "TwiAshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069368585563304162",
+        "in_reply_to_user_id": "1910137141570740225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069364020247924965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TwiAshen 所以除了加上WinUI改版了个寂寞，做这么长功能还是不全的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910137141570740225",
+        "conversation_id": "2069310917289119796",
+        "created_at": "2026-06-23T10:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069364020247924965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1563508655256850433",
+              "start": 0,
+              "username": "Starrynightwglf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069364020247924965",
+        "in_reply_to_user_id": "1563508655256850433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069310917289119796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starrynightwglf 很多应该在二级菜单的选项被放到了一级菜单，只能说 Win 至今都不支持可视化自定义右键菜单真心有点蠢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2179,
+          "following_count": 4778,
+          "like_count": 169645,
+          "listed_count": 5,
+          "media_count": 1641,
+          "tweet_count": 7082
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-10T01:06:09.000Z",
+        "description": "前进 | 洛。",
+        "id": "1910137141570740225",
+        "location": "地球",
+        "name": "浅堇⭐️",
+        "pinned_tweet_id": "2010675861171982804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066249669244858368/H2TuPBz7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 136,
+          "like_count": 11179,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "TwiAshen",
+        "verified": false
+      }
+    ]
+  }
+}

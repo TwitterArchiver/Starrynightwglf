@@ -1,0 +1,674 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese voice actress and singer",
+          "id": "1070721107232092160",
+          "name": "Yukari Tamura"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Soichiro Hoshi (保志総一朗)",
+          "id": "1085258132840837120",
+          "name": "Soichiro Hoshi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese voice actress and singer",
+          "id": "1070721107232092160",
+          "name": "Yukari Tamura"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Soichiro Hoshi (保志総一朗)",
+          "id": "1085258132840837120",
+          "name": "Soichiro Hoshi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese voice actress and singer",
+          "id": "1070721107232092160",
+          "name": "Yukari Tamura"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Soichiro Hoshi (保志総一朗)",
+          "id": "1085258132840837120",
+          "name": "Soichiro Hoshi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339352163508600832",
+          "name": "Animation studios"
+        }
+      }
+    ],
+    "conversation_id": "2068989697255453142",
+    "created_at": "2026-06-22T09:29:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T10:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068989697255453142"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/higu_anime/sta…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/higu_anime/status/2068667811258622165",
+          "start": 22,
+          "url": "https://t.co/NGvGdabGQo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068989697255453142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068667811258622165",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽多少年了怎么还有新作\n这次画风还可以诶 https://t.co/NGvGdabGQo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29070,
+        "height": 1080,
+        "media_key": "13_2068653713162711040",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068653713162711040/img/FA7pTx2vxY8MuP4E.jpg",
+        "public_metrics": {
+          "view_count": 1829691
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068653713162711040/vid/avc1/480x270/DdvIdS91jI-f41PX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068653713162711040/vid/avc1/640x360/pBL62svepjxtjsHY.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068653713162711040/vid/avc1/1280x720/e6hsA1KkbvLLbULQ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068653713162711040/pl/NhuWM1dQETWu0btm.m3u8?tag=14&v=f93"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070721107232092160",
+              "name": "Yukari Tamura"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Soichiro Hoshi (保志総一朗)",
+              "id": "1085258132840837120",
+              "name": "Soichiro Hoshi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070721107232092160",
+              "name": "Yukari Tamura"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Soichiro Hoshi (保志総一朗)",
+              "id": "1085258132840837120",
+              "name": "Soichiro Hoshi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070721107232092160",
+              "name": "Yukari Tamura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Soichiro Hoshi (保志総一朗)",
+              "id": "1085258132840837120",
+              "name": "Soichiro Hoshi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352163508600832",
+              "name": "Animation studios"
+            }
+          }
+        ],
+        "conversation_id": "2068989697255453142",
+        "created_at": "2026-06-22T09:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068989697255453142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/higu_anime/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/higu_anime/status/2068667811258622165",
+              "start": 22,
+              "url": "https://t.co/NGvGdabGQo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068989697255453142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068667811258622165",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽多少年了怎么还有新作\n这次画风还可以诶 https://t.co/NGvGdabGQo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068653713162711040"
+          ]
+        },
+        "author_id": "293977985",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070721107232092160",
+              "name": "Yukari Tamura"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Soichiro Hoshi (保志総一朗)",
+              "id": "1085258132840837120",
+              "name": "Soichiro Hoshi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070721107232092160",
+              "name": "Yukari Tamura"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Soichiro Hoshi (保志総一朗)",
+              "id": "1085258132840837120",
+              "name": "Soichiro Hoshi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070721107232092160",
+              "name": "Yukari Tamura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Soichiro Hoshi (保志総一朗)",
+              "id": "1085258132840837120",
+              "name": "Soichiro Hoshi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352163508600832",
+              "name": "Animation studios"
+            }
+          }
+        ],
+        "conversation_id": "2068667811258622165",
+        "created_at": "2026-06-21T12:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068667811258622165"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 158,
+              "start": 149,
+              "tag": "ひぐらし新アニメ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cj0JxNrwK9",
+              "end": 182,
+              "expanded_url": "https://x.com/higu_anime/status/2068667811258622165/video/1",
+              "media_key": "13_2068653713162711040",
+              "start": 159,
+              "url": "https://t.co/Cj0JxNrwK9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068667811258622165",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5900,
+          "impression_count": 5582848,
+          "like_count": 59719,
+          "quote_count": 6288,
+          "reply_count": 484,
+          "retweet_count": 31855
+        },
+        "reply_settings": "everyone",
+        "text": "⛩みんな、おかえり⛩\n\n『ひぐらしのなく頃に』\n新作TVアニメーション制作決定PV公開\n\n原作：竜騎士07/07th Expansion\nアニメーション制作：スタジオディーン\n\n前原圭一：保志総一朗\n竜宮レナ：中原麻衣\n園崎魅音・詩音：ゆきのさつき\n北条沙都子：かないみか\n古手梨花：田村ゆかり\n\n#ひぐらし新アニメ https://t.co/Cj0JxNrwK9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2180,
+          "following_count": 4778,
+          "like_count": 169428,
+          "listed_count": 5,
+          "media_count": 1637,
+          "tweet_count": 7064
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2011-05-06T09:40:32.000Z",
+        "description": "⛩新作制作決定⛩ #保志総一朗 #中原麻衣 #ゆきのさつき #かないみか #田村ゆかり  推奨 #ひぐらし新アニメ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 9,
+                "tag": "保志総一朗"
+              },
+              {
+                "end": 21,
+                "start": 16,
+                "tag": "中原麻衣"
+              },
+              {
+                "end": 29,
+                "start": 22,
+                "tag": "ゆきのさつき"
+              },
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "かないみか"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "田村ゆかり"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "tag": "ひぐらし新アニメ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "higurashianime.com",
+                "end": 23,
+                "expanded_url": "https://higurashianime.com",
+                "start": 0,
+                "url": "https://t.co/aRe87NxH5P"
+              }
+            ]
+          }
+        },
+        "id": "293977985",
+        "location": "雛見沢村",
+        "name": "TVアニメ「ひぐらしのなく頃に」新作制作決定⛩",
+        "pinned_tweet_id": "2068667811258622165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068667579129118720/Wxvx-Qq__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125441,
+          "following_count": 22,
+          "like_count": 17,
+          "listed_count": 905,
+          "media_count": 1961,
+          "tweet_count": 5294
+        },
+        "url": "https://t.co/aRe87NxH5P",
+        "username": "higu_anime",
+        "verified": false
+      }
+    ]
+  }
+}

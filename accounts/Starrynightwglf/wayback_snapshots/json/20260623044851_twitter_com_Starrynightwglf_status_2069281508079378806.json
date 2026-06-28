@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068923589454381056"
+      ],
+      "media_source_tweet_id": [
+        "2068923591798951987"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2069281508079378806",
+    "created_at": "2026-06-23T04:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T05:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069281508079378806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1699820458668093440",
+          "start": 3,
+          "username": "hydrzycm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qx8zLycBUC",
+          "end": 37,
+          "expanded_url": "https://x.com/hydrzycm/status/2068923591798951987/photo/1",
+          "media_key": "3_2068923589454381056",
+          "start": 14,
+          "url": "https://t.co/Qx8zLycBUC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069281508079378806",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068923591798951987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hydrzycm: https://t.co/Qx8zLycBUC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 520,
+        "media_key": "3_2068923589454381056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZLCwDawAAPIpU.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068923589454381056"
+          ],
+          "media_source_tweet_id": [
+            "2068923591798951987"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2069281508079378806",
+        "created_at": "2026-06-23T04:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069281508079378806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1699820458668093440",
+              "start": 3,
+              "username": "hydrzycm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qx8zLycBUC",
+              "end": 37,
+              "expanded_url": "https://x.com/hydrzycm/status/2068923591798951987/photo/1",
+              "media_key": "3_2068923589454381056",
+              "start": 14,
+              "url": "https://t.co/Qx8zLycBUC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069281508079378806",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068923591798951987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hydrzycm: https://t.co/Qx8zLycBUC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068923589454381056"
+          ]
+        },
+        "author_id": "1699820458668093440",
+        "conversation_id": "2068923591798951987",
+        "created_at": "2026-06-22T05:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068923591798951987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qx8zLycBUC",
+              "end": 23,
+              "expanded_url": "https://x.com/hydrzycm/status/2068923591798951987/photo/1",
+              "media_key": "3_2068923589454381056",
+              "start": 0,
+              "url": "https://t.co/Qx8zLycBUC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068923591798951987",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 194229,
+          "like_count": 2418,
+          "quote_count": 2,
+          "reply_count": 76,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Qx8zLycBUC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2180,
+          "following_count": 4775,
+          "like_count": 169577,
+          "listed_count": 5,
+          "media_count": 1638,
+          "tweet_count": 7075
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-07T16:22:41.000Z",
+        "description": "那些自我定位是中共奴役的殖畜的粉红和川粉郭粉们先别急，因为日后有的是时间让你急 （ps兼职拷打各路精神皇满獠口，客串满畜的严父）",
+        "id": "1699820458668093440",
+        "location": "中华民国（台湾） 金门",
+        "name": "怀玉道人",
+        "pinned_tweet_id": "2060737492236870122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052931638406033408/cLkbARgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 1628,
+          "like_count": 5616,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 919
+        },
+        "url": "",
+        "username": "hydrzycm",
+        "verified": false
+      }
+    ]
+  }
+}

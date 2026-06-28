@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2070700077832913272",
+    "created_at": "2026-06-27T06:45:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070760468088815760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3185804827",
+          "start": 0,
+          "username": "Traps_not_gay44"
+        },
+        {
+          "end": 33,
+          "id": "888172653881638912",
+          "start": 17,
+          "username": "yovartija_nattv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070760468088815760",
+    "in_reply_to_user_id": "3185804827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070710610741039301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Traps_not_gay44 @yovartija_nattv 1M上下文还是太权威了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2070700077832913272",
+        "created_at": "2026-06-27T06:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070760468088815760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3185804827",
+              "start": 0,
+              "username": "Traps_not_gay44"
+            },
+            {
+              "end": 33,
+              "id": "888172653881638912",
+              "start": 17,
+              "username": "yovartija_nattv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070760468088815760",
+        "in_reply_to_user_id": "3185804827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070710610741039301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Traps_not_gay44 @yovartija_nattv 1M上下文还是太权威了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3185804827",
+        "conversation_id": "2070700077832913272",
+        "created_at": "2026-06-27T03:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070710610741039301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "888172653881638912",
+              "start": 0,
+              "username": "yovartija_nattv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070710610741039301",
+        "in_reply_to_user_id": "888172653881638912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070700077832913272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yovartija_nattv 现在有的书都能直接导入ai上下文了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2186,
+          "following_count": 4783,
+          "like_count": 170082,
+          "listed_count": 5,
+          "media_count": 1659,
+          "tweet_count": 7130
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2015-05-05T02:03:16.000Z",
+        "description": "Studying physics is actually the most revolutionary thing",
+        "id": "3185804827",
+        "name": "Commando_Chinamen",
+        "pinned_tweet_id": "1916540274362241298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1112491479325245440/Wp0661pX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 624,
+          "like_count": 27136,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 6753
+        },
+        "url": "",
+        "username": "Traps_not_gay44",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-20T23:03:56.000Z",
+        "description": "Nonbinary of Tzeentch (她/she)\\Asexual\\North East Asia Study\\Pirate/SISU/Nihil\\Proud of what I am !\\辽北精神分析研究所\\Bluesky:@yovahti.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 117,
+                "username": "yovahti"
+              }
+            ]
+          }
+        },
+        "id": "888172653881638912",
+        "location": "IP属地：东北亚",
+        "name": "Yö/ttevakt|sama🏴‍☠️🇫🇮🏴",
+        "pinned_tweet_id": "1774675363718955425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030660011161165824/SLUIGWsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10392,
+          "following_count": 832,
+          "like_count": 44316,
+          "listed_count": 43,
+          "media_count": 1545,
+          "tweet_count": 5869
+        },
+        "url": "",
+        "username": "yovartija_nattv",
+        "verified": true
+      }
+    ]
+  }
+}

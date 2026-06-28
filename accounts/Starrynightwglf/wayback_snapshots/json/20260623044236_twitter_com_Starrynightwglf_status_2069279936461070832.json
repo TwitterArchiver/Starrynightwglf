@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068970257893720064",
+        "3_2068970309450113024"
+      ],
+      "media_source_tweet_id": [
+        "2068970500488126695",
+        "2068970500488126695"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339381554087223297",
+          "name": "Character design"
+        }
+      }
+    ],
+    "conversation_id": "2069279936461070832",
+    "created_at": "2026-06-23T04:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T05:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069279936461070832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "952531887280607233",
+          "start": 3,
+          "username": "ii__coffee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j6DHBzTdCs",
+          "end": 71,
+          "expanded_url": "https://x.com/ii__coffee/status/2068970500488126695/photo/1",
+          "media_key": "3_2068970257893720064",
+          "start": 48,
+          "url": "https://t.co/j6DHBzTdCs"
+        },
+        {
+          "display_url": "pic.x.com/j6DHBzTdCs",
+          "end": 71,
+          "expanded_url": "https://x.com/ii__coffee/status/2068970500488126695/photo/1",
+          "media_key": "3_2068970309450113024",
+          "start": 48,
+          "url": "https://t.co/j6DHBzTdCs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069279936461070832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 310
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068970500488126695",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ii__coffee: 新ビジュアルのキャラデザ、業と卒の時より明らかに不気味で怖いな https://t.co/j6DHBzTdCs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2068970257893720064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZ1fNiagAAQYwC.jpg",
+        "width": 685
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2068970309450113024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZ1iNmaoAApK8S.jpg",
+        "width": 2867
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068970257893720064",
+            "3_2068970309450113024"
+          ],
+          "media_source_tweet_id": [
+            "2068970500488126695",
+            "2068970500488126695"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339381554087223297",
+              "name": "Character design"
+            }
+          }
+        ],
+        "conversation_id": "2069279936461070832",
+        "created_at": "2026-06-23T04:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069279936461070832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "952531887280607233",
+              "start": 3,
+              "username": "ii__coffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6DHBzTdCs",
+              "end": 71,
+              "expanded_url": "https://x.com/ii__coffee/status/2068970500488126695/photo/1",
+              "media_key": "3_2068970257893720064",
+              "start": 48,
+              "url": "https://t.co/j6DHBzTdCs"
+            },
+            {
+              "display_url": "pic.x.com/j6DHBzTdCs",
+              "end": 71,
+              "expanded_url": "https://x.com/ii__coffee/status/2068970500488126695/photo/1",
+              "media_key": "3_2068970309450113024",
+              "start": 48,
+              "url": "https://t.co/j6DHBzTdCs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069279936461070832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 310
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068970500488126695",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ii__coffee: 新ビジュアルのキャラデザ、業と卒の時より明らかに不気味で怖いな https://t.co/j6DHBzTdCs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068970257893720064",
+            "3_2068970309450113024"
+          ]
+        },
+        "author_id": "952531887280607233",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339381554087223297",
+              "name": "Character design"
+            }
+          }
+        ],
+        "conversation_id": "2068970500488126695",
+        "created_at": "2026-06-22T08:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068970500488126695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6DHBzTdCs",
+              "end": 55,
+              "expanded_url": "https://x.com/ii__coffee/status/2068970500488126695/photo/1",
+              "media_key": "3_2068970257893720064",
+              "start": 32,
+              "url": "https://t.co/j6DHBzTdCs"
+            },
+            {
+              "display_url": "pic.x.com/j6DHBzTdCs",
+              "end": 55,
+              "expanded_url": "https://x.com/ii__coffee/status/2068970500488126695/photo/1",
+              "media_key": "3_2068970309450113024",
+              "start": 32,
+              "url": "https://t.co/j6DHBzTdCs"
+            },
+            {
+              "display_url": "x.com/higu_anime/sta…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/higu_anime/status/2068667853247823909",
+              "start": 56,
+              "url": "https://t.co/WKOygwNIys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068970500488126695",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 395,
+          "impression_count": 875493,
+          "like_count": 4590,
+          "quote_count": 77,
+          "reply_count": 21,
+          "retweet_count": 312
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068667853247823909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新ビジュアルのキャラデザ、業と卒の時より明らかに不気味で怖いな https://t.co/j6DHBzTdCs https://t.co/WKOygwNIys"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2180,
+          "following_count": 4775,
+          "like_count": 169572,
+          "listed_count": 5,
+          "media_count": 1638,
+          "tweet_count": 7074
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-14T13:24:33.000Z",
+        "description": "☕️￤イラスト/アニメ/MMA好き￤自由に生きたい￤#リゼロ #上伊那ぼたん  #まんきつ暮らし #ニディガ #バンドリ #ガルクラ #虹ヶ咲",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "リゼロ"
+              },
+              {
+                "end": 38,
+                "start": 31,
+                "tag": "上伊那ぼたん"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "tag": "まんきつ暮らし"
+              },
+              {
+                "end": 54,
+                "start": 49,
+                "tag": "ニディガ"
+              },
+              {
+                "end": 60,
+                "start": 55,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "ガルクラ"
+              },
+              {
+                "end": 71,
+                "start": 67,
+                "tag": "虹ヶ咲"
+              }
+            ]
+          }
+        },
+        "id": "952531887280607233",
+        "name": "ろう",
+        "pinned_tweet_id": "2040960234978771386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630141856423215106/yBygJ48c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 185,
+          "like_count": 17542,
+          "listed_count": 10,
+          "media_count": 1637,
+          "tweet_count": 9307
+        },
+        "url": "",
+        "username": "ii__coffee",
+        "verified": false
+      }
+    ]
+  }
+}

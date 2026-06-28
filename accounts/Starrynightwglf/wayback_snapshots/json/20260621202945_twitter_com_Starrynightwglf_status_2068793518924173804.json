@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068793514201415680"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2068793518924173804",
+    "created_at": "2026-06-21T20:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T21:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068793518924173804"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "中国三十四省级行政区域制霸标记生成工具",
+          "display_url": "lab.magiconch.com/china-ex/",
+          "end": 41,
+          "expanded_url": "https://lab.magiconch.com/china-ex/",
+          "start": 18,
+          "status": 200,
+          "title": "中国制霸生成器 - 中国三十四省级行政区域制霸标记生成工具",
+          "unwound_url": "https://lab.magiconch.com/china-ex/",
+          "url": "https://t.co/NwexQDxaoq"
+        },
+        {
+          "display_url": "pic.x.com/3r9vPDW2Ag",
+          "end": 65,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2068793518924173804/photo/1",
+          "media_key": "3_2068793514201415680",
+          "start": 42,
+          "url": "https://t.co/3r9vPDW2Ag"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068793518924173804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个怎么又有人玩了\n我是县城穷区捏 https://t.co/NwexQDxaoq https://t.co/3r9vPDW2Ag"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_2068793514201415680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLXUvX-bgAA4WzW.jpg",
+        "width": 2268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068793514201415680"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2068793518924173804",
+        "created_at": "2026-06-21T20:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T21:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068793518924173804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "中国三十四省级行政区域制霸标记生成工具",
+              "display_url": "lab.magiconch.com/china-ex/",
+              "end": 41,
+              "expanded_url": "https://lab.magiconch.com/china-ex/",
+              "start": 18,
+              "status": 200,
+              "title": "中国制霸生成器 - 中国三十四省级行政区域制霸标记生成工具",
+              "unwound_url": "https://lab.magiconch.com/china-ex/",
+              "url": "https://t.co/NwexQDxaoq"
+            },
+            {
+              "display_url": "pic.x.com/3r9vPDW2Ag",
+              "end": 65,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2068793518924173804/photo/1",
+              "media_key": "3_2068793514201415680",
+              "start": 42,
+              "url": "https://t.co/3r9vPDW2Ag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068793518924173804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个怎么又有人玩了\n我是县城穷区捏 https://t.co/NwexQDxaoq https://t.co/3r9vPDW2Ag"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2178,
+          "following_count": 4772,
+          "like_count": 169329,
+          "listed_count": 5,
+          "media_count": 1635,
+          "tweet_count": 7059
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      }
+    ]
+  }
+}

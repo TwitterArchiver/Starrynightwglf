@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068833821756387328"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2068833824411385960",
+    "created_at": "2026-06-21T23:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T00:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068833824411385960"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Tkf6lzMxS",
+          "end": 111,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2068833824411385960/photo/1",
+          "media_key": "3_2068833821756387328",
+          "start": 88,
+          "url": "https://t.co/5Tkf6lzMxS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068833824411385960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的手机放边上在锁屏而且没有云音乐后台的情况下自己放了这首歌，名字也好诡异\n不是小爱放的，对话里没有记录\n还有这个是心动模式，但是我不怎么用心动模式退出前绝对是在自己的歌单里 https://t.co/5Tkf6lzMxS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2670,
+        "media_key": "3_2068833821756387328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLX5ZlUacAA5GB2.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068833821756387328"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2068833824411385960",
+        "created_at": "2026-06-21T23:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T00:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068833824411385960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Tkf6lzMxS",
+              "end": 111,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2068833824411385960/photo/1",
+              "media_key": "3_2068833821756387328",
+              "start": 88,
+              "url": "https://t.co/5Tkf6lzMxS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068833824411385960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的手机放边上在锁屏而且没有云音乐后台的情况下自己放了这首歌，名字也好诡异\n不是小爱放的，对话里没有记录\n还有这个是心动模式，但是我不怎么用心动模式退出前绝对是在自己的歌单里 https://t.co/5Tkf6lzMxS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2179,
+          "following_count": 4773,
+          "like_count": 169379,
+          "listed_count": 5,
+          "media_count": 1636,
+          "tweet_count": 7061
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      }
+    ]
+  }
+}

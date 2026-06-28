@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2069277072703549544",
+    "created_at": "2026-06-23T04:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T05:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069277072703549544"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jshguo/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/jshguo/status/2068915781552025946",
+          "start": 5,
+          "url": "https://t.co/u0qoyGltSa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069277072703549544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068915781552025946",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是2B https://t.co/u0qoyGltSa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2069277072703549544",
+        "created_at": "2026-06-23T04:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069277072703549544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jshguo/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/jshguo/status/2068915781552025946",
+              "start": 5,
+              "url": "https://t.co/u0qoyGltSa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069277072703549544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068915781552025946",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是2B https://t.co/u0qoyGltSa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581593981158248449",
+        "conversation_id": "2068915781552025946",
+        "created_at": "2026-06-22T04:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068915781552025946"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068915781552025946",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 84313,
+          "like_count": 972,
+          "quote_count": 24,
+          "reply_count": 46,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "In Chinese, “2B” has long been used as an insult.\n\nTurns out it was way ahead of its time.\n\nIt basically means someone performs worse than a 2B local model."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2180,
+          "following_count": 4775,
+          "like_count": 169554,
+          "listed_count": 5,
+          "media_count": 1638,
+          "tweet_count": 7073
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-16T10:33:10.000Z",
+        "description": "the designer who codes best \nhttps://t.co/4iCoQlftfc (beta)\nhttps://t.co/ZpU7a5tHcr (upgrading)\n→ dm or email for paid partnerships",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "interfacesds.com",
+                "end": 52,
+                "expanded_url": "http://interfacesds.com",
+                "start": 29,
+                "url": "https://t.co/4iCoQlftfc"
+              },
+              {
+                "display_url": "interfaces.supply",
+                "end": 83,
+                "expanded_url": "http://interfaces.supply",
+                "start": 60,
+                "url": "https://t.co/ZpU7a5tHcr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "v2space.net",
+                "end": 23,
+                "expanded_url": "https://v2space.net/",
+                "start": 0,
+                "url": "https://t.co/dAPQzindiC"
+              }
+            ]
+          }
+        },
+        "id": "1581593981158248449",
+        "location": "hello@v2space.net",
+        "name": "Joshua Guo",
+        "pinned_tweet_id": "2067877656209850489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063816273201684481/ww5fuepg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26622,
+          "following_count": 884,
+          "like_count": 26683,
+          "listed_count": 324,
+          "media_count": 1133,
+          "tweet_count": 7010
+        },
+        "url": "https://t.co/dAPQzindiC",
+        "username": "jshguo",
+        "verified": true
+      }
+    ]
+  }
+}
