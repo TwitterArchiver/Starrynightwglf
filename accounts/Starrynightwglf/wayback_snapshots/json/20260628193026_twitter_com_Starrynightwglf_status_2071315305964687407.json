@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071314807068971008",
+        "3_2071314812408406016"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2071315305964687407",
+    "created_at": "2026-06-28T19:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T20:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071315305964687407"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ypaDi6QZLR",
+          "end": 69,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2071315305964687407/photo/1",
+          "media_key": "3_2071314807068971008",
+          "start": 46,
+          "url": "https://t.co/ypaDi6QZLR"
+        },
+        {
+          "display_url": "pic.x.com/ypaDi6QZLR",
+          "end": 69,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2071315305964687407/photo/1",
+          "media_key": "3_2071314812408406016",
+          "start": 46,
+          "url": "https://t.co/ypaDi6QZLR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071315305964687407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "日区的Google one还挺便宜的，但是不知道值不值，听说最近哈基米的模型不太好用... https://t.co/ypaDi6QZLR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2670,
+        "media_key": "3_2071314807068971008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7J171aUAApvx2.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2670,
+        "media_key": "3_2071314812408406016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7J2PuboAAGBj2.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071314807068971008",
+            "3_2071314812408406016"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2071315305964687407",
+        "created_at": "2026-06-28T19:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071315305964687407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypaDi6QZLR",
+              "end": 69,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2071315305964687407/photo/1",
+              "media_key": "3_2071314807068971008",
+              "start": 46,
+              "url": "https://t.co/ypaDi6QZLR"
+            },
+            {
+              "display_url": "pic.x.com/ypaDi6QZLR",
+              "end": 69,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2071315305964687407/photo/1",
+              "media_key": "3_2071314812408406016",
+              "start": 46,
+              "url": "https://t.co/ypaDi6QZLR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071315305964687407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日区的Google one还挺便宜的，但是不知道值不值，听说最近哈基米的模型不太好用... https://t.co/ypaDi6QZLR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2189,
+          "following_count": 4790,
+          "like_count": 170292,
+          "listed_count": 5,
+          "media_count": 1676,
+          "tweet_count": 7155
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      }
+    ]
+  }
+}

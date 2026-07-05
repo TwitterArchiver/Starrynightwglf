@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072005185803788288",
+        "3_2072005150135435264"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2071897173290303519",
+    "created_at": "2026-06-30T17:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072005387721847105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "lumigj02"
+        },
+        {
+          "end": 18,
+          "id": "542497171",
+          "start": 10,
+          "username": "enp39s0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eLUbM1Io9j",
+          "end": 56,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2072005387721847105/photo/1",
+          "media_key": "3_2072005185803788288",
+          "start": 33,
+          "url": "https://t.co/eLUbM1Io9j"
+        },
+        {
+          "display_url": "pic.x.com/eLUbM1Io9j",
+          "end": 56,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2072005387721847105/photo/1",
+          "media_key": "3_2072005150135435264",
+          "start": 33,
+          "url": "https://t.co/eLUbM1Io9j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072005387721847105",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071936550431289401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lumigj02 @enp39s0 照八百年前的课本讲就是了😓 https://t.co/eLUbM1Io9j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2670,
+        "media_key": "3_2072005185803788288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HME9vRCaIAAENU2.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2670,
+        "media_key": "3_2072005150135435264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HME9tMKaQAAd-x4.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072005185803788288",
+            "3_2072005150135435264"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2071897173290303519",
+        "created_at": "2026-06-30T17:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072005387721847105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            },
+            {
+              "end": 18,
+              "id": "542497171",
+              "start": 10,
+              "username": "enp39s0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eLUbM1Io9j",
+              "end": 56,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2072005387721847105/photo/1",
+              "media_key": "3_2072005185803788288",
+              "start": 33,
+              "url": "https://t.co/eLUbM1Io9j"
+            },
+            {
+              "display_url": "pic.x.com/eLUbM1Io9j",
+              "end": 56,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2072005387721847105/photo/1",
+              "media_key": "3_2072005150135435264",
+              "start": 33,
+              "url": "https://t.co/eLUbM1Io9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072005387721847105",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071936550431289401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 @enp39s0 照八百年前的课本讲就是了😓 https://t.co/eLUbM1Io9j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2071897173290303519",
+        "created_at": "2026-06-30T12:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071936550431289401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "542497171",
+              "start": 0,
+              "username": "enp39s0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071936550431289401",
+        "in_reply_to_user_id": "542497171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071897173290303519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enp39s0 诶我其实现在很好奇那种programming 101的课现在教什么，还教学生写什么类似练手的酒店管理项目吗，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195,
+          "following_count": 4787,
+          "like_count": 170644,
+          "listed_count": 5,
+          "media_count": 1689,
+          "tweet_count": 7182
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "14yo\n兼职糖商\n价：350、170\n可零售可批发喵\n\n猫娘女仆@leetfs1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 33,
+                "username": "leetfs1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/styxjo",
+                "end": 23,
+                "expanded_url": "http://t.me/styxjo",
+                "start": 0,
+                "url": "https://t.co/s1BSKPdKto"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺(糖商)(尽量tg,私信有时不通知)➡️",
+        "name": "猫卷🍥",
+        "pinned_tweet_id": "2069481018130940322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4128,
+          "following_count": 826,
+          "like_count": 4273,
+          "listed_count": 9,
+          "media_count": 89,
+          "tweet_count": 713
+        },
+        "url": "https://t.co/s1BSKPdKto",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-01T12:09:22.000Z",
+        "description": "Adorable nerdy transfem | Android Security Researcher & Developer | Multimedia / Cross-Device Interconnect / RTC",
+        "id": "542497171",
+        "name": "MidoriKochiya0/0/1🐱🍨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861362994267201536/KedpZjpp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2350,
+          "following_count": 1004,
+          "like_count": 16051,
+          "listed_count": 15,
+          "media_count": 449,
+          "tweet_count": 8834
+        },
+        "url": "",
+        "username": "enp39s0",
+        "verified": false
+      }
+    ]
+  }
+}

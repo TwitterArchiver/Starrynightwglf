@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2073008694238060889",
+    "created_at": "2026-07-03T15:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T16:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073073522809934001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1655056246376988674",
+          "start": 0,
+          "username": "T0nyZed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073073522809934001",
+    "in_reply_to_user_id": "1655056246376988674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073059414068678931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T0nyZed 义妹生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2073008694238060889",
+        "created_at": "2026-07-03T15:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073073522809934001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1655056246376988674",
+              "start": 0,
+              "username": "T0nyZed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073073522809934001",
+        "in_reply_to_user_id": "1655056246376988674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073059414068678931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T0nyZed 义妹生活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655056246376988674",
+        "conversation_id": "2073008694238060889",
+        "created_at": "2026-07-03T15:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073059414068678931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1563508655256850433",
+              "start": 0,
+              "username": "Starrynightwglf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073059414068678931",
+        "in_reply_to_user_id": "1563508655256850433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073008694238060889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starrynightwglf 这是什么动画？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2200,
+          "following_count": 4797,
+          "like_count": 171226,
+          "listed_count": 5,
+          "media_count": 1698,
+          "tweet_count": 7215
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-07T03:45:45.000Z",
+        "description": "",
+        "id": "1655056246376988674",
+        "name": "Tony",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045673272197668864/fAGpPTgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 1980,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "T0nyZed",
+        "verified": false
+      }
+    ]
+  }
+}

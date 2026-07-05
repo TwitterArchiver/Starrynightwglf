@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2072991103247368533",
+    "created_at": "2026-07-03T11:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T12:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073009486021951916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1616696567549034496",
+          "start": 0,
+          "username": "LovelyJerry2013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073009486021951916",
+    "in_reply_to_user_id": "1616696567549034496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072991103247368533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LovelyJerry2013 揉揉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2072991103247368533",
+        "created_at": "2026-07-03T11:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073009486021951916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1616696567549034496",
+              "start": 0,
+              "username": "LovelyJerry2013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073009486021951916",
+        "in_reply_to_user_id": "1616696567549034496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072991103247368533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LovelyJerry2013 揉揉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616696567549034496",
+        "conversation_id": "2072991103247368533",
+        "created_at": "2026-07-03T10:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072991103247368533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072991103247368533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好倒霉，胸撞门框上蹭流血了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2200,
+          "following_count": 4796,
+          "like_count": 171216,
+          "listed_count": 5,
+          "media_count": 1697,
+          "tweet_count": 7212
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-21T07:18:09.000Z",
+        "description": "重度社交恐惧\\历史学\\ Trotskyism ☭⁴\\异端托派\\mtx🏳️‍⚧️enby\\无证🍥\\Lolita\\清水\\DDLC&Just Yuri💜\\芙兰秀秀\\香风智乃\\晓美焰\\猫和老鼠\\q娃\\北方谦三\\水浒\\♡HMS光辉号♡\\幸德秋水\\本体花枝鼠\\2013\\照片大部分在媒体里\\里推@KawaiiYuri2013",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 141,
+                "username": "KawaiiYuri2013"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/",
+                "end": 23,
+                "expanded_url": "http://marxists.org/chinese/",
+                "start": 0,
+                "url": "https://t.co/UnTrdQVDUJ"
+              }
+            ]
+          }
+        },
+        "id": "1616696567549034496",
+        "location": "佐賀県唐津市",
+        "name": "✧*♡𝓝𝓪𝓽𝓼𝓾𝓶𝓮𝓢𝓱𝓾𝓼𝓾𝓲♡*⊹🍀✒️🍬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071381119577255936/oQe2-HJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 1579,
+          "like_count": 54183,
+          "listed_count": 5,
+          "media_count": 307,
+          "tweet_count": 4502
+        },
+        "url": "https://t.co/UnTrdQVDUJ",
+        "username": "LovelyJerry2013",
+        "verified": false
+      }
+    ]
+  }
+}

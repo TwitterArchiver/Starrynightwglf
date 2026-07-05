@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071317248103563264",
+        "3_2071317281557377024"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071317283939799121",
+    "created_at": "2026-06-28T19:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T20:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071317283939799121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LDTkqehOw5",
+          "end": 116,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2071317283939799121/photo/1",
+          "media_key": "3_2071317248103563264",
+          "start": 93,
+          "url": "https://t.co/LDTkqehOw5"
+        },
+        {
+          "display_url": "pic.x.com/LDTkqehOw5",
+          "end": 116,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2071317283939799121/photo/1",
+          "media_key": "3_2071317281557377024",
+          "start": 93,
+          "url": "https://t.co/LDTkqehOw5"
+        },
+        {
+          "display_url": "x.com/Starrynightwgl…",
+          "end": 140,
+          "expanded_url": "https://twitter.com/Starrynightwglf/status/2071245143597056371",
+          "start": 117,
+          "url": "https://t.co/TOLzMvAVTx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071317283939799121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071245143597056371",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "受不了了线路也很垃圾，日本节点被送中了😇，还经常跳出来这个让我输密码，我都怕哪天因为脏节点给我号封了......\n有什么速度快日本节点多还能按流量付费的机场....我的号都在日区... https://t.co/LDTkqehOw5 https://t.co/TOLzMvAVTx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1831,
+        "media_key": "3_2071317248103563264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7MEBZaQAAOBId.jpg",
+        "width": 1199
+      },
+      {
+        "height": 2670,
+        "media_key": "3_2071317281557377024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7MF-Ba8AAXolG.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1269,
+        "media_key": "3_2071245127587405824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6KeDibIAAWExG.jpg",
+        "width": 2257
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071317248103563264",
+            "3_2071317281557377024"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071317283939799121",
+        "created_at": "2026-06-28T19:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071317283939799121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LDTkqehOw5",
+              "end": 116,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2071317283939799121/photo/1",
+              "media_key": "3_2071317248103563264",
+              "start": 93,
+              "url": "https://t.co/LDTkqehOw5"
+            },
+            {
+              "display_url": "pic.x.com/LDTkqehOw5",
+              "end": 116,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2071317283939799121/photo/1",
+              "media_key": "3_2071317281557377024",
+              "start": 93,
+              "url": "https://t.co/LDTkqehOw5"
+            },
+            {
+              "display_url": "x.com/Starrynightwgl…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/Starrynightwglf/status/2071245143597056371",
+              "start": 117,
+              "url": "https://t.co/TOLzMvAVTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071317283939799121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071245143597056371",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "受不了了线路也很垃圾，日本节点被送中了😇，还经常跳出来这个让我输密码，我都怕哪天因为脏节点给我号封了......\n有什么速度快日本节点多还能按流量付费的机场....我的号都在日区... https://t.co/LDTkqehOw5 https://t.co/TOLzMvAVTx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071245127587405824"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2071245143597056371",
+        "created_at": "2026-06-28T14:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071245143597056371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N32OUDde2w",
+              "end": 56,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2071245143597056371/photo/1",
+              "media_key": "3_2071245127587405824",
+              "start": 33,
+              "url": "https://t.co/N32OUDde2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071245143597056371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "假如说我绷住了呢。。。\n考虑换机场了但是充了流量套餐还没用完。。 https://t.co/N32OUDde2w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2188,
+          "following_count": 4789,
+          "like_count": 170298,
+          "listed_count": 5,
+          "media_count": 1677,
+          "tweet_count": 7156
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      }
+    ]
+  }
+}

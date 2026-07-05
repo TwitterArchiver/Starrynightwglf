@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2071241351468073338",
+    "created_at": "2026-06-28T21:03:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T22:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071338763838767565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044796233508605952",
+          "start": 0,
+          "username": "yue_li0712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071338763838767565",
+    "in_reply_to_user_id": "2044796233508605952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071241351468073338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yue_li0712 这么萌啥意思吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2071241348213346304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6HCERbkAAmG_8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2071241348292988928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6HCEka0AAPP0d.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2071241348217556992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6HCESb0AAXFhI.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2071241348632756224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6HCF1bQAADtfi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2071241351468073338",
+        "created_at": "2026-06-28T21:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T22:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071338763838767565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044796233508605952",
+              "start": 0,
+              "username": "yue_li0712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071338763838767565",
+        "in_reply_to_user_id": "2044796233508605952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071241351468073338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yue_li0712 这么萌啥意思吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071241348213346304",
+            "3_2071241348292988928",
+            "3_2071241348217556992",
+            "3_2071241348632756224"
+          ]
+        },
+        "author_id": "2044796233508605952",
+        "conversation_id": "2071241351468073338",
+        "created_at": "2026-06-28T14:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071241351468073338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mys4xAS7Sk",
+              "end": 81,
+              "expanded_url": "https://x.com/yue_li0712/status/2071241351468073338/photo/1",
+              "media_key": "3_2071241348213346304",
+              "start": 58,
+              "url": "https://t.co/mys4xAS7Sk"
+            },
+            {
+              "display_url": "pic.x.com/mys4xAS7Sk",
+              "end": 81,
+              "expanded_url": "https://x.com/yue_li0712/status/2071241351468073338/photo/1",
+              "media_key": "3_2071241348292988928",
+              "start": 58,
+              "url": "https://t.co/mys4xAS7Sk"
+            },
+            {
+              "display_url": "pic.x.com/mys4xAS7Sk",
+              "end": 81,
+              "expanded_url": "https://x.com/yue_li0712/status/2071241351468073338/photo/1",
+              "media_key": "3_2071241348217556992",
+              "start": 58,
+              "url": "https://t.co/mys4xAS7Sk"
+            },
+            {
+              "display_url": "pic.x.com/mys4xAS7Sk",
+              "end": 81,
+              "expanded_url": "https://x.com/yue_li0712/status/2071241351468073338/photo/1",
+              "media_key": "3_2071241348632756224",
+              "start": 58,
+              "url": "https://t.co/mys4xAS7Sk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071241351468073338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1792,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "今天试了试暑假要出的C服，感觉会热死在成都，不管了，再发一下以前的存货吧，ooc致歉（那次美瞳没带上，抱歉😭😭😭） https://t.co/mys4xAS7Sk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2188,
+          "following_count": 4789,
+          "like_count": 170357,
+          "listed_count": 5,
+          "media_count": 1676,
+          "tweet_count": 7161
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-16T15:13:31.000Z",
+        "description": "把过去的自己，轻轻放下。从此，向阳而生，慢慢长大。\n有证含🍥｜开始时间2026.4.30｜社恐小透明｜锦依卫｜特摄｜MtF | 06年 | 可以叫我曦曦/玥玥|可爱就忍不住想抱紧紧 | 不od｜不自残｜不定期会发一些COS照｜同类互fo喵",
+        "id": "2044796233508605952",
+        "name": "曦玥玥🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067587441096294400/m451qvkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 95,
+          "like_count": 1734,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 302
+        },
+        "url": "",
+        "username": "yue_li0712",
+        "verified": false
+      }
+    ]
+  }
+}
