@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2073877815913804012",
+    "created_at": "2026-07-06T10:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T11:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074077603150090575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1792161919429996544",
+          "start": 0,
+          "username": "suki_kawaii_no"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074077603150090575",
+    "in_reply_to_user_id": "1792161919429996544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074073121129398346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suki_kawaii_no 都用得到啊哪些是垃圾软件"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2073877815913804012",
+        "created_at": "2026-07-06T10:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074077603150090575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1792161919429996544",
+              "start": 0,
+              "username": "suki_kawaii_no"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074077603150090575",
+        "in_reply_to_user_id": "1792161919429996544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074073121129398346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suki_kawaii_no 都用得到啊哪些是垃圾软件"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792161919429996544",
+        "conversation_id": "2073877815913804012",
+        "created_at": "2026-07-06T10:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074073121129398346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1563508655256850433",
+              "start": 0,
+              "username": "Starrynightwglf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074073121129398346",
+        "in_reply_to_user_id": "1563508655256850433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073877815913804012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starrynightwglf 不看应用数据以为是存片的\n看了应用数据以为存黄油的\n\n看了评论后，这么多垃圾软件什么鬼😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 4802,
+          "like_count": 171746,
+          "listed_count": 5,
+          "media_count": 1711,
+          "tweet_count": 7253
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-19T11:56:45.000Z",
+        "description": "你好！陌生人祝你天天开心^_^",
+        "id": "1792161919429996544",
+        "name": "纳纳芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071072393679011840/GIZTHZlZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 48,
+          "like_count": 1972,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 800
+        },
+        "url": "",
+        "username": "suki_kawaii_no",
+        "verified": true
+      }
+    ]
+  }
+}

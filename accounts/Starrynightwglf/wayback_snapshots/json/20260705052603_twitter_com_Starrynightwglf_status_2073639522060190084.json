@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073639415482920961"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073604885623255456",
+    "created_at": "2026-07-05T05:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T06:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073639522060190084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1455052587145723904",
+          "start": 0,
+          "username": "MizukiWorkshop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AR5kZ4OGO6",
+          "end": 48,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2073639522060190084/photo/1",
+          "media_key": "3_2073639415482920961",
+          "start": 25,
+          "url": "https://t.co/AR5kZ4OGO6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073639522060190084",
+    "in_reply_to_user_id": "1455052587145723904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073604885623255456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MizukiWorkshop 直女世界观重塑中 https://t.co/AR5kZ4OGO6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2073639415482920961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcMD9AbsAEk02Q.jpg",
+        "width": 2560
+      },
+      {
+        "height": 378,
+        "media_key": "3_2073604842048667648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbsng7XQAA88k9.jpg",
+        "width": 1094
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073639415482920961"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073604885623255456",
+        "created_at": "2026-07-05T05:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073639522060190084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1455052587145723904",
+              "start": 0,
+              "username": "MizukiWorkshop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AR5kZ4OGO6",
+              "end": 48,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2073639522060190084/photo/1",
+              "media_key": "3_2073639415482920961",
+              "start": 25,
+              "url": "https://t.co/AR5kZ4OGO6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073639522060190084",
+        "in_reply_to_user_id": "1455052587145723904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073604885623255456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MizukiWorkshop 直女世界观重塑中 https://t.co/AR5kZ4OGO6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073604842048667648"
+          ]
+        },
+        "author_id": "1455052587145723904",
+        "conversation_id": "2073604885623255456",
+        "created_at": "2026-07-05T03:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073604885623255456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lCZ08EkGhg",
+              "end": 33,
+              "expanded_url": "https://x.com/MizukiWorkshop/status/2073604885623255456/photo/1",
+              "media_key": "3_2073604842048667648",
+              "start": 10,
+              "url": "https://t.co/lCZ08EkGhg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073604885623255456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "芙芙：woc，姛！ https://t.co/lCZ08EkGhg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2197,
+          "following_count": 4793,
+          "like_count": 171501,
+          "listed_count": 5,
+          "media_count": 1704,
+          "tweet_count": 7236
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-01T06:02:30.000Z",
+        "description": "🫧 ⬩ ME JIANG ⬩ @ringochichidim ⬩ @stellachan0w0 ⬩ @NekoChan6684816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ringochichidim"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "stellachan0w0"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "NekoChan6684816"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Muentzer",
+                "end": 23,
+                "expanded_url": "https://t.me/Muentzer",
+                "start": 0,
+                "url": "https://t.co/uom95KFHj4"
+              }
+            ]
+          }
+        },
+        "id": "1455052587145723904",
+        "location": "L'Internationale",
+        "name": "水月 遥 🪼🫧",
+        "pinned_tweet_id": "1865957499418951947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791874009308545025/7yD_VYMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1830,
+          "following_count": 1196,
+          "like_count": 119549,
+          "listed_count": 7,
+          "media_count": 1810,
+          "tweet_count": 24495
+        },
+        "url": "https://t.co/uom95KFHj4",
+        "username": "MizukiWorkshop",
+        "verified": false
+      }
+    ]
+  }
+}

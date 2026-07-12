@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075286399570542592"
+      ],
+      "media_source_tweet_id": [
+        "2075286577555947693"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2075503878934786055",
+    "created_at": "2026-07-10T08:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075503878934786055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4859683639",
+          "start": 3,
+          "username": "fudfudddd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xEoN28dKaD",
+          "end": 45,
+          "expanded_url": "https://x.com/fudfudddd/status/2075286577555947693/photo/1",
+          "media_key": "3_2075286399570542592",
+          "start": 22,
+          "url": "https://t.co/xEoN28dKaD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075503878934786055",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 393
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075286577555947693",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fudfudddd: 桑多涅好香🫂 https://t.co/xEoN28dKaD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1757,
+        "media_key": "3_2075286399570542592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzl_C2aAAAoYdN.jpg",
+        "width": 2600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075286399570542592"
+          ],
+          "media_source_tweet_id": [
+            "2075286577555947693"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2075503878934786055",
+        "created_at": "2026-07-10T08:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075503878934786055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4859683639",
+              "start": 3,
+              "username": "fudfudddd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xEoN28dKaD",
+              "end": 45,
+              "expanded_url": "https://x.com/fudfudddd/status/2075286577555947693/photo/1",
+              "media_key": "3_2075286399570542592",
+              "start": 22,
+              "url": "https://t.co/xEoN28dKaD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075503878934786055",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 393
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075286577555947693",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fudfudddd: 桑多涅好香🫂 https://t.co/xEoN28dKaD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075286399570542592"
+          ]
+        },
+        "author_id": "4859683639",
+        "conversation_id": "2075286577555947693",
+        "created_at": "2026-07-09T18:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075286577555947693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xEoN28dKaD",
+              "end": 30,
+              "expanded_url": "https://x.com/fudfudddd/status/2075286577555947693/photo/1",
+              "media_key": "3_2075286399570542592",
+              "start": 7,
+              "url": "https://t.co/xEoN28dKaD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075286577555947693",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 366,
+          "impression_count": 26219,
+          "like_count": 3834,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 393
+        },
+        "reply_settings": "everyone",
+        "text": "桑多涅好香🫂 https://t.co/xEoN28dKaD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 4805,
+          "like_count": 172488,
+          "listed_count": 5,
+          "media_count": 1716,
+          "tweet_count": 7276
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-04T16:04:12.000Z",
+        "description": "icon byおくらさん(@netonetosoba) 16.08.16.18.24",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 13,
+                "username": "netonetosoba"
+              }
+            ]
+          }
+        },
+        "id": "4859683639",
+        "name": "我要认真起来了！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739934425398575104/sftKTcAF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50192,
+          "following_count": 122,
+          "like_count": 2668,
+          "listed_count": 254,
+          "media_count": 1042,
+          "tweet_count": 6011
+        },
+        "url": "",
+        "username": "fudfudddd",
+        "verified": false
+      }
+    ]
+  }
+}

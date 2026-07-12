@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2074804996663877978",
+    "created_at": "2026-07-08T10:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074804996663877978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1070960596357509121",
+          "start": 3,
+          "username": "Genshin_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074804996663877978",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3759
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074705283486527904",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Genshin_7: 【原神ストーリームービー】\n「鏡水に自らの姿を映すもの」\n\n未来と過去を隔てた鏡——そこに映し出される姿は同じものだった。\nそれは拘束でも循環でもなく、自我の統一である。\n\n※この動画には一部イベント「帰夏！映影？千霊祭！」のネタバレが含まれます。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 81664,
+        "height": 1080,
+        "media_key": "13_2074694468595298304",
+        "preview_image_url": "https://pbs.twimg.com/media/HMrLu6nWcAAkiN6.jpg",
+        "public_metrics": {
+          "view_count": 96869
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074694468595298304/vid/avc1/480x270/oM3_C3HAjWi1rGyZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074694468595298304/vid/avc1/640x360/1Povni-SS0kWblT6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074694468595298304/vid/avc1/1280x720/ZIbiVeWFlBquVNZg.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074694468595298304/pl/MUEEHTEsZJmQGqqX.m3u8?tag=14&v=80b"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2074804996663877978",
+        "created_at": "2026-07-08T10:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074804996663877978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1070960596357509121",
+              "start": 3,
+              "username": "Genshin_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074804996663877978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3759
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074705283486527904",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Genshin_7: 【原神ストーリームービー】\n「鏡水に自らの姿を映すもの」\n\n未来と過去を隔てた鏡——そこに映し出される姿は同じものだった。\nそれは拘束でも循環でもなく、自我の統一である。\n\n※この動画には一部イベント「帰夏！映影？千霊祭！」のネタバレが含まれます。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074694468595298304"
+          ]
+        },
+        "author_id": "1070960596357509121",
+        "conversation_id": "2074705283486527904",
+        "created_at": "2026-07-08T04:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074705283486527904"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "原神"
+            },
+            {
+              "end": 137,
+              "start": 130,
+              "tag": "サンドローネ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0rG3QPTpXL",
+              "end": 161,
+              "expanded_url": "https://x.com/Genshin_7/status/2074705283486527904/video/1",
+              "media_key": "13_2074694468595298304",
+              "start": 138,
+              "url": "https://t.co/0rG3QPTpXL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074705283486527904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1479,
+          "impression_count": 676210,
+          "like_count": 20017,
+          "quote_count": 134,
+          "reply_count": 123,
+          "retweet_count": 3759
+        },
+        "reply_settings": "everyone",
+        "text": "【原神ストーリームービー】\n「鏡水に自らの姿を映すもの」\n\n未来と過去を隔てた鏡——そこに映し出される姿は同じものだった。\nそれは拘束でも循環でもなく、自我の統一である。\n\n※この動画には一部イベント「帰夏！映影？千霊祭！」のネタバレが含まれます。\n\n#原神 #サンドローネ https://t.co/0rG3QPTpXL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2198,
+          "following_count": 4805,
+          "like_count": 172163,
+          "listed_count": 5,
+          "media_count": 1712,
+          "tweet_count": 7259
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-07T08:37:58.000Z",
+        "description": "PS5・Xbox・iOS・Android・PC向けオープンワールドRPG『原神』公式アカウントです。最新情報を発信します！ #原神 #Genshin #HoYoverse",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 62,
+                "tag": "原神"
+              },
+              {
+                "end": 74,
+                "start": 66,
+                "tag": "Genshin"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "tag": "HoYoverse"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoyo.link/6mfgFBAL",
+                "end": 23,
+                "expanded_url": "https://hoyo.link/6mfgFBAL",
+                "start": 0,
+                "url": "https://t.co/Ju8qwDkJpP"
+              }
+            ]
+          }
+        },
+        "id": "1070960596357509121",
+        "name": "原神（Genshin）公式",
+        "pinned_tweet_id": "2074674832969506999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980837846979067904/Hvxtnvav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4008747,
+          "following_count": 57,
+          "like_count": 246,
+          "listed_count": 15432,
+          "media_count": 2135899,
+          "tweet_count": 2139416
+        },
+        "url": "https://t.co/Ju8qwDkJpP",
+        "username": "Genshin_7",
+        "verified": true
+      }
+    ]
+  }
+}

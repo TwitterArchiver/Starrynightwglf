@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1486467051363258370",
+          "name": "IPOs"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2075178821628940609",
+    "created_at": "2026-07-09T11:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075178821628940609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1601893417549967360",
+          "start": 3,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075178821628940609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075166935663170000",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AcboxLiu: Anthropic就是华为的证据\n- Anthropic和华为的logo都是菊花\n- Anthropic和华为都没IPO\n- Anthropic和华为都做爱国和自主化营销\n- Anthropic和华为的风评都不好\n- Anthropic和华为都号称自…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1486467051363258370",
+              "name": "IPOs"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2075178821628940609",
+        "created_at": "2026-07-09T11:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075178821628940609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1601893417549967360",
+              "start": 3,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075178821628940609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075166935663170000",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AcboxLiu: Anthropic就是华为的证据\n- Anthropic和华为的logo都是菊花\n- Anthropic和华为都没IPO\n- Anthropic和华为都做爱国和自主化营销\n- Anthropic和华为的风评都不好\n- Anthropic和华为都号称自…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1486467051363258370",
+              "name": "IPOs"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2075166935663170000",
+        "created_at": "2026-07-09T10:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:27:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075164840520552772",
+          "2075166935663170000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075166935663170000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Anthropic就是华为的证据\n- Anthropic和华为的logo都是菊花\n- Anthropic和华为都没IPO\n- Anthropic和华为都做爱国和自主化营销\n- Anthropic和华为的风评都不好\n- Anthropic和华为都号称自己的模型世界第一\n- Anthropic和华为从来没有出现在一起\n总上所述，Anthropic就是华为，Dario和任正非是一体两面的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1562,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Anthropic就是华为的证据\n- Anthropic和华为的logo都是菊花\n- Anthropic和华为都没IPO\n- Anthropic和华为都做爱国和自主化营销\n- Anthropic和华为的风评都不好\n- Anthropic和华为都号称自己的模型世界第一\n- Anthropic和华为从来没有出现在一起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 4806,
+          "like_count": 172421,
+          "listed_count": 5,
+          "media_count": 1716,
+          "tweet_count": 7273
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "/ 📦神秘纸箱 / 🐱家里有小猫和大猫\n/ https://t.co/hUTrNHa19i\n/ Co-founder of https://t.co/gLiVpv8l1t https://t.co/PSLnUgusnm\n/ Building https://t.co/1QoAcF6sm4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 45,
+                "expanded_url": "http://github.com/sheepbox8646",
+                "start": 22,
+                "url": "https://t.co/hUTrNHa19i"
+              },
+              {
+                "display_url": "memoh.ai",
+                "end": 85,
+                "expanded_url": "http://memoh.ai",
+                "start": 62,
+                "url": "https://t.co/gLiVpv8l1t"
+              },
+              {
+                "display_url": "felinic.ai",
+                "end": 109,
+                "expanded_url": "http://felinic.ai",
+                "start": 86,
+                "url": "https://t.co/PSLnUgusnm"
+              },
+              {
+                "display_url": "oh-my-github.app",
+                "end": 144,
+                "expanded_url": "http://oh-my-github.app",
+                "start": 121,
+                "url": "https://t.co/1QoAcF6sm4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/acboxawa",
+                "end": 23,
+                "expanded_url": "http://t.me/acboxawa",
+                "start": 0,
+                "url": "https://t.co/ItS4Ve8jNM"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "上海/深圳",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "2039222526803636555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038245960967741441/70mSKMEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12331,
+          "following_count": 2755,
+          "like_count": 3473,
+          "listed_count": 64,
+          "media_count": 1125,
+          "tweet_count": 6430
+        },
+        "url": "https://t.co/ItS4Ve8jNM",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

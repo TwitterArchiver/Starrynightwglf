@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2073773686650532101",
+    "created_at": "2026-07-05T14:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073773686650532101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1767185224860045312",
+          "start": 3,
+          "username": "Nisenanodesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073773686650532101",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073732824163823708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nisenanodesu: 圭一 あなたは死なせないわ私が守るもの"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2073773686650532101",
+        "created_at": "2026-07-05T14:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073773686650532101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1767185224860045312",
+              "start": 3,
+              "username": "Nisenanodesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073773686650532101",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073732824163823708",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nisenanodesu: 圭一 あなたは死なせないわ私が守るもの"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767185224860045312",
+        "conversation_id": "2073732824163823708",
+        "created_at": "2026-07-05T11:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073732824163823708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073732824163823708",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 12371,
+          "like_count": 414,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "圭一 あなたは死なせないわ私が守るもの"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 4792,
+          "like_count": 171555,
+          "listed_count": 5,
+          "media_count": 1704,
+          "tweet_count": 7239
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-11T13:46:41.000Z",
+        "description": "にぱー☆",
+        "id": "1767185224860045312",
+        "location": "雛見沢",
+        "name": "存在しない古手梨花bot",
+        "pinned_tweet_id": "1790885858964578455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790640399494823936/dGEFS8ZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4156,
+          "following_count": 526,
+          "like_count": 1376,
+          "listed_count": 7,
+          "media_count": 1,
+          "tweet_count": 514
+        },
+        "url": "",
+        "username": "Nisenanodesu",
+        "verified": false
+      }
+    ]
+  }
+}

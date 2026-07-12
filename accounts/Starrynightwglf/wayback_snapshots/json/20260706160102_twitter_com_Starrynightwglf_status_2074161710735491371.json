@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074156616883273728"
+      ],
+      "media_source_tweet_id": [
+        "2074157430494339212"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2074161710735491371",
+    "created_at": "2026-07-06T16:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074161710735491371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1485276995789660161",
+          "start": 3,
+          "username": "sa_tokooooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fQbx335gOZ",
+          "end": 45,
+          "expanded_url": "https://x.com/sa_tokooooo/status/2074157430494339212/photo/1",
+          "media_key": "3_2074156616883273728",
+          "start": 22,
+          "url": "https://t.co/fQbx335gOZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074161710735491371",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074157430494339212",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sa_tokooooo: 古手梨花 https://t.co/fQbx335gOZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2074156616883273728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjidCXagAAVlaB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074156616883273728"
+          ],
+          "media_source_tweet_id": [
+            "2074157430494339212"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2074161710735491371",
+        "created_at": "2026-07-06T16:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074161710735491371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1485276995789660161",
+              "start": 3,
+              "username": "sa_tokooooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fQbx335gOZ",
+              "end": 45,
+              "expanded_url": "https://x.com/sa_tokooooo/status/2074157430494339212/photo/1",
+              "media_key": "3_2074156616883273728",
+              "start": 22,
+              "url": "https://t.co/fQbx335gOZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074161710735491371",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074157430494339212",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sa_tokooooo: 古手梨花 https://t.co/fQbx335gOZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074156616883273728"
+          ]
+        },
+        "author_id": "1485276995789660161",
+        "conversation_id": "2074157430494339212",
+        "created_at": "2026-07-06T15:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074157430494339212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fQbx335gOZ",
+              "end": 28,
+              "expanded_url": "https://x.com/sa_tokooooo/status/2074157430494339212/photo/1",
+              "media_key": "3_2074156616883273728",
+              "start": 5,
+              "url": "https://t.co/fQbx335gOZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074157430494339212",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "古手梨花 https://t.co/fQbx335gOZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 4803,
+          "like_count": 171803,
+          "listed_count": 5,
+          "media_count": 1711,
+          "tweet_count": 7256
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-23T15:43:49.000Z",
+        "description": "成人済 / 百合",
+        "id": "1485276995789660161",
+        "name": "しゃま",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1485634275060121600/VI0BNxPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2959,
+          "following_count": 54,
+          "like_count": 28146,
+          "listed_count": 28,
+          "media_count": 29,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "sa_tokooooo",
+        "verified": false
+      }
+    ]
+  }
+}

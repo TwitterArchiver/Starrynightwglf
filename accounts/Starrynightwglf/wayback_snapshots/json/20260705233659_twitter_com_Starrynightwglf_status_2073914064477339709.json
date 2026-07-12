@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "933033311844286464",
+          "name": "Harry Potter"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "933033311844286464",
+          "name": "Harry Potter"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2073914064477339709",
+    "created_at": "2026-07-05T23:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T00:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073914064477339709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "956273322358079488",
+          "start": 3,
+          "username": "MaximeRivest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073914064477339709",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 919
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073544461473169432",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaximeRivest: Fable turned my remarkable into Tom Riddle's diary from Harry Potter.\n\nMy prompts fade, a LLM respond.\n\nMagical! https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24960,
+        "height": 3840,
+        "media_key": "13_2073544341142777856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073544341142777856/img/_Rw1oi8JDp61ArPo.jpg",
+        "public_metrics": {
+          "view_count": 482931
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073544341142777856/vid/avc1/480x852/oXweHKF8CIticPtq.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073544341142777856/vid/avc1/320x568/sMJ9O4JEBBjG89tY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073544341142777856/vid/avc1/720x1280/Q5VIkqgdseglnTux.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073544341142777856/pl/JgvWrZy_DpuyS4y0.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073544341142777856/vid/avc1/1080x1920/C7H-0wdT5AqDu6Ei.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073544341142777856/vid/avc1/2160x3840/9ek1BFjcw7-OWGJr.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "933033311844286464",
+              "name": "Harry Potter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "933033311844286464",
+              "name": "Harry Potter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2073914064477339709",
+        "created_at": "2026-07-05T23:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T00:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073914064477339709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "956273322358079488",
+              "start": 3,
+              "username": "MaximeRivest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073914064477339709",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 919
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073544461473169432",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MaximeRivest: Fable turned my remarkable into Tom Riddle's diary from Harry Potter.\n\nMy prompts fade, a LLM respond.\n\nMagical! https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073544341142777856"
+          ]
+        },
+        "author_id": "956273322358079488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "933033311844286464",
+              "name": "Harry Potter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "933033311844286464",
+              "name": "Harry Potter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2073544461473169432",
+        "created_at": "2026-07-04T23:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T00:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073544461473169432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iLFOMWRkNv",
+              "end": 136,
+              "expanded_url": "https://x.com/MaximeRivest/status/2073544461473169432/video/1",
+              "media_key": "13_2073544341142777856",
+              "start": 113,
+              "url": "https://t.co/iLFOMWRkNv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073544461473169432",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5865,
+          "impression_count": 1458800,
+          "like_count": 15019,
+          "quote_count": 279,
+          "reply_count": 368,
+          "retweet_count": 919
+        },
+        "reply_settings": "everyone",
+        "text": "Fable turned my remarkable into Tom Riddle's diary from Harry Potter.\n\nMy prompts fade, a LLM respond.\n\nMagical! https://t.co/iLFOMWRkNv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2194,
+          "following_count": 4796,
+          "like_count": 171649,
+          "listed_count": 5,
+          "media_count": 1708,
+          "tweet_count": 7245
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-24T21:11:41.000Z",
+        "description": "Searching for the wise way to interact with AI.\n\nExperiments are on GitHub\n\nChat bot are likely not it. \nDSPy is probably onto something, so I contribute to it.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/MaximeRivest",
+                "end": 23,
+                "expanded_url": "https://github.com/MaximeRivest",
+                "start": 0,
+                "url": "https://t.co/gUnUDWEAKO"
+              }
+            ]
+          }
+        },
+        "id": "956273322358079488",
+        "location": "Ottawa 🇨🇦",
+        "name": "Maxime Rivest 🧙‍♂️🦙🐧",
+        "pinned_tweet_id": "2055293570119065875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834591719356030976/m0v8shuf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8829,
+          "following_count": 928,
+          "like_count": 4223,
+          "listed_count": 127,
+          "media_count": 1277,
+          "tweet_count": 7540
+        },
+        "url": "https://t.co/gUnUDWEAKO",
+        "username": "MaximeRivest",
+        "verified": true
+      }
+    ]
+  }
+}
