@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2080197046984917371",
+    "created_at": "2026-07-23T07:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T08:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080197046984917371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1674780264504098826",
+          "start": 3,
+          "username": "genpatsu_mania"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080197046984917371",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3125
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079557329025134639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @genpatsu_mania: Xの謎機能\n\nいいねを外してくれる"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2080197046984917371",
+        "created_at": "2026-07-23T07:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080197046984917371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1674780264504098826",
+              "start": 3,
+              "username": "genpatsu_mania"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080197046984917371",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3125
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079557329025134639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @genpatsu_mania: Xの謎機能\n\nいいねを外してくれる"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674780264504098826",
+        "conversation_id": "2079557329025134639",
+        "created_at": "2026-07-21T13:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079557329025134639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079557329025134639",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1135,
+          "impression_count": 2228351,
+          "like_count": 70638,
+          "quote_count": 323,
+          "reply_count": 83,
+          "retweet_count": 3125
+        },
+        "reply_settings": "everyone",
+        "text": "Xの謎機能\n\nいいねを外してくれる"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2216,
+          "following_count": 4824,
+          "like_count": 174158,
+          "listed_count": 5,
+          "media_count": 1746,
+          "tweet_count": 7357
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-30T14:02:11.000Z",
+        "description": "一般ヒカマニセイマニ投稿者です。おすすめ@45Rhodium1804",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "45Rhodium1804"
+              }
+            ]
+          }
+        },
+        "id": "1674780264504098826",
+        "location": "ヒカマニの森",
+        "name": "にぎマニ",
+        "pinned_tweet_id": "2073303046306881546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055583018535067648/rKe1UJuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4132,
+          "following_count": 4851,
+          "like_count": 145208,
+          "listed_count": 10,
+          "media_count": 10889,
+          "tweet_count": 58705
+        },
+        "url": "",
+        "username": "genpatsu_mania",
+        "verified": true
+      }
+    ]
+  }
+}

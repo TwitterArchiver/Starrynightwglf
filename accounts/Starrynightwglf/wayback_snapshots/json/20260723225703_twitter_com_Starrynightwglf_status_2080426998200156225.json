@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2080426998200156225",
+    "created_at": "2026-07-23T22:57:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T23:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080426998200156225"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LauraKahn16/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/LauraKahn16/status/2080411379471659278",
+          "start": 8,
+          "url": "https://t.co/w8ghzn7i3z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080426998200156225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080411379471659278",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你也炸飞😾😾😾 https://t.co/w8ghzn7i3z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2080426998200156225",
+        "created_at": "2026-07-23T22:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T23:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080426998200156225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LauraKahn16/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/LauraKahn16/status/2080411379471659278",
+              "start": 8,
+              "url": "https://t.co/w8ghzn7i3z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080426998200156225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080411379471659278",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你也炸飞😾😾😾 https://t.co/w8ghzn7i3z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236860952043192321",
+        "conversation_id": "2080410779908784429",
+        "created_at": "2026-07-23T21:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T22:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080411379471659278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1563508655256850433",
+              "start": 0,
+              "username": "Starrynightwglf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080411379471659278",
+        "in_reply_to_user_id": "1563508655256850433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080410779908784429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starrynightwglf 确实，名字一听就很好奇配料"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2214,
+          "following_count": 4823,
+          "like_count": 174255,
+          "listed_count": 5,
+          "media_count": 1748,
+          "tweet_count": 7362
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-09T03:46:58.000Z",
+        "description": "银狐VPN，高速稳定，下载送2天，邀请送1天，提前安装更省心。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxlink.top/invite/DLCOLSES",
+                "end": 23,
+                "expanded_url": "https://foxlink.top/invite/DLCOLSES",
+                "start": 0,
+                "url": "https://t.co/8oH0VfT5WC"
+              }
+            ]
+          }
+        },
+        "id": "1236860952043192321",
+        "name": "银狐VPNTG稳定",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078308744723677184/p617omoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 68,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/8oH0VfT5WC",
+        "username": "LauraKahn16",
+        "verified": false
+      }
+    ]
+  }
+}

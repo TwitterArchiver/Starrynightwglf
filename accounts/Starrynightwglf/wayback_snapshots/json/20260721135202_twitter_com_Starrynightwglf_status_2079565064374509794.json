@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2079534654957470139",
+    "created_at": "2026-07-21T13:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T14:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079565064374509794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079565064374509794",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079534654957470139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@AcboxLiu 这是啥子猫"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20531,
+        "height": 1920,
+        "media_key": "13_2079534581724909568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079534581724909568/img/IRytY2DBZCHnx7Pg.jpg",
+        "public_metrics": {
+          "view_count": 326
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079534581724909568/vid/avc1/1080x1920/-bPNUa39GFgBQZI0.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079534581724909568/vid/avc1/320x568/2q9T3U6dLQY-iFng.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079534581724909568/vid/avc1/720x1280/D40f-VTfDt1Y5Rwc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079534581724909568/pl/vItzocxjPwwXZM-r.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079534581724909568/vid/avc1/480x852/H0UepzIaz42Be3DX.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079534581724962816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNv9rynbYAAvQ-W.jpg",
+        "width": 1762
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2079534654957470139",
+        "created_at": "2026-07-21T13:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079565064374509794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079565064374509794",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079534654957470139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@AcboxLiu 这是啥子猫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079534581724909568",
+            "3_2079534581724962816"
+          ]
+        },
+        "author_id": "1601893417549967360",
+        "conversation_id": "2079534654957470139",
+        "created_at": "2026-07-21T11:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079534654957470139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9aTAPWTNpV",
+              "end": 30,
+              "expanded_url": "https://x.com/AcboxLiu/status/2079534654957470139/video/1",
+              "media_key": "13_2079534581724909568",
+              "start": 7,
+              "url": "https://t.co/9aTAPWTNpV"
+            },
+            {
+              "display_url": "pic.x.com/9aTAPWTNpV",
+              "end": 30,
+              "expanded_url": "https://x.com/AcboxLiu/status/2079534654957470139/video/1",
+              "media_key": "3_2079534581724962816",
+              "start": 7,
+              "url": "https://t.co/9aTAPWTNpV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079534654957470139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 844,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "诡异的像AI https://t.co/9aTAPWTNpV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2208,
+          "following_count": 4824,
+          "like_count": 173574,
+          "listed_count": 5,
+          "media_count": 1739,
+          "tweet_count": 7328
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "/ 📦神秘纸箱 / 🐱家里有小猫和大猫\n/ https://t.co/hUTrNHa19i\n/ Co-founder of https://t.co/gLiVpv8l1t https://t.co/PSLnUgusnm\n/ Building https://t.co/1QoAcF6sm4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 45,
+                "expanded_url": "http://github.com/sheepbox8646",
+                "start": 22,
+                "url": "https://t.co/hUTrNHa19i"
+              },
+              {
+                "display_url": "memoh.ai",
+                "end": 85,
+                "expanded_url": "http://memoh.ai",
+                "start": 62,
+                "url": "https://t.co/gLiVpv8l1t"
+              },
+              {
+                "display_url": "felinic.ai",
+                "end": 109,
+                "expanded_url": "http://felinic.ai",
+                "start": 86,
+                "url": "https://t.co/PSLnUgusnm"
+              },
+              {
+                "display_url": "oh-my-github.app",
+                "end": 144,
+                "expanded_url": "http://oh-my-github.app",
+                "start": 121,
+                "url": "https://t.co/1QoAcF6sm4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ac.box",
+                "end": 23,
+                "expanded_url": "https://ac.box",
+                "start": 0,
+                "url": "https://t.co/UNw6tpT9C0"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "上海/深圳",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "2075970963158839366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038245960967741441/70mSKMEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12605,
+          "following_count": 2741,
+          "like_count": 3514,
+          "listed_count": 63,
+          "media_count": 1152,
+          "tweet_count": 6555
+        },
+        "url": "https://t.co/UNw6tpT9C0",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

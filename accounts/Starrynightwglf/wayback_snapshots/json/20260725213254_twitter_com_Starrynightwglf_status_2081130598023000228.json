@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2080982238431436983",
+    "created_at": "2026-07-25T21:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T22:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081130598023000228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1680544465671561216",
+          "start": 0,
+          "username": "LXL0102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081130598023000228",
+    "in_reply_to_user_id": "1680544465671561216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080982238431436983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LXL0102 一滴泪八月二号的漫展还能去吗🤨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080982228864266240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEiT8da8AAgMN7.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080982228843335680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEiT8YbkAAysEw.jpg",
+        "width": 942
+      },
+      {
+        "height": 1184,
+        "media_key": "3_2080982228876886016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEiT8gbgAADBau.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2080982238431436983",
+        "created_at": "2026-07-25T21:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T22:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081130598023000228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081130598023000228",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080982238431436983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 一滴泪八月二号的漫展还能去吗🤨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080982228864266240",
+            "3_2080982228843335680",
+            "3_2080982228876886016"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "2080982238431436983",
+        "created_at": "2026-07-25T11:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080982238431436983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fg17UxGgsJ",
+              "end": 43,
+              "expanded_url": "https://x.com/LXL0102/status/2080982238431436983/photo/1",
+              "media_key": "3_2080982228864266240",
+              "start": 20,
+              "url": "https://t.co/fg17UxGgsJ"
+            },
+            {
+              "display_url": "pic.x.com/fg17UxGgsJ",
+              "end": 43,
+              "expanded_url": "https://x.com/LXL0102/status/2080982238431436983/photo/1",
+              "media_key": "3_2080982228843335680",
+              "start": 20,
+              "url": "https://t.co/fg17UxGgsJ"
+            },
+            {
+              "display_url": "pic.x.com/fg17UxGgsJ",
+              "end": 43,
+              "expanded_url": "https://x.com/LXL0102/status/2080982238431436983/photo/1",
+              "media_key": "3_2080982228876886016",
+              "start": 20,
+              "url": "https://t.co/fg17UxGgsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080982238431436983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 384560,
+          "like_count": 1817,
+          "quote_count": 33,
+          "reply_count": 509,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "一滴泪吉他张这帮傻逼终于要被封杀了🎉🎉 https://t.co/fg17UxGgsJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2211,
+          "following_count": 4820,
+          "like_count": 174545,
+          "listed_count": 5,
+          "media_count": 1750,
+          "tweet_count": 7386
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定||有男友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMQFx"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "2044418589713973522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077418787192942592/nebR4rXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 373,
+          "like_count": 1698,
+          "listed_count": 4,
+          "media_count": 481,
+          "tweet_count": 3612
+        },
+        "url": "https://t.co/k0zhGfMQFx",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

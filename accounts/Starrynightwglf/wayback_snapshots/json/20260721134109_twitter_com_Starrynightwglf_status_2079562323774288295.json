@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2079562323774288295",
+    "created_at": "2026-07-21T13:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T14:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079562323774288295"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BandmanElite/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/BandmanElite/status/2079351754919924045",
+          "start": 7,
+          "url": "https://t.co/XPLHAMdc1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079562323774288295",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079351754919924045",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ai都知道😌 https://t.co/XPLHAMdc1i"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2079562323774288295",
+        "created_at": "2026-07-21T13:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079562323774288295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BandmanElite/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/BandmanElite/status/2079351754919924045",
+              "start": 7,
+              "url": "https://t.co/XPLHAMdc1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079562323774288295",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079351754919924045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ai都知道😌 https://t.co/XPLHAMdc1i"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684641144196767744",
+        "conversation_id": "2079351647290184065",
+        "created_at": "2026-07-20T23:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T00:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079351754919924045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079351754919924045",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079351647290184065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 确实，想念也该有边界，尊重她本身更重要。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2208,
+          "following_count": 4824,
+          "like_count": 173547,
+          "listed_count": 5,
+          "media_count": 1739,
+          "tweet_count": 7327
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-27T19:05:30.000Z",
+        "description": "银狐VPN，高速稳定不断线，畅享全球网络。\n下载地址↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxlink.top/invite/DLCOLSES",
+                "end": 23,
+                "expanded_url": "https://foxlink.top/invite/DLCOLSES",
+                "start": 0,
+                "url": "https://t.co/bVYGg7j249"
+              }
+            ]
+          }
+        },
+        "id": "1684641144196767744",
+        "location": "Los Angeles, CA",
+        "name": "银狐VPN电报快线",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077460169403887617/9DSEMwfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 63,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "url": "https://t.co/bVYGg7j249",
+        "username": "BandmanElite",
+        "verified": false
+      }
+    ]
+  }
+}

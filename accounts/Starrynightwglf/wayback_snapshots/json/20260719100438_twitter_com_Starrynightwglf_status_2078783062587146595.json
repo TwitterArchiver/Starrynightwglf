@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2078707868916941127",
+    "created_at": "2026-07-19T10:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T11:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078783062587146595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "Ak1raQ_love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078783062587146595",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078707868916941127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ak1raQ_love 能绑play就能绑pay呀🤨，我日区支付信息乱编的好像也不影响扣钱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078707862139027456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkNyYKbwAAd_ZU.jpg",
+        "width": 931
+      },
+      {
+        "height": 420,
+        "media_key": "3_2078707861828579328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkNyXAasAARhTl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2078707868916941127",
+        "created_at": "2026-07-19T10:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078783062587146595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078783062587146595",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078707868916941127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 能绑play就能绑pay呀🤨，我日区支付信息乱编的好像也不影响扣钱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078707862139027456",
+            "3_2078707861828579328"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1631721404969230349",
+              "name": "GooglePay"
+            }
+          }
+        ],
+        "conversation_id": "2078707868916941127",
+        "created_at": "2026-07-19T05:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078707868916941127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QfLJu3nOXS",
+              "end": 61,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2078707868916941127/photo/1",
+              "media_key": "3_2078707862139027456",
+              "start": 38,
+              "url": "https://t.co/QfLJu3nOXS"
+            },
+            {
+              "display_url": "pic.x.com/QfLJu3nOXS",
+              "end": 61,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2078707868916941127/photo/1",
+              "media_key": "3_2078707861828579328",
+              "start": 38,
+              "url": "https://t.co/QfLJu3nOXS"
+            },
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2077942803984949445",
+              "start": 62,
+              "url": "https://t.co/HmI2EZHDYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078707868916941127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 13347,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077942803984949445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个卡居然能绑定Google pay，可以消费（不是play，是pay）🤯 https://t.co/QfLJu3nOXS https://t.co/HmI2EZHDYK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2201,
+          "following_count": 4814,
+          "like_count": 173001,
+          "listed_count": 5,
+          "media_count": 1733,
+          "tweet_count": 7304
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "廈門 Amoy",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 1061,
+          "like_count": 201497,
+          "listed_count": 2,
+          "media_count": 982,
+          "tweet_count": 7940
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

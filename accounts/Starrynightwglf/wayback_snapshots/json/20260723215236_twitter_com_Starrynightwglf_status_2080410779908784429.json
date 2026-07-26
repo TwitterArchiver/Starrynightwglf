@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2080410779908784429",
+    "created_at": "2026-07-23T21:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T22:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080410779908784429"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/avogelsf/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/avogelsf/status/2080230170061939026",
+          "start": 12,
+          "url": "https://t.co/qW0fVWg9Bt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080410779908784429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080230170061939026",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "炸弹炸飞你轰轰轰轰轰😾 https://t.co/qW0fVWg9Bt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2080410779908784429",
+        "created_at": "2026-07-23T21:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T22:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080410779908784429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/avogelsf/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/avogelsf/status/2080230170061939026",
+              "start": 12,
+              "url": "https://t.co/qW0fVWg9Bt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080410779908784429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080230170061939026",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "炸弹炸飞你轰轰轰轰轰😾 https://t.co/qW0fVWg9Bt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "39098092",
+        "conversation_id": "2080229724727701697",
+        "created_at": "2026-07-23T09:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080230170061939026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1563508655256850433",
+              "start": 0,
+              "username": "Starrynightwglf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080230170061939026",
+        "in_reply_to_user_id": "1563508655256850433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080229724727701697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starrynightwglf 炸弹是啥配料啊，听起来好特别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2213,
+          "following_count": 4822,
+          "like_count": 174249,
+          "listed_count": 5,
+          "media_count": 1748,
+          "tweet_count": 7361
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-10T19:33:57.000Z",
+        "description": "银狐VPN，下载领取2天免费时长，邀请好友再送4天，关键时刻更安心。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxlink.top/invite/DLCOLSES",
+                "end": 23,
+                "expanded_url": "https://foxlink.top/invite/DLCOLSES",
+                "start": 0,
+                "url": "https://t.co/N4Op8ENOwF"
+              }
+            ]
+          }
+        },
+        "id": "39098092",
+        "location": "Waco, Tx",
+        "name": "银狐VPN高速专线",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077461854821941248/nvmK85Pa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 80,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/N4Op8ENOwF",
+        "username": "avogelsf",
+        "verified": false
+      }
+    ]
+  }
+}

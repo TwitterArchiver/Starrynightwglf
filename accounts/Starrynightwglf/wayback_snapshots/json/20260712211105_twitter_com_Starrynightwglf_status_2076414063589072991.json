@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2076413311303000064"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2076414063589072991",
+    "created_at": "2026-07-12T21:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T22:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076414063589072991"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b1FjaebH1Y",
+          "end": 28,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2076414063589072991/video/1",
+          "media_key": "7_2076413311303000064",
+          "start": 5,
+          "url": "https://t.co/b1FjaebH1Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076414063589072991",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天亮了😌 https://t.co/b1FjaebH1Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60372,
+        "height": 1280,
+        "media_key": "7_2076413311303000064",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2076413311303000064/pu/img/kzIjoFWMy-5Iv4Qy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076413311303000064/pu/vid/avc1/320x568/uYAe2M9STrOSNwH_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076413311303000064/pu/vid/avc1/480x852/EAWOyfxAVbMDEnh5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076413311303000064/pu/vid/avc1/720x1280/9OW9AwpQiUBRpPGf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2076413311303000064/pu/pl/FCUW3vjCjVHwVaHx.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2076413311303000064"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2076414063589072991",
+        "created_at": "2026-07-12T21:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T22:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076414063589072991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b1FjaebH1Y",
+              "end": 28,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2076414063589072991/video/1",
+              "media_key": "7_2076413311303000064",
+              "start": 5,
+              "url": "https://t.co/b1FjaebH1Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076414063589072991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天亮了😌 https://t.co/b1FjaebH1Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195,
+          "following_count": 4805,
+          "like_count": 172708,
+          "listed_count": 5,
+          "media_count": 1721,
+          "tweet_count": 7284
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      }
+    ]
+  }
+}

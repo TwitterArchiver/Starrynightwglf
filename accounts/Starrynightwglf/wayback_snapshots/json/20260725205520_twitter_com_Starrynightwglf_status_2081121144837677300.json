@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2080726919512052178",
+    "created_at": "2026-07-25T20:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T21:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081121144837677300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "90397226",
+          "start": 0,
+          "username": "windtrack_QH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081121144837677300",
+    "in_reply_to_user_id": "90397226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080726919512052178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@windtrack_QH 全赶走了看他们上哪找劳动力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2080726919512052178",
+        "created_at": "2026-07-25T20:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T21:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081121144837677300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "90397226",
+              "start": 0,
+              "username": "windtrack_QH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081121144837677300",
+        "in_reply_to_user_id": "90397226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080726919512052178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@windtrack_QH 全赶走了看他们上哪找劳动力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "90397226",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to National Pension in Japan. 日本の年金に関する問題。",
+              "id": "1142154424866856960",
+              "name": "JP - National Pension"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to social security in Japan. 日本の社会保障制度に関する会話",
+              "id": "1143968237232644097",
+              "name": "Japanese Social Security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400506348727504906",
+              "name": "Living abroad"
+            }
+          }
+        ],
+        "conversation_id": "2080726919512052178",
+        "created_at": "2026-07-24T18:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080726919512052178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/asahi/status/2…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/asahi/status/2080607440866034160",
+              "start": 64,
+              "url": "https://t.co/Sj52n8vOCd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080726919512052178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 46477,
+          "like_count": 651,
+          "quote_count": 9,
+          "reply_count": 93,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080607440866034160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死，日本这政策以后谁还去啊，低端人口打工日元贬值，中产去被卡永驻，高端人士你开不出像样的工资。以后日本人就自己工作到死算了🤣 https://t.co/Sj52n8vOCd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2211,
+          "following_count": 4820,
+          "like_count": 174531,
+          "listed_count": 5,
+          "media_count": 1750,
+          "tweet_count": 7385
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-16T13:54:48.000Z",
+        "description": "80后北京胖子，中共党员，爱好吃饭、睡觉、电子游戏、动画、电影、历史、古文。推文以爱好为主，常有政治推。特别喜欢喷人和打脸。",
+        "id": "90397226",
+        "location": "Beijing China",
+        "name": "windtrack",
+        "pinned_tweet_id": "1966492904307777992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/787557292115832832/S3ktKpaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2412,
+          "following_count": 796,
+          "like_count": 5114,
+          "listed_count": 43,
+          "media_count": 1812,
+          "tweet_count": 31522
+        },
+        "url": "",
+        "username": "windtrack_QH",
+        "verified": false
+      }
+    ]
+  }
+}

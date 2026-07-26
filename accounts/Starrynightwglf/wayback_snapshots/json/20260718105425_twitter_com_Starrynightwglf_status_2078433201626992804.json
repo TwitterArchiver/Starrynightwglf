@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2078405661847867455",
+    "created_at": "2026-07-18T10:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T11:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078433201626992804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "918494780140785664",
+          "start": 0,
+          "username": "what3veruneeed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078433201626992804",
+    "in_reply_to_user_id": "918494780140785664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078423053852446915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@what3veruneeed 收的是淘宝转单，问了客服说补邮要十块💔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2078405661847867455",
+        "created_at": "2026-07-18T10:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078433201626992804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "918494780140785664",
+              "start": 0,
+              "username": "what3veruneeed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078433201626992804",
+        "in_reply_to_user_id": "918494780140785664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078423053852446915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@what3veruneeed 收的是淘宝转单，问了客服说补邮要十块💔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "918494780140785664",
+        "conversation_id": "2078405661847867455",
+        "created_at": "2026-07-18T10:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078423053852446915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1563508655256850433",
+              "start": 0,
+              "username": "Starrynightwglf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078423053852446915",
+        "in_reply_to_user_id": "1563508655256850433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078405661847867455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starrynightwglf 一模一样诶 我买的捏捏被退回了我和卖家说了一下都没要我邮费就重邮了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2202,
+          "following_count": 4809,
+          "like_count": 172969,
+          "listed_count": 5,
+          "media_count": 1730,
+          "tweet_count": 7305
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-12T15:13:15.000Z",
+        "description": "前世限流 @what3veruneed 消息回复不及时请联系tg @what3veruneeed，tg频道简介下方 大部分💊都有欢迎私信咨询 偶尔当pyq发",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "what3veruneed"
+              },
+              {
+                "end": 48,
+                "start": 33,
+                "username": "what3veruneeed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/what3veruneed12",
+                "end": 23,
+                "expanded_url": "https://t.me/what3veruneed12",
+                "start": 0,
+                "url": "https://t.co/bDlorIC3IR"
+              }
+            ]
+          }
+        },
+        "id": "918494780140785664",
+        "name": "IGOR促智",
+        "pinned_tweet_id": "2077400145080029231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077329521846439936/ZnsZIJBB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 67,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 51
+        },
+        "url": "https://t.co/bDlorIC3IR",
+        "username": "what3veruneeed",
+        "verified": false
+      }
+    ]
+  }
+}
