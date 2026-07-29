@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2081150243626979839",
+    "created_at": "2026-07-25T22:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T23:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081150243626979839"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hiroe_yoshida/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/hiroe_yoshida/status/2080935404468093110",
+          "start": 9,
+          "url": "https://t.co/eHquc0Wz8r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081150243626979839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080935404468093110",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "稻妻锁国令这一块 https://t.co/eHquc0Wz8r"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2081150243626979839",
+        "created_at": "2026-07-25T22:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T23:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081150243626979839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hiroe_yoshida/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/hiroe_yoshida/status/2080935404468093110",
+              "start": 9,
+              "url": "https://t.co/eHquc0Wz8r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081150243626979839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080935404468093110",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "稻妻锁国令这一块 https://t.co/eHquc0Wz8r"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1056245595344580609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to National Pension in Japan. 日本の年金に関する問題。",
+              "id": "1142154424866856960",
+              "name": "JP - National Pension"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to social security in Japan. 日本の社会保障制度に関する会話",
+              "id": "1143968237232644097",
+              "name": "Japanese Social Security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400506348727504906",
+              "name": "Living abroad"
+            }
+          }
+        ],
+        "conversation_id": "2080935404468093110",
+        "created_at": "2026-07-25T08:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:08:15.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080928099626262659",
+          "2080928248654156170",
+          "2080935404468093110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/asahi/status/2…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/asahi/status/2080607440866034160",
+              "start": 105,
+              "url": "https://t.co/dUm2ztAgBl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080935404468093110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "日本政府在做空日本的未来\n\n永住政策修订，表面赶外国人，实则做空自己。\n\n信用破产。 资本不怕门槛高，怕的是规则说变就变。今天缺人开门，明天形势好转就翻脸——这种国家，谁敢把未来二十年押在这里？\n\n饮鸩止渴。 日本缺的不是炒房的热钱，是护理、建筑、物流、餐饮这些基层劳动力。高端人才全球任选，日本工资又没竞争力；真正愿意留下干活纳税的普通人，你反倒往外推？\n\n割韭菜的老剧本也该看腻了。 过去每次日元贬值，外资就像蝗虫一样涌进来炒一波房、炒一波股，割完就走。现在好了，日元汇率越来越垃圾，短期热钱连割韭菜都嫌刀钝，更别说让人家长期真金白银投进来了。\n\n人口断崖不会因为赶人而停止。 养老靠年轻人，医疗靠年轻人，消费靠年轻人。你自己不生，还不让别人来，指望谁填这个坑？\n\n内需自杀。 外国人租房买房、买车消费、创业纳税，本身就是经济的一部分。老龄化社会本就缺年轻消费者，现在还主动减少长期居民？\n\n日本正在走向一种新的”闭关锁国”。\n\n积极的一面，日本政府提前让外国人止损离场也是好事一桩，都谢恩退场吧！\n\n加油👏"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 23916,
+          "like_count": 232,
+          "quote_count": 5,
+          "reply_count": 76,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080607440866034160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日本政府在做空日本的未来\n\n永住政策修订，表面赶外国人，实则做空自己。\n\n信用破产。 资本不怕门槛高，怕的是规则说变就变。今天缺人开门，明天形势好转就翻脸——这种国家，谁敢把未来二十年押在这里？\n\n饮鸩止渴。 https://t.co/dUm2ztAgBl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 4821,
+          "like_count": 174562,
+          "listed_count": 5,
+          "media_count": 1750,
+          "tweet_count": 7387
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2018-10-27T18:05:48.000Z",
+        "description": "不上班，不社交，不务正业的Trader\n价格只是数据流，不是情绪。\nGold / FX / US equities trader. Based in Japan.\nQuiet execution, no narrative.",
+        "id": "1056245595344580609",
+        "location": "Chiba-shi Chuo, Chiba",
+        "name": "大洋弥生mio&ocean",
+        "pinned_tweet_id": "2074277450771828881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060253748178653184/ASBXP9VJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3001,
+          "following_count": 1369,
+          "like_count": 6741,
+          "listed_count": 13,
+          "media_count": 1014,
+          "tweet_count": 11565
+        },
+        "url": "",
+        "username": "hiroe_yoshida",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080680006687293440"
+      ],
+      "media_source_tweet_id": [
+        "2080680012077027616"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1311401968691109888",
+          "name": "安達としまむら"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081073002842886294",
+    "created_at": "2026-07-25T17:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T18:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081073002842886294"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 22,
+          "tag": "安達としまむら"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2040969958721548289",
+          "start": 3,
+          "username": "AIcazZ027"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yan2BmtcWz",
+          "end": 54,
+          "expanded_url": "https://x.com/AIcazZ027/status/2080680012077027616/photo/1",
+          "media_key": "3_2080680006687293440",
+          "start": 31,
+          "url": "https://t.co/Yan2BmtcWz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081073002842886294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 556
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080680012077027616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AIcazZ027: 竭尽全力画了 #安達としまむら https://t.co/Yan2BmtcWz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2080680006687293440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAPcTHagAAuuz5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080680006687293440"
+          ]
+        },
+        "author_id": "2040969958721548289",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1311401968691109888",
+              "name": "安達としまむら"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080680012077027616",
+        "created_at": "2026-07-24T15:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080680012077027616"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 7,
+              "tag": "安達としまむら"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yan2BmtcWz",
+              "end": 39,
+              "expanded_url": "https://x.com/AIcazZ027/status/2080680012077027616/photo/1",
+              "media_key": "3_2080680006687293440",
+              "start": 16,
+              "url": "https://t.co/Yan2BmtcWz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080680012077027616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 353,
+          "impression_count": 38755,
+          "like_count": 3863,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 556
+        },
+        "reply_settings": "everyone",
+        "text": "竭尽全力画了 #安達としまむら https://t.co/Yan2BmtcWz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080680006687293440"
+          ],
+          "media_source_tweet_id": [
+            "2080680012077027616"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1311401968691109888",
+              "name": "安達としまむら"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081073002842886294",
+        "created_at": "2026-07-25T17:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081073002842886294"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 22,
+              "tag": "安達としまむら"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2040969958721548289",
+              "start": 3,
+              "username": "AIcazZ027"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yan2BmtcWz",
+              "end": 54,
+              "expanded_url": "https://x.com/AIcazZ027/status/2080680012077027616/photo/1",
+              "media_key": "3_2080680006687293440",
+              "start": 31,
+              "url": "https://t.co/Yan2BmtcWz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081073002842886294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 556
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080680012077027616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AIcazZ027: 竭尽全力画了 #安達としまむら https://t.co/Yan2BmtcWz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 4820,
+          "like_count": 174381,
+          "listed_count": 5,
+          "media_count": 1750,
+          "tweet_count": 7370
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T01:49:53.000Z",
+        "description": "分享画过的图",
+        "id": "2040969958721548289",
+        "name": "AIcazZ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040977673330327552/r0BXaQMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 42,
+          "like_count": 291,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "AIcazZ027",
+        "verified": false
+      }
+    ]
+  }
+}

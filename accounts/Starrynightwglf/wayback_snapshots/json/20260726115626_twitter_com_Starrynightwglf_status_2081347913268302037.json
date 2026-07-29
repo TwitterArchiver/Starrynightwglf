@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2081201310582686197",
+    "created_at": "2026-07-26T11:56:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T12:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081347913268302037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "105981197",
+          "start": 0,
+          "username": "chinhellodep"
+        },
+        {
+          "end": 26,
+          "id": "1995322864367792128",
+          "start": 14,
+          "username": "mrouintokyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081347913268302037",
+    "in_reply_to_user_id": "105981197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081315788259267046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chinhellodep @mrouintokyo 你们日本人把外国人当套呢用完就扔，贱不贱啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2081201310582686197",
+        "created_at": "2026-07-26T11:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081347913268302037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "105981197",
+              "start": 0,
+              "username": "chinhellodep"
+            },
+            {
+              "end": 26,
+              "id": "1995322864367792128",
+              "start": 14,
+              "username": "mrouintokyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081347913268302037",
+        "in_reply_to_user_id": "105981197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081315788259267046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chinhellodep @mrouintokyo 你们日本人把外国人当套呢用完就扔，贱不贱啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "105981197",
+        "conversation_id": "2081201310582686197",
+        "created_at": "2026-07-26T09:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081315788259267046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1995322864367792128",
+              "start": 0,
+              "username": "mrouintokyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081315788259267046",
+        "in_reply_to_user_id": "1995322864367792128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 785,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081201310582686197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrouintokyo 外国人の使い捨てが欲しいだけ、働けない労働力にはgo home。老後の面倒を見てられない"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 4822,
+          "like_count": 174691,
+          "listed_count": 5,
+          "media_count": 1754,
+          "tweet_count": 7397
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2010-01-18T03:44:50.000Z",
+        "description": "",
+        "id": "105981197",
+        "name": "Shaw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925320206710448133/Xplz74rC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 267,
+          "like_count": 1193,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 5202
+        },
+        "url": "",
+        "username": "chinhellodep",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-01T02:44:52.000Z",
+        "description": "闲来得瑟，有点梦想，有点追求，这个世界可以草台班子，但我觉得我不能活的那么潦草。燥起来，high起来。",
+        "id": "1995322864367792128",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "在东京的欧桑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072043008258871296/dYQl_x2w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 398,
+          "like_count": 1102,
+          "listed_count": 10,
+          "media_count": 215,
+          "tweet_count": 2605
+        },
+        "url": "",
+        "username": "mrouintokyo",
+        "verified": true
+      }
+    ]
+  }
+}

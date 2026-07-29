@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075180236170465280"
+      ],
+      "media_source_tweet_id": [
+        "2075180243447583196"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2081378995405574388",
+    "created_at": "2026-07-26T13:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T14:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081378995405574388"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 33,
+          "tag": "ひぐらしFA"
+        },
+        {
+          "end": 46,
+          "start": 41,
+          "tag": "古手梨花"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1614601908089671687",
+          "start": 3,
+          "username": "mahi_mahi_1209"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AZRGLZ3xc5",
+          "end": 70,
+          "expanded_url": "https://x.com/mahi_mahi_1209/status/2075180243447583196/photo/1",
+          "media_key": "3_2075180236170465280",
+          "start": 47,
+          "url": "https://t.co/AZRGLZ3xc5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081378995405574388",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 425
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075180243447583196",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mahi_mahi_1209: お気に入りなので再び！\n\n#ひぐらしFA #古手梨花 https://t.co/AZRGLZ3xc5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075180236170465280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyFbhXaEAAUwHk.jpg",
+        "width": 1558
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075180236170465280"
+          ]
+        },
+        "author_id": "1614601908089671687",
+        "conversation_id": "2075180243447583196",
+        "created_at": "2026-07-09T11:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075180243447583196"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "ひぐらしFA"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "古手梨花"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZRGLZ3xc5",
+              "end": 50,
+              "expanded_url": "https://x.com/mahi_mahi_1209/status/2075180243447583196/photo/1",
+              "media_key": "3_2075180236170465280",
+              "start": 27,
+              "url": "https://t.co/AZRGLZ3xc5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075180243447583196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 328,
+          "impression_count": 38634,
+          "like_count": 3537,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 425
+        },
+        "reply_settings": "everyone",
+        "text": "お気に入りなので再び！\n\n#ひぐらしFA #古手梨花 https://t.co/AZRGLZ3xc5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075180236170465280"
+          ],
+          "media_source_tweet_id": [
+            "2075180243447583196"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2081378995405574388",
+        "created_at": "2026-07-26T13:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081378995405574388"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "ひぐらしFA"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "古手梨花"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1614601908089671687",
+              "start": 3,
+              "username": "mahi_mahi_1209"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZRGLZ3xc5",
+              "end": 70,
+              "expanded_url": "https://x.com/mahi_mahi_1209/status/2075180243447583196/photo/1",
+              "media_key": "3_2075180236170465280",
+              "start": 47,
+              "url": "https://t.co/AZRGLZ3xc5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081378995405574388",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 425
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075180243447583196",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mahi_mahi_1209: お気に入りなので再び！\n\n#ひぐらしFA #古手梨花 https://t.co/AZRGLZ3xc5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 4820,
+          "like_count": 174702,
+          "listed_count": 5,
+          "media_count": 1754,
+          "tweet_count": 7399
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-15T12:34:48.000Z",
+        "description": "18↓/絵の成長記録 /無断転載 AI学習🙅🏻/低浮上 \nお題箱→ https://t.co/P8WY4oupfr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/mahi_mahi_12…",
+                "end": 57,
+                "expanded_url": "https://odaibako.net/u/mahi_mahi_1209",
+                "start": 34,
+                "url": "https://t.co/P8WY4oupfr"
+              }
+            ]
+          }
+        },
+        "id": "1614601908089671687",
+        "name": "エコん太",
+        "pinned_tweet_id": "2060308062448271695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042571236631588864/tlpAmOjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 155,
+          "like_count": 7013,
+          "listed_count": 4,
+          "media_count": 72,
+          "tweet_count": 849
+        },
+        "url": "",
+        "username": "mahi_mahi_1209",
+        "verified": false
+      }
+    ]
+  }
+}

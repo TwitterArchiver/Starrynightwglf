@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2081938979348488226",
+    "created_at": "2026-07-28T03:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T04:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081938979348488226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1563508655256850433",
+          "start": 3,
+          "username": "Starrynightwglf"
+        },
+        {
+          "end": 33,
+          "id": "1911559713893822464",
+          "start": 21,
+          "username": "vw50qucaobi"
+        },
+        {
+          "end": 50,
+          "id": "1974865605204586498",
+          "start": 34,
+          "username": "kuroki___tomoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081938979348488226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081889436758122779",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Starrynightwglf: @vw50qucaobi @kuroki___tomoko 你妈死了我第一时间赶去嘲笑，那有人看到觉得滑稽不是很正常吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2081938979348488226",
+        "created_at": "2026-07-28T03:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081938979348488226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1563508655256850433",
+              "start": 3,
+              "username": "Starrynightwglf"
+            },
+            {
+              "end": 33,
+              "id": "1911559713893822464",
+              "start": 21,
+              "username": "vw50qucaobi"
+            },
+            {
+              "end": 50,
+              "id": "1974865605204586498",
+              "start": 34,
+              "username": "kuroki___tomoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081938979348488226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081889436758122779",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Starrynightwglf: @vw50qucaobi @kuroki___tomoko 你妈死了我第一时间赶去嘲笑，那有人看到觉得滑稽不是很正常吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2081804234077724886",
+        "created_at": "2026-07-27T23:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T00:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081889436758122779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911559713893822464",
+              "start": 0,
+              "username": "vw50qucaobi"
+            },
+            {
+              "end": 29,
+              "id": "1974865605204586498",
+              "start": 13,
+              "username": "kuroki___tomoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081889436758122779",
+        "in_reply_to_user_id": "1911559713893822464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081843954346299595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vw50qucaobi @kuroki___tomoko 你妈死了我第一时间赶去嘲笑，那有人看到觉得滑稽不是很正常吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2213,
+          "following_count": 4821,
+          "like_count": 174998,
+          "listed_count": 5,
+          "media_count": 1758,
+          "tweet_count": 7419
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-13T23:18:54.000Z",
+        "description": "我是一个君子☺️",
+        "id": "1911559713893822464",
+        "name": "ss",
+        "pinned_tweet_id": "1915058804695392492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991834083429933056/0P9_cJns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 99,
+          "like_count": 3326,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1354
+        },
+        "url": "",
+        "username": "vw50qucaobi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 2978,
+          "like_count": 55762,
+          "listed_count": 2,
+          "media_count": 408,
+          "tweet_count": 5035
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      }
+    ]
+  }
+}
