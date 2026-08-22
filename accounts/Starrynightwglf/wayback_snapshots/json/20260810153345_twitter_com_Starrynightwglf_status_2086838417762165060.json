@@ -1,0 +1,532 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086711967125745664"
+      ],
+      "media_source_tweet_id": [
+        "2086712021924327718"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2086838417762165060",
+    "created_at": "2026-08-10T15:33:45.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T16:33:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086838417762165060"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 91,
+          "start": 77,
+          "tag": "GenshinImpact"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1484653429343539202",
+          "start": 3,
+          "username": "GenshinUniverse"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v0fuQkiQn1",
+          "end": 115,
+          "expanded_url": "https://x.com/GenshinUniverse/status/2086712021924327718/video/1",
+          "media_key": "13_2086711967125745664",
+          "start": 92,
+          "url": "https://t.co/v0fuQkiQn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086838417762165060",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2086711967125745664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 499
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086712021924327718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GenshinUniverse: COLUMBINA SINGING IN A WINTER NIGHT'S LAZZO\n\nVia Seele\n\n#GenshinImpact https://t.co/v0fuQkiQn1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 71040,
+        "height": 742,
+        "media_key": "13_2086711967125745664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086711967125745664/img/gAGG4YU8rehP4hry.jpg",
+        "public_metrics": {
+          "view_count": 52366
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086711967125745664/vid/avc1/422x270/A5-fAA2oEDBQ_0K8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086711967125745664/vid/avc1/564x360/Cj-4dIb1g9OPqMNv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086711967125745664/vid/avc1/1164x742/j-bxvKcNgN16J9Po.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086711967125745664/pl/Z-5mnUXmzccWj7rL.m3u8?v=cfc"
+          }
+        ],
+        "width": 1164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086711967125745664"
+          ]
+        },
+        "author_id": "1484653429343539202",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2086712021924327718",
+        "created_at": "2026-08-10T07:11:29.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T08:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086712021924327718"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 56,
+              "tag": "GenshinImpact"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v0fuQkiQn1",
+              "end": 94,
+              "expanded_url": "https://x.com/GenshinUniverse/status/2086712021924327718/video/1",
+              "media_key": "13_2086711967125745664",
+              "start": 71,
+              "url": "https://t.co/v0fuQkiQn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086712021924327718",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2086711967125745664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1019,
+          "impression_count": 104232,
+          "like_count": 4448,
+          "quote_count": 35,
+          "reply_count": 21,
+          "retweet_count": 499
+        },
+        "reply_settings": "everyone",
+        "text": "COLUMBINA SINGING IN A WINTER NIGHT'S LAZZO\n\nVia Seele\n\n#GenshinImpact https://t.co/v0fuQkiQn1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086711967125745664"
+          ],
+          "media_source_tweet_id": [
+            "2086712021924327718"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2086838417762165060",
+        "created_at": "2026-08-10T15:33:45.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086838417762165060"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 77,
+              "tag": "GenshinImpact"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1484653429343539202",
+              "start": 3,
+              "username": "GenshinUniverse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v0fuQkiQn1",
+              "end": 115,
+              "expanded_url": "https://x.com/GenshinUniverse/status/2086712021924327718/video/1",
+              "media_key": "13_2086711967125745664",
+              "start": 92,
+              "url": "https://t.co/v0fuQkiQn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086838417762165060",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2086711967125745664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 499
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086712021924327718",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GenshinUniverse: COLUMBINA SINGING IN A WINTER NIGHT'S LAZZO\n\nVia Seele\n\n#GenshinImpact https://t.co/v0fuQkiQn1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "is_identity_verified": false,
+        "location": "ㅤ无何有",
+        "most_recent_tweet_id": "2086838417762165060",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563508655256850433/1774989176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2206,
+          "following_count": 4814,
+          "like_count": 176881,
+          "listed_count": 5,
+          "media_count": 1768,
+          "tweet_count": 7447
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-21T22:25:54.000Z",
+        "description": "News, leaks, giveaways, videos & more from Genshin Impact. // Star Rail: @StarRailVerse1 // WuWa: @WuWa_Verse1 // Nexus Anima: @NexusAn1maVerse",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "StarRailVerse1"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "WuWa_Verse1"
+              },
+              {
+                "end": 143,
+                "start": 127,
+                "username": "NexusAn1maVerse"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ene.ba/Mello-Gacha",
+                "end": 23,
+                "expanded_url": "https://ene.ba/Mello-Gacha",
+                "start": 0,
+                "url": "https://t.co/R7JOsN3jXJ"
+              }
+            ]
+          }
+        },
+        "id": "1484653429343539202",
+        "is_identity_verified": false,
+        "location": "Snezhnaya",
+        "most_recent_tweet_id": "2086831412540285207",
+        "name": "Genshin Universe ❄️",
+        "pinned_tweet_id": "2070358230966911316",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1484653429343539202/1785505414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070357696746778625/XIJ6OOir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383879,
+          "following_count": 1471,
+          "like_count": 41710,
+          "listed_count": 553,
+          "media_count": 10369,
+          "tweet_count": 16237
+        },
+        "url": "https://t.co/R7JOsN3jXJ",
+        "username": "GenshinUniverse",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

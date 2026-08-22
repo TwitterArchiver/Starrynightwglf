@@ -1,0 +1,511 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087755982617321472"
+      ],
+      "media_source_tweet_id": [
+        "2087756030180831609"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2087882983919468931",
+    "created_at": "2026-08-13T12:44:29.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T13:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087882983919468931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1711355156179406848",
+          "start": 3,
+          "username": "SolvZe37466"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LBPuI66WJ6",
+          "end": 76,
+          "expanded_url": "https://x.com/SolvZe37466/status/2087756030180831609/video/1",
+          "media_key": "13_2087755982617321472",
+          "start": 53,
+          "url": "https://t.co/LBPuI66WJ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087882983919468931",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2087755982617321472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2712
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087756030180831609",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SolvZe37466: Yesterday's Solar Eclipse was crazy https://t.co/LBPuI66WJ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12600,
+        "height": 1080,
+        "media_key": "13_2087755982617321472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087755982617321472/img/tvnq74IfPX-zolzy.jpg",
+        "public_metrics": {
+          "view_count": 112645
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087755982617321472/vid/avc1/480x270/hR3YEy-a0i4rBVKo.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087755982617321472/vid/avc1/640x360/PqPnUQRIgqclktLy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087755982617321472/vid/avc1/1280x720/ZkTprLhtJME3JVe2.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087755982617321472/pl/vojT0ADvC15MTDIb.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087755982617321472"
+          ]
+        },
+        "author_id": "1711355156179406848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2087756030180831609",
+        "created_at": "2026-08-13T04:20:00.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T05:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087756030180831609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LBPuI66WJ6",
+              "end": 59,
+              "expanded_url": "https://x.com/SolvZe37466/status/2087756030180831609/video/1",
+              "media_key": "13_2087755982617321472",
+              "start": 36,
+              "url": "https://t.co/LBPuI66WJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087756030180831609",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2087755982617321472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1314,
+          "impression_count": 173396,
+          "like_count": 19833,
+          "quote_count": 34,
+          "reply_count": 19,
+          "retweet_count": 2712
+        },
+        "reply_settings": "everyone",
+        "text": "Yesterday's Solar Eclipse was crazy https://t.co/LBPuI66WJ6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087755982617321472"
+          ],
+          "media_source_tweet_id": [
+            "2087756030180831609"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2087882983919468931",
+        "created_at": "2026-08-13T12:44:29.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087882983919468931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1711355156179406848",
+              "start": 3,
+              "username": "SolvZe37466"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LBPuI66WJ6",
+              "end": 76,
+              "expanded_url": "https://x.com/SolvZe37466/status/2087756030180831609/video/1",
+              "media_key": "13_2087755982617321472",
+              "start": 53,
+              "url": "https://t.co/LBPuI66WJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087882983919468931",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2087755982617321472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2712
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087756030180831609",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SolvZe37466: Yesterday's Solar Eclipse was crazy https://t.co/LBPuI66WJ6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "is_identity_verified": false,
+        "location": "ㅤ无何有",
+        "most_recent_tweet_id": "2087882983919468931",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563508655256850433/1774989176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192,
+          "following_count": 4805,
+          "like_count": 177018,
+          "listed_count": 5,
+          "media_count": 1774,
+          "tweet_count": 7457
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-09T12:17:28.000Z",
+        "description": "Wasting Oxygen since 2005",
+        "id": "1711355156179406848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087756030180831609",
+        "name": "S0lvious",
+        "pinned_tweet_id": "2015616581825610006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1711355156179406848/1755876555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027355489127026688/rJuf0VB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6554,
+          "following_count": 318,
+          "like_count": 38658,
+          "listed_count": 8,
+          "media_count": 2329,
+          "tweet_count": 7360
+        },
+        "url": "",
+        "username": "SolvZe37466",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

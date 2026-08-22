@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087697619468603392"
+      ],
+      "media_source_tweet_id": [
+        "2087697624719867907"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2087915355318743084",
+    "created_at": "2026-08-13T14:53:06.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T15:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087915355318743084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "41902408",
+          "start": 3,
+          "username": "HAOHONG_CFA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Arnb9kze4",
+          "end": 67,
+          "expanded_url": "https://x.com/HAOHONG_CFA/status/2087697624719867907/photo/1",
+          "media_key": "3_2087697619468603392",
+          "start": 44,
+          "url": "https://t.co/1Arnb9kze4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087915355318743084",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2087697619468603392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 195
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087697624719867907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @HAOHONG_CFA: Once upon a time in China. https://t.co/1Arnb9kze4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1418,
+        "media_key": "3_2087697619468603392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPj97H7a0AAfJbP.jpg",
+        "width": 860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087697619468603392"
+          ]
+        },
+        "author_id": "41902408",
+        "conversation_id": "2087697624719867907",
+        "created_at": "2026-08-13T00:27:55.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T01:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087697624719867907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Arnb9kze4",
+              "end": 50,
+              "expanded_url": "https://x.com/HAOHONG_CFA/status/2087697624719867907/photo/1",
+              "media_key": "3_2087697619468603392",
+              "start": 27,
+              "url": "https://t.co/1Arnb9kze4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087697624719867907",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2087697619468603392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 333,
+          "impression_count": 497933,
+          "like_count": 2993,
+          "quote_count": 25,
+          "reply_count": 6,
+          "retweet_count": 195
+        },
+        "reply_settings": "verified",
+        "text": "Once upon a time in China. https://t.co/1Arnb9kze4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087697619468603392"
+          ],
+          "media_source_tweet_id": [
+            "2087697624719867907"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2087915355318743084",
+        "created_at": "2026-08-13T14:53:06.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087915355318743084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "41902408",
+              "start": 3,
+              "username": "HAOHONG_CFA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Arnb9kze4",
+              "end": 67,
+              "expanded_url": "https://x.com/HAOHONG_CFA/status/2087697624719867907/photo/1",
+              "media_key": "3_2087697619468603392",
+              "start": 44,
+              "url": "https://t.co/1Arnb9kze4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087915355318743084",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2087697619468603392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 195
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087697624719867907",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "RT @HAOHONG_CFA: Once upon a time in China. https://t.co/1Arnb9kze4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "is_identity_verified": false,
+        "location": "ㅤ无何有",
+        "most_recent_tweet_id": "2087915355318743084",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563508655256850433/1774989176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2191,
+          "following_count": 4803,
+          "like_count": 177076,
+          "listed_count": 5,
+          "media_count": 1774,
+          "tweet_count": 7458
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-05-22T21:13:10.000Z",
+        "description": "Person of the Year-Bloomberg BW;3xChina’s Most Influential Economist;3xEconomist of the Year-Asia Private Banker;“The man called China’s boom & bust”-Bloomberg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/7799274131",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/7799274131",
+                "start": 0,
+                "url": "https://t.co/HfjgxK6MuV"
+              }
+            ]
+          }
+        },
+        "id": "41902408",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2087697624719867907",
+        "name": "Hao HONG 洪灝, CFA",
+        "pinned_tweet_id": "2082669719392555320",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41902408/1655328090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000358614242/a1640062237e2f4fc2ecb7b352d87b10_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352442,
+          "following_count": 931,
+          "like_count": 2582,
+          "listed_count": 2586,
+          "media_count": 1594,
+          "tweet_count": 4414
+        },
+        "url": "https://t.co/HfjgxK6MuV",
+        "username": "HAOHONG_CFA",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

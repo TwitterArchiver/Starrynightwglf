@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2086409411166343329",
+    "created_at": "2026-08-10T05:30:39.000Z",
+    "display_text_range": [
+      14,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T06:30:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086686645328486757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1234123751072993281",
+          "start": 0,
+          "username": "Haruhi_Smith"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086686645328486757",
+    "in_reply_to_user_id": "1234123751072993281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086409411166343329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haruhi_Smith 数据标注某种意义上是不是AI血汗工厂的流水线😺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2086409411166343329",
+        "created_at": "2026-08-10T05:30:39.000Z",
+        "display_text_range": [
+          14,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086686645328486757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1234123751072993281",
+              "start": 0,
+              "username": "Haruhi_Smith"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086686645328486757",
+        "in_reply_to_user_id": "1234123751072993281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086409411166343329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haruhi_Smith 数据标注某种意义上是不是AI血汗工厂的流水线😺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1234123751072993281",
+        "conversation_id": "2086409411166343329",
+        "created_at": "2026-08-09T11:09:01.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086409411166343329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Limichange2/st…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Limichange2/status/2085975368616628395",
+              "start": 22,
+              "url": "https://t.co/edraxtbBRj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086409411166343329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2246,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085975368616628395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最终出路：具身智能或者其他原料的数据标记工 https://t.co/edraxtbBRj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "is_identity_verified": false,
+        "location": "ㅤ无何有",
+        "most_recent_tweet_id": "2086686645328486757",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563508655256850433/1774989176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2204,
+          "following_count": 4811,
+          "like_count": 176732,
+          "listed_count": 5,
+          "media_count": 1767,
+          "tweet_count": 7445
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-01T14:30:18.000Z",
+        "description": "transles / CS Grad, no longer looking for PhD / 不线下 /  https://t.co/JaeqbedOGN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/haruhi_smith",
+                "end": 78,
+                "expanded_url": "http://t.me/haruhi_smith",
+                "start": 55,
+                "url": "https://t.co/JaeqbedOGN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/luvletter2333",
+                "end": 23,
+                "expanded_url": "https://github.com/luvletter2333",
+                "start": 0,
+                "url": "https://t.co/bUokPGYwoh"
+              }
+            ]
+          }
+        },
+        "id": "1234123751072993281",
+        "is_identity_verified": false,
+        "location": "兵库県立西宫北高等学校 SOS団",
+        "most_recent_tweet_id": "2086409411166343329",
+        "name": "Haruhi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1234123751072993281/1583512502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1351750805020315649/99ZVLa23_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 1202,
+          "like_count": 118221,
+          "listed_count": 9,
+          "media_count": 50,
+          "tweet_count": 2769
+        },
+        "url": "https://t.co/bUokPGYwoh",
+        "username": "Haruhi_Smith",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

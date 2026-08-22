@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087821564050071552",
+        "3_2087821599944925184",
+        "3_2087821613815508993",
+        "3_2087821647349010432"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "conversation_id": "2035339820260614550",
+    "created_at": "2026-08-13T08:40:48.000Z",
+    "display_text_range": [
+      11,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T09:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087821660632334809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I9Yvr67xJG",
+          "end": 53,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2087821660632334809/photo/1",
+          "media_key": "3_2087821564050071552",
+          "start": 30,
+          "url": "https://t.co/I9Yvr67xJG"
+        },
+        {
+          "display_url": "pic.x.com/I9Yvr67xJG",
+          "end": 53,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2087821660632334809/photo/1",
+          "media_key": "3_2087821599944925184",
+          "start": 30,
+          "url": "https://t.co/I9Yvr67xJG"
+        },
+        {
+          "display_url": "pic.x.com/I9Yvr67xJG",
+          "end": 53,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2087821660632334809/photo/1",
+          "media_key": "3_2087821613815508993",
+          "start": 30,
+          "url": "https://t.co/I9Yvr67xJG"
+        },
+        {
+          "display_url": "pic.x.com/I9Yvr67xJG",
+          "end": 53,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2087821660632334809/photo/1",
+          "media_key": "3_2087821647349010432",
+          "start": 30,
+          "url": "https://t.co/I9Yvr67xJG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087821660632334809",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087821564050071552"
+      },
+      {
+        "media_key": "3_2087821599944925184"
+      },
+      {
+        "media_key": "3_2087821613815508993"
+      },
+      {
+        "media_key": "3_2087821647349010432"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035339820260614550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama 骗你的，虚心承认，打死不改，再问砍掉 https://t.co/I9Yvr67xJG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2670,
+        "media_key": "3_2087821564050071552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPluppea4AAjwRd.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2670,
+        "media_key": "3_2087821599944925184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlurvMa4AAq10B.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2670,
+        "media_key": "3_2087821613815508993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlusi3bMAEGOVT.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2670,
+        "media_key": "3_2087821647349010432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPluufyb0AAOqtG.jpg",
+        "width": 1200
+      },
+      {
+        "height": 801,
+        "media_key": "3_2035339704112128000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD76rVzaIAAIyPT.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087821564050071552",
+            "3_2087821599944925184",
+            "3_2087821613815508993",
+            "3_2087821647349010432"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2035339820260614550",
+        "created_at": "2026-08-13T08:40:48.000Z",
+        "display_text_range": [
+          11,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T09:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087821660632334809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I9Yvr67xJG",
+              "end": 53,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2087821660632334809/photo/1",
+              "media_key": "3_2087821564050071552",
+              "start": 30,
+              "url": "https://t.co/I9Yvr67xJG"
+            },
+            {
+              "display_url": "pic.x.com/I9Yvr67xJG",
+              "end": 53,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2087821660632334809/photo/1",
+              "media_key": "3_2087821599944925184",
+              "start": 30,
+              "url": "https://t.co/I9Yvr67xJG"
+            },
+            {
+              "display_url": "pic.x.com/I9Yvr67xJG",
+              "end": 53,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2087821660632334809/photo/1",
+              "media_key": "3_2087821613815508993",
+              "start": 30,
+              "url": "https://t.co/I9Yvr67xJG"
+            },
+            {
+              "display_url": "pic.x.com/I9Yvr67xJG",
+              "end": 53,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2087821660632334809/photo/1",
+              "media_key": "3_2087821647349010432",
+              "start": 30,
+              "url": "https://t.co/I9Yvr67xJG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087821660632334809",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087821564050071552"
+          },
+          {
+            "media_key": "3_2087821599944925184"
+          },
+          {
+            "media_key": "3_2087821613815508993"
+          },
+          {
+            "media_key": "3_2087821647349010432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035339820260614550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 骗你的，虚心承认，打死不改，再问砍掉 https://t.co/I9Yvr67xJG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035339704112128000"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2035339820260614550",
+        "created_at": "2026-03-21T12:56:42.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-03-21T13:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035339820260614550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4LrCk4FpnT",
+              "end": 151,
+              "expanded_url": "https://x.com/smiroyama/status/2035339820260614550/photo/1",
+              "media_key": "3_2035339704112128000",
+              "start": 128,
+              "url": "https://t.co/4LrCk4FpnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035339820260614550",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2035339704112128000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "今日凌晨 3:35 分，一封名为 Our commitment to Windows Quality 的邮件神不知鬼不觉地跳进我 QQ 邮箱里。早上起床一看，还以为微软又写了什么小作文发神经，仔细读完发现，还真的是发神经，只不过这次是深刻反省式的发神经。\n\n邮件开门见山展示了一个巨大的蓝色布料壁纸和四个角度的任务栏。不知道的还以为是哪个小学生在炫耀自己刚装完 Windows 11，当然，如果是小学生那确实挺厉害的，毕竟众所周知，之前在 Windows 11 上用户根本改不了任务栏位置。微软这一举动，成功地把 Windows 7、8、8.1 乃至 Windows 10 早就有的基础功能，在 5 年后作为一项重大创新加到了 Windows 11 里，这种跨越时空的关怀，真是让人感激涕零，不知所言。\n\n接着是关于 AI 的妥协。微软承诺让 Copilot 不再做显眼包，不再强行塞进截图工具、图片、小组件和记事本里。看到这里我松了口气，还好我平时也用 macOS，不然按微软之前那种无孔不入的 AI 监视法，可能连我本地偷偷存了什么不可描述的视频，Copilot 都要贴心地替我总结提炼一番。现在他们终于想通了，AI 应该出现在有用的地方，而不是像个狗皮膏药一样到处乱贴。\n\n邮件里着墨更多的，是承诺减少 Windows 更新带来的打扰。众所周知，Windows 的更新不仅出奇的慢，还极具误导性。以前用户想关机，系统总会贴心地把更新并关机和更新并重启用小黄字塞在选项里，专坑近视或心急的人。想象一下，如果你的电脑卡死了急需重启，却不小心点到了更新并重启，接着就是盯着屏幕发呆二十分钟起步，那估计连直接拔电源的心都有了。现在微软终于大发慈悲，告诉你以后可以在关机或重启时不强制安装更新，连新设备初始设置时也能跳过更新直接进桌面了。把本该属于用户的基本选择权还给用户，竟然被包装成了提升系统质量的恩赐，真是用心良苦。\n\n再往下看，微软还煞有介事地提到了要带来更快、更可靠的文件资源管理器。他们保证会减少屏幕闪烁，让启动和日常导航更顺滑。一个桌面操作系统的核心文件管理工具，居然卡顿和闪退到需要发封全球邮件来承诺修补，这种坦诚着实令人钦佩。至于那个总是不小心滑到就弹出一堆三流八卦新闻的小组件，微软也表示会引入更安静的默认设置。换句话说，他们终于意识到强推垃圾资讯有多讨人嫌了，决定稍微收敛一点。\n\n在邮件的最后，工程师大打感情牌，推出了号称全面升级的反馈中心，并说要在今年全面提高 Windows 11 的质量门槛，甚至还跑到西雅图搞线下倾听会。这态度确实很端正，只不过侧面印证了过去几年用户在反馈中心里留下的无数条抱怨贴，他们大概直到最近才真正仔细看。\n\n总而言之，这封洋洋洒洒的邮件，本质上就是一份语气平缓的认错书。把以前傲慢砍掉的功能加回来当新特性吹，把惹人嫌的流氓设定改回正常的模样。亡羊补牢自然是好的，作为前 Windows 用户，我也只能平静地接受这份迟来的好意，并默默祈祷他们这次画的质量大饼，不会在下个月的强制更新里，又引出什么新鲜的屎山代码。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 27608,
+          "like_count": 104,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "今日凌晨 3:35 分，一封名为 Our commitment to Windows Quality 的邮件神不知鬼不觉地跳进我 QQ 邮箱里。早上起床一看，还以为微软又写了什么小作文发神经，仔细读完发现，还真的是发神经，只不过这次是深刻反省式的发神经。 https://t.co/4LrCk4FpnT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "is_identity_verified": false,
+        "location": "ㅤ无何有",
+        "most_recent_tweet_id": "2087821660632334809",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563508655256850433/1774989176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190,
+          "following_count": 4804,
+          "like_count": 176953,
+          "listed_count": 5,
+          "media_count": 1774,
+          "tweet_count": 7456
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "闺蜜:@qianxunchan\n妹妹:@tangeorange @StarryNocts\n朋友:@Huang_Yut1ng @fukui_p26\nDeveloping https://t.co/pJ9VtdukHG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 31,
+                "start": 19,
+                "username": "tangeorange"
+              },
+              {
+                "end": 44,
+                "start": 32,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 107,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 84,
+                "url": "https://t.co/pJ9VtdukHG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDnS6s"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087820241787388074",
+        "name": "寻寻",
+        "pinned_tweet_id": "2084650884575985701",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982449259774656512/1784339298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078298418834018304/5_bmbU-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7709,
+          "following_count": 2730,
+          "like_count": 14832,
+          "listed_count": 16,
+          "media_count": 2558,
+          "tweet_count": 9511
+        },
+        "url": "https://t.co/YPl1rDnS6s",
+        "username": "smiroyama",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

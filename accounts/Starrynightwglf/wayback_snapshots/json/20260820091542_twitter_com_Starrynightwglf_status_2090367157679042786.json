@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2090367157679042786",
+    "created_at": "2026-08-20T09:15:42.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T10:15:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090367157679042786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1048022597823164416",
+          "start": 3,
+          "username": "HiallouL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090367157679042786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089969757810532623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HiallouL: 对父母出柜所能得到的最糟糕的反应不是鸡飞狗跳砸东西\n而是他们以一种怜悯加绝望的神情故作关心地发问 是不是我们在你小时候做了什么错事才让你变成这样？\n一句话攘死了孩子的童年和作为一个人的主体性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2090367157679042786",
+        "created_at": "2026-08-20T09:15:42.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T10:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090367157679042786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1048022597823164416",
+              "start": 3,
+              "username": "HiallouL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090367157679042786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089969757810532623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HiallouL: 对父母出柜所能得到的最糟糕的反应不是鸡飞狗跳砸东西\n而是他们以一种怜悯加绝望的神情故作关心地发问 是不是我们在你小时候做了什么错事才让你变成这样？\n一句话攘死了孩子的童年和作为一个人的主体性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1048022597823164416",
+        "conversation_id": "2089969757810532623",
+        "created_at": "2026-08-19T06:56:34.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089969757810532623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089969757810532623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 16671,
+          "like_count": 416,
+          "quote_count": 8,
+          "reply_count": 44,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "对父母出柜所能得到的最糟糕的反应不是鸡飞狗跳砸东西\n而是他们以一种怜悯加绝望的神情故作关心地发问 是不是我们在你小时候做了什么错事才让你变成这样？\n一句话攘死了孩子的童年和作为一个人的主体性"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "is_identity_verified": false,
+        "location": "ㅤ无何有",
+        "most_recent_tweet_id": "2090367157679042786",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563508655256850433/1774989176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2180,
+          "following_count": 4785,
+          "like_count": 177834,
+          "listed_count": 5,
+          "media_count": 1778,
+          "tweet_count": 7469
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-10-05T01:30:33.000Z",
+        "description": "🌈🏳️‍🌈🏳️‍⚧️ 🌱 📸 ☕ 💛🤍💜🖤",
+        "id": "1048022597823164416",
+        "is_identity_verified": false,
+        "location": "把不息的生机种在每一个旅人心里",
+        "most_recent_tweet_id": "2090361548653072684",
+        "name": "Hallo",
+        "pinned_tweet_id": "2089619255642018094",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1048022597823164416/1695955797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972658949611769856/_J0xXhpn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 1405,
+          "like_count": 23346,
+          "listed_count": 5,
+          "media_count": 1068,
+          "tweet_count": 6903
+        },
+        "url": "",
+        "username": "HiallouL",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
