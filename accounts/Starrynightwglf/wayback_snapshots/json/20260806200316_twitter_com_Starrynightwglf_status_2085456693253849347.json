@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085456591814545408"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2085456693253849347",
+    "created_at": "2026-08-06T20:03:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T21:03:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085456693253849347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FWzrKTVhrp",
+          "end": 47,
+          "expanded_url": "https://x.com/Starrynightwglf/status/2085456693253849347/photo/1",
+          "media_key": "3_2085456591814545408",
+          "start": 24,
+          "url": "https://t.co/FWzrKTVhrp"
+        },
+        {
+          "display_url": "x.com/AboutSnezhnaya…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/AboutSnezhnaya/status/2085282799548825698",
+          "start": 48,
+          "url": "https://t.co/JRqw21lely"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085456693253849347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085282799548825698",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（发表了一些卑微的求米哈游让潘富贵进池子的话） https://t.co/FWzrKTVhrp https://t.co/JRqw21lely"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4095,
+        "media_key": "3_2085456591814545408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPEHuJWaUAA3bau.jpg",
+        "width": 3276
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2085282789818044416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBppidXEAA6U_K.jpg",
+        "width": 3276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085456591814545408"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2085456693253849347",
+        "created_at": "2026-08-06T20:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T21:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085456693253849347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FWzrKTVhrp",
+              "end": 47,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2085456693253849347/photo/1",
+              "media_key": "3_2085456591814545408",
+              "start": 24,
+              "url": "https://t.co/FWzrKTVhrp"
+            },
+            {
+              "display_url": "x.com/AboutSnezhnaya…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/AboutSnezhnaya/status/2085282799548825698",
+              "start": 48,
+              "url": "https://t.co/JRqw21lely"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085456693253849347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085282799548825698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（发表了一些卑微的求米哈游让潘富贵进池子的话） https://t.co/FWzrKTVhrp https://t.co/JRqw21lely"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085282789818044416"
+          ]
+        },
+        "author_id": "1791215727208202240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2085282799548825698",
+        "created_at": "2026-08-06T08:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085282799548825698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cbRD5TAPMa",
+              "end": 88,
+              "expanded_url": "https://x.com/AboutSnezhnaya/status/2085282799548825698/photo/1",
+              "media_key": "3_2085282789818044416",
+              "start": 65,
+              "url": "https://t.co/cbRD5TAPMa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085282799548825698",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 372,
+          "impression_count": 184473,
+          "like_count": 6696,
+          "quote_count": 861,
+          "reply_count": 625,
+          "retweet_count": 322
+        },
+        "reply_settings": "everyone",
+        "text": "CLAIM YOUR FAVORITE SNEZHNAYA CHARACTER BEFORE THE REGION DROPS! https://t.co/cbRD5TAPMa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2201,
+          "following_count": 4805,
+          "like_count": 176047,
+          "listed_count": 5,
+          "media_count": 1762,
+          "tweet_count": 7429
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-16T21:15:07.000Z",
+        "description": "The newest info about Genshin Impact",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/aboutsnezhnaya",
+                "end": 23,
+                "expanded_url": "http://discord.gg/aboutsnezhnaya",
+                "start": 0,
+                "url": "https://t.co/ZgRk5nSH0o"
+              }
+            ]
+          }
+        },
+        "id": "1791215727208202240",
+        "name": "About Snezhnaya ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072320020290351104/ybaTyszn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234382,
+          "following_count": 1938,
+          "like_count": 140066,
+          "listed_count": 296,
+          "media_count": 4876,
+          "tweet_count": 9788
+        },
+        "url": "https://t.co/ZgRk5nSH0o",
+        "username": "AboutSnezhnaya",
+        "verified": true
+      }
+    ]
+  }
+}
