@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2104181579140804980",
+    "created_at": "2026-09-27T12:09:16.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T13:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104181579140804980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2900565097",
+          "start": 3,
+          "username": "johnny_onpuchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104181579140804980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104146963432444145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @johnny_onpuchan: 习近平的嘴唇出乎意料地柔软，与他的年龄不符，温柔地包裹着我的嘴唇。与之形成鲜明对比的是，他的手臂却很强壮，将我紧紧搂在怀里，不让我逃脱。\n正如《习近平新时代中国特色社会主义思想摘要》中所描述的那样，他的性技巧很有韵律。也就是说，他将轻柔…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2104181579140804980",
+        "created_at": "2026-09-27T12:09:16.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104181579140804980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2900565097",
+              "start": 3,
+              "username": "johnny_onpuchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104181579140804980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104146963432444145",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @johnny_onpuchan: 习近平的嘴唇出乎意料地柔软，与他的年龄不符，温柔地包裹着我的嘴唇。与之形成鲜明对比的是，他的手臂却很强壮，将我紧紧搂在怀里，不让我逃脱。\n正如《习近平新时代中国特色社会主义思想摘要》中所描述的那样，他的性技巧很有韵律。也就是说，他将轻柔…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2900565097",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2104146963432444145",
+        "created_at": "2026-09-27T09:51:43.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104146963432444145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104146963432444145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "习近平的嘴唇出乎意料地柔软，与他的年龄不符，温柔地包裹着我的嘴唇。与之形成鲜明对比的是，他的手臂却很强壮，将我紧紧搂在怀里，不让我逃脱。\n正如《习近平新时代中国特色社会主义思想摘要》中所描述的那样，他的性技巧很有韵律。也就是说，他将轻柔的刺激与强劲的性快感相结合。\n\n我们的唾液交融，发出吧唧吧唧的声响，舌头缠绕在一起。\n啊，多么淫猥的声音！\n这充足感与恍惚感，我人生廿九年来从未在与任何女人接吻中体验过的\n\n爸爸妈妈。对不起。我可能不再满足于仅仅触摸女人的身体了。今天，我发现了男人的乐趣…"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6448,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "习近平的嘴唇出乎意料地柔软，与他的年龄不符，温柔地包裹着我的嘴唇。与之形成鲜明对比的是，他的手臂却很强壮，将我紧紧搂在怀里，不让我逃脱。\n正如《习近平新时代中国特色社会主义思想摘要》中所描述的那样，他的性技巧很有韵律。也就是说，他将轻柔的刺激与强劲的性快感相结合。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+        "id": "1563508655256850433",
+        "is_identity_verified": false,
+        "location": "ㅤ无何有",
+        "most_recent_tweet_id": "2104181579140804980",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563508655256850433/1774989176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103397419471998976/ZvqEtJ7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 4936,
+          "like_count": 183371,
+          "listed_count": 5,
+          "media_count": 1802,
+          "tweet_count": 7564
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-11-15T14:59:24.000Z",
+        "description": "朕/全裸日本鬼子/学习中文/包蜜",
+        "id": "2900565097",
+        "is_identity_verified": true,
+        "location": "福冈反革命根据地",
+        "most_recent_tweet_id": "2104152406758179051",
+        "name": "ジョニー",
+        "pinned_tweet_id": "1941361993128215002",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2900565097/1458917216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1319681425612836864/Nt_SUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19792,
+          "following_count": 1460,
+          "like_count": 141086,
+          "listed_count": 113,
+          "media_count": 7769,
+          "tweet_count": 140731
+        },
+        "url": "",
+        "username": "johnny_onpuchan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

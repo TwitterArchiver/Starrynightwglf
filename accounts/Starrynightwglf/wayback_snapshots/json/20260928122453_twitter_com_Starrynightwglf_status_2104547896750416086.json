@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2104205688415347030",
+    "created_at": "2026-09-28T12:24:53.000Z",
+    "display_text_range": [
+      34,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T13:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104547896750416086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2078612373951188992",
+          "start": 0,
+          "username": "4u0bjdwncxpykus"
+        },
+        {
+          "end": 33,
+          "id": "2016963440187940864",
+          "start": 17,
+          "username": "changqinghanbot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104547896750416086",
+    "in_reply_to_user_id": "2078612373951188992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104380328513323273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4u0bjdwncxpykus @changqinghanbot 转人工"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1242,
+        "media_key": "3_2104380307269177344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRCvW8bUAAA4cr.jpg",
+        "width": 900
+      },
+      {
+        "height": 1302,
+        "media_key": "3_2104380307269165056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRCvW8bIAAMgcM.png",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2104205688415347030",
+        "created_at": "2026-09-28T12:24:53.000Z",
+        "display_text_range": [
+          34,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T13:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104547896750416086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2078612373951188992",
+              "start": 0,
+              "username": "4u0bjdwncxpykus"
+            },
+            {
+              "end": 33,
+              "id": "2016963440187940864",
+              "start": 17,
+              "username": "changqinghanbot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104547896750416086",
+        "in_reply_to_user_id": "2078612373951188992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104380328513323273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4u0bjdwncxpykus @changqinghanbot 转人工"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104380307269177344",
+            "3_2104380307269165056"
+          ]
+        },
+        "author_id": "2078612373951188992",
+        "conversation_id": "2104205688415347030",
+        "created_at": "2026-09-28T01:19:02.000Z",
+        "display_text_range": [
+          17,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T02:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104380328513323273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2016963440187940864",
+              "start": 0,
+              "username": "changqinghanbot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "waterinbullrun.com/relay/relay/go…",
+              "end": 87,
+              "expanded_url": "https://waterinbullrun.com/relay/relay/go/STLhDaU",
+              "start": 64,
+              "status": 200,
+              "title": "夸克网盘资源",
+              "unwound_url": "https://waterinbullrun.com/relay/relay/go/STLhDaU",
+              "url": "https://t.co/vvTuR9eAFu"
+            },
+            {
+              "display_url": "pic.x.com/1YeSVqT062",
+              "end": 111,
+              "expanded_url": "https://x.com/4u0bjdwncxpykus/status/2104380328513323273/photo/1",
+              "media_key": "3_2104380307269177344",
+              "start": 88,
+              "url": "https://t.co/1YeSVqT062"
+            },
+            {
+              "display_url": "pic.x.com/1YeSVqT062",
+              "end": 111,
+              "expanded_url": "https://x.com/4u0bjdwncxpykus/status/2104380328513323273/photo/1",
+              "media_key": "3_2104380307269165056",
+              "start": 88,
+              "url": "https://t.co/1YeSVqT062"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104380328513323273",
+        "in_reply_to_user_id": "2016963440187940864",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104380307269177344"
+          },
+          {
+            "media_key": "3_2104380307269165056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 586,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104205688415347030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changqinghanbot 这个资料可能对你有帮助：\n2026版初中《万唯》高频考点真题分类（生物） (291.65M)\nhttps://t.co/vvTuR9eAFu https://t.co/1YeSVqT062"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+        "id": "1563508655256850433",
+        "is_identity_verified": false,
+        "location": "ㅤ无何有",
+        "most_recent_tweet_id": "2104547896750416086",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563508655256850433/1774989176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103397419471998976/ZvqEtJ7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 4935,
+          "like_count": 183513,
+          "listed_count": 4,
+          "media_count": 1803,
+          "tweet_count": 7568
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T22:47:28.000Z",
+        "description": "不用太了解我，容易陷进去。",
+        "id": "2078612373951188992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104380623330988034",
+        "name": "叶蜜蜜",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078612373951188992/1789923512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101717646249209856/V1wn0Bvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 85,
+          "like_count": 67,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "4u0bjdwncxpykus",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-29T19:56:01.000Z",
+        "description": "-05 大二在读 CS ｜长期主义\n-AI ×内容 × 视觉审美&美业（不包含医美）\n边做边学，接入真实世界",
+        "id": "2016963440187940864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104458059674481120",
+        "name": "长卿寒",
+        "pinned_tweet_id": "2090038178854175194",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016963440187940864/1784926435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093764944026288128/K6O0nTMq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 511,
+          "like_count": 4106,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1931
+        },
+        "url": "",
+        "username": "changqinghanbot",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

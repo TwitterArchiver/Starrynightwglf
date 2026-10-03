@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2101905105037738336",
+    "created_at": "2026-09-21T05:23:23.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T06:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101905105037738336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1448412363770630147",
+          "start": 3,
+          "username": "Idawmnz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101905105037738336",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1765
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101816716397560186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Idawmnz: Been talking to a girl I met at my college recently and mentioned how I was going to an airshow next month\n\nAnywho she sent me…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 49700,
+        "height": 718,
+        "media_key": "13_2101816688023052288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101816688023052288/img/uNOUApFQ_9FTdZej.jpg",
+        "public_metrics": {
+          "view_count": 200350
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101816688023052288/vid/avc1/478x270/3Gi8DrCPV8ctQw7C.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101816688023052288/vid/avc1/638x360/hoTmxIpDZHxZf7AI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101816688023052288/vid/avc1/1276x718/kmcDZ1GQdwXTY2Ws.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101816688023052288/pl/HgecJach6ftXNJHr.m3u8?v=bbd"
+          }
+        ],
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2101905105037738336",
+        "created_at": "2026-09-21T05:23:23.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T06:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101905105037738336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448412363770630147",
+              "start": 3,
+              "username": "Idawmnz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101905105037738336",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1765
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101816716397560186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Idawmnz: Been talking to a girl I met at my college recently and mentioned how I was going to an airshow next month\n\nAnywho she sent me…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101816688023052288"
+          ]
+        },
+        "author_id": "1448412363770630147",
+        "conversation_id": "2101816716397560186",
+        "created_at": "2026-09-20T23:32:09.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T00:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101816716397560186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6FQXSEFOJc",
+              "end": 155,
+              "expanded_url": "https://x.com/Idawmnz/status/2101816716397560186/video/1",
+              "media_key": "13_2101816688023052288",
+              "start": 132,
+              "url": "https://t.co/6FQXSEFOJc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101816716397560186",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2101816688023052288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4358,
+          "impression_count": 340926,
+          "like_count": 21275,
+          "quote_count": 101,
+          "reply_count": 169,
+          "retweet_count": 1765
+        },
+        "reply_settings": "everyone",
+        "text": "Been talking to a girl I met at my college recently and mentioned how I was going to an airshow next month\n\nAnywho she sent me this https://t.co/6FQXSEFOJc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "is_identity_verified": false,
+        "location": "ㅤ无何有",
+        "most_recent_tweet_id": "2101905105037738336",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563508655256850433/1774989176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2153,
+          "following_count": 4901,
+          "like_count": 181543,
+          "listed_count": 5,
+          "media_count": 1801,
+          "tweet_count": 7547
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-13T22:19:20.000Z",
+        "description": "Jet artist and shitposter. I'm a guy btw if you're into that and run @Iloveggplens \nPfp by @fakefacers\nI really love flankers\nAI🚫\nsub to my patreon idk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "Iloveggplens"
+              },
+              {
+                "end": 102,
+                "start": 91,
+                "username": "fakefacers"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Dawmnz",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Dawmnz",
+                "start": 0,
+                "url": "https://t.co/0cNWYYL0qy"
+              }
+            ]
+          }
+        },
+        "id": "1448412363770630147",
+        "is_identity_verified": false,
+        "location": "Tokoyo-3 wait what the fuck",
+        "most_recent_tweet_id": "2101901292872614299",
+        "name": "Dawmnz | comms open",
+        "pinned_tweet_id": "1941576848137388100",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1448412363770630147/1769698015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972310799793397760/Fu8LS0aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5806,
+          "following_count": 750,
+          "like_count": 198511,
+          "listed_count": 18,
+          "media_count": 4861,
+          "tweet_count": 29975
+        },
+        "url": "https://t.co/0cNWYYL0qy",
+        "username": "Idawmnz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

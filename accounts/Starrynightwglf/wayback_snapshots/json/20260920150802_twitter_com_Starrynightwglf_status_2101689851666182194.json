@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2101689851666182194",
+    "created_at": "2026-09-20T15:08:02.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T16:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101689851666182194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1631486382551207936",
+          "start": 3,
+          "username": "HoYoFair_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101689851666182194",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 188
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101661403883135203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HoYoFair_0: \"Attention, Traveler. The Nord Express is now pulling into our destination.\"\n\"The special operation 'Project: Nord Express'…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4702433,
+        "height": 1080,
+        "media_key": "13_2101611340507103232",
+        "preview_image_url": "https://pbs.twimg.com/media/HSqaeGjaYAAE7cx.jpg",
+        "public_metrics": {
+          "view_count": 10597
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101611340507103232/pl/a_Qhl27Djemi04RH.m3u8?v=4f9"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101611340507103232/vid/avc1/1920x1080/Zc2EA56NNxldkmTj.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101611340507103232/vid/avc1/640x360/jKkPsBF9bzrRr-m0.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101611340507103232/vid/avc1/480x270/vRd0aZVDe5JU8tMC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101611340507103232/vid/avc1/1280x720/CU8GBO5RSpzwuEs3.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2101689851666182194",
+        "created_at": "2026-09-20T15:08:02.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T16:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101689851666182194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1631486382551207936",
+              "start": 3,
+              "username": "HoYoFair_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101689851666182194",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 188
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101661403883135203",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HoYoFair_0: \"Attention, Traveler. The Nord Express is now pulling into our destination.\"\n\"The special operation 'Project: Nord Express'…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101611340507103232"
+          ]
+        },
+        "author_id": "1631486382551207936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101661403883135203",
+        "created_at": "2026-09-20T13:15:00.000Z",
+        "display_text_range": [
+          0,
+          278
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T14:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101661403883135203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AgxJXArAIS",
+              "end": 302,
+              "expanded_url": "https://x.com/HoYoFair_0/status/2101661403883135203/video/1",
+              "media_key": "13_2101611340507103232",
+              "start": 279,
+              "url": "https://t.co/AgxJXArAIS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101661403883135203",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2101611340507103232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 563,
+                "start": 554,
+                "tag": "HoYoFair"
+              },
+              {
+                "end": 578,
+                "start": 564,
+                "tag": "GenshinImpact"
+              },
+              {
+                "end": 598,
+                "start": 579,
+                "tag": "ProjectNordExpress"
+              }
+            ]
+          },
+          "text": "\"Attention, Traveler. The Nord Express is now pulling into our destination.\"\n\"The special operation 'Project: Nord Express' was a complete success!\"\n\"The 'Top-Secret Cargo' is now officially unsealed — a special blessing for every Traveler. Have a wonderful journey!\"\n\nThanks to all Travelers for seeing us safely through the entire journey! The HoYoFair 2026 \"Project: Nord Express\" Genshin Impact Fan Art Special Program is now live!\n\nOur gratitude goes out to all the creators worldwide. Let's enjoy this celebration together~ Happy 6th Anniversary!\n\n#HoYoFair\n#GenshinImpact\n#ProjectNordExpress"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 42937,
+          "like_count": 839,
+          "quote_count": 16,
+          "reply_count": 4,
+          "retweet_count": 188
+        },
+        "reply_settings": "everyone",
+        "text": "\"Attention, Traveler. The Nord Express is now pulling into our destination.\"\n\"The special operation 'Project: Nord Express' was a complete success!\"\n\"The 'Top-Secret Cargo' is now officially unsealed — a special blessing for every Traveler. Have a wonderful journey!\"\n\nThanks to https://t.co/AgxJXArAIS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "is_identity_verified": false,
+        "location": "ㅤ无何有",
+        "most_recent_tweet_id": "2101689851666182194",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563508655256850433/1774989176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2154,
+          "following_count": 4883,
+          "like_count": 181351,
+          "listed_count": 5,
+          "media_count": 1801,
+          "tweet_count": 7548
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-03T02:50:21.000Z",
+        "description": "Genshin Impact HoYoFair2026 \"Project: Nord Express\" full video!\nhttps://t.co/un9lWEoCdG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtu.be/GVIuXjGY8bs",
+                "end": 87,
+                "expanded_url": "https://youtu.be/GVIuXjGY8bs",
+                "start": 64,
+                "url": "https://t.co/un9lWEoCdG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/GVIuXjGY8bs",
+                "end": 23,
+                "expanded_url": "https://youtu.be/GVIuXjGY8bs",
+                "start": 0,
+                "url": "https://t.co/un9lWEoCdG"
+              }
+            ]
+          }
+        },
+        "id": "1631486382551207936",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2101661404118040908",
+        "name": "HoYoFair",
+        "pinned_tweet_id": "2101661403883135203",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1631486382551207936/1788492260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808671370764767233/2imlblIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364137,
+          "following_count": 82,
+          "like_count": 523,
+          "listed_count": 508,
+          "media_count": 939,
+          "tweet_count": 1920
+        },
+        "url": "https://t.co/un9lWEoCdG",
+        "username": "HoYoFair_0",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

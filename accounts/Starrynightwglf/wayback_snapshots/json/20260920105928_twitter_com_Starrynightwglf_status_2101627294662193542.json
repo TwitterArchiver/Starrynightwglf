@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2101499084700008929",
+    "created_at": "2026-09-20T10:59:28.000Z",
+    "display_text_range": [
+      16,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T11:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101627294662193542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101627294662193542",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101499084700008929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 天闹地麻，绷住怎么会是惩罚"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 329200,
+        "height": 752,
+        "media_key": "13_2101477444930977792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101477444930977792/img/IKUJQ5hX-bD9kScQ.jpg",
+        "public_metrics": {
+          "view_count": 51648
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101477444930977792/vid/avc1/304x270/LTS8i0JbFvC0VDn_.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101477444930977792/vid/avc1/404x360/tlw86bGDqcQFSx2C.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101477444930977792/vid/avc1/848x752/tqZQlhbiRvVslEN_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101477444930977792/pl/-wEZYL5RJ4qXBs1r.m3u8?v=f67"
+          }
+        ],
+        "width": 848
+      },
+      {
+        "height": 966,
+        "media_key": "3_2101477626414297088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSnyxGHa8AAtMwO.jpg",
+        "width": 1105
+      },
+      {
+        "height": 961,
+        "media_key": "3_2101477671364673536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSnyztkbQAASMWt.jpg",
+        "width": 1095
+      },
+      {
+        "height": 982,
+        "media_key": "3_2101477702247276544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSny1gnaYAAvMB6.jpg",
+        "width": 1090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2101499084700008929",
+        "created_at": "2026-09-20T10:59:28.000Z",
+        "display_text_range": [
+          16,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T11:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101627294662193542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101627294662193542",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101499084700008929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 天闹地麻，绷住怎么会是惩罚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101477444930977792",
+            "3_2101477626414297088",
+            "3_2101477671364673536",
+            "3_2101477702247276544"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2101499084700008929",
+        "created_at": "2026-09-20T02:30:00.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T03:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101499084700008929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RtyoEEXtFo",
+              "end": 167,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2101499084700008929/video/1",
+              "media_key": "13_2101477444930977792",
+              "start": 144,
+              "url": "https://t.co/RtyoEEXtFo"
+            },
+            {
+              "display_url": "pic.x.com/RtyoEEXtFo",
+              "end": 167,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2101499084700008929/video/1",
+              "media_key": "3_2101477626414297088",
+              "start": 144,
+              "url": "https://t.co/RtyoEEXtFo"
+            },
+            {
+              "display_url": "pic.x.com/RtyoEEXtFo",
+              "end": 167,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2101499084700008929/video/1",
+              "media_key": "3_2101477671364673536",
+              "start": 144,
+              "url": "https://t.co/RtyoEEXtFo"
+            },
+            {
+              "display_url": "pic.x.com/RtyoEEXtFo",
+              "end": 167,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2101499084700008929/video/1",
+              "media_key": "3_2101477702247276544",
+              "start": 144,
+              "url": "https://t.co/RtyoEEXtFo"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2062746235971514714",
+              "start": 168,
+              "url": "https://t.co/NZLWjdIzpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101499084700008929",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2101477444930977792"
+          },
+          {
+            "media_key": "3_2101477626414297088"
+          },
+          {
+            "media_key": "3_2101477671364673536"
+          },
+          {
+            "media_key": "3_2101477702247276544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "小学服从性展示\n\n9月19日，海南万宁市万城小学学生向“领导老师”集体展示标准划一的“课堂常规五项”；该视频在网络引发热议。\n弹幕及评论区遭到大量网友调侃：\n“已破绷”\n“绷不住了”\n“吓哭了”\n“咋绷住的”\n“何意味”\n“我已经绷不住了”\n“怎么做到如此统一的”\n“你若三冬来\\🫪/”\n“居然全绷住了这个班挺有实力的”\n“想赢的人脸上是没有笑容的”\n“这个课堂展示的评判标准是什么”\n“服从性”\n“批量生产机器人”。\n\n该视频目前已被下架"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 260,
+          "impression_count": 137390,
+          "like_count": 708,
+          "quote_count": 11,
+          "reply_count": 125,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062746235971514714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小学服从性展示\n\n9月19日，海南万宁市万城小学学生向“领导老师”集体展示标准划一的“课堂常规五项”；该视频在网络引发热议。\n弹幕及评论区遭到大量网友调侃：\n“已破绷”\n“绷不住了”\n“吓哭了”\n“咋绷住的”\n“何意味”\n“我已经绷不住了”\n“怎么做到如此统一的”\n“你若三冬来\\🫪/” https://t.co/RtyoEEXtFo https://t.co/NZLWjdIzpq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "is_identity_verified": false,
+        "location": "ㅤ无何有",
+        "most_recent_tweet_id": "2101627294662193542",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563508655256850433/1774989176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 4879,
+          "like_count": 181333,
+          "listed_count": 5,
+          "media_count": 1801,
+          "tweet_count": 7547
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2101622396427915657",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2262973,
+          "following_count": 1084,
+          "like_count": 10515,
+          "listed_count": 8899,
+          "media_count": 54008,
+          "tweet_count": 61347
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

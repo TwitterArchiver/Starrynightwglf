@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "1846848111139815846",
+    "created_at": "2024-10-17T10:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-17T11:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1846854519994700032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1680195212919050246",
+          "start": 0,
+          "username": "msmaoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1846854519994700032",
+    "in_reply_to_user_id": "1680195212919050246",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1846848111139815846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@msmaoi 四级捏？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "1846848111139815846",
+        "created_at": "2024-10-17T10:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-17T11:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1846854519994700032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1680195212919050246",
+              "start": 0,
+              "username": "msmaoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1846854519994700032",
+        "in_reply_to_user_id": "1680195212919050246",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846848111139815846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@msmaoi 四级捏？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1846848102126571523"
+          ]
+        },
+        "author_id": "1680195212919050246",
+        "conversation_id": "1846848111139815846",
+        "created_at": "2024-10-17T09:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-17T10:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1846848111139815846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NZ6BRTKjpQ",
+              "end": 132,
+              "expanded_url": "https://x.com/msmaoi/status/1846848111139815846/photo/1",
+              "media_key": "16_1846848102126571523",
+              "start": 109,
+              "url": "https://t.co/NZ6BRTKjpQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1846848111139815846",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以有人还愿意来跟我学英语或者日语的吗？\n我想多收几个人来开一个小班课来着，这样可能会更好的管理\n英语的话，除托福以外其他几乎所有类型的考试我都可以帮忙\n日语的主要方向是能力考和高考\n有信息的话可以直接点私信跟我聊哦 https://t.co/NZ6BRTKjpQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "06┃大一ing┃🏳️‍⚧🍥无证😭┃infp🥺┃坐标郑州┃中推小透明，一般不发推，点赞是手干的，不是我干的┃\n（早期混沌刷推，fo的乱七八糟直接上千，还被老马莫名其妙开了私密解不了说不了话，所以主页只有无尽的转推...）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awawawawawawa.net",
+                "end": 23,
+                "expanded_url": "http://awawawawawawa.net",
+                "start": 0,
+                "url": "https://t.co/Q4WoIflVHh"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "无何有",
+        "name": "Starrynight風阁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840001644190412801/y2jbIt1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 2512,
+          "like_count": 13248,
+          "listed_count": 0,
+          "tweet_count": 804
+        },
+        "url": "https://t.co/Q4WoIflVHh",
+        "username": "Starrynightwglf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T12:39:02.000Z",
+        "description": "是教师不是男娘 / INFP / 本体是猫猫 / #舞萌DX #arcaea / 可接英语和日语私教 / 外语和方言爱好者 / #やがて君になる / #神椿 推し / 单身自由主义 / #Apple / 终将成为你 / sub: @msmaoi_sub / FR DE 学习中 / 爱发电小店铺 👇/ 公众号在精选里",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 25,
+                "tag": "舞萌DX"
+              },
+              {
+                "end": 38,
+                "start": 31,
+                "tag": "arcaea"
+              },
+              {
+                "end": 72,
+                "start": 64,
+                "tag": "やがて君になる"
+              },
+              {
+                "end": 78,
+                "start": 75,
+                "tag": "神椿"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "Apple"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "msmaoi_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/misumiaoi",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/misumiaoi",
+                "start": 0,
+                "url": "https://t.co/KsYpPqtDNc"
+              }
+            ]
+          }
+        },
+        "id": "1680195212919050246",
+        "location": "杭州地铁",
+        "name": "三澄 葵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823951353682837504/ce57dGiw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1699,
+          "following_count": 782,
+          "like_count": 29317,
+          "listed_count": 9,
+          "tweet_count": 4327
+        },
+        "url": "https://t.co/KsYpPqtDNc",
+        "username": "msmaoi",
+        "verified": true
+      }
+    ]
+  }
+}

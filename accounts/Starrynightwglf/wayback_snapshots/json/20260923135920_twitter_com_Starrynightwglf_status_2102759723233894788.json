@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2102420293272916381",
+    "created_at": "2026-09-23T13:59:20.000Z",
+    "display_text_range": [
+      8,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T14:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102759723233894788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2083897475715551232",
+          "start": 0,
+          "username": "c8bd0q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102759723233894788",
+    "in_reply_to_user_id": "2083897475715551232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102420293272916381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c8bd0q 没有那种东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2102420293272916381",
+        "created_at": "2026-09-23T13:59:20.000Z",
+        "display_text_range": [
+          8,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T14:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102759723233894788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2083897475715551232",
+              "start": 0,
+              "username": "c8bd0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102759723233894788",
+        "in_reply_to_user_id": "2083897475715551232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102420293272916381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c8bd0q 没有那种东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083897475715551232",
+        "conversation_id": "2102420293272916381",
+        "created_at": "2026-09-22T15:30:33.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T16:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102420293272916381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102420293272916381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 168511,
+          "like_count": 1562,
+          "quote_count": 10,
+          "reply_count": 206,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "来个不独裁，不大屠杀，没大规模集体饿死人的共产主义"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "is_identity_verified": false,
+        "location": "ㅤ无何有",
+        "most_recent_tweet_id": "2102759723233894788",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563508655256850433/1774989176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2154,
+          "following_count": 4915,
+          "like_count": 182163,
+          "listed_count": 5,
+          "media_count": 1801,
+          "tweet_count": 7554
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T12:51:07.000Z",
+        "description": "加速主义，每日发表支言支语",
+        "id": "2083897475715551232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102741935941406745",
+        "name": "维尼小熊爱od 8964",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083897475715551232/1786024325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083898877867065344/SksaDgLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 59,
+          "like_count": 389,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 1807
+        },
+        "url": "",
+        "username": "c8bd0q",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,616 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899346412994570",
+          "name": "Open world games"
+        }
+      }
+    ],
+    "conversation_id": "2099054482499997977",
+    "created_at": "2026-09-13T08:36:01.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T09:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099054482499997977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1429638985891016710",
+          "start": 3,
+          "username": "ASU_virtual"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099054482499997977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1012
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098728330241687843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ASU_virtual: ╭━━━━━━━━━╮\n       🧡 𝗕𝗜𝗚 𝗡𝗘𝗪𝗦! 🩷\n╰━━━━ｖ━━━━╯\n\nビッグニュースです！\nオープンワールドRPG『原神』さんのサンドローネ×コロンビーナのイメージソング「1314」を、\n琶舞ちゃんと一緒に歌唱しました！！…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2098697660257751040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSASZxKbUAAlZ_q.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2098697704570535936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAScWPawAAhIDN.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2098697741300027392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSASefEaUAASDYn.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899346412994570",
+              "name": "Open world games"
+            }
+          }
+        ],
+        "conversation_id": "2099054482499997977",
+        "created_at": "2026-09-13T08:36:01.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T09:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099054482499997977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1429638985891016710",
+              "start": 3,
+              "username": "ASU_virtual"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099054482499997977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1012
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098728330241687843",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ASU_virtual: ╭━━━━━━━━━╮\n       🧡 𝗕𝗜𝗚 𝗡𝗘𝗪𝗦! 🩷\n╰━━━━ｖ━━━━╯\n\nビッグニュースです！\nオープンワールドRPG『原神』さんのサンドローネ×コロンビーナのイメージソング「1314」を、\n琶舞ちゃんと一緒に歌唱しました！！…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098697660257751040",
+            "3_2098697704570535936",
+            "3_2098697741300027392"
+          ]
+        },
+        "author_id": "1429638985891016710",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899346412994570",
+              "name": "Open world games"
+            }
+          }
+        ],
+        "conversation_id": "2098728330241687843",
+        "created_at": "2026-09-12T11:00:01.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098728330241687843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c0TtaTsHbW",
+              "end": 171,
+              "expanded_url": "https://x.com/ASU_virtual/status/2098728330241687843/photo/1",
+              "media_key": "3_2098697660257751040",
+              "start": 148,
+              "url": "https://t.co/c0TtaTsHbW"
+            },
+            {
+              "display_url": "pic.x.com/c0TtaTsHbW",
+              "end": 171,
+              "expanded_url": "https://x.com/ASU_virtual/status/2098728330241687843/photo/1",
+              "media_key": "3_2098697704570535936",
+              "start": 148,
+              "url": "https://t.co/c0TtaTsHbW"
+            },
+            {
+              "display_url": "pic.x.com/c0TtaTsHbW",
+              "end": 171,
+              "expanded_url": "https://x.com/ASU_virtual/status/2098728330241687843/photo/1",
+              "media_key": "3_2098697741300027392",
+              "start": 148,
+              "url": "https://t.co/c0TtaTsHbW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098728330241687843",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098697660257751040"
+          },
+          {
+            "media_key": "3_2098697704570535936"
+          },
+          {
+            "media_key": "3_2098697741300027392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 335,
+                "start": 326,
+                "tag": "HoYoFair"
+              },
+              {
+                "end": 343,
+                "start": 336,
+                "tag": "サンドローネ"
+              },
+              {
+                "end": 347,
+                "start": 344,
+                "tag": "原神"
+              },
+              {
+                "end": 351,
+                "start": 348,
+                "tag": "PR"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 235,
+                "id": "1631486382551207936",
+                "start": 224,
+                "username": "HoYoFair_0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/ucb7ve…",
+                "end": 262,
+                "expanded_url": "https://www.youtube.com/channel/ucb7ve-ncnlh41f4sypftcxa",
+                "start": 239,
+                "url": "https://t.co/Aa9GRzos0Y"
+              }
+            ]
+          },
+          "text": "╭━━━━━━━━━╮\n       🧡 𝗕𝗜𝗚 𝗡𝗘𝗪𝗦! 🩷\n╰━━━━ｖ━━━━╯\n\nビッグニュースです！\nオープンワールドRPG『原神』さんのサンドローネ×コロンビーナのイメージソング「1314」を、\n琶舞ちゃんと一緒に歌唱しました！！✨\n\n私はサンドローネちゃんのパートを歌いました🎤\nそして、なんと!!!!\n今回この曲のMVが9/20に放送予定の\nHoYoFairさんの番組にて紹介される予定です！\n\n▼HoYoFair 2026 ( @HoYoFair_0  )\nhttps://t.co/Aa9GRzos0Y\n配信日程：2026年9月20日（日）21:00（JST）\n\nどんなMVになってるんだろう..！！\n是非楽しみにしててね〜！\n\n#HoYoFair\n#サンドローネ\n#原神\n#PR"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 397,
+          "impression_count": 102954,
+          "like_count": 4184,
+          "quote_count": 104,
+          "reply_count": 56,
+          "retweet_count": 1012
+        },
+        "reply_settings": "everyone",
+        "text": "╭━━━━━━━━━╮\n       🧡 𝗕𝗜𝗚 𝗡𝗘𝗪𝗦! 🩷\n╰━━━━ｖ━━━━╯\n\nビッグニュースです！\nオープンワールドRPG『原神』さんのサンドローネ×コロンビーナのイメージソング「1314」を、\n琶舞ちゃんと一緒に歌唱しました！！✨\n\n私はサンドローネちゃんのパートを歌いました🎤 https://t.co/c0TtaTsHbW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "is_identity_verified": false,
+        "location": "ㅤ无何有",
+        "most_recent_tweet_id": "2099054482499997977",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563508655256850433/1774989176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161,
+          "following_count": 4831,
+          "like_count": 180286,
+          "listed_count": 5,
+          "media_count": 1800,
+          "tweet_count": 7536
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1678705629240909825/plbFmgKc_bigger.jpg",
+          "description": "KAMITSUBAKI STUDIO",
+          "url": "https://twitter.com/kamitsubaki_jp",
+          "user_id": [
+            "1184692378197622785"
+          ]
+        },
+        "created_at": "2021-08-23T02:58:34.000Z",
+        "description": "明透(あす)です、歌を歌っています。よろしくっ　デザインは 米山舞(@yoneyamai)さん！ | 💫 #あすナー | ✂️ #あすカット | 🎨 #明透あーと https://t.co/njnPFUrB4M",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 53,
+                "tag": "あすナー"
+              },
+              {
+                "end": 70,
+                "start": 64,
+                "tag": "あすカット"
+              },
+              {
+                "end": 81,
+                "start": 75,
+                "tag": "明透あーと"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "yoneyamai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "asu.lnk.to/artist",
+                "end": 105,
+                "expanded_url": "https://asu.lnk.to/artist",
+                "start": 82,
+                "url": "https://t.co/njnPFUrB4M"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCBLGj…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCBLGjbYv6-xxju1i44RjnnA?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/ajGVBxo69p"
+              }
+            ]
+          }
+        },
+        "id": "1429638985891016710",
+        "is_identity_verified": false,
+        "location": "KAMITSUBAKI STUDIO",
+        "most_recent_tweet_id": "2098974817382973747",
+        "name": "明透 -ᴀsᴜ-",
+        "pinned_tweet_id": "2096901291725258868",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429638985891016710/1759899254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975786784278913063/zknLVl2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89224,
+          "following_count": 121,
+          "like_count": 15834,
+          "listed_count": 669,
+          "media_count": 1442,
+          "tweet_count": 8391
+        },
+        "url": "https://t.co/ajGVBxo69p",
+        "username": "ASU_virtual",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

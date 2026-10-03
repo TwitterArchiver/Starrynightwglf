@@ -1,0 +1,504 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104513722391912448"
+      ],
+      "media_source_tweet_id": [
+        "2104513728440078374"
+      ]
+    },
+    "author_id": "1563508655256850433",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2104768002755575955",
+    "created_at": "2026-09-29T02:59:31.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T03:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104768002755575955"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "原神"
+        },
+        {
+          "end": 27,
+          "start": 20,
+          "tag": "サンドビーナ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1223269378617040897",
+          "start": 3,
+          "username": "_luna610"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GwexbpMZTG",
+          "end": 51,
+          "expanded_url": "https://x.com/_luna610/status/2104513728440078374/photo/1",
+          "media_key": "3_2104513722391912448",
+          "start": 28,
+          "url": "https://t.co/GwexbpMZTG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104768002755575955",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2104513722391912448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 303
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104513728440078374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_luna610: 💤\n#原神 #サンドビーナ https://t.co/GwexbpMZTG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 997,
+        "media_key": "3_2104513722391912448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTS8FJAa4AAE1sE.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104513722391912448"
+          ],
+          "media_source_tweet_id": [
+            "2104513728440078374"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2104768002755575955",
+        "created_at": "2026-09-29T02:59:31.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T03:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104768002755575955"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "原神"
+            },
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "サンドビーナ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1223269378617040897",
+              "start": 3,
+              "username": "_luna610"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwexbpMZTG",
+              "end": 51,
+              "expanded_url": "https://x.com/_luna610/status/2104513728440078374/photo/1",
+              "media_key": "3_2104513722391912448",
+              "start": 28,
+              "url": "https://t.co/GwexbpMZTG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104768002755575955",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2104513722391912448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 303
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104513728440078374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_luna610: 💤\n#原神 #サンドビーナ https://t.co/GwexbpMZTG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104513722391912448"
+          ]
+        },
+        "author_id": "1223269378617040897",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2104513728440078374",
+        "created_at": "2026-09-28T10:09:07.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104513728440078374"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 2,
+              "tag": "原神"
+            },
+            {
+              "end": 13,
+              "start": 6,
+              "tag": "サンドビーナ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwexbpMZTG",
+              "end": 37,
+              "expanded_url": "https://x.com/_luna610/status/2104513728440078374/photo/1",
+              "media_key": "3_2104513722391912448",
+              "start": 14,
+              "url": "https://t.co/GwexbpMZTG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104513728440078374",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2104513722391912448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 281,
+          "impression_count": 18273,
+          "like_count": 2999,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 303
+        },
+        "reply_settings": "everyone",
+        "text": "💤\n#原神 #サンドビーナ https://t.co/GwexbpMZTG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+        "id": "1563508655256850433",
+        "is_identity_verified": false,
+        "location": "ㅤ无何有",
+        "most_recent_tweet_id": "2104768002755575955",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563508655256850433/1774989176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103397419471998976/ZvqEtJ7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2145,
+          "following_count": 4941,
+          "like_count": 183649,
+          "listed_count": 4,
+          "media_count": 1803,
+          "tweet_count": 7569
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-31T15:38:51.000Z",
+        "description": "ルナです。No AI training allowed. お仕事：karta10805@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "luna610.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://luna610.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/WUT4XBWttn"
+              }
+            ]
+          }
+        },
+        "id": "1223269378617040897",
+        "is_identity_verified": false,
+        "location": "無断転載、Ai学習禁止",
+        "most_recent_tweet_id": "2104513728440078374",
+        "name": "luna",
+        "pinned_tweet_id": "1797958692761207096",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223269378617040897/1789485474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099880346393448449/4V0Gm7-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51663,
+          "following_count": 625,
+          "like_count": 6288,
+          "listed_count": 375,
+          "media_count": 301,
+          "tweet_count": 1195
+        },
+        "url": "https://t.co/WUT4XBWttn",
+        "username": "_luna610",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

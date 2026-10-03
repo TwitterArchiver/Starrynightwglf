@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1563508655256850433",
+    "conversation_id": "2100827952506454414",
+    "created_at": "2026-09-18T07:35:42.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T08:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100851239567417503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2061397204934479872",
+          "start": 0,
+          "username": "DimAgentai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100851239567417503",
+    "in_reply_to_user_id": "2061397204934479872",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100827952506454414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DimAgentai 4.1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5000,
+        "height": 942,
+        "media_key": "13_2100822623454482432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100822623454482432/img/a5gx8vvIDP8XIR08.jpg",
+        "public_metrics": {
+          "view_count": 1195
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100822623454482432/vid/avc1/1672x942/5D_Y6MBMo8XB44Dv.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100822623454482432/vid/avc1/478x270/lsd9IHL69_pCGV-t.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100822623454482432/pl/zsAEuqpwFZWWHZZi.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100822623454482432/vid/avc1/638x360/AakneC-Eg8fOGbzx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100822623454482432/vid/avc1/1276x720/xXM6NqkstXdXXf5W.mp4"
+          }
+        ],
+        "width": 1672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563508655256850433",
+        "conversation_id": "2100827952506454414",
+        "created_at": "2026-09-18T07:35:42.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100851239567417503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2061397204934479872",
+              "start": 0,
+              "username": "DimAgentai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100851239567417503",
+        "in_reply_to_user_id": "2061397204934479872",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100827952506454414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DimAgentai 4.1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100822623454482432"
+          ]
+        },
+        "author_id": "2061397204934479872",
+        "conversation_id": "2100827952506454414",
+        "created_at": "2026-09-18T06:03:10.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:01:27.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100827523701776492",
+          "2100827952506454414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rowm0bhm3L",
+              "end": 166,
+              "expanded_url": "https://x.com/DimAgentai/status/2100827952506454414/video/1",
+              "media_key": "13_2100822623454482432",
+              "start": 143,
+              "url": "https://t.co/Rowm0bhm3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100827952506454414",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2100822623454482432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3012,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，经过这段时间的努力，我们终于把 DeepSeek 4.1 Flash 价格打下来了！\n\n即刻起，Dim 所有公测订阅套餐 DeepSeek 4.1 Flash 开始改为官方定价 6.5 折(包括闲时和忙时)，祝大家 Vibe 快乐！\n\n评论区评论「4.1 」加入 Dim 公测 https://t.co/Rowm0bhm3L"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "is_identity_verified": false,
+        "location": "ㅤ无何有",
+        "most_recent_tweet_id": "2100851239567417503",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563508655256850433/1774989176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2148,
+          "following_count": 4846,
+          "like_count": 180828,
+          "listed_count": 5,
+          "media_count": 1801,
+          "tweet_count": 7544
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-01T10:40:00.000Z",
+        "description": "One goal. A team of AI agents.\nDimAgent brings multiple models together to plan, execute, and check — turning real tasks into ready-to-use results.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dimagent.cn",
+                "end": 23,
+                "expanded_url": "https://dimagent.cn/",
+                "start": 0,
+                "url": "https://t.co/ryx5YMFWrT"
+              }
+            ]
+          }
+        },
+        "id": "2061397204934479872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100833490845708414",
+        "name": "DimAgent",
+        "pinned_tweet_id": "2064536411097977141",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061397204934479872/1786429187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061398731568865281/6A-WGyYK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 46,
+          "like_count": 400,
+          "listed_count": 4,
+          "media_count": 102,
+          "tweet_count": 245
+        },
+        "url": "https://t.co/ryx5YMFWrT",
+        "username": "DimAgentai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
